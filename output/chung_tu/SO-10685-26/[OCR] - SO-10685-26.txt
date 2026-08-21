@@ -1,0 +1,282 @@
+=== KẾT QUẢ OCR: SO-10685-26.pdf ===
+Danh mục: chung_tu
+
+[001 - 100.0%] 1
+[002 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[003 - 100.0%] ĐÃ DUYỆT
+[004 - 100.0%] CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ
+[005 - 100.0%] Tầng 2, Tòa nhà Betania, số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh,
+[006 - 100.0%] Thành phố Hồ Chí Minh, Vietnam
+[007 - 100.0%] Tel: 02873004009 | Email: hello@mmgroup.vn
+[008 - 100.0%] Mã Số Thuế: 0313496629
+[009 - 100.0%] ĐƠN ĐẶT HÀNG KIÊM HỢP ĐỒNG
+[010 - 100.0%] Bên sử dụng dịch vụ (Bên A):
+[011 - 100.0%] CÔNG TY TNHH VERIG LENDING
+[012 - 100.0%] Mã số thuế: 0109454139
+[013 - 100.0%] Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,
+[014 - 100.0%] Việt Nam
+[015 - 100.0%] Email: account@verig.vn,
+[016 - 100.0%] support@verig.vn
+[017 - 100.0%] Điện thoại: 0336360495
+[018 - 100.0%] STT Tên hàng hóa và dịch vụ & Mô tả Số lượng Đơn giá Thành tiền
+[019 - 100.0%] 1 Dịch vụ điện toán đám mây Google  Workspace  Business
+[020 - 100.0%] Starter  - 12 Tháng
+[021 - 100.0%] 2
+[022 - 100.0%] Giấy phép
+[023 - 100.0%] 2.681.000 5.362.000
+[024 - 100.0%] Tên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM
+[025 - 100.0%] TECHNOLOGY CO., LTD
+[026 - 100.0%] Số tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)
+[027 - 100.0%] Chi nhánh: Gia Định
+[028 - 100.0%] Hoặc có thể quét mã QR để thanh toán
+[029 - 100.0%] Điều Khoản  & Điều Kiện
+[030 - 100.0%] Điều khoản và điều kiện chi tiết được nêu trong: ĐIỀU KHOẢN DỊCH VỤ kèm theo.
+[031 - 100.0%] Bằng việc thanh toán hoặc xác nhận đồng ý đơn hàng, bên mua xác nhận đồng ý: ĐIỀU KHOẢN DỊCH VỤ kèm theo.
+[032 - 100.0%] TP. Hồ Chí Minh, Ngày 3 Tháng 8 Năm 2026
+[033 - 100.0%] ĐẠI DIỆN BÊN A
+[034 - 100.0%] GIÁM ĐỐC
+[035 - 100.0%] ĐẠI DIỆN BÊN B
+[036 - 100.0%] TỔNG GIÁM ĐỐC
+[037 - 100.0%] TRỊNH THỊ PHƯƠNG THÚY NGUYỄN THỊ THU HIỀN
+[038 - 100.0%] Mã đơn hàng: SO-10685-26
+[039 - 100.0%] Ngày đặt hàng: 03/08/2026
+[040 - 100.0%] Loại hợp đồng: Gia hạn
+[041 - 100.0%] Nhân viên bán hàng: Nguyễn Đức Nguyên
+[042 - 100.0%] (NV010)
+[043 - 100.0%] Tổng 5.362.000
+[044 - 100.0%] Thuế VAT (10%) 536.200
+[045 - 100.0%] Tổng số tiền phải thanh
+[046 - 100.0%] toán
+[047 - 100.0%] 5.898.200VND
+[048 - 100.0%] Bằng chữ: Năm triệu tám trăm chín mươi tám nghìn
+[049 - 100.0%] hai trăm đồng
+[050 - 100.0%] 2
+[051 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[052 - 100.0%] ĐÃ DUYỆT
+[053 - 100.0%] ĐIỀU KHOẢN DỊCH VỤ
+[054 - 100.0%] - Căn cứ Luật Công nghệ thông tin;
+[055 - 100.0%] - Căn cứ Luật Giao dịch điện tử;
+[056 - 100.0%] - Căn cứ Luật Thương mại;
+[057 - 100.0%] - Căn cứ Bộ luật Dân sự;
+[058 - 100.0%] - Căn cứ các quy định pháp luật hiện hành;
+[059 - 100.0%] - Căn cứ vào nhu cầu và khả năng của hai bên.
+[060 - 100.0%] Chúng tôi gồm:
+[061 - 100.0%] Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING
+[062 - 100.0%] Người đại diện: (Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY
+[063 - 100.0%] Chức vụ: GIÁM ĐỐC
+[064 - 100.0%] Địa chỉ giao dịch: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam
+[065 - 100.0%] Điện thoại: 0336360495
+[066 - 100.0%] Email: account@verig.vn, support@verig.vn
+[067 - 100.0%] Email dự phòng: tung.nv0621@gmail.com
+[068 - 100.0%] Mã số thuế: 0109454139
+[069 - 100.0%] Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ
+[070 - 100.0%] Người đại diện: (Bà) NGUYỄN THỊ THU HIỀN
+[071 - 100.0%] Chức vụ: Tổng Giám Đốc
+[072 - 100.0%] Địa chỉ: Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh
+[073 - 100.0%] Điện thoại: 02873004009
+[074 - 100.0%] Email: support@mmgroup .vn, cskh@mmgroup .vn, sales@mmgroup .vn
+[075 - 100.0%] Mã số thuế: 0313496629
+[076 - 100.0%] Sau khi trao đổi, bàn bạc đi đến thống nhất ký kết hợp đồng với những  điều khoản như sau:
+[077 - 100.0%] ĐIỀU 1: GIẢI THÍCH CÁC TỪ NGỮ
+[078 - 100.0%] Trong bản Hợp đồng này, các từ ngữ sau đây được hiểu như sau:
+[079 - 100.0%] 1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều
+[080 - 100.0%] khoản sử dụng dịch vụ và phụ lục kèm theo nếu có.
+[081 - 100.0%] 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH  Công
+[082 - 100.0%] Nghệ Mật Mã.
+[083 - 100.0%] 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.
+[084 - 100.0%] 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.
+[085 - 100.0%] 5. Tên miền của Khách  hàng: nghĩa là tên miền do Khách  hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch
+[086 - 100.0%] vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là
+[087 - 100.0%] người kiểm soát tên miền.
+[088 - 100.0%] 6. Vi phạm nghiêm  trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm  trọng theo điều
+[089 - 100.0%] khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của
+[090 - 100.0%] cơ quan trọng tài thương  mại do hai bên thỏa thuận;  tuyên bố của tòa án địa phương  tại Việt Nam.
+[091 - 100.0%] 7. Bản ghi MX (Mail Exchange  Record)  là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên
+[092 - 100.0%] miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.
+[093 - 100.0%] ĐIỀU 2: ĐỐI TƯỢNG CỦA HỢP ĐỒNG
+[094 - 100.0%] Bằng việc ký kết Hợp đồng này, hai bên đồng ý tuân thủ: Bộ điều khoản mua bán và sử dụng ḍich vụ của nhà sản xuất thông qua Bên B là đối tác
+[095 - 100.0%] được chứng nhận của nhà sản xuất. Chi tiết hàng hóa, ḍich vụ Bên A mua từ Bên B được liệt kê trong bảng kê tại trang 1 của bản hợp đồng này
+[096 - 100.0%] 3
+[097 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[098 - 100.0%] ĐÃ DUYỆT
+[099 - 100.0%] hoặc trong bảng kê đơn đặt hàng, báo giá, phụ lục kèm theo.
+[100 - 100.0%] 1. Bên A với vai trò là bên mua và sử dụng sản phẩm và dịch vụ phải có nghĩa vụ đồng ý điều khoản sử dụng dịch vụ, chính sách bảo mật và các
+[101 - 100.0%] quy tắc cụ thể với từng sản phẩm, dịch vụ của nhà sản xuất tương ứng. Các điều khoản sử dụng dịch vụ của nhà sản xuất được cung cấp thông
+[102 - 100.0%] qua trang web chính thức của nhà sản xuất đó hoặc cung cấp ngay khi Bên A tạo tài khoản lần đầu tiên hoặc thông qua bất kỳ hình thức trực tuyến
+[103 - 100.0%] công khai nào khác.
+[104 - 100.0%] 2. Bên A có thể mua bổ sung người dùng bất cứ thời điểm nào của Hợp đồng. Khi đó, phí bổ sung được tính theo số người dùng được bổ sung,
+[105 - 100.0%] thời gian còn lại theo ngày của Hợp đồng với giá bán tại thời điểm lập Hợp đồng bổ sung người dùng.
+[106 - 100.0%] ĐIỀU 3: THANH TOÁN
+[107 - 100.0%] 1. Chi tiết đơn hàng được cung cấp tại phần đầu của Hợp đồng này hoặc trong bảng báo giá kèm theo đã được Bên A và Bên B xác nhận.
+[108 - 100.0%] 2. Điều khoản thanh toán:
+[109 - 100.0%] Thanh toán 100% giá trị hợp đồng trong vòng 03 (ba) ngày sau khi hợp đồng được ký và trước khi Bên B kích hoạt dịch vụ chính thức cho Bên
+[110 - 100.0%] A.
+[111 - 100.0%] Hình thức thanh toán: Chuyển khoản qua tài khoản ngân hàng.
+[112 - 100.0%] Thông tin thanh toán:
+[113 - 100.0%] Tên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ
+[114 - 100.0%] Tên viết tắt: MM TECHNOLOGY CO., LTD
+[115 - 100.0%] Nội dung thanh toán: THANH TOAN SO-10685-26
+[116 - 100.0%] ĐIỀU 4: GIAO HÀNG HÓA, SẢN PHẨM VÀ DỊCH VỤ
+[117 - 100.0%] 1. Thời gian giao hàng hóa, sản phẩm và dịch vụ: Bên B giao hàng hóa, sản phẩm và dịch vụ cho Bên A (cung cấp giấy phép
+[118 - 100.0%] phần mềm) trong vòng 1 đến 7 ngày làm việc kể từ khi BÊN A hoàn tât thanh toán phí cho BÊN B. Thời gian trên không bao gồm
+[119 - 100.0%] thời gian xử lý sự cố có nguyên  nhân không xuất phát từ Bên B và thời gian triển khai dịch vụ nếu có. Trong trường  hợp cần kéo
+[120 - 100.0%] dài thời hạn bàn giao do quy trình cấp giấy phép từ nhà sản xuất (Microsoft)  kéo dài hơn dự kiến, hoặc do tình trạng khan hiếm,
+[121 - 100.0%] hết hàng từ nhà cung cấp/nhà  sản xuất hoặc đối tác phân phối ủy quyền chỉ định của nhà sản xuất, hai bên có thể thỏa thuận gia
+[122 - 100.0%] hạn thời gian giao hàng hóa, sản phẩm,  và dịch vụ. Trường  hợp không thỏa thuận gia hạn thành công, các bên tiến hành thanh
+[123 - 100.0%] lý hợp đồng trước thời hạn theo mục (iii) khoản 1 điều 10 của hợp đồng này.
+[124 - 100.0%] 2. Phương  thức giao hàng hóa, sản phẩm và dịch vụ: Bên B bàn giao hàng hóa, sản phẩm và dịch vụ cho Bên A bằng phương
+[125 - 100.0%] thức: gửi thông tin qua Email được đăng ký trong hợp đồng tại phần Bên A và Bên B trong bản hợp đồng này hoặc Email do các
+[126 - 100.0%] bên chỉ định bằng văn bản. Bên A tự có trách nhiệm bảo mật thông tin mã sản phẩm hoặc tài khoản được bàn giao và tự chịu
+[127 - 100.0%] trách nhiệm khi để lộ thông tin kể từ khi nhận được email bàn giao từ Bên B.
+[128 - 100.0%] ĐIỀU 5. QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+[129 - 100.0%] 1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.
+[130 - 100.0%] 2. Giữ quyền quản trị cao nhất của sản phẩm,  dịch vụ.
+[131 - 100.0%] 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.
+[132 - 100.0%] 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.
+[133 - 100.0%] 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.
+[134 - 100.0%] 6. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng
+[135 - 100.0%] dịch  vụ Internet.
+[136 - 100.0%] 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm,  dịch vụ đã mua.
+[137 - 100.0%] 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.
+[138 - 100.0%] 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.
+[139 - 100.0%] 10. Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email
+[140 - 100.0%] có vai trò quản trị viên.
+[141 - 100.0%] 11. Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi
+[142 - 100.0%] Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.
+[143 - 100.0%] 12. Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi
+[144 - 100.0%] STT Số tài khoản Tên ngân hàng Chi nhánh/PGD
+[145 - 100.0%] 1 313496629 Ngân hàng TMCP Quân Đội (MBBank) Gia Định
+[146 - 100.0%] 4
+[147 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[148 - 100.0%] ĐÃ DUYỆT
+[149 - 100.0%] dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các
+[150 - 100.0%] sự cố khác  do để mất  tên  miền  hoặc  làm  lộ thông  tin quản  lý tên  miền,  thông  tin DNS  tên  miền.
+[151 - 100.0%] 13. Bên A có nghĩa vụ hiểu rằng: (i) Người  kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm
+[152 - 100.0%] quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường  hợp có mâu thuẫn liên quan tới dịch vụ
+[153 - 100.0%] giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm,  dịch vụ; người được chỉ định có Email ghi
+[154 - 100.0%] trong mục Bên A của bản Hợp đồng này; người xuất trình giấy tờ hợp pháp chứng  minh là chủ thể ”Bên A“ thì quyền ưu tiên sẽ
+[155 - 100.0%] thuộc về ý kiến của người có quyền kiểm soát tên miền đăng ký dịch vụ;
+[156 - 100.0%] 14. Chịu trách nhiệm i) đảm bảo bảo mật mật khẩu tài khoản tổ chức của Bên A, ii) chỉ định các cá nhân có thẩm quyền làm quản
+[157 - 100.0%] trị viên để quản lý tài khoản tổ chức của Bên A và iii) đảm bảo rằng tất cả các hoạt động xảy ra liên quan đến tài khoản của Bên A
+[158 - 100.0%] đều tuân thủ Thỏa thuận này. Bên A hiểu rằng Bên B và nhà sản xuất không chịu trách nhiệm quản trị tài khoản và quản lý nội bộ
+[159 - 100.0%] Dịch vụ cho Bên A.
+[160 - 100.0%] 15. Có trách nhiệm thực hiện các bước cần thiết để đảm bảo rằng tổ chức của Bên A không mất quyền kiểm soát tài khoản quản
+[161 - 100.0%] trị viên. Bên A có thể chỉ định một quy trình cần tuân thủ để khôi phục quyền kiểm soát trong trường  hợp mất quyền kiểm soát tài
+[162 - 100.0%] khoản quản trị viên đó bằng cách gửi email đến Bên B hoặc nhà sản xuất, miễn là quy trình đó được chấp nhận. Trong trường
+[163 - 100.0%] hợp không có bất kỳ quy trình phục hồi tài khoản quản trị viên cụ thể nào, Bên B hoặc nhà sản xuất có thể cung cấp quyền kiểm
+[164 - 100.0%] soát tài khoản quản trị viên cho một cá nhân cung cấp bằng chứng  thỏa đáng cho Bên B hoặc nhà sản xuất chứng  minh ủy
+[165 - 100.0%] quyền hành động thay mặt cho tổ chức. Bên A đồng ý không buộc Bên B hoặc nhà sản xuất phải chịu trách nhiệm về hậu quả
+[166 - 100.0%] của bất kỳ hành động nào được thực hiện bởi Bên B hoặc nhà sản xuất với thiện chí về vấn đề này.
+[167 - 100.0%] ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+[168 - 100.0%] 1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên
+[169 - 100.0%] A.
+[170 - 100.0%] 2. Từ chối chịu trách nhiệm nhưng  có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách
+[171 - 100.0%] của nhà sản xuất khi sử dụng sản phẩm,  dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.
+[172 - 100.0%] 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.
+[173 - 100.0%] 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp
+[174 - 100.0%] dịch  vụ Internet.
+[175 - 100.0%] 5. Nhanh  chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên
+[176 - 100.0%] B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.
+[177 - 100.0%] 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.
+[178 - 100.0%] 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.
+[179 - 100.0%] 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.
+[180 - 100.0%] ĐIỀU 7. HỖ TRỢ KỸ THUẬT
+[181 - 100.0%] Hỗ trợ kỹ thuật dịch vụ bao gồm:
+[182 - 100.0%] 1. Khách  hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên  và kiến thức sử dụng trực tuyến (Thông  qua
+[183 - 100.0%] Website)  cho phép Quản trị viên và người dùng truy cập và tự nghiên  cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài
+[184 - 100.0%] nguyên  và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.
+[185 - 100.0%] 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:
+[186 - 100.0%] Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B
+[187 - 100.0%] Pháp lý và chứng  từ: Cung cấp hồ sơ Hợp đồng pháp lý và chứng  từ tuân thủ theo quy định của pháp luật Việt Nam Bao
+[188 - 100.0%] gồm nhưng  không giới hạn các loại chứng  từ sau đây: Hóa đơn Giá trị gia tăng, Hợp đồng cung cấp dịch vụ
+[189 - 100.0%] Chứng  nhận quyền hợp pháp: Chứng  nhận trạng thái mua dịch vụ và quyền sử dụng hợp pháp phần mềm cho Bên A khi có
+[190 - 100.0%] yêu cầu.
+[191 - 100.0%] Giải quyết khiếu nại về giấy phép, quyền truy cập liên quan tới giấy phép, mua bổ sung giấy phép.
+[192 - 100.0%] Giải quyết khiếu nại về thanh toán.
+[193 - 100.0%] Thiết lập và cài đặt ban đầu cho tới khi dịch vụ có thể hoạt động ổn định.
+[194 - 100.0%] Cung cấp tài liệu trực tuyến hỗ trợ cho quản trị viên theo yêu cầu.
+[195 - 100.0%] Hướng  dẫn qua email và điện thoại hoặc trình điều khiển màn hình từ xa dành cho quản trị viên trong giờ hành chính đối với
+[196 - 100.0%] các vấn đề thuộc phạm vi nhà sản xuất cho phép và cung cấp công cụ hỗ trợ dành cho Bên B như: Hướng  dẫn xử lý khi
+[197 - 100.0%] Email bị gián đoạn do mất bản ghi MX, hướng  dẫn quản trị viên quản lý người dùng hoặc sử dụng trang quản trị hoặc các
+[198 - 100.0%] trường  hợp khác thuộc phạm vi giải quyết của nhà sản xuất.
+[199 - 100.0%] Hướng  dẫn Quản trị viên liên hệ với nhà sản xuất.
+[200 - 100.0%] Hỗ trợ không bắt buộc bởi Bên B
+[201 - 100.0%] Hỗ trợ khẩn cấp ngoài giờ hành chính dành cho quản trị viên thông qua Email,  điện thoại hoặc trình điều khiển màn hình từ
+[202 - 100.0%] xa.
+[203 - 100.0%] Hướng  dẫn sử dụng bằng cách cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp dành cho người dùng thông qua
+[204 - 100.0%] 5
+[205 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[206 - 100.0%] ĐÃ DUYỆT
+[207 - 100.0%] Email.
+[208 - 100.0%] Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.
+[209 - 100.0%] Cung cấp tài liệu trực tuyến hoặc hướng  dẫn từ xa dành cho quản trị viên di chuyển  dữ liệu Từ nền tảng email trước đó mà
+[210 - 100.0%] Bên A sử dung sang nền tảng email được cung cấp bởi Bên B.
+[211 - 100.0%] 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất
+[212 - 100.0%] Hỗ trợ kỹ thuật bởi một trong các hình thức: Email,  điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với
+[213 - 100.0%] ngôn ngữ Tiếng Anh chỉ dành cho quản trị viên cho các lỗi kỹ thuật, sự cố và các vấn đề liên quan tới sản phẩm dịch vụ.
+[214 - 100.0%] Hỗ trợ liên quan tới gián đoạn dịch vụ mang tính hệ thống hoặc hàng loạt, lỗi phần mềm, gián đoạn hệ thống,  chính sách
+[215 - 100.0%] dịch vụ, ngừng  người dùng do vi phạm chính sách dịch vụ hoặc hỗ trợ khác.
+[216 - 100.0%] ĐIỀU 8: BẢO VỆ THÔNG TIN BÍ MẬT
+[217 - 100.0%] 1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông  tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ
+[218 - 100.0%] Thông  tin bí mật của chính mình; và (b) không tiết lộ Thông  tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của
+[219 - 100.0%] bên còn lại.
+[220 - 100.0%] 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông  tin bí mật của bên kia khi luật pháp yêu cầu nhưng  chỉ khi (nếu luật pháp cho
+[221 - 100.0%] phép):  (a) thực hiện các nỗ lực hợp lý về phương  diện thương  mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc
+[222 - 100.0%] tiết lộ. Nếu nỗ lực phản đối việc tiết lộ được tòa án hoặc cơ quan pháp luật có thẩm quyền chấp thuận bằng văn bản, bên kia cần
+[223 - 100.0%] thông báo kịp thời đến bên được yêu cầu tiết lộ để trì hoãn hoặc ngưng  việc tiết lộ thông tin trong khuôn khổ pháp luật cho phép.
+[224 - 100.0%] ĐIỀU 9. GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ
+[225 - 100.0%] 1. Giới hạn trách nhiệm pháp lý gián tiếp.
+[226 - 100.0%] Theo Hợp đồng này, không bên nào phải chịu trách nhiệm đối với tổn thất doanh  thu hoặc thiệt hại gián tiếp, đặc biệt, ngẫu
+[227 - 100.0%] nhiên, do hậu quả, để cảnh cáo hoặc trừng phạt, ngay cả khi bên đó đã biết hoặc lẽ ra phải biết rằng các thiệt hại đó có thể xảy ra
+[228 - 100.0%] và ngay cả khi các thiệt hại trực tiếp không đáp ứng được biện pháp đền bù.
+[229 - 100.0%] 2. Giới hạn số tiền trách nhiệm pháp lý. Theo Hợp đồng này, không bên nào phải chịu trách nhiệm cho số tiền lớn hơn số tiền
+[230 - 100.0%] mà Bên A trả cho Bên B trong vòng mười hai tháng trước khi xảy ra sự kiện làm phát sinh trách nhiệm pháp lý.
+[231 - 100.0%] ĐIỀU 10. CHẤM DỨT HỢP ĐỒNG TRƯỚC THỜI HẠN
+[232 - 100.0%] 1. Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:
+[233 - 100.0%] (i) Bên kia vi phạm nghiêm  trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được
+[234 - 100.0%] thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm  trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm
+[235 - 100.0%] đó; hoặc (iii) Không hội đủ điều kiện để thực hiện hợp đồng trước khi Bên B giao hàng hóa, sản phẩm và dịch vụ cho Bên A
+[236 - 100.0%] mà xuất phát từ lý do: Nhà cung cấp/nhà sản xuất không chấp thuận cung cấp dịch vụ cho Bên A kể cả trường hợp Bên A đã
+[237 - 100.0%] thay đổi tên miền khác để đăng ký hoặc nhà sản xuất hoặc đối tác phân phối theo chỉ định của nhà sản xuất tuyên bố ngừng
+[238 - 100.0%] cung cấp, hết sản phẩm. Trường hợp này (iii) hai bên sẽ thanh lý hợp đồng và hoàn trả 100% phí đã thanh toán, không có
+[239 - 100.0%] khoản bồi thường.
+[240 - 100.0%] 2. Bên A đơn phương  chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.
+[241 - 100.0%] 3. Bên B đơn phương  chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng  hoạt
+[242 - 100.0%] động kinh doanh  vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận
+[243 - 100.0%] hoặc chỉ định một cơ quan khác đảm nhận thay Bên B cho đến khi hết thời hạn giấy phép sản phẩm hoặc dịch vụ mà Bên A
+[244 - 100.0%] đã mua. Bên B có nghĩa vụ chuyển  giao phần nghĩa vụ còn lại cho nhà sản xuất quản lý và tiếp quản thay Bên B trong trường
+[245 - 100.0%] hợp này. Trường  hợp Bên B không chuyển  giao thành công phần nghĩa vụ còn lại của mình cho nhà sản xuất tiếp tục duy trì
+[246 - 100.0%] cho Bên A thì Bên B phải hoàn lại các khoản phí cho phần chưa sử dụng dịch vụ cho Bên A.
+[247 - 100.0%] ĐIỀU 11. TỪ CHỐI TRÁCH NHIỆM CỦA BÊN B
+[248 - 100.0%] 1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo
+[249 - 100.0%] yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển  đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua
+[250 - 100.0%] Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.
+[251 - 100.0%] 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng  khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm
+[252 - 100.0%] các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng  hoặc (ii) Do Bên A vi phạm
+[253 - 100.0%] pháp luật Việt Nam hiện hành dẫn đến bị cơ quan nhà nước có thẩm quyền yêu cầu tạm ngưng.
+[254 - 100.0%] ĐIỀU 12. ĐIỀU KHOẢN CHUNG
+[255 - 100.0%] 1. Hai bên cam kết thực hiện đúng các điều khoản của Hợp đồng, bên nào vi phạm sẽ phải chịu trách nhiệm theo quy định của
+[256 - 100.0%] pháp luật. Trong quá trình thực hiện, nếu có những  vướng  mắc hai bên chủ động thương  lượng giải quyết trên tinh thần hợp tác,
+[257 - 100.0%] 6
+[258 - 100.0%] Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629
+[259 - 100.0%] ĐÃ DUYỆT
+[260 - 100.0%] tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển  đến Tòa án nhân dân có thẩm quyền để giải quyết.
+[261 - 100.0%] Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.
+[262 - 100.0%] 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập
+[263 - 100.0%] thành Phụ lục Hợp đồng.
+[264 - 100.0%] 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia
+[265 - 100.0%] hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của
+[266 - 100.0%] cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.
+[267 - 100.0%] 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà
+[268 - 100.0%] sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận
+[269 - 100.0%] 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường  hợp các bên ký hợp
+[270 - 100.0%] đồng bằng phương  thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng
+[271 - 100.0%] ký trực tiếp bằng văn bản.
+
+============================================================
+  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: SO-10685-26.PDF
+============================================================
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 100.0%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         100.0%
+🔹 Đánh giá chất lượng đọc:                  XUẤT SẮC (Chữ rất rõ ràng)
+============================================================

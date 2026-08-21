@@ -1,0 +1,25 @@
+=== KẾT QUẢ OCR: anh.png ===
+Danh mục: anh_chuyen_khoan
+
+[001 - 97.8%] TECHCOMBANK
+[002 - 99.9%] Chuyển thành công
+[003 - 65.0%] Tới MAI ANH TIEN
+[004 - 97.3%] VND 179,000
+[005 - 91.0%] Tài khoản nhận
+[006 - 91.5%] Ngân hàng TMCP Ngoại thương Việt Nam
+[007 - 95.1%] 1049 2290 23
+[008 - 70.1%] Lời nhẳn
+[009 - 99.8%] NGUYEN THANH TUNG chuyen tien
+[010 - 73.6%] Ngày thực hiện
+[011 - 86.3%] 20 Th8, 2026 lúc 10.51
+[012 - 98.0%] Mã giao dịch
+[013 - 78.8%] FT26232487845107
+[014 - 67.1%] Đây là khoản chi tiêu gì?
+
+============================================================
+  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: ANH.PNG
+============================================================
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 86.53%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         64.29%
+🔹 Đánh giá chất lượng đọc:                  TỐT (Đọc chính xác hầu hết)
+============================================================

@@ -1,0 +1,4649 @@
+{
+  "original_filename": "HoaDon_ECOACHING.VN.pdf",
+  "category": "hoa_don",
+  "has_table": true,
+  "ocr_lines": [
+    {
+      "index": 1,
+      "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confidence": 100.0
+    },
+    {
+      "index": 2,
+      "text": "(VAT INVOICE)",
+      "confidence": 100.0
+    },
+    {
+      "index": 3,
+      "text": "Bản thể hiện của hóa đơn điện tử",
+      "confidence": 100.0
+    },
+    {
+      "index": 4,
+      "text": "(Electronic invoice display)",
+      "confidence": 100.0
+    },
+    {
+      "index": 5,
+      "text": "Ngày (date) 05 tháng (month) 04 năm (year) 2024",
+      "confidence": 100.0
+    },
+    {
+      "index": 6,
+      "text": "Ký hiệu (Serial): 1C24TVT",
+      "confidence": 100.0
+    },
+    {
+      "index": 7,
+      "text": "Số (No.): 8022",
+      "confidence": 100.0
+    },
+    {
+      "index": 8,
+      "text": "Đơn vị bán hàng (Issued): CÔNG TY TNHH VIETTEL - CHT",
+      "confidence": 100.0
+    },
+    {
+      "index": 9,
+      "text": "Mã số thuế (Tax code): 0500589150",
+      "confidence": 100.0
+    },
+    {
+      "index": 10,
+      "text": "Địa chỉ (Address): Khu TT, Khu công nghệ cao Hòa Lạc, Km29, Đại lộ Thăng Long, Xã Thạch Hoà, Huyện Thạch Thất, Thành",
+      "confidence": 100.0
+    },
+    {
+      "index": 11,
+      "text": "phố Hà Nội, Việt Nam",
+      "confidence": 100.0
+    },
+    {
+      "index": 12,
+      "text": "Điện thoại (Phone number): 02462728866 Fax: Website:",
+      "confidence": 100.0
+    },
+    {
+      "index": 13,
+      "text": "Số tài khoản (Account No): Ngân hàng (Bank):",
+      "confidence": 100.0
+    },
+    {
+      "index": 14,
+      "text": "Họ tên người mua hàng (Customer):",
+      "confidence": 100.0
+    },
+    {
+      "index": 15,
+      "text": "Tên đơn vị (Company): CÔNG TY TNHH VERCO CONSULTANT",
+      "confidence": 100.0
+    },
+    {
+      "index": 16,
+      "text": "Mã số thuế (Tax code): 0109011056",
+      "confidence": 100.0
+    },
+    {
+      "index": 17,
+      "text": "Địa chỉ (Address): Số 562 Nguyễn Văn Cừ, Phường Gia Thuỵ, Quận Long Biên, Thành phố Hà Nội, Việt Nam",
+      "confidence": 100.0
+    },
+    {
+      "index": 18,
+      "text": "Hình thức thanh toán (Payment method): CK",
+      "confidence": 100.0
+    },
+    {
+      "index": 19,
+      "text": "Ghi chú (Note):",
+      "confidence": 100.0
+    },
+    {
+      "index": 20,
+      "text": "STT",
+      "confidence": 100.0
+    },
+    {
+      "index": 21,
+      "text": "(No.)",
+      "confidence": 100.0
+    },
+    {
+      "index": 22,
+      "text": "Tên hàng hóa, dịch vụ",
+      "confidence": 100.0
+    },
+    {
+      "index": 23,
+      "text": "(Description)",
+      "confidence": 100.0
+    },
+    {
+      "index": 24,
+      "text": "Đơn",
+      "confidence": 100.0
+    },
+    {
+      "index": 25,
+      "text": "vị tính",
+      "confidence": 100.0
+    },
+    {
+      "index": 26,
+      "text": "(Unit)",
+      "confidence": 100.0
+    },
+    {
+      "index": 27,
+      "text": "Số",
+      "confidence": 100.0
+    },
+    {
+      "index": 28,
+      "text": "lượng",
+      "confidence": 100.0
+    },
+    {
+      "index": 29,
+      "text": "(Quantity)",
+      "confidence": 100.0
+    },
+    {
+      "index": 30,
+      "text": "Đơn giá",
+      "confidence": 100.0
+    },
+    {
+      "index": 31,
+      "text": "(Unit",
+      "confidence": 100.0
+    },
+    {
+      "index": 32,
+      "text": "price)",
+      "confidence": 100.0
+    },
+    {
+      "index": 33,
+      "text": "Thành tiền",
+      "confidence": 100.0
+    },
+    {
+      "index": 34,
+      "text": "(Amount)",
+      "confidence": 100.0
+    },
+    {
+      "index": 35,
+      "text": "Thuế",
+      "confidence": 100.0
+    },
+    {
+      "index": 36,
+      "text": "suất",
+      "confidence": 100.0
+    },
+    {
+      "index": 37,
+      "text": "(Vat",
+      "confidence": 100.0
+    },
+    {
+      "index": 38,
+      "text": "rate)",
+      "confidence": 100.0
+    },
+    {
+      "index": 39,
+      "text": "Tiền thuế",
+      "confidence": 100.0
+    },
+    {
+      "index": 40,
+      "text": "(Vat amount)",
+      "confidence": 100.0
+    },
+    {
+      "index": 41,
+      "text": "Thành tiền",
+      "confidence": 100.0
+    },
+    {
+      "index": 42,
+      "text": "sau thuế",
+      "confidence": 100.0
+    },
+    {
+      "index": 43,
+      "text": "(Total)",
+      "confidence": 100.0
+    },
+    {
+      "index": 44,
+      "text": "1 2 3 4 5 6 = 4 x 5 7 8 = 6 x 7 9 = 6 + 8",
+      "confidence": 100.0
+    },
+    {
+      "index": 45,
+      "text": "1",
+      "confidence": 100.0
+    },
+    {
+      "index": 46,
+      "text": "Phí dịch vụ Tên miền quốc gia",
+      "confidence": 100.0
+    },
+    {
+      "index": 47,
+      "text": "(ecoaching.vn) từ ngày 27/03/2024",
+      "confidence": 100.0
+    },
+    {
+      "index": 48,
+      "text": "đến ngày 27/03/2025 - DH908896",
+      "confidence": 100.0
+    },
+    {
+      "index": 49,
+      "text": "Gói 1 350.000 350.000 \\ \\ 350.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 50,
+      "text": "2",
+      "confidence": 100.0
+    },
+    {
+      "index": 51,
+      "text": "Phí dịch vụ tài khoản quản trị Tên",
+      "confidence": 100.0
+    },
+    {
+      "index": 52,
+      "text": "miền quốc gia (ecoaching.vn)",
+      "confidence": 100.0
+    },
+    {
+      "index": 53,
+      "text": "từ ngày 27/03/2024 đến ngày",
+      "confidence": 100.0
+    },
+    {
+      "index": 54,
+      "text": "27/03/2025 - DH908896",
+      "confidence": 100.0
+    },
+    {
+      "index": 55,
+      "text": "Gói 1 100.000 100.000 10% 10.000 110.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 56,
+      "text": "Cộng tiền hàng hóa, dịch vụ (Invoice total): 450.000 10.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 57,
+      "text": "Tổng cộng tiền thanh toán (Total payment):",
+      "confidence": 100.0
+    },
+    {
+      "index": 58,
+      "text": "460.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 59,
+      "text": "Số tiền viết bằng chữ (Amount in words): Bốn trăm sáu mươi nghìn đồng",
+      "confidence": 100.0
+    },
+    {
+      "index": 60,
+      "text": "Tổng tiền không chịu thuế:350.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 61,
+      "text": "Tổng tiền chịu thuế 0%:",
+      "confidence": 100.0
+    },
+    {
+      "index": 62,
+      "text": "Tổng tiền chịu thuế 5%: Tổng tiền thuế GTGT 5%:",
+      "confidence": 100.0
+    },
+    {
+      "index": 63,
+      "text": "Tổng tiền chịu thuế 8%: Tổng tiền thuế GTGT 8%:",
+      "confidence": 100.0
+    },
+    {
+      "index": 64,
+      "text": "Tổng tiền chịu thuế 10%: 100.000 Tổng tiền thuế GTGT 10%: 10.000",
+      "confidence": 100.0
+    },
+    {
+      "index": 65,
+      "text": "Người mua hàng (Buyer) Người bán hàng (Seller)",
+      "confidence": 100.0
+    },
+    {
+      "index": 66,
+      "text": "Ký bởi CÔNG TY TNHH VIETTEL - CHT",
+      "confidence": 100.0
+    },
+    {
+      "index": 67,
+      "text": "Ký ngày 05/04/2024",
+      "confidence": 100.0
+    },
+    {
+      "index": 68,
+      "text": "Mã của cơ quan thuế: 009F0FD448EFD54D4E9171FCB33925E87E",
+      "confidence": 100.0
+    },
+    {
+      "index": 69,
+      "text": "Đơn vị cung cấp dịch vụ Hóa đơn điện tử: Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), MST: 0100109106",
+      "confidence": 100.0
+    },
+    {
+      "index": 70,
+      "text": "Tra cứu hóa đơn điện tử tại Website: https://vinvoice.viettel.vn/utilities/invoice-search . Mã số bí mật: T9HN7LPXA2UF3G8",
+      "confidence": 100.0
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "detection_method": "pdfplumber_digital",
+      "num_rows": 13,
+      "num_cols": 9,
+      "matrix": [
+        [
+          "HÓA ĐƠN GIÁ TRỊ GIA TĂNG Ký hiệu (Serial): 1C24TVT Số (No.): 8022 (VAT INVOICE) Bản thể hiện của hóa đơn điện tử (Electronic invoice display) Ngày (date) 05 tháng (month) 04 năm (year) 2024",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Đơn vị bán hàng (Issued): CÔNG TY TNHH VIETTEL - CHT Mã số thuế (Tax code): 0500589150 Địa chỉ (Address): Khu TT, Khu công nghệ cao Hòa Lạc, Km29, Đại lộ Thăng Long, Xã Thạch Hoà, Huyện Thạch Thất, Thành phố Hà Nội, Việt Nam Điện thoại (Phone number): 02462728866 Fax: Website: Số tài khoản (Account No): Ngân hàng (Bank):",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Họ tên người mua hàng (Customer): Tên đơn vị (Company): CÔNG TY TNHH VERCO CONSULTANT Mã số thuế (Tax code): 0109011056 Địa chỉ (Address): Số 562 Nguyễn Văn Cừ, Phường Gia Thuỵ, Quận Long Biên, Thành phố Hà Nội, Việt Nam Hình thức thanh toán (Payment method): CK Ghi chú (Note):",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "STT (No.)",
+          "Tên hàng hóa, dịch vụ (Description)",
+          "Đơn vị tính (Unit) (",
+          "Số lượng Quantity",
+          "Đơn giá (Unit ) price)",
+          "Thành tiền (Amount)",
+          "Thuế suất (Vat rate)",
+          "Tiền thuế (Vat amount)",
+          "Thành tiền sau thuế (Total)"
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6 = 4 x 5",
+          "7",
+          "8 = 6 x 7",
+          "9 = 6 + 8"
+        ],
+        [
+          "1",
+          "Phí dịch vụ Tên miền quốc gia (ecoaching.vn) từ ngày 27/03/2024 đến ngày 27/03/2025 - DH908896",
+          "Gói",
+          "1",
+          "350.000",
+          "350.000",
+          "\\",
+          "\\",
+          "350.000"
+        ],
+        [
+          "2",
+          "Phí dịch vụ tài khoản quản trị Tên miền quốc gia (ecoaching.vn) từ ngày 27/03/2024 đến ngày 27/03/2025 - DH908896",
+          "Gói",
+          "1",
+          "100.000",
+          "100.000",
+          "10%",
+          "10.000",
+          "110.000"
+        ],
+        [
+          "Cộng tiền hàng hóa, dịch vụ (Invoice total):",
+          "",
+          "",
+          "",
+          "",
+          "450.000",
+          "",
+          "10.000",
+          "460.000"
+        ],
+        [
+          "Tổng cộng tiền thanh toán (Total payment):",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Số tiền viết bằng chữ (Amount in words): Bốn trăm sáu mươi nghìn đồng",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Tổng tiền không chịu thuế:350.000 Tổng tiền chịu thuế 0%: Tổng tiền chịu thuế 5%: Tổng tiền thuế GTGT 5%: Tổng tiền chịu thuế 8%: Tổng tiền thuế GTGT 8%: Tổng tiền chịu thuế 10%: 100.000 Tổng tiền thuế GTGT 10%: 10.000",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Người mua hàng (Buyer) Người bán hàng (Seller) Ký bởi CÔNG TY TNHH VIETTEL - CHT Ký ngày 05/04/2024 Mã của cơ quan thuế: 009F0FD448EFD54D4E9171FCB33925E87E",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Đơn vị cung cấp dịch vụ Hóa đơn điện tử: Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), MST: 0100109106 Tra cứu hóa đơn điện tử tại Website: https://vinvoice.viettel.vn/utilities/invoice-search . Mã số bí mật: T9HN7LPXA2UF3G8",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "row_index": 0,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            15.67,
+            533.58,
+            84.37
+          ],
+          "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG Ký hiệu (Serial): 1C24TVT Số (No.): 8022 (VAT INVOICE) Bản thể hiện của hóa đơn điện tử (Electronic invoice display) Ngày (date) 05 tháng (month) 04 năm (year) 2024",
+          "text_segments": [
+            {
+              "text": "HÓA",
+              "bbox": [
+                175.29,
+                27.16,
+                211.71,
+                43.16
+              ]
+            },
+            {
+              "text": "ĐƠN",
+              "bbox": [
+                215.71,
+                27.16,
+                251.24,
+                43.16
+              ]
+            },
+            {
+              "text": "GIÁ",
+              "bbox": [
+                255.24,
+                27.16,
+                285.45,
+                43.16
+              ]
+            },
+            {
+              "text": "TRỊ",
+              "bbox": [
+                289.45,
+                27.16,
+                317.88,
+                43.16
+              ]
+            },
+            {
+              "text": "GIA",
+              "bbox": [
+                321.88,
+                27.16,
+                352.09,
+                43.16
+              ]
+            },
+            {
+              "text": "TĂNG",
+              "bbox": [
+                356.09,
+                27.16,
+                402.28,
+                43.16
+              ]
+            },
+            {
+              "text": "Ký",
+              "bbox": [
+                416.61,
+                24.13,
+                429.38,
+                34.13
+              ]
+            },
+            {
+              "text": "hiệu",
+              "bbox": [
+                431.88,
+                24.13,
+                450.2,
+                34.13
+              ]
+            },
+            {
+              "text": "(Serial):",
+              "bbox": [
+                452.7,
+                24.3,
+                486.55,
+                34.3
+              ]
+            },
+            {
+              "text": "1C24TVT",
+              "bbox": [
+                497.91,
+                25.63,
+                540.67,
+                35.63
+              ]
+            },
+            {
+              "text": "Số",
+              "bbox": [
+                416.61,
+                38.97,
+                427.17,
+                48.97
+              ]
+            },
+            {
+              "text": "(No.):",
+              "bbox": [
+                429.67,
+                39.14,
+                453.82,
+                49.14
+              ]
+            },
+            {
+              "text": "8022",
+              "bbox": [
+                497.91,
+                40.46,
+                517.91,
+                50.46
+              ]
+            },
+            {
+              "text": "(VAT",
+              "bbox": [
+                249.84,
+                45.2,
+                273.81,
+                57.2
+              ]
+            },
+            {
+              "text": "INVOICE)",
+              "bbox": [
+                276.81,
+                45.2,
+                327.74,
+                57.2
+              ]
+            },
+            {
+              "text": "Bản",
+              "bbox": [
+                218.18,
+                59.31,
+                235.4,
+                69.31
+              ]
+            },
+            {
+              "text": "thể",
+              "bbox": [
+                237.9,
+                59.31,
+                251.22,
+                69.31
+              ]
+            },
+            {
+              "text": "hiện",
+              "bbox": [
+                253.72,
+                59.31,
+                272.04,
+                69.31
+              ]
+            },
+            {
+              "text": "của",
+              "bbox": [
+                274.54,
+                59.31,
+                289.53,
+                69.31
+              ]
+            },
+            {
+              "text": "hóa",
+              "bbox": [
+                292.03,
+                59.31,
+                307.59,
+                69.31
+              ]
+            },
+            {
+              "text": "đơn",
+              "bbox": [
+                310.09,
+                59.31,
+                326.74,
+                69.31
+              ]
+            },
+            {
+              "text": "điện",
+              "bbox": [
+                329.24,
+                59.31,
+                347.56,
+                69.31
+              ]
+            },
+            {
+              "text": "tử",
+              "bbox": [
+                350.06,
+                59.31,
+                359.39,
+                69.31
+              ]
+            },
+            {
+              "text": "(Electronic",
+              "bbox": [
+                233.5,
+                71.32,
+                278.05,
+                81.32
+              ]
+            },
+            {
+              "text": "invoice",
+              "bbox": [
+                280.55,
+                71.32,
+                309.38,
+                81.32
+              ]
+            },
+            {
+              "text": "display)",
+              "bbox": [
+                311.88,
+                71.32,
+                344.07,
+                81.32
+              ]
+            },
+            {
+              "text": "Ngày",
+              "bbox": [
+                188.3,
+                86.16,
+                209.95,
+                96.16
+              ]
+            },
+            {
+              "text": "(date)",
+              "bbox": [
+                212.45,
+                86.17,
+                236.31,
+                96.17
+              ]
+            },
+            {
+              "text": "05",
+              "bbox": [
+                238.81,
+                86.16,
+                248.81,
+                96.16
+              ]
+            },
+            {
+              "text": "tháng",
+              "bbox": [
+                251.31,
+                86.16,
+                273.51,
+                96.16
+              ]
+            },
+            {
+              "text": "(month)",
+              "bbox": [
+                276.01,
+                86.17,
+                307.66,
+                96.17
+              ]
+            },
+            {
+              "text": "04",
+              "bbox": [
+                310.16,
+                86.16,
+                320.16,
+                96.16
+              ]
+            },
+            {
+              "text": "năm",
+              "bbox": [
+                322.66,
+                86.16,
+                339.86,
+                96.16
+              ]
+            },
+            {
+              "text": "(year)",
+              "bbox": [
+                342.36,
+                86.17,
+                366.77,
+                96.17
+              ]
+            },
+            {
+              "text": "2024",
+              "bbox": [
+                369.27,
+                86.16,
+                389.27,
+                96.16
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 1,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            100.04,
+            533.58,
+            101.34
+          ],
+          "text": "Đơn vị bán hàng (Issued): CÔNG TY TNHH VIETTEL - CHT Mã số thuế (Tax code): 0500589150 Địa chỉ (Address): Khu TT, Khu công nghệ cao Hòa Lạc, Km29, Đại lộ Thăng Long, Xã Thạch Hoà, Huyện Thạch Thất, Thành phố Hà Nội, Việt Nam Điện thoại (Phone number): 02462728866 Fax: Website: Số tài khoản (Account No): Ngân hàng (Bank):",
+          "text_segments": [
+            {
+              "text": "Đơn",
+              "bbox": [
+                25.68,
+                104.67,
+                43.99,
+                114.67
+              ]
+            },
+            {
+              "text": "vị",
+              "bbox": [
+                46.49,
+                104.67,
+                54.26,
+                114.67
+              ]
+            },
+            {
+              "text": "bán",
+              "bbox": [
+                56.76,
+                104.67,
+                72.88,
+                114.67
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                75.38,
+                104.67,
+                96.5,
+                114.67
+              ]
+            },
+            {
+              "text": "(Issued):",
+              "bbox": [
+                99.0,
+                104.84,
+                134.53,
+                114.84
+              ]
+            },
+            {
+              "text": "CÔNG",
+              "bbox": [
+                137.03,
+                104.83,
+                167.01,
+                114.83
+              ]
+            },
+            {
+              "text": "TY",
+              "bbox": [
+                169.51,
+                104.83,
+                183.39,
+                114.83
+              ]
+            },
+            {
+              "text": "TNHH",
+              "bbox": [
+                185.89,
+                104.83,
+                215.31,
+                114.83
+              ]
+            },
+            {
+              "text": "VIETTEL",
+              "bbox": [
+                217.81,
+                104.83,
+                262.22,
+                114.83
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                264.72,
+                104.83,
+                268.05,
+                114.83
+              ]
+            },
+            {
+              "text": "CHT",
+              "bbox": [
+                270.55,
+                104.83,
+                292.2,
+                114.83
+              ]
+            },
+            {
+              "text": "Mã",
+              "bbox": [
+                25.68,
+                122.33,
+                40.11,
+                132.33
+              ]
+            },
+            {
+              "text": "số",
+              "bbox": [
+                42.61,
+                122.33,
+                51.5,
+                132.33
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                54.0,
+                122.33,
+                72.88,
+                132.33
+              ]
+            },
+            {
+              "text": "(Tax",
+              "bbox": [
+                75.38,
+                122.5,
+                92.79,
+                132.5
+              ]
+            },
+            {
+              "text": "code):",
+              "bbox": [
+                95.29,
+                122.5,
+                120.81,
+                132.5
+              ]
+            },
+            {
+              "text": "0500589150",
+              "bbox": [
+                123.31,
+                122.49,
+                173.31,
+                132.49
+              ]
+            },
+            {
+              "text": "Địa",
+              "bbox": [
+                25.68,
+                140.0,
+                40.67,
+                150.0
+              ]
+            },
+            {
+              "text": "chỉ",
+              "bbox": [
+                43.17,
+                140.0,
+                55.93,
+                150.0
+              ]
+            },
+            {
+              "text": "(Address):",
+              "bbox": [
+                58.43,
+                140.17,
+                100.25,
+                150.17
+              ]
+            },
+            {
+              "text": "Khu",
+              "bbox": [
+                102.75,
+                140.16,
+                119.97,
+                150.16
+              ]
+            },
+            {
+              "text": "TT,",
+              "bbox": [
+                122.47,
+                140.16,
+                136.43,
+                150.16
+              ]
+            },
+            {
+              "text": "Khu",
+              "bbox": [
+                138.93,
+                140.16,
+                156.15,
+                150.16
+              ]
+            },
+            {
+              "text": "công",
+              "bbox": [
+                158.65,
+                140.16,
+                178.08,
+                150.16
+              ]
+            },
+            {
+              "text": "nghệ",
+              "bbox": [
+                180.58,
+                140.16,
+                200.01,
+                150.16
+              ]
+            },
+            {
+              "text": "cao",
+              "bbox": [
+                202.51,
+                140.16,
+                216.37,
+                150.16
+              ]
+            },
+            {
+              "text": "Hòa",
+              "bbox": [
+                218.87,
+                140.16,
+                235.52,
+                150.16
+              ]
+            },
+            {
+              "text": "Lạc,",
+              "bbox": [
+                238.02,
+                140.16,
+                255.48,
+                150.16
+              ]
+            },
+            {
+              "text": "Km29,",
+              "bbox": [
+                257.98,
+                140.16,
+                285.47,
+                150.16
+              ]
+            },
+            {
+              "text": "Đại",
+              "bbox": [
+                287.97,
+                140.16,
+                302.39,
+                150.16
+              ]
+            },
+            {
+              "text": "lộ",
+              "bbox": [
+                304.89,
+                140.16,
+                312.66,
+                150.16
+              ]
+            },
+            {
+              "text": "Thăng",
+              "bbox": [
+                315.16,
+                140.16,
+                340.69,
+                150.16
+              ]
+            },
+            {
+              "text": "Long,",
+              "bbox": [
+                343.19,
+                140.16,
+                366.79,
+                150.16
+              ]
+            },
+            {
+              "text": "Xã",
+              "bbox": [
+                369.29,
+                140.16,
+                380.94,
+                150.16
+              ]
+            },
+            {
+              "text": "Thạch",
+              "bbox": [
+                383.44,
+                140.16,
+                408.4,
+                150.16
+              ]
+            },
+            {
+              "text": "Hoà,",
+              "bbox": [
+                410.9,
+                140.16,
+                430.05,
+                150.16
+              ]
+            },
+            {
+              "text": "Huyện",
+              "bbox": [
+                432.55,
+                140.16,
+                459.2,
+                150.16
+              ]
+            },
+            {
+              "text": "Thạch",
+              "bbox": [
+                461.7,
+                140.16,
+                486.66,
+                150.16
+              ]
+            },
+            {
+              "text": "Thất,",
+              "bbox": [
+                489.16,
+                140.16,
+                509.96,
+                150.16
+              ]
+            },
+            {
+              "text": "Thành",
+              "bbox": [
+                512.46,
+                140.16,
+                537.99,
+                150.16
+              ]
+            },
+            {
+              "text": "phố",
+              "bbox": [
+                25.68,
+                152.16,
+                40.68,
+                162.16
+              ]
+            },
+            {
+              "text": "Hà",
+              "bbox": [
+                43.18,
+                152.16,
+                54.83,
+                162.16
+              ]
+            },
+            {
+              "text": "Nội,",
+              "bbox": [
+                57.33,
+                152.16,
+                74.82,
+                162.16
+              ]
+            },
+            {
+              "text": "Việt",
+              "bbox": [
+                77.32,
+                152.16,
+                93.91,
+                162.16
+              ]
+            },
+            {
+              "text": "Nam",
+              "bbox": [
+                96.41,
+                152.16,
+                115.83,
+                162.16
+              ]
+            },
+            {
+              "text": "Điện",
+              "bbox": [
+                25.68,
+                169.67,
+                45.66,
+                179.67
+              ]
+            },
+            {
+              "text": "thoại",
+              "bbox": [
+                48.16,
+                169.67,
+                69.82,
+                179.67
+              ]
+            },
+            {
+              "text": "(Phone",
+              "bbox": [
+                72.32,
+                169.84,
+                101.18,
+                179.84
+              ]
+            },
+            {
+              "text": "number):",
+              "bbox": [
+                103.68,
+                169.84,
+                140.88,
+                179.84
+              ]
+            },
+            {
+              "text": "02462728866",
+              "bbox": [
+                143.38,
+                169.83,
+                198.38,
+                179.83
+              ]
+            },
+            {
+              "text": "Fax:",
+              "bbox": [
+                236.44,
+                169.67,
+                255.87,
+                179.67
+              ]
+            },
+            {
+              "text": "Website:",
+              "bbox": [
+                341.82,
+                169.67,
+                379.01,
+                179.67
+              ]
+            },
+            {
+              "text": "Số",
+              "bbox": [
+                25.68,
+                187.34,
+                36.24,
+                197.34
+              ]
+            },
+            {
+              "text": "tài",
+              "bbox": [
+                38.74,
+                187.34,
+                49.84,
+                197.34
+              ]
+            },
+            {
+              "text": "khoản",
+              "bbox": [
+                52.34,
+                187.34,
+                79.02,
+                197.34
+              ]
+            },
+            {
+              "text": "(Account",
+              "bbox": [
+                81.52,
+                187.51,
+                117.58,
+                197.51
+              ]
+            },
+            {
+              "text": "No):",
+              "bbox": [
+                120.08,
+                187.51,
+                138.4,
+                197.51
+              ]
+            },
+            {
+              "text": "Ngân",
+              "bbox": [
+                246.98,
+                187.34,
+                269.76,
+                197.34
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                272.26,
+                187.34,
+                293.38,
+                197.34
+              ]
+            },
+            {
+              "text": "(Bank):",
+              "bbox": [
+                295.88,
+                187.51,
+                326.4,
+                197.51
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 2,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            201.38,
+            533.58,
+            106.51
+          ],
+          "text": "Họ tên người mua hàng (Customer): Tên đơn vị (Company): CÔNG TY TNHH VERCO CONSULTANT Mã số thuế (Tax code): 0109011056 Địa chỉ (Address): Số 562 Nguyễn Văn Cừ, Phường Gia Thuỵ, Quận Long Biên, Thành phố Hà Nội, Việt Nam Hình thức thanh toán (Payment method): CK Ghi chú (Note):",
+          "text_segments": [
+            {
+              "text": "Họ",
+              "bbox": [
+                25.68,
+                206.01,
+                38.45,
+                216.01
+              ]
+            },
+            {
+              "text": "tên",
+              "bbox": [
+                40.95,
+                206.01,
+                54.27,
+                216.01
+              ]
+            },
+            {
+              "text": "người",
+              "bbox": [
+                56.77,
+                206.01,
+                81.63,
+                216.01
+              ]
+            },
+            {
+              "text": "mua",
+              "bbox": [
+                84.13,
+                206.01,
+                103.02,
+                216.01
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                105.52,
+                206.01,
+                126.64,
+                216.01
+              ]
+            },
+            {
+              "text": "(Customer):",
+              "bbox": [
+                129.14,
+                206.18,
+                177.99,
+                216.18
+              ]
+            },
+            {
+              "text": "Tên",
+              "bbox": [
+                25.68,
+                223.67,
+                42.33,
+                233.67
+              ]
+            },
+            {
+              "text": "đơn",
+              "bbox": [
+                44.83,
+                223.67,
+                61.48,
+                233.67
+              ]
+            },
+            {
+              "text": "vị",
+              "bbox": [
+                63.98,
+                223.67,
+                71.75,
+                233.67
+              ]
+            },
+            {
+              "text": "(Company):",
+              "bbox": [
+                74.25,
+                223.84,
+                122.55,
+                233.84
+              ]
+            },
+            {
+              "text": "CÔNG",
+              "bbox": [
+                125.05,
+                223.83,
+                153.37,
+                233.83
+              ]
+            },
+            {
+              "text": "TY",
+              "bbox": [
+                155.87,
+                223.83,
+                169.19,
+                233.83
+              ]
+            },
+            {
+              "text": "TNHH",
+              "bbox": [
+                171.69,
+                223.83,
+                199.45,
+                233.83
+              ]
+            },
+            {
+              "text": "VERCO",
+              "bbox": [
+                201.95,
+                223.83,
+                235.81,
+                233.83
+              ]
+            },
+            {
+              "text": "CONSULTANT",
+              "bbox": [
+                238.31,
+                223.83,
+                303.22,
+                233.83
+              ]
+            },
+            {
+              "text": "Mã",
+              "bbox": [
+                25.68,
+                241.34,
+                40.11,
+                251.34
+              ]
+            },
+            {
+              "text": "số",
+              "bbox": [
+                42.61,
+                241.34,
+                51.5,
+                251.34
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                54.0,
+                241.34,
+                72.88,
+                251.34
+              ]
+            },
+            {
+              "text": "(Tax",
+              "bbox": [
+                75.38,
+                241.51,
+                92.79,
+                251.51
+              ]
+            },
+            {
+              "text": "code):",
+              "bbox": [
+                95.29,
+                241.51,
+                120.81,
+                251.51
+              ]
+            },
+            {
+              "text": "0109011056",
+              "bbox": [
+                123.31,
+                241.5,
+                172.94,
+                251.5
+              ]
+            },
+            {
+              "text": "Địa",
+              "bbox": [
+                25.68,
+                259.01,
+                40.67,
+                269.01
+              ]
+            },
+            {
+              "text": "chỉ",
+              "bbox": [
+                43.17,
+                259.01,
+                55.93,
+                269.01
+              ]
+            },
+            {
+              "text": "(Address):",
+              "bbox": [
+                58.43,
+                259.18,
+                100.25,
+                269.18
+              ]
+            },
+            {
+              "text": "Số",
+              "bbox": [
+                102.75,
+                259.17,
+                113.31,
+                269.17
+              ]
+            },
+            {
+              "text": "562",
+              "bbox": [
+                115.81,
+                259.17,
+                130.81,
+                269.17
+              ]
+            },
+            {
+              "text": "Nguyễn",
+              "bbox": [
+                133.31,
+                259.17,
+                164.96,
+                269.17
+              ]
+            },
+            {
+              "text": "Văn",
+              "bbox": [
+                167.46,
+                259.17,
+                184.11,
+                269.17
+              ]
+            },
+            {
+              "text": "Cừ,",
+              "bbox": [
+                186.61,
+                259.17,
+                201.18,
+                269.17
+              ]
+            },
+            {
+              "text": "Phường",
+              "bbox": [
+                203.68,
+                259.17,
+                234.93,
+                269.17
+              ]
+            },
+            {
+              "text": "Gia",
+              "bbox": [
+                237.43,
+                259.17,
+                251.85,
+                269.17
+              ]
+            },
+            {
+              "text": "Thuỵ,",
+              "bbox": [
+                254.35,
+                259.17,
+                277.95,
+                269.17
+              ]
+            },
+            {
+              "text": "Quận",
+              "bbox": [
+                280.45,
+                259.17,
+                302.1,
+                269.17
+              ]
+            },
+            {
+              "text": "Long",
+              "bbox": [
+                304.6,
+                259.17,
+                325.7,
+                269.17
+              ]
+            },
+            {
+              "text": "Biên,",
+              "bbox": [
+                328.2,
+                259.17,
+                349.56,
+                269.17
+              ]
+            },
+            {
+              "text": "Thành",
+              "bbox": [
+                352.06,
+                259.17,
+                377.59,
+                269.17
+              ]
+            },
+            {
+              "text": "phố",
+              "bbox": [
+                380.09,
+                259.17,
+                395.09,
+                269.17
+              ]
+            },
+            {
+              "text": "Hà",
+              "bbox": [
+                397.59,
+                259.17,
+                409.24,
+                269.17
+              ]
+            },
+            {
+              "text": "Nội,",
+              "bbox": [
+                411.74,
+                259.17,
+                429.23,
+                269.17
+              ]
+            },
+            {
+              "text": "Việt",
+              "bbox": [
+                431.73,
+                259.17,
+                448.32,
+                269.17
+              ]
+            },
+            {
+              "text": "Nam",
+              "bbox": [
+                450.82,
+                259.17,
+                470.24,
+                269.17
+              ]
+            },
+            {
+              "text": "Hình",
+              "bbox": [
+                25.68,
+                276.68,
+                47.34,
+                286.68
+              ]
+            },
+            {
+              "text": "thức",
+              "bbox": [
+                49.84,
+                276.68,
+                69.16,
+                286.68
+              ]
+            },
+            {
+              "text": "thanh",
+              "bbox": [
+                71.66,
+                276.68,
+                96.67,
+                286.68
+              ]
+            },
+            {
+              "text": "toán",
+              "bbox": [
+                99.17,
+                276.68,
+                118.06,
+                286.68
+              ]
+            },
+            {
+              "text": "(Payment",
+              "bbox": [
+                120.56,
+                276.85,
+                158.84,
+                286.85
+              ]
+            },
+            {
+              "text": "method):",
+              "bbox": [
+                161.34,
+                276.85,
+                197.42,
+                286.85
+              ]
+            },
+            {
+              "text": "CK",
+              "bbox": [
+                199.92,
+                276.84,
+                213.8,
+                286.84
+              ]
+            },
+            {
+              "text": "Ghi",
+              "bbox": [
+                25.68,
+                294.35,
+                41.78,
+                304.35
+              ]
+            },
+            {
+              "text": "chú",
+              "bbox": [
+                44.28,
+                294.35,
+                59.83,
+                304.35
+              ]
+            },
+            {
+              "text": "(Note):",
+              "bbox": [
+                62.33,
+                294.52,
+                91.18,
+                304.52
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            307.89,
+            27.13,
+            57.0
+          ],
+          "text": "STT (No.)",
+          "text_segments": [
+            {
+              "text": "STT",
+              "bbox": [
+                21.05,
+                324.34,
+                39.93,
+                334.34
+              ]
+            },
+            {
+              "text": "(No.)",
+              "bbox": [
+                20.08,
+                339.26,
+                40.9,
+                349.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 1,
+          "cell_bbox": [
+            43.8,
+            307.89,
+            138.47,
+            57.0
+          ],
+          "text": "Tên hàng hóa, dịch vụ (Description)",
+          "text_segments": [
+            {
+              "text": "Tên",
+              "bbox": [
+                65.68,
+                324.34,
+                82.33,
+                334.34
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                84.83,
+                324.34,
+                105.95,
+                334.34
+              ]
+            },
+            {
+              "text": "hóa,",
+              "bbox": [
+                108.45,
+                324.34,
+                126.51,
+                334.34
+              ]
+            },
+            {
+              "text": "dịch",
+              "bbox": [
+                129.01,
+                324.34,
+                147.33,
+                334.34
+              ]
+            },
+            {
+              "text": "vụ",
+              "bbox": [
+                149.83,
+                324.34,
+                160.39,
+                334.34
+              ]
+            },
+            {
+              "text": "(Description)",
+              "bbox": [
+                86.12,
+                339.26,
+                139.95,
+                349.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 2,
+          "cell_bbox": [
+            182.27,
+            307.89,
+            47.93,
+            57.0
+          ],
+          "text": "Đơn vị tính (Unit)",
+          "text_segments": [
+            {
+              "text": "Đơn",
+              "bbox": [
+                197.08,
+                318.34,
+                215.39,
+                328.34
+              ]
+            },
+            {
+              "text": "vị",
+              "bbox": [
+                192.49,
+                330.34,
+                200.26,
+                340.34
+              ]
+            },
+            {
+              "text": "tính",
+              "bbox": [
+                202.76,
+                330.34,
+                219.98,
+                340.34
+              ]
+            },
+            {
+              "text": "(Unit)",
+              "bbox": [
+                194.03,
+                345.26,
+                218.45,
+                355.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 3,
+          "cell_bbox": [
+            230.2,
+            307.89,
+            37.28,
+            57.0
+          ],
+          "text": "Số lượng",
+          "text_segments": [
+            {
+              "text": "Số",
+              "bbox": [
+                243.56,
+                318.34,
+                254.12,
+                328.34
+              ]
+            },
+            {
+              "text": "lượng",
+              "bbox": [
+                236.42,
+                330.34,
+                261.28,
+                340.34
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 4,
+          "cell_bbox": [
+            267.48,
+            307.89,
+            53.26,
+            57.0
+          ],
+          "text": "Đơn giá (Unit price)",
+          "text_segments": [
+            {
+              "text": "Đơn",
+              "bbox": [
+                277.32,
+                318.34,
+                295.63,
+                328.34
+              ]
+            },
+            {
+              "text": "giá",
+              "bbox": [
+                298.13,
+                318.34,
+                310.9,
+                328.34
+              ]
+            },
+            {
+              "text": "(Unit",
+              "bbox": [
+                283.57,
+                333.26,
+                304.66,
+                343.26
+              ]
+            },
+            {
+              "text": "price)",
+              "bbox": [
+                282.19,
+                345.26,
+                306.04,
+                355.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 5,
+          "cell_bbox": [
+            320.74,
+            307.89,
+            69.24,
+            57.0
+          ],
+          "text": "Thành tiền (Amount)",
+          "text_segments": [
+            {
+              "text": "Thành",
+              "bbox": [
+                331.9,
+                324.34,
+                360.24,
+                334.34
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                362.74,
+                324.34,
+                378.83,
+                334.34
+              ]
+            },
+            {
+              "text": "(Amount)",
+              "bbox": [
+                336.48,
+                339.26,
+                374.23,
+                349.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 6,
+          "cell_bbox": [
+            389.98,
+            307.89,
+            31.95,
+            57.0
+          ],
+          "text": "Thuế suất (Vat rate)",
+          "text_segments": [
+            {
+              "text": "Thuế",
+              "bbox": [
+                394.85,
+                312.34,
+                417.06,
+                322.34
+              ]
+            },
+            {
+              "text": "suất",
+              "bbox": [
+                397.06,
+                324.34,
+                414.84,
+                334.34
+              ]
+            },
+            {
+              "text": "(Vat",
+              "bbox": [
+                397.91,
+                339.26,
+                414.01,
+                349.26
+              ]
+            },
+            {
+              "text": "rate)",
+              "bbox": [
+                396.25,
+                351.26,
+                415.67,
+                361.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 7,
+          "cell_bbox": [
+            421.93,
+            307.89,
+            63.91,
+            57.0
+          ],
+          "text": "Tiền thuế (Vat amount)",
+          "text_segments": [
+            {
+              "text": "Tiền",
+              "bbox": [
+                433.58,
+                324.34,
+                452.82,
+                334.34
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                455.32,
+                324.34,
+                474.2,
+                334.34
+              ]
+            },
+            {
+              "text": "(Vat",
+              "bbox": [
+                427.93,
+                339.26,
+                444.03,
+                349.26
+              ]
+            },
+            {
+              "text": "amount)",
+              "bbox": [
+                446.53,
+                339.26,
+                479.85,
+                349.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 3,
+          "col_index": 8,
+          "cell_bbox": [
+            485.84,
+            307.89,
+            64.41,
+            57.0
+          ],
+          "text": "Thành tiền sau thuế (Total)",
+          "text_segments": [
+            {
+              "text": "Thành",
+              "bbox": [
+                494.33,
+                318.34,
+                522.67,
+                328.34
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                525.17,
+                318.34,
+                541.26,
+                328.34
+              ]
+            },
+            {
+              "text": "sau",
+              "bbox": [
+                499.88,
+                330.34,
+                514.33,
+                340.34
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                516.83,
+                330.34,
+                535.71,
+                340.34
+              ]
+            },
+            {
+              "text": "(Total)",
+              "bbox": [
+                504.37,
+                345.26,
+                531.22,
+                355.26
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            364.89,
+            27.13,
+            18.17
+          ],
+          "text": "1",
+          "text_segments": [
+            {
+              "text": "1",
+              "bbox": [
+                27.99,
+                369.35,
+                32.99,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 1,
+          "cell_bbox": [
+            43.8,
+            364.89,
+            138.47,
+            18.17
+          ],
+          "text": "2",
+          "text_segments": [
+            {
+              "text": "2",
+              "bbox": [
+                110.54,
+                369.35,
+                115.54,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 2,
+          "cell_bbox": [
+            182.27,
+            364.89,
+            47.93,
+            18.17
+          ],
+          "text": "3",
+          "text_segments": [
+            {
+              "text": "3",
+              "bbox": [
+                203.74,
+                369.35,
+                208.74,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 3,
+          "cell_bbox": [
+            230.2,
+            364.89,
+            37.28,
+            18.17
+          ],
+          "text": "4",
+          "text_segments": [
+            {
+              "text": "4",
+              "bbox": [
+                246.35,
+                369.35,
+                251.35,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 4,
+          "cell_bbox": [
+            267.48,
+            364.89,
+            53.26,
+            18.17
+          ],
+          "text": "5",
+          "text_segments": [
+            {
+              "text": "5",
+              "bbox": [
+                291.61,
+                369.35,
+                296.61,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 5,
+          "cell_bbox": [
+            320.74,
+            364.89,
+            69.24,
+            18.17
+          ],
+          "text": "6 = 4 x 5",
+          "text_segments": [
+            {
+              "text": "6",
+              "bbox": [
+                337.51,
+                369.35,
+                342.51,
+                379.35
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                345.01,
+                369.35,
+                350.7,
+                379.35
+              ]
+            },
+            {
+              "text": "4",
+              "bbox": [
+                353.2,
+                369.35,
+                358.2,
+                379.35
+              ]
+            },
+            {
+              "text": "x",
+              "bbox": [
+                360.7,
+                369.35,
+                365.7,
+                379.35
+              ]
+            },
+            {
+              "text": "5",
+              "bbox": [
+                368.2,
+                369.35,
+                373.2,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 6,
+          "cell_bbox": [
+            389.98,
+            364.89,
+            31.95,
+            18.17
+          ],
+          "text": "7",
+          "text_segments": [
+            {
+              "text": "7",
+              "bbox": [
+                403.46,
+                369.35,
+                408.46,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 7,
+          "cell_bbox": [
+            421.93,
+            364.89,
+            63.91,
+            18.17
+          ],
+          "text": "8 = 6 x 7",
+          "text_segments": [
+            {
+              "text": "8",
+              "bbox": [
+                436.04,
+                369.35,
+                441.04,
+                379.35
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                443.54,
+                369.35,
+                449.23,
+                379.35
+              ]
+            },
+            {
+              "text": "6",
+              "bbox": [
+                451.73,
+                369.35,
+                456.73,
+                379.35
+              ]
+            },
+            {
+              "text": "x",
+              "bbox": [
+                459.23,
+                369.35,
+                464.23,
+                379.35
+              ]
+            },
+            {
+              "text": "7",
+              "bbox": [
+                466.73,
+                369.35,
+                471.73,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 4,
+          "col_index": 8,
+          "cell_bbox": [
+            485.84,
+            364.89,
+            64.41,
+            18.17
+          ],
+          "text": "9 = 6 + 8",
+          "text_segments": [
+            {
+              "text": "9",
+              "bbox": [
+                499.6,
+                369.35,
+                504.6,
+                379.35
+              ]
+            },
+            {
+              "text": "=",
+              "bbox": [
+                507.1,
+                369.35,
+                512.79,
+                379.35
+              ]
+            },
+            {
+              "text": "6",
+              "bbox": [
+                515.29,
+                369.35,
+                520.29,
+                379.35
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                522.79,
+                369.35,
+                528.48,
+                379.35
+              ]
+            },
+            {
+              "text": "8",
+              "bbox": [
+                530.98,
+                369.35,
+                535.98,
+                379.35
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            383.06,
+            27.13,
+            38.57
+          ],
+          "text": "1",
+          "text_segments": [
+            {
+              "text": "1",
+              "bbox": [
+                28.24,
+                398.25,
+                32.74,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 1,
+          "cell_bbox": [
+            43.8,
+            383.06,
+            138.47,
+            38.57
+          ],
+          "text": "Phí dịch vụ Tên miền quốc gia (ecoaching.vn) từ ngày 27/03/2024 đến ngày 27/03/2025 - DH908896",
+          "text_segments": [
+            {
+              "text": "Phí",
+              "bbox": [
+                46.89,
+                387.45,
+                58.88,
+                396.45
+              ]
+            },
+            {
+              "text": "dịch",
+              "bbox": [
+                61.13,
+                387.45,
+                76.61,
+                396.45
+              ]
+            },
+            {
+              "text": "vụ",
+              "bbox": [
+                78.86,
+                387.45,
+                87.86,
+                396.45
+              ]
+            },
+            {
+              "text": "Tên",
+              "bbox": [
+                90.11,
+                387.45,
+                104.09,
+                396.45
+              ]
+            },
+            {
+              "text": "miền",
+              "bbox": [
+                106.34,
+                387.45,
+                124.31,
+                396.45
+              ]
+            },
+            {
+              "text": "quốc",
+              "bbox": [
+                126.56,
+                387.45,
+                144.05,
+                396.45
+              ]
+            },
+            {
+              "text": "gia",
+              "bbox": [
+                146.3,
+                387.45,
+                157.28,
+                396.45
+              ]
+            },
+            {
+              "text": "(ecoaching.vn)",
+              "bbox": [
+                46.89,
+                398.25,
+                100.57,
+                407.25
+              ]
+            },
+            {
+              "text": "từ",
+              "bbox": [
+                102.82,
+                398.25,
+                110.18,
+                407.25
+              ]
+            },
+            {
+              "text": "ngày",
+              "bbox": [
+                112.43,
+                398.25,
+                129.92,
+                407.25
+              ]
+            },
+            {
+              "text": "27/03/2024",
+              "bbox": [
+                132.17,
+                398.25,
+                173.16,
+                407.25
+              ]
+            },
+            {
+              "text": "đến",
+              "bbox": [
+                46.89,
+                409.05,
+                59.87,
+                418.05
+              ]
+            },
+            {
+              "text": "ngày",
+              "bbox": [
+                62.12,
+                409.05,
+                79.61,
+                418.05
+              ]
+            },
+            {
+              "text": "27/03/2025",
+              "bbox": [
+                81.86,
+                409.05,
+                122.85,
+                418.05
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                125.1,
+                409.05,
+                128.09,
+                418.05
+              ]
+            },
+            {
+              "text": "DH908896",
+              "bbox": [
+                130.34,
+                409.05,
+                170.34,
+                418.05
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 2,
+          "cell_bbox": [
+            182.27,
+            383.06,
+            47.93,
+            38.57
+          ],
+          "text": "Gói",
+          "text_segments": [
+            {
+              "text": "Gói",
+              "bbox": [
+                199.49,
+                398.25,
+                212.98,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 3,
+          "cell_bbox": [
+            230.2,
+            383.06,
+            37.28,
+            38.57
+          ],
+          "text": "1",
+          "text_segments": [
+            {
+              "text": "1",
+              "bbox": [
+                246.59,
+                398.25,
+                251.09,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 4,
+          "cell_bbox": [
+            267.48,
+            383.06,
+            53.26,
+            38.57
+          ],
+          "text": "350.000",
+          "text_segments": [
+            {
+              "text": "350.000",
+              "bbox": [
+                288.41,
+                398.25,
+                317.66,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 5,
+          "cell_bbox": [
+            320.74,
+            383.06,
+            69.24,
+            38.57
+          ],
+          "text": "350.000",
+          "text_segments": [
+            {
+              "text": "350.000",
+              "bbox": [
+                357.64,
+                398.25,
+                386.89,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 6,
+          "cell_bbox": [
+            389.98,
+            383.06,
+            31.95,
+            38.57
+          ],
+          "text": "\\",
+          "text_segments": [
+            {
+              "text": "\\",
+              "bbox": [
+                416.36,
+                398.25,
+                418.85,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 7,
+          "cell_bbox": [
+            421.93,
+            383.06,
+            63.91,
+            38.57
+          ],
+          "text": "\\",
+          "text_segments": [
+            {
+              "text": "\\",
+              "bbox": [
+                480.26,
+                398.25,
+                482.76,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 5,
+          "col_index": 8,
+          "cell_bbox": [
+            485.84,
+            383.06,
+            64.41,
+            38.57
+          ],
+          "text": "350.000",
+          "text_segments": [
+            {
+              "text": "350.000",
+              "bbox": [
+                517.42,
+                398.25,
+                546.67,
+                407.25
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            421.63,
+            27.13,
+            49.37
+          ],
+          "text": "2",
+          "text_segments": [
+            {
+              "text": "2",
+              "bbox": [
+                28.24,
+                442.22,
+                32.74,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 1,
+          "cell_bbox": [
+            43.8,
+            421.63,
+            138.47,
+            49.37
+          ],
+          "text": "Phí dịch vụ tài khoản quản trị Tên miền quốc gia (ecoaching.vn) từ ngày 27/03/2024 đến ngày 27/03/2025 - DH908896",
+          "text_segments": [
+            {
+              "text": "Phí",
+              "bbox": [
+                46.89,
+                426.02,
+                58.88,
+                435.02
+              ]
+            },
+            {
+              "text": "dịch",
+              "bbox": [
+                61.13,
+                426.02,
+                76.61,
+                435.02
+              ]
+            },
+            {
+              "text": "vụ",
+              "bbox": [
+                78.86,
+                426.02,
+                87.86,
+                435.02
+              ]
+            },
+            {
+              "text": "tài",
+              "bbox": [
+                90.11,
+                426.02,
+                99.09,
+                435.02
+              ]
+            },
+            {
+              "text": "khoản",
+              "bbox": [
+                101.34,
+                426.02,
+                123.32,
+                435.02
+              ]
+            },
+            {
+              "text": "quản",
+              "bbox": [
+                125.57,
+                426.02,
+                143.06,
+                435.02
+              ]
+            },
+            {
+              "text": "trị",
+              "bbox": [
+                145.31,
+                426.02,
+                153.29,
+                435.02
+              ]
+            },
+            {
+              "text": "Tên",
+              "bbox": [
+                155.54,
+                426.02,
+                169.52,
+                435.02
+              ]
+            },
+            {
+              "text": "miền",
+              "bbox": [
+                46.89,
+                436.82,
+                64.86,
+                445.82
+              ]
+            },
+            {
+              "text": "quốc",
+              "bbox": [
+                67.11,
+                436.82,
+                84.6,
+                445.82
+              ]
+            },
+            {
+              "text": "gia",
+              "bbox": [
+                86.85,
+                436.82,
+                97.83,
+                445.82
+              ]
+            },
+            {
+              "text": "(ecoaching.vn)",
+              "bbox": [
+                100.08,
+                436.82,
+                153.76,
+                445.82
+              ]
+            },
+            {
+              "text": "từ",
+              "bbox": [
+                46.89,
+                447.62,
+                54.25,
+                456.62
+              ]
+            },
+            {
+              "text": "ngày",
+              "bbox": [
+                56.5,
+                447.62,
+                73.99,
+                456.62
+              ]
+            },
+            {
+              "text": "27/03/2024",
+              "bbox": [
+                76.24,
+                447.62,
+                117.22,
+                456.62
+              ]
+            },
+            {
+              "text": "đến",
+              "bbox": [
+                119.47,
+                447.62,
+                132.46,
+                456.62
+              ]
+            },
+            {
+              "text": "ngày",
+              "bbox": [
+                134.71,
+                447.62,
+                152.2,
+                456.62
+              ]
+            },
+            {
+              "text": "27/03/2025",
+              "bbox": [
+                46.89,
+                458.42,
+                87.87,
+                467.42
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                90.12,
+                458.42,
+                93.12,
+                467.42
+              ]
+            },
+            {
+              "text": "DH908896",
+              "bbox": [
+                95.37,
+                458.42,
+                135.37,
+                467.42
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 2,
+          "cell_bbox": [
+            182.27,
+            421.63,
+            47.93,
+            49.37
+          ],
+          "text": "Gói",
+          "text_segments": [
+            {
+              "text": "Gói",
+              "bbox": [
+                199.49,
+                442.22,
+                212.98,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 3,
+          "cell_bbox": [
+            230.2,
+            421.63,
+            37.28,
+            49.37
+          ],
+          "text": "1",
+          "text_segments": [
+            {
+              "text": "1",
+              "bbox": [
+                246.59,
+                442.22,
+                251.09,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 4,
+          "cell_bbox": [
+            267.48,
+            421.63,
+            53.26,
+            49.37
+          ],
+          "text": "100.000",
+          "text_segments": [
+            {
+              "text": "100.000",
+              "bbox": [
+                288.41,
+                442.22,
+                317.66,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 5,
+          "cell_bbox": [
+            320.74,
+            421.63,
+            69.24,
+            49.37
+          ],
+          "text": "100.000",
+          "text_segments": [
+            {
+              "text": "100.000",
+              "bbox": [
+                357.64,
+                442.22,
+                386.89,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 6,
+          "cell_bbox": [
+            389.98,
+            421.63,
+            31.95,
+            49.37
+          ],
+          "text": "10%",
+          "text_segments": [
+            {
+              "text": "10%",
+              "bbox": [
+                402.35,
+                442.22,
+                418.85,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 7,
+          "cell_bbox": [
+            421.93,
+            421.63,
+            63.91,
+            49.37
+          ],
+          "text": "10.000",
+          "text_segments": [
+            {
+              "text": "10.000",
+              "bbox": [
+                458.01,
+                442.22,
+                482.76,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 6,
+          "col_index": 8,
+          "cell_bbox": [
+            485.84,
+            421.63,
+            64.41,
+            49.37
+          ],
+          "text": "110.000",
+          "text_segments": [
+            {
+              "text": "110.000",
+              "bbox": [
+                517.75,
+                442.22,
+                546.67,
+                451.22
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 7,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            471.0,
+            304.07,
+            16.97
+          ],
+          "text": "Cộng tiền hàng hóa, dịch vụ (Invoice total):",
+          "text_segments": [
+            {
+              "text": "Cộng",
+              "bbox": [
+                141.56,
+                475.22,
+                164.34,
+                485.22
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                166.84,
+                475.22,
+                182.93,
+                485.22
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                185.43,
+                475.22,
+                206.55,
+                485.22
+              ]
+            },
+            {
+              "text": "hóa,",
+              "bbox": [
+                209.05,
+                475.22,
+                227.11,
+                485.22
+              ]
+            },
+            {
+              "text": "dịch",
+              "bbox": [
+                229.61,
+                475.22,
+                247.93,
+                485.22
+              ]
+            },
+            {
+              "text": "vụ",
+              "bbox": [
+                250.43,
+                475.22,
+                260.99,
+                485.22
+              ]
+            },
+            {
+              "text": "(Invoice",
+              "bbox": [
+                263.49,
+                475.39,
+                292.94,
+                484.39
+              ]
+            },
+            {
+              "text": "total):",
+              "bbox": [
+                295.19,
+                475.39,
+                317.66,
+                484.39
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 7,
+          "col_index": 5,
+          "cell_bbox": [
+            320.74,
+            471.0,
+            69.24,
+            16.97
+          ],
+          "text": "450.000",
+          "text_segments": [
+            {
+              "text": "450.000",
+              "bbox": [
+                357.64,
+                475.39,
+                386.89,
+                484.39
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 7,
+          "col_index": 6,
+          "cell_bbox": [
+            389.98,
+            471.0,
+            31.95,
+            16.97
+          ],
+          "text": "",
+          "text_segments": []
+        },
+        {
+          "row_index": 7,
+          "col_index": 7,
+          "cell_bbox": [
+            421.93,
+            471.0,
+            63.91,
+            16.97
+          ],
+          "text": "10.000",
+          "text_segments": [
+            {
+              "text": "10.000",
+              "bbox": [
+                458.01,
+                475.39,
+                482.76,
+                484.39
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 7,
+          "col_index": 8,
+          "cell_bbox": [
+            485.84,
+            471.0,
+            64.41,
+            33.94
+          ],
+          "text": "460.000",
+          "text_segments": [
+            {
+              "text": "460.000",
+              "bbox": [
+                517.42,
+                483.87,
+                546.67,
+                492.87
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 8,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            487.96,
+            469.17,
+            16.97
+          ],
+          "text": "Tổng cộng tiền thanh toán (Total payment):",
+          "text_segments": [
+            {
+              "text": "Tổng",
+              "bbox": [
+                308.18,
+                492.19,
+                330.4,
+                502.19
+              ]
+            },
+            {
+              "text": "cộng",
+              "bbox": [
+                332.9,
+                492.19,
+                352.89,
+                502.19
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                355.39,
+                492.19,
+                371.48,
+                502.19
+              ]
+            },
+            {
+              "text": "thanh",
+              "bbox": [
+                373.98,
+                492.19,
+                398.99,
+                502.19
+              ]
+            },
+            {
+              "text": "toán",
+              "bbox": [
+                401.49,
+                492.19,
+                420.38,
+                502.19
+              ]
+            },
+            {
+              "text": "(Total",
+              "bbox": [
+                422.88,
+                492.36,
+                444.05,
+                501.36
+              ]
+            },
+            {
+              "text": "payment):",
+              "bbox": [
+                446.3,
+                492.36,
+                482.76,
+                501.36
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 9,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            504.93,
+            533.58,
+            16.97
+          ],
+          "text": "Số tiền viết bằng chữ (Amount in words): Bốn trăm sáu mươi nghìn đồng",
+          "text_segments": [
+            {
+              "text": "Số",
+              "bbox": [
+                20.26,
+                509.16,
+                30.82,
+                519.16
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                33.32,
+                509.16,
+                49.41,
+                519.16
+              ]
+            },
+            {
+              "text": "viết",
+              "bbox": [
+                51.91,
+                509.16,
+                67.44,
+                519.16
+              ]
+            },
+            {
+              "text": "bằng",
+              "bbox": [
+                69.94,
+                509.16,
+                91.06,
+                519.16
+              ]
+            },
+            {
+              "text": "chữ",
+              "bbox": [
+                93.56,
+                509.16,
+                109.55,
+                519.16
+              ]
+            },
+            {
+              "text": "(Amount",
+              "bbox": [
+                112.05,
+                509.33,
+                143.03,
+                518.33
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                145.28,
+                509.33,
+                152.27,
+                518.33
+              ]
+            },
+            {
+              "text": "words):",
+              "bbox": [
+                154.52,
+                509.33,
+                182.18,
+                518.33
+              ]
+            },
+            {
+              "text": "Bốn",
+              "bbox": [
+                184.42,
+                509.32,
+                199.42,
+                518.32
+              ]
+            },
+            {
+              "text": "trăm",
+              "bbox": [
+                201.67,
+                509.32,
+                218.14,
+                518.32
+              ]
+            },
+            {
+              "text": "sáu",
+              "bbox": [
+                220.39,
+                509.32,
+                232.38,
+                518.32
+              ]
+            },
+            {
+              "text": "mươi",
+              "bbox": [
+                234.63,
+                509.32,
+                253.73,
+                518.32
+              ]
+            },
+            {
+              "text": "nghìn",
+              "bbox": [
+                255.98,
+                509.32,
+                276.48,
+                518.32
+              ]
+            },
+            {
+              "text": "đồng",
+              "bbox": [
+                278.73,
+                509.32,
+                296.73,
+                518.32
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 10,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            521.9,
+            533.58,
+            88.84
+          ],
+          "text": "Tổng tiền không chịu thuế:350.000 Tổng tiền chịu thuế 0%: Tổng tiền chịu thuế 5%: Tổng tiền thuế GTGT 5%: Tổng tiền chịu thuế 8%: Tổng tiền thuế GTGT 8%: Tổng tiền chịu thuế 10%: 100.000 Tổng tiền thuế GTGT 10%: 10.000",
+          "text_segments": [
+            {
+              "text": "Tổng",
+              "bbox": [
+                20.26,
+                526.43,
+                41.36,
+                536.43
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                43.86,
+                526.43,
+                58.83,
+                536.43
+              ]
+            },
+            {
+              "text": "không",
+              "bbox": [
+                61.33,
+                526.43,
+                86.33,
+                536.43
+              ]
+            },
+            {
+              "text": "chịu",
+              "bbox": [
+                88.83,
+                526.43,
+                106.03,
+                536.43
+              ]
+            },
+            {
+              "text": "thuế:350.000",
+              "bbox": [
+                108.53,
+                526.27,
+                161.0,
+                536.43
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                20.26,
+                544.1,
+                41.36,
+                554.1
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                43.86,
+                544.1,
+                58.83,
+                554.1
+              ]
+            },
+            {
+              "text": "chịu",
+              "bbox": [
+                61.33,
+                544.1,
+                78.53,
+                554.1
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                81.03,
+                544.1,
+                98.23,
+                554.1
+              ]
+            },
+            {
+              "text": "0%:",
+              "bbox": [
+                100.73,
+                544.1,
+                116.83,
+                554.1
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                20.26,
+                561.77,
+                41.36,
+                571.77
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                43.86,
+                561.77,
+                58.83,
+                571.77
+              ]
+            },
+            {
+              "text": "chịu",
+              "bbox": [
+                61.33,
+                561.77,
+                78.53,
+                571.77
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                81.03,
+                561.77,
+                98.23,
+                571.77
+              ]
+            },
+            {
+              "text": "5%:",
+              "bbox": [
+                100.73,
+                561.77,
+                116.83,
+                571.77
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                283.46,
+                558.94,
+                304.56,
+                568.94
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                307.06,
+                558.94,
+                322.03,
+                568.94
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                324.53,
+                558.94,
+                341.73,
+                568.94
+              ]
+            },
+            {
+              "text": "GTGT",
+              "bbox": [
+                344.23,
+                558.94,
+                370.87,
+                568.94
+              ]
+            },
+            {
+              "text": "5%:",
+              "bbox": [
+                373.37,
+                558.94,
+                389.47,
+                568.94
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                20.26,
+                579.44,
+                41.36,
+                589.44
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                43.86,
+                579.44,
+                58.83,
+                589.44
+              ]
+            },
+            {
+              "text": "chịu",
+              "bbox": [
+                61.33,
+                579.44,
+                78.53,
+                589.44
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                81.03,
+                579.44,
+                98.23,
+                589.44
+              ]
+            },
+            {
+              "text": "8%:",
+              "bbox": [
+                100.73,
+                579.44,
+                116.83,
+                589.44
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                283.46,
+                576.6,
+                304.56,
+                586.6
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                307.06,
+                576.6,
+                322.03,
+                586.6
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                324.53,
+                576.6,
+                341.73,
+                586.6
+              ]
+            },
+            {
+              "text": "GTGT",
+              "bbox": [
+                344.23,
+                576.6,
+                370.87,
+                586.6
+              ]
+            },
+            {
+              "text": "8%:",
+              "bbox": [
+                373.37,
+                576.6,
+                389.47,
+                586.6
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                20.26,
+                597.11,
+                41.36,
+                607.11
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                43.86,
+                597.11,
+                58.83,
+                607.11
+              ]
+            },
+            {
+              "text": "chịu",
+              "bbox": [
+                61.33,
+                597.11,
+                78.53,
+                607.11
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                81.03,
+                597.11,
+                98.23,
+                607.11
+              ]
+            },
+            {
+              "text": "10%:",
+              "bbox": [
+                100.73,
+                597.11,
+                121.83,
+                607.11
+              ]
+            },
+            {
+              "text": "100.000",
+              "bbox": [
+                124.33,
+                596.95,
+                156.83,
+                606.95
+              ]
+            },
+            {
+              "text": "Tổng",
+              "bbox": [
+                283.46,
+                594.27,
+                304.56,
+                604.27
+              ]
+            },
+            {
+              "text": "tiền",
+              "bbox": [
+                307.06,
+                594.27,
+                322.03,
+                604.27
+              ]
+            },
+            {
+              "text": "thuế",
+              "bbox": [
+                324.53,
+                594.27,
+                341.73,
+                604.27
+              ]
+            },
+            {
+              "text": "GTGT",
+              "bbox": [
+                344.23,
+                594.27,
+                370.87,
+                604.27
+              ]
+            },
+            {
+              "text": "10%:",
+              "bbox": [
+                373.37,
+                594.27,
+                394.47,
+                604.27
+              ]
+            },
+            {
+              "text": "10.000",
+              "bbox": [
+                396.97,
+                594.11,
+                424.47,
+                604.11
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 11,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            610.74,
+            533.58,
+            168.32
+          ],
+          "text": "Người mua hàng (Buyer) Người bán hàng (Seller) Ký bởi CÔNG TY TNHH VIETTEL - CHT Ký ngày 05/04/2024 Mã của cơ quan thuế: 009F0FD448EFD54D4E9171FCB33925E87E",
+          "text_segments": [
+            {
+              "text": "Người",
+              "bbox": [
+                98.05,
+                620.78,
+                124.57,
+                630.78
+              ]
+            },
+            {
+              "text": "mua",
+              "bbox": [
+                127.07,
+                620.78,
+                145.96,
+                630.78
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                148.46,
+                620.78,
+                169.58,
+                630.78
+              ]
+            },
+            {
+              "text": "(Buyer)",
+              "bbox": [
+                172.08,
+                620.95,
+                202.59,
+                630.95
+              ]
+            },
+            {
+              "text": "Người",
+              "bbox": [
+                366.0,
+                620.78,
+                392.52,
+                630.78
+              ]
+            },
+            {
+              "text": "bán",
+              "bbox": [
+                395.02,
+                620.78,
+                411.14,
+                630.78
+              ]
+            },
+            {
+              "text": "hàng",
+              "bbox": [
+                413.64,
+                620.78,
+                434.76,
+                630.78
+              ]
+            },
+            {
+              "text": "(Seller)",
+              "bbox": [
+                437.26,
+                620.95,
+                467.21,
+                630.95
+              ]
+            },
+            {
+              "text": "Ký",
+              "bbox": [
+                323.2,
+                646.86,
+                335.97,
+                656.86
+              ]
+            },
+            {
+              "text": "bởi",
+              "bbox": [
+                338.47,
+                646.86,
+                352.33,
+                656.86
+              ]
+            },
+            {
+              "text": "CÔNG",
+              "bbox": [
+                354.83,
+                646.86,
+                384.81,
+                656.86
+              ]
+            },
+            {
+              "text": "TY",
+              "bbox": [
+                387.31,
+                646.86,
+                401.19,
+                656.86
+              ]
+            },
+            {
+              "text": "TNHH",
+              "bbox": [
+                403.69,
+                646.86,
+                433.11,
+                656.86
+              ]
+            },
+            {
+              "text": "VIETTEL",
+              "bbox": [
+                435.61,
+                646.86,
+                480.02,
+                656.86
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                482.52,
+                646.86,
+                485.85,
+                656.86
+              ]
+            },
+            {
+              "text": "CHT",
+              "bbox": [
+                488.35,
+                646.86,
+                510.0,
+                656.86
+              ]
+            },
+            {
+              "text": "Ký",
+              "bbox": [
+                374.67,
+                658.86,
+                387.44,
+                668.86
+              ]
+            },
+            {
+              "text": "ngày",
+              "bbox": [
+                389.94,
+                658.86,
+                410.5,
+                668.86
+              ]
+            },
+            {
+              "text": "05/04/2024",
+              "bbox": [
+                413.0,
+                658.86,
+                458.54,
+                668.86
+              ]
+            },
+            {
+              "text": "Mã",
+              "bbox": [
+                185.9,
+                771.18,
+                195.23,
+                778.18
+              ]
+            },
+            {
+              "text": "của",
+              "bbox": [
+                196.98,
+                771.18,
+                207.08,
+                778.18
+              ]
+            },
+            {
+              "text": "cơ",
+              "bbox": [
+                208.83,
+                771.18,
+                215.66,
+                778.18
+              ]
+            },
+            {
+              "text": "quan",
+              "bbox": [
+                217.41,
+                771.18,
+                231.41,
+                778.18
+              ]
+            },
+            {
+              "text": "thuế:",
+              "bbox": [
+                233.16,
+                771.18,
+                247.53,
+                778.18
+              ]
+            },
+            {
+              "text": "009F0FD448EFD54D4E9171FCB33925E87E",
+              "bbox": [
+                249.28,
+                771.18,
+                381.03,
+                778.18
+              ]
+            }
+          ]
+        },
+        {
+          "row_index": 12,
+          "col_index": 0,
+          "cell_bbox": [
+            16.67,
+            779.06,
+            533.58,
+            18.81
+          ],
+          "text": "Đơn vị cung cấp dịch vụ Hóa đơn điện tử: Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), MST: 0100109106 Tra cứu hóa đơn điện tử tại Website: https://vinvoice.viettel.vn/utilities/invoice-search . Mã số bí mật: T9HN7LPXA2UF3G8",
+          "text_segments": [
+            {
+              "text": "Đơn",
+              "bbox": [
+                119.58,
+                780.59,
+                131.86,
+                787.59
+              ]
+            },
+            {
+              "text": "vị",
+              "bbox": [
+                133.61,
+                780.59,
+                138.65,
+                787.59
+              ]
+            },
+            {
+              "text": "cung",
+              "bbox": [
+                140.4,
+                780.59,
+                154.01,
+                787.59
+              ]
+            },
+            {
+              "text": "cấp",
+              "bbox": [
+                155.76,
+                780.59,
+                165.86,
+                787.59
+              ]
+            },
+            {
+              "text": "dịch",
+              "bbox": [
+                167.61,
+                780.59,
+                179.65,
+                787.59
+              ]
+            },
+            {
+              "text": "vụ",
+              "bbox": [
+                181.4,
+                780.59,
+                188.0,
+                787.59
+              ]
+            },
+            {
+              "text": "Hóa",
+              "bbox": [
+                189.75,
+                780.59,
+                201.8,
+                787.59
+              ]
+            },
+            {
+              "text": "đơn",
+              "bbox": [
+                203.55,
+                780.59,
+                214.28,
+                787.59
+              ]
+            },
+            {
+              "text": "điện",
+              "bbox": [
+                216.03,
+                780.59,
+                228.07,
+                787.59
+              ]
+            },
+            {
+              "text": "tử:",
+              "bbox": [
+                229.82,
+                780.59,
+                237.91,
+                787.59
+              ]
+            },
+            {
+              "text": "Tập",
+              "bbox": [
+                239.66,
+                780.59,
+                250.55,
+                787.59
+              ]
+            },
+            {
+              "text": "đoàn",
+              "bbox": [
+                252.3,
+                780.59,
+                266.3,
+                787.59
+              ]
+            },
+            {
+              "text": "Công",
+              "bbox": [
+                268.05,
+                780.59,
+                283.21,
+                787.59
+              ]
+            },
+            {
+              "text": "nghiệp",
+              "bbox": [
+                284.96,
+                780.59,
+                304.0,
+                787.59
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                305.75,
+                780.59,
+                308.08,
+                787.59
+              ]
+            },
+            {
+              "text": "Viễn",
+              "bbox": [
+                309.83,
+                780.59,
+                322.12,
+                787.59
+              ]
+            },
+            {
+              "text": "thông",
+              "bbox": [
+                323.87,
+                780.59,
+                339.81,
+                787.59
+              ]
+            },
+            {
+              "text": "Quân",
+              "bbox": [
+                341.56,
+                780.59,
+                357.12,
+                787.59
+              ]
+            },
+            {
+              "text": "đội",
+              "bbox": [
+                358.87,
+                780.59,
+                367.81,
+                787.59
+              ]
+            },
+            {
+              "text": "(Viettel),",
+              "bbox": [
+                369.56,
+                780.59,
+                393.68,
+                787.59
+              ]
+            },
+            {
+              "text": "MST:",
+              "bbox": [
+                395.43,
+                780.59,
+                410.6,
+                787.59
+              ]
+            },
+            {
+              "text": "0100109106",
+              "bbox": [
+                412.35,
+                780.59,
+                447.35,
+                787.59
+              ]
+            },
+            {
+              "text": "Tra",
+              "bbox": [
+                108.17,
+                788.99,
+                117.9,
+                795.99
+              ]
+            },
+            {
+              "text": "cứu",
+              "bbox": [
+                119.65,
+                788.99,
+                130.07,
+                795.99
+              ]
+            },
+            {
+              "text": "hóa",
+              "bbox": [
+                131.82,
+                788.99,
+                142.32,
+                795.99
+              ]
+            },
+            {
+              "text": "đơn",
+              "bbox": [
+                144.07,
+                788.99,
+                154.8,
+                795.99
+              ]
+            },
+            {
+              "text": "điện",
+              "bbox": [
+                156.55,
+                788.99,
+                168.59,
+                795.99
+              ]
+            },
+            {
+              "text": "tử",
+              "bbox": [
+                170.34,
+                788.99,
+                176.09,
+                795.99
+              ]
+            },
+            {
+              "text": "tại",
+              "bbox": [
+                177.84,
+                788.99,
+                185.22,
+                795.99
+              ]
+            },
+            {
+              "text": "Website:",
+              "bbox": [
+                186.97,
+                788.99,
+                210.8,
+                795.99
+              ]
+            },
+            {
+              "text": "https://vinvoice.viettel.vn/utilities/invoice-search",
+              "bbox": [
+                212.55,
+                788.99,
+                348.54,
+                795.99
+              ]
+            },
+            {
+              "text": ".",
+              "bbox": [
+                350.29,
+                788.99,
+                352.04,
+                795.99
+              ]
+            },
+            {
+              "text": "Mã",
+              "bbox": [
+                353.79,
+                788.99,
+                363.12,
+                795.99
+              ]
+            },
+            {
+              "text": "số",
+              "bbox": [
+                364.87,
+                788.99,
+                371.09,
+                795.99
+              ]
+            },
+            {
+              "text": "bí",
+              "bbox": [
+                372.84,
+                788.99,
+                378.28,
+                795.99
+              ]
+            },
+            {
+              "text": "mật:",
+              "bbox": [
+                380.03,
+                788.99,
+                392.86,
+                795.99
+              ]
+            },
+            {
+              "text": "T9HN7LPXA2UF3G8",
+              "bbox": [
+                394.61,
+                788.98,
+                458.75,
+                795.98
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
