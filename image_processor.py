@@ -63,13 +63,18 @@ def apply_morph_closing(image, kernel_size=(2, 2)):
     closed = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
     return closed
 
-def preprocess_image(image_path, sharpen=True, denoise=True, threshold=False, enhance_contrast=True, deskew=True, bg_removal=True, shadow_removal=True, edge_enhance=False, morph_close=False):
+def preprocess_image(image_input, sharpen=True, denoise=True, threshold=False, enhance_contrast=True, deskew=True, bg_removal=True, shadow_removal=True, edge_enhance=False, morph_close=False, image_input_is_np=False):
     """
-    Tiền xử lý hình ảnh tối ưu giữ nguyên nét chữ và dấu tiếng Việt
+    Tiền xử lý hình ảnh tối ưu giữ nguyên nét chữ và dấu tiếng Việt.
+    Hỗ trợ đầu vào là đường dẫn file (str) hoặc Mảng NumPy OpenCV (np.ndarray).
     """
-    img = cv2.imread(image_path)
-    if img is None:
-        raise FileNotFoundError(f"Không tìm thấy ảnh tại đường dẫn: {image_path}")
+    if isinstance(image_input, np.ndarray) or image_input_is_np:
+        img = image_input.copy()
+    else:
+        img = cv2.imread(image_input)
+        if img is None:
+            raise FileNotFoundError(f"Không tìm thấy ảnh tại đường dẫn: {image_input}")
+
     
     # 1. Phóng to ảnh 2x
     height, width = img.shape[:2]

@@ -1,2167 +1,2277 @@
 {
   "original_filename": "hop_dong_mua_ban_tai_san.pdf",
   "category": "hop_dong",
+  "document_type": "pdf",
+  "source_type": "pdf_text",
+  "extraction_method": "native_text",
   "has_table": true,
-  "ocr_lines": [
-    {
-      "index": 1,
-      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
-      "confidence": 100.0
-    },
-    {
-      "index": 2,
-      "text": "Độc lập – Tự do – Hạnh phúc",
-      "confidence": 100.0
-    },
-    {
-      "index": 3,
-      "text": "HỢP ĐỒNG MUA BÁN TÀI SẢN",
-      "confidence": 100.0
-    },
-    {
-      "index": 4,
-      "text": "Số: 08/2026/HĐMB-TS",
-      "confidence": 100.0
-    },
-    {
-      "index": 5,
-      "text": "Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số",
-      "confidence": 100.0
-    },
-    {
-      "index": 6,
-      "text": "88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP . Hà Nội), chúng tôi gồm các bên dưới đây thống",
-      "confidence": 100.0
-    },
-    {
-      "index": 7,
-      "text": "nhất ký kết Hợp đồng mua bán tài sản:",
-      "confidence": 100.0
-    },
-    {
-      "index": 8,
-      "text": "BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)",
-      "confidence": 100.0
-    },
-    {
-      "index": 9,
-      "text": "Tên tổ chức/cá nhân: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
-      "confidence": 100.0
-    },
-    {
-      "index": 10,
-      "text": "Mã số doanh nghiệp : 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018",
-      "confidence": 100.0
-    },
-    {
-      "index": 11,
-      "text": "Địa chỉ trụ sở chính : Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh",
-      "confidence": 100.0
-    },
-    {
-      "index": 12,
-      "text": "Xuân, Hà Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 13,
-      "text": "Người đại diện theo PL: Ông Nguyễn Văn Hùng          Chức vụ: Tổng Giám đốc",
-      "confidence": 100.0
-    },
-    {
-      "index": 14,
-      "text": "Số CCCD : 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021",
-      "confidence": 100.0
-    },
-    {
-      "index": 15,
-      "text": "Số điện thoại / Email: 024.3789.9999  |  contact@tanthinhphat-tech.vn",
-      "confidence": 100.0
-    },
-    {
-      "index": 16,
-      "text": "Tài khoản ngân hàng: 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)",
-      "confidence": 100.0
-    },
-    {
-      "index": 17,
-      "text": "- CN Thăng Long",
-      "confidence": 100.0
-    },
-    {
-      "index": 18,
-      "text": "BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)",
-      "confidence": 100.0
-    },
-    {
-      "index": 19,
-      "text": "Tên tổ chức/cá nhân: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
-      "confidence": 100.0
-    },
-    {
-      "index": 20,
-      "text": "Mã số doanh nghiệp : 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020",
-      "confidence": 100.0
-    },
-    {
-      "index": 21,
-      "text": "Địa chỉ trụ sở chính : Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 22,
-      "text": "Người đại diện theo PL: Bà Trần Thị Minh Phương      Chức vụ: Giám đốc Điều hành",
-      "confidence": 100.0
-    },
-    {
-      "index": 23,
-      "text": "Số CCCD : 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022",
-      "confidence": 100.0
-    },
-    {
-      "index": 24,
-      "text": "Số điện thoại / Email: 024.3988.8888  |  info@achaugroup.vn",
-      "confidence": 100.0
-    },
-    {
-      "index": 25,
-      "text": "Tài khoản ngân hàng: 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam",
-      "confidence": 100.0
-    },
-    {
-      "index": 26,
-      "text": "(Vietcombank) - CN Hà Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 27,
-      "text": "Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản",
-      "confidence": 100.0
-    },
-    {
-      "index": 28,
-      "text": "và điều kiện cụ thể sau đây:",
-      "confidence": 100.0
-    },
-    {
-      "index": 29,
-      "text": "ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN",
-      "confidence": 100.0
-    },
-    {
-      "index": 30,
-      "text": "1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên",
-      "confidence": 100.0
-    },
-    {
-      "index": 31,
-      "text": "dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số",
-      "confidence": 100.0
-    },
-    {
-      "index": 32,
-      "text": "kỹ thuật chi tiết như sau:",
-      "confidence": 100.0
-    },
-    {
-      "index": 33,
-      "text": "Trang 1 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 34,
-      "text": "STT Tên tài sản / Danh mụcQuy cách / Cấu hình kỹ",
-      "confidence": 100.0
-    },
-    {
-      "index": 35,
-      "text": "thuật ĐVT SL Tình trạng",
-      "confidence": 100.0
-    },
-    {
-      "index": 36,
-      "text": "01 Hệ thống Máy chủ Dell",
-      "confidence": 100.0
-    },
-    {
-      "index": 37,
-      "text": "PowerEdge R760",
-      "confidence": 100.0
-    },
-    {
-      "index": 38,
-      "text": "2x Intel Xeon Gold 6430,",
-      "confidence": 100.0
-    },
-    {
-      "index": 39,
-      "text": "256GB DDR5 RAM, 4x",
-      "confidence": 100.0
-    },
-    {
-      "index": 40,
-      "text": "1.92TB NVMe SSD, PSU",
-      "confidence": 100.0
-    },
-    {
-      "index": 41,
-      "text": "Redundant 1100W",
-      "confidence": 100.0
-    },
-    {
-      "index": 42,
-      "text": "Bộ 02",
-      "confidence": 100.0
-    },
-    {
-      "index": 43,
-      "text": "Mới 100%, nguyên",
-      "confidence": 100.0
-    },
-    {
-      "index": 44,
-      "text": "đai nguyên kiện,",
-      "confidence": 100.0
-    },
-    {
-      "index": 45,
-      "text": "CO/CQ đầy đủ",
-      "confidence": 100.0
-    },
-    {
-      "index": 46,
-      "text": "02 Thiết bị lưu trữ SAN Storage",
-      "confidence": 100.0
-    },
-    {
-      "index": 47,
-      "text": "Dell ME5024",
-      "confidence": 100.0
-    },
-    {
-      "index": 48,
-      "text": "Controller Dual 16Gb FC,",
-      "confidence": 100.0
-    },
-    {
-      "index": 49,
-      "text": "24x 2.4TB SAS 10K",
-      "confidence": 100.0
-    },
-    {
-      "index": 50,
-      "text": "RPM, 2x Direct Attach",
-      "confidence": 100.0
-    },
-    {
-      "index": 51,
-      "text": "Cables",
-      "confidence": 100.0
-    },
-    {
-      "index": 52,
-      "text": "Hệ 01 Mới 100%, nhập",
-      "confidence": 100.0
-    },
-    {
-      "index": 53,
-      "text": "khẩu chính hãng",
-      "confidence": 100.0
-    },
-    {
-      "index": 54,
-      "text": "03 Thiết bị mạng chuyển mạch",
-      "confidence": 100.0
-    },
-    {
-      "index": 55,
-      "text": "Cisco Nexus 9300",
-      "confidence": 100.0
-    },
-    {
-      "index": 56,
-      "text": "48 Port 10/25G SFP28 + 6",
-      "confidence": 100.0
-    },
-    {
-      "index": 57,
-      "text": "Port 100G QSFP28, Dual",
-      "confidence": 100.0
-    },
-    {
-      "index": 58,
-      "text": "Power Supply",
-      "confidence": 100.0
-    },
-    {
-      "index": 59,
-      "text": "Cái 02 Mới 100%, tiêu",
-      "confidence": 100.0
-    },
-    {
-      "index": 60,
-      "text": "chuẩn hãng Cisco",
-      "confidence": 100.0
-    },
-    {
-      "index": 61,
-      "text": "1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh",
-      "confidence": 100.0
-    },
-    {
-      "index": 62,
-      "text": "chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào",
-      "confidence": 100.0
-    },
-    {
-      "index": 63,
-      "text": "đối với bên thứ ba.",
-      "confidence": 100.0
-    },
-    {
-      "index": 64,
-      "text": "ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN",
-      "confidence": 100.0
-    },
-    {
-      "index": 65,
-      "text": "2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ(Bằng chữ: Một",
-      "confidence": 100.0
-    },
-    {
-      "index": 66,
-      "text": "tỷ năm trăm bốn mươi triệu đồng chẵn).",
-      "confidence": 100.0
-    },
-    {
-      "index": 67,
-      "text": "- Giá trên đã bao gồm thuế Giá trị gia tăng (V AT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo",
-      "confidence": 100.0
-    },
-    {
-      "index": 68,
-      "text": "hành tận nơi tại địa điểm của Bên B.",
-      "confidence": 100.0
-    },
-    {
-      "index": 69,
-      "text": "2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần",
-      "confidence": 100.0
-    },
-    {
-      "index": 70,
-      "text": "đầu Hợp đồng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 71,
-      "text": "2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:",
-      "confidence": 100.0
-    },
-    {
-      "index": 72,
-      "text": "Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ",
-      "confidence": 100.0
-    },
-    {
-      "index": 73,
-      "text": "trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.",
-      "confidence": 100.0
-    },
-    {
-      "index": 74,
-      "text": "Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương",
-      "confidence": 100.0
-    },
-    {
-      "index": 75,
-      "text": "924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa",
-      "confidence": 100.0
-    },
-    {
-      "index": 76,
-      "text": "đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.",
-      "confidence": 100.0
-    },
-    {
-      "index": 77,
-      "text": "Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong",
-      "confidence": 100.0
-    },
-    {
-      "index": 78,
-      "text": "vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.",
-      "confidence": 100.0
-    },
-    {
-      "index": 79,
-      "text": "ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN",
-      "confidence": 100.0
-    },
-    {
-      "index": 80,
-      "text": "3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản",
-      "confidence": 100.0
-    },
-    {
-      "index": 81,
-      "text": "thanh toán Đợt 1.",
-      "confidence": 100.0
-    },
-    {
-      "index": 82,
-      "text": "3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà",
-      "confidence": 100.0
-    },
-    {
-      "index": 83,
-      "text": "Nội.",
-      "confidence": 100.0
-    },
-    {
-      "index": 84,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 85,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 86,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 87,
-      "text": "Trang 2 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 88,
-      "text": "3.3. Quy trình giao nhận & Nghiệm thu:",
-      "confidence": 100.0
-    },
-    {
-      "index": 89,
-      "text": "Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất",
-      "confidence": 100.0
-    },
-    {
-      "index": 90,
-      "text": "lượng (CQ) và phiếu bảo hành chính hãng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 91,
-      "text": "Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao",
-      "confidence": 100.0
-    },
-    {
-      "index": 92,
-      "text": "nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.",
-      "confidence": 100.0
-    },
-    {
-      "index": 93,
-      "text": "Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm",
-      "confidence": 100.0
-    },
-    {
-      "index": 94,
-      "text": "trong vòng 03 ngày làm việc.",
-      "confidence": 100.0
-    },
-    {
-      "index": 95,
-      "text": "ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO",
-      "confidence": 100.0
-    },
-    {
-      "index": 96,
-      "text": "4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất",
-      "confidence": 100.0
-    },
-    {
-      "index": 97,
-      "text": "nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.",
-      "confidence": 100.0
-    },
-    {
-      "index": 98,
-      "text": "4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết",
-      "confidence": 100.0
-    },
-    {
-      "index": 99,
-      "text": "Biên bản bàn giao tài sản tại địa điểm giao hàng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 100,
-      "text": "ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT",
-      "confidence": 100.0
-    },
-    {
-      "index": 101,
-      "text": "5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.",
-      "confidence": 100.0
-    },
-    {
-      "index": 102,
-      "text": "5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra",
-      "confidence": 100.0
-    },
-    {
-      "index": 103,
-      "text": "sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo",
-      "confidence": 100.0
-    },
-    {
-      "index": 104,
-      "text": "bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị",
-      "confidence": 100.0
-    },
-    {
-      "index": 105,
-      "text": "tương đương để thay thế tạm thời.",
-      "confidence": 100.0
-    },
-    {
-      "index": 106,
-      "text": "ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN",
-      "confidence": 100.0
-    },
-    {
-      "index": 107,
-      "text": "6.1. Quyền và nghĩa vụ của Bên A:",
-      "confidence": 100.0
-    },
-    {
-      "index": 108,
-      "text": "Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.",
-      "confidence": 100.0
-    },
-    {
-      "index": 109,
-      "text": "Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.",
-      "confidence": 100.0
-    },
-    {
-      "index": 110,
-      "text": "Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.",
-      "confidence": 100.0
-    },
-    {
-      "index": 111,
-      "text": "6.2. Quyền và nghĩa vụ của Bên B:",
-      "confidence": 100.0
-    },
-    {
-      "index": 112,
-      "text": "Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.",
-      "confidence": 100.0
-    },
-    {
-      "index": 113,
-      "text": "Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.",
-      "confidence": 100.0
-    },
-    {
-      "index": 114,
-      "text": "Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 115,
-      "text": "Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật",
-      "confidence": 100.0
-    },
-    {
-      "index": 116,
-      "text": "do lỗi của Bên A/nhà sản xuất.",
-      "confidence": 100.0
-    },
-    {
-      "index": 117,
-      "text": "ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI",
-      "confidence": 100.0
-    },
-    {
-      "index": 118,
-      "text": "7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp",
-      "confidence": 100.0
-    },
-    {
-      "index": 119,
-      "text": "thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng",
-      "confidence": 100.0
-    },
-    {
-      "index": 120,
-      "text": "tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 121,
-      "text": "7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ",
-      "confidence": 100.0
-    },
-    {
-      "index": 122,
-      "text": "quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.",
-      "confidence": 100.0
-    },
-    {
-      "index": 123,
-      "text": "7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại",
-      "confidence": 100.0
-    },
-    {
-      "index": 124,
-      "text": "thực tế phát sinh trực tiếp cho bên bị vi phạm.",
-      "confidence": 100.0
-    },
-    {
-      "index": 125,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 126,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 127,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 128,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 129,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 130,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 131,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 132,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 133,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 134,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 135,
-      "text": "Trang 3 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 136,
-      "text": "ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP",
-      "confidence": 100.0
-    },
-    {
-      "index": 137,
-      "text": "8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể",
-      "confidence": 100.0
-    },
-    {
-      "index": 138,
-      "text": "khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa",
-      "confidence": 100.0
-    },
-    {
-      "index": 139,
-      "text": "hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng",
-      "confidence": 100.0
-    },
-    {
-      "index": 140,
-      "text": "văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.",
-      "confidence": 100.0
-    },
-    {
-      "index": 141,
-      "text": "8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua",
-      "confidence": 100.0
-    },
-    {
-      "index": 142,
-      "text": "thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.",
-      "confidence": 100.0
-    },
-    {
-      "index": 143,
-      "text": "8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong",
-      "confidence": 100.0
-    },
-    {
-      "index": 144,
-      "text": "hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết",
-      "confidence": 100.0
-    },
-    {
-      "index": 145,
-      "text": "của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.",
-      "confidence": 100.0
-    },
-    {
-      "index": 146,
-      "text": "ĐIỀU 9. ĐIỀU KHOẢN CHUNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 147,
-      "text": "9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ",
-      "confidence": 100.0
-    },
-    {
-      "index": 148,
-      "text": "quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.",
-      "confidence": 100.0
-    },
-    {
-      "index": 149,
-      "text": "9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn",
-      "confidence": 100.0
-    },
-    {
-      "index": 150,
-      "text": "bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.",
-      "confidence": 100.0
-    },
-    {
-      "index": 151,
-      "text": "9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02",
-      "confidence": 100.0
-    },
-    {
-      "index": 152,
-      "text": "(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.",
-      "confidence": 100.0
-    },
-    {
-      "index": 153,
-      "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)",
-      "confidence": 100.0
-    },
-    {
-      "index": 154,
-      "text": "(Ký, ghi rõ họ tên và đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 155,
-      "text": "NGUYỄN VĂN HÙNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 156,
-      "text": "Tổng Giám đốc",
-      "confidence": 100.0
-    },
-    {
-      "index": 157,
-      "text": "ĐẠI DIỆN BÊN MUA (BÊN B)",
-      "confidence": 100.0
-    },
-    {
-      "index": 158,
-      "text": "(Ký, ghi rõ họ tên và đóng dấu)",
-      "confidence": 100.0
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "method": "native_text",
+      "confidence": null,
+      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nHỢP ĐỒNG MUA BÁN TÀI SẢN\nSố: 08/2026/HĐMB-TS\nHôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số\n88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống\nnhất ký kết Hợp đồng mua bán tài sản:\nBÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)\nTên tổ chức/cá nhân\n: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nMã số doanh nghiệp\n: 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018\nĐịa chỉ trụ sở chính\n: Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh\nXuân, Hà Nội\nNgười đại diện theo PL\n: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc\nSố CCCD\n: 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021\nSố điện thoại / Email\n: 024.3789.9999 | contact@tanthinhphat-tech.vn\nTài khoản ngân hàng\n: 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)\n- CN Thăng Long\nBÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)\nTên tổ chức/cá nhân\n: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nMã số doanh nghiệp\n: 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020\nĐịa chỉ trụ sở chính\n: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội\nNgười đại diện theo PL\n: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành\nSố CCCD\n: 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022\nSố điện thoại / Email\n: 024.3988.8888 | info@achaugroup.vn\nTài khoản ngân hàng\n: 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam\n(Vietcombank) - CN Hà Nội\nSau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản\nvà điều kiện cụ thể sau đây:\nĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN\n1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên\ndụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số\nkỹ thuật chi tiết như sau:\nTrang 1 / 4",
+      "lines": [
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập – Tự do – Hạnh phúc",
+        "HỢP ĐỒNG MUA BÁN TÀI SẢN",
+        "Số: 08/2026/HĐMB-TS",
+        "Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số",
+        "88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống",
+        "nhất ký kết Hợp đồng mua bán tài sản:",
+        "BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)",
+        "Tên tổ chức/cá nhân",
+        ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+        "Mã số doanh nghiệp",
+        ": 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018",
+        "Địa chỉ trụ sở chính",
+        ": Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh",
+        "Xuân, Hà Nội",
+        "Người đại diện theo PL",
+        ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc",
+        "Số CCCD",
+        ": 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021",
+        "Số điện thoại / Email",
+        ": 024.3789.9999 | contact@tanthinhphat-tech.vn",
+        "Tài khoản ngân hàng",
+        ": 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)",
+        "- CN Thăng Long",
+        "BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)",
+        "Tên tổ chức/cá nhân",
+        ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+        "Mã số doanh nghiệp",
+        ": 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020",
+        "Địa chỉ trụ sở chính",
+        ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
+        "Người đại diện theo PL",
+        ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành",
+        "Số CCCD",
+        ": 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022",
+        "Số điện thoại / Email",
+        ": 024.3988.8888 | info@achaugroup.vn",
+        "Tài khoản ngân hàng",
+        ": 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam",
+        "(Vietcombank) - CN Hà Nội",
+        "Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản",
+        "và điều kiện cụ thể sau đây:",
+        "ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN",
+        "1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên",
+        "dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số",
+        "kỹ thuật chi tiết như sau:",
+        "Trang 1 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"
+        },
+        {
+          "type": "paragraph",
+          "text": "Độc lập – Tự do – Hạnh phúc"
+        },
+        {
+          "type": "heading",
+          "text": "HỢP ĐỒNG MUA BÁN TÀI SẢN"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số: 08/2026/HĐMB-TS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số"
+        },
+        {
+          "type": "paragraph",
+          "text": "88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống"
+        },
+        {
+          "type": "paragraph",
+          "text": "nhất ký kết Hợp đồng mua bán tài sản:"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên tổ chức/cá nhân"
+        },
+        {
+          "type": "heading",
+          "text": ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã số doanh nghiệp"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018"
+        },
+        {
+          "type": "paragraph",
+          "text": "Địa chỉ trụ sở chính"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh"
+        },
+        {
+          "type": "paragraph",
+          "text": "Xuân, Hà Nội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Người đại diện theo PL"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số CCCD"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số điện thoại / Email"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 024.3789.9999 | contact@tanthinhphat-tech.vn"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tài khoản ngân hàng"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)"
+        },
+        {
+          "type": "list",
+          "text": "- CN Thăng Long"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên tổ chức/cá nhân"
+        },
+        {
+          "type": "heading",
+          "text": ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã số doanh nghiệp"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020"
+        },
+        {
+          "type": "paragraph",
+          "text": "Địa chỉ trụ sở chính"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Người đại diện theo PL"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số CCCD"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số điện thoại / Email"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 024.3988.8888 | info@achaugroup.vn"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tài khoản ngân hàng"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Vietcombank) - CN Hà Nội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản"
+        },
+        {
+          "type": "paragraph",
+          "text": "và điều kiện cụ thể sau đây:"
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên"
+        },
+        {
+          "type": "paragraph",
+          "text": "dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số"
+        },
+        {
+          "type": "paragraph",
+          "text": "kỹ thuật chi tiết như sau:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 1 / 4"
+        }
+      ],
+      "tables": []
     },
-    {
-      "index": 159,
-      "text": "TRẦN THỊ MINH PHƯƠNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 160,
-      "text": "Giám đốc Điều hành",
-      "confidence": 100.0
-    },
-    {
-      "index": 161,
-      "text": "Trang 4 / 4",
-      "confidence": 100.0
-    }
-  ],
-  "tables": [
     {
       "page": 2,
+      "method": "native_text",
+      "confidence": null,
+      "text": "STT\nTên tài sản / Danh mục\nQuy cách / Cấu hình kỹ\nthuật\nĐVT\nSL\nTình trạng\n01\nHệ thống Máy chủ Dell\nPowerEdge R760\n2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W\nBộ\n02\nMới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ\n02\nThiết bị lưu trữ SAN Storage\nDell ME5024\nController Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables\nHệ\n01\nMới 100%, nhập\nkhẩu chính hãng\n03\nThiết bị mạng chuyển mạch\nCisco Nexus 9300\n48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply\nCái\n02\nMới 100%, tiêu\nchuẩn hãng Cisco\n1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh\nchấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào\nđối với bên thứ ba.\nĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN\n2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một\ntỷ năm trăm bốn mươi triệu đồng chẵn).\n- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo\nhành tận nơi tại địa điểm của Bên B.\n2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần\nđầu Hợp đồng.\n2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:\nĐợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ\ntrong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.\nĐợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương\n924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa\nđơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.\nĐợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong\nvòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.\nĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN\n3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản\nthanh toán Đợt 1.\n3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà\nNội.\n•\n•\n•\nTrang 2 / 4",
+      "lines": [
+        "STT",
+        "Tên tài sản / Danh mục",
+        "Quy cách / Cấu hình kỹ",
+        "thuật",
+        "ĐVT",
+        "SL",
+        "Tình trạng",
+        "01",
+        "Hệ thống Máy chủ Dell",
+        "PowerEdge R760",
+        "2x Intel Xeon Gold 6430,",
+        "256GB DDR5 RAM, 4x",
+        "1.92TB NVMe SSD, PSU",
+        "Redundant 1100W",
+        "Bộ",
+        "02",
+        "Mới 100%, nguyên",
+        "đai nguyên kiện,",
+        "CO/CQ đầy đủ",
+        "02",
+        "Thiết bị lưu trữ SAN Storage",
+        "Dell ME5024",
+        "Controller Dual 16Gb FC,",
+        "24x 2.4TB SAS 10K",
+        "RPM, 2x Direct Attach",
+        "Cables",
+        "Hệ",
+        "01",
+        "Mới 100%, nhập",
+        "khẩu chính hãng",
+        "03",
+        "Thiết bị mạng chuyển mạch",
+        "Cisco Nexus 9300",
+        "48 Port 10/25G SFP28 + 6",
+        "Port 100G QSFP28, Dual",
+        "Power Supply",
+        "Cái",
+        "02",
+        "Mới 100%, tiêu",
+        "chuẩn hãng Cisco",
+        "1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh",
+        "chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào",
+        "đối với bên thứ ba.",
+        "ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN",
+        "2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một",
+        "tỷ năm trăm bốn mươi triệu đồng chẵn).",
+        "- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo",
+        "hành tận nơi tại địa điểm của Bên B.",
+        "2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần",
+        "đầu Hợp đồng.",
+        "2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:",
+        "Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ",
+        "trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.",
+        "Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương",
+        "924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa",
+        "đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.",
+        "Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong",
+        "vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.",
+        "ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN",
+        "3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản",
+        "thanh toán Đợt 1.",
+        "3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà",
+        "Nội.",
+        "•",
+        "•",
+        "•",
+        "Trang 2 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "STT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên tài sản / Danh mục"
+        },
+        {
+          "type": "paragraph",
+          "text": "Quy cách / Cấu hình kỹ"
+        },
+        {
+          "type": "paragraph",
+          "text": "thuật"
+        },
+        {
+          "type": "heading",
+          "text": "ĐVT"
+        },
+        {
+          "type": "heading",
+          "text": "SL"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tình trạng"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ thống Máy chủ Dell"
+        },
+        {
+          "type": "paragraph",
+          "text": "PowerEdge R760"
+        },
+        {
+          "type": "paragraph",
+          "text": "2x Intel Xeon Gold 6430,"
+        },
+        {
+          "type": "paragraph",
+          "text": "256GB DDR5 RAM, 4x"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.92TB NVMe SSD, PSU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Redundant 1100W"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bộ"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, nguyên"
+        },
+        {
+          "type": "paragraph",
+          "text": "đai nguyên kiện,"
+        },
+        {
+          "type": "paragraph",
+          "text": "CO/CQ đầy đủ"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết bị lưu trữ SAN Storage"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dell ME5024"
+        },
+        {
+          "type": "paragraph",
+          "text": "Controller Dual 16Gb FC,"
+        },
+        {
+          "type": "paragraph",
+          "text": "24x 2.4TB SAS 10K"
+        },
+        {
+          "type": "paragraph",
+          "text": "RPM, 2x Direct Attach"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cables"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, nhập"
+        },
+        {
+          "type": "paragraph",
+          "text": "khẩu chính hãng"
+        },
+        {
+          "type": "paragraph",
+          "text": "03"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết bị mạng chuyển mạch"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cisco Nexus 9300"
+        },
+        {
+          "type": "paragraph",
+          "text": "48 Port 10/25G SFP28 + 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "Port 100G QSFP28, Dual"
+        },
+        {
+          "type": "paragraph",
+          "text": "Power Supply"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cái"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, tiêu"
+        },
+        {
+          "type": "paragraph",
+          "text": "chuẩn hãng Cisco"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh"
+        },
+        {
+          "type": "paragraph",
+          "text": "chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào"
+        },
+        {
+          "type": "paragraph",
+          "text": "đối với bên thứ ba."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN"
+        },
+        {
+          "type": "paragraph",
+          "text": "2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một"
+        },
+        {
+          "type": "paragraph",
+          "text": "tỷ năm trăm bốn mươi triệu đồng chẵn)."
+        },
+        {
+          "type": "list",
+          "text": "- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo"
+        },
+        {
+          "type": "paragraph",
+          "text": "hành tận nơi tại địa điểm của Bên B."
+        },
+        {
+          "type": "paragraph",
+          "text": "2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần"
+        },
+        {
+          "type": "paragraph",
+          "text": "đầu Hợp đồng."
+        },
+        {
+          "type": "paragraph",
+          "text": "2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương"
+        },
+        {
+          "type": "list",
+          "text": "924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa"
+        },
+        {
+          "type": "paragraph",
+          "text": "đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong"
+        },
+        {
+          "type": "paragraph",
+          "text": "vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN"
+        },
+        {
+          "type": "paragraph",
+          "text": "3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản"
+        },
+        {
+          "type": "paragraph",
+          "text": "thanh toán Đợt 1."
+        },
+        {
+          "type": "paragraph",
+          "text": "3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nội."
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 2 / 4"
+        }
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page": 2,
+          "detection_method": "pdfplumber_digital",
+          "headers": [
+            "STT",
+            "Tên tài sản / Danh mục",
+            "Quy cách / Cấu hình kỹ\nthuật",
+            "ĐVT",
+            "SL",
+            "Tình trạng"
+          ],
+          "rows": [
+            [
+              "01",
+              "Hệ thống Máy chủ Dell\nPowerEdge R760",
+              "2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W",
+              "Bộ",
+              "02",
+              "Mới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ"
+            ],
+            [
+              "02",
+              "Thiết bị lưu trữ SAN Storage\nDell ME5024",
+              "Controller Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables",
+              "Hệ",
+              "01",
+              "Mới 100%, nhập\nkhẩu chính hãng"
+            ],
+            [
+              "03",
+              "Thiết bị mạng chuyển mạch\nCisco Nexus 9300",
+              "48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply",
+              "Cái",
+              "02",
+              "Mới 100%, tiêu\nchuẩn hãng Cisco"
+            ]
+          ],
+          "matrix": [
+            [
+              "STT",
+              "Tên tài sản / Danh mục",
+              "Quy cách / Cấu hình kỹ\nthuật",
+              "ĐVT",
+              "SL",
+              "Tình trạng"
+            ],
+            [
+              "01",
+              "Hệ thống Máy chủ Dell\nPowerEdge R760",
+              "2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W",
+              "Bộ",
+              "02",
+              "Mới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ"
+            ],
+            [
+              "02",
+              "Thiết bị lưu trữ SAN Storage\nDell ME5024",
+              "Controller Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables",
+              "Hệ",
+              "01",
+              "Mới 100%, nhập\nkhẩu chính hãng"
+            ],
+            [
+              "03",
+              "Thiết bị mạng chuyển mạch\nCisco Nexus 9300",
+              "48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply",
+              "Cái",
+              "02",
+              "Mới 100%, tiêu\nchuẩn hãng Cisco"
+            ]
+          ],
+          "markdown": "| STT | Tên tài sản / Danh mục                     | Quy cách / Cấu hình kỹ thuật                                                     | ĐVT | SL  | Tình trạng                                     |\n| --- | ------------------------------------------ | -------------------------------------------------------------------------------- | --- | --- | ---------------------------------------------- |\n| 01  | Hệ thống Máy chủ Dell PowerEdge R760       | 2x Intel Xeon Gold 6430, 256GB DDR5 RAM, 4x 1.92TB NVMe SSD, PSU Redundant 1100W | Bộ  | 02  | Mới 100%, nguyên đai nguyên kiện, CO/CQ đầy đủ |\n| 02  | Thiết bị lưu trữ SAN Storage Dell ME5024   | Controller Dual 16Gb FC, 24x 2.4TB SAS 10K RPM, 2x Direct Attach Cables          | Hệ  | 01  | Mới 100%, nhập khẩu chính hãng                 |\n| 03  | Thiết bị mạng chuyển mạch Cisco Nexus 9300 | 48 Port 10/25G SFP28 + 6 Port 100G QSFP28, Dual Power Supply                     | Cái | 02  | Mới 100%, tiêu chuẩn hãng Cisco                |"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "method": "native_text",
+      "confidence": null,
+      "text": "3.3. Quy trình giao nhận & Nghiệm thu:\nKhi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất\nlượng (CQ) và phiếu bảo hành chính hãng.\nHai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao\nnhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.\nBên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm\ntrong vòng 03 ngày làm việc.\nĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO\n4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất\nnghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.\n4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết\nBiên bản bàn giao tài sản tại địa điểm giao hàng.\nĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT\n5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.\n5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra\nsự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo\nbằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị\ntương đương để thay thế tạm thời.\nĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN\n6.1. Quyền và nghĩa vụ của Bên A:\nGiao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.\nCung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.\nCó quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.\n6.2. Quyền và nghĩa vụ của Bên B:\nChuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.\nKiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.\nThực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.\nCó quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật\ndo lỗi của Bên A/nhà sản xuất.\nĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI\n7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp\nthuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng\ntổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.\n7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ\nquá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.\n7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại\nthực tế phát sinh trực tiếp cho bên bị vi phạm.\n•\n•\n•\n•\n•\n•\n•\n•\n•\n•\nTrang 3 / 4",
+      "lines": [
+        "3.3. Quy trình giao nhận & Nghiệm thu:",
+        "Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất",
+        "lượng (CQ) và phiếu bảo hành chính hãng.",
+        "Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao",
+        "nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.",
+        "Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm",
+        "trong vòng 03 ngày làm việc.",
+        "ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO",
+        "4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất",
+        "nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.",
+        "4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết",
+        "Biên bản bàn giao tài sản tại địa điểm giao hàng.",
+        "ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT",
+        "5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.",
+        "5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra",
+        "sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo",
+        "bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị",
+        "tương đương để thay thế tạm thời.",
+        "ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN",
+        "6.1. Quyền và nghĩa vụ của Bên A:",
+        "Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.",
+        "Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.",
+        "Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.",
+        "6.2. Quyền và nghĩa vụ của Bên B:",
+        "Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.",
+        "Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.",
+        "Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.",
+        "Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật",
+        "do lỗi của Bên A/nhà sản xuất.",
+        "ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI",
+        "7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp",
+        "thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng",
+        "tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.",
+        "7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ",
+        "quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.",
+        "7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại",
+        "thực tế phát sinh trực tiếp cho bên bị vi phạm.",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•",
+        "Trang 3 / 4"
+      ],
+      "elements": [
+        {
+          "type": "paragraph",
+          "text": "3.3. Quy trình giao nhận & Nghiệm thu:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất"
+        },
+        {
+          "type": "paragraph",
+          "text": "lượng (CQ) và phiếu bảo hành chính hãng."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao"
+        },
+        {
+          "type": "paragraph",
+          "text": "nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm"
+        },
+        {
+          "type": "paragraph",
+          "text": "trong vòng 03 ngày làm việc."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO"
+        },
+        {
+          "type": "paragraph",
+          "text": "4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất"
+        },
+        {
+          "type": "paragraph",
+          "text": "nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2."
+        },
+        {
+          "type": "paragraph",
+          "text": "4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết"
+        },
+        {
+          "type": "paragraph",
+          "text": "Biên bản bàn giao tài sản tại địa điểm giao hàng."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT"
+        },
+        {
+          "type": "paragraph",
+          "text": "5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức."
+        },
+        {
+          "type": "paragraph",
+          "text": "5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra"
+        },
+        {
+          "type": "paragraph",
+          "text": "sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo"
+        },
+        {
+          "type": "paragraph",
+          "text": "bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị"
+        },
+        {
+          "type": "paragraph",
+          "text": "tương đương để thay thế tạm thời."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN"
+        },
+        {
+          "type": "paragraph",
+          "text": "6.1. Quyền và nghĩa vụ của Bên A:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành."
+        },
+        {
+          "type": "paragraph",
+          "text": "Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2."
+        },
+        {
+          "type": "paragraph",
+          "text": "6.2. Quyền và nghĩa vụ của Bên B:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng."
+        },
+        {
+          "type": "paragraph",
+          "text": "Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật"
+        },
+        {
+          "type": "paragraph",
+          "text": "do lỗi của Bên A/nhà sản xuất."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI"
+        },
+        {
+          "type": "paragraph",
+          "text": "7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp"
+        },
+        {
+          "type": "paragraph",
+          "text": "thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng"
+        },
+        {
+          "type": "paragraph",
+          "text": "tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng."
+        },
+        {
+          "type": "paragraph",
+          "text": "7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ"
+        },
+        {
+          "type": "paragraph",
+          "text": "quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả."
+        },
+        {
+          "type": "paragraph",
+          "text": "7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại"
+        },
+        {
+          "type": "paragraph",
+          "text": "thực tế phát sinh trực tiếp cho bên bị vi phạm."
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 3 / 4"
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page": 4,
+      "method": "native_text",
+      "confidence": null,
+      "text": "ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP\n8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể\nkhắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa\nhoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng\nvăn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.\n8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua\nthương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.\n8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong\nhai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết\ncủa Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.\nĐIỀU 9. ĐIỀU KHOẢN CHUNG\n9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ\nquy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.\n9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn\nbản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.\n9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02\n(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.\nĐẠI DIỆN BÊN BÁN (BÊN A)\n(Ký, ghi rõ họ tên và đóng dấu)\nNGUYỄN VĂN HÙNG\nTổng Giám đốc\nĐẠI DIỆN BÊN MUA (BÊN B)\n(Ký, ghi rõ họ tên và đóng dấu)\nTRẦN THỊ MINH PHƯƠNG\nGiám đốc Điều hành\nTrang 4 / 4",
+      "lines": [
+        "ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP",
+        "8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể",
+        "khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa",
+        "hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng",
+        "văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.",
+        "8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua",
+        "thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.",
+        "8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong",
+        "hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết",
+        "của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.",
+        "ĐIỀU 9. ĐIỀU KHOẢN CHUNG",
+        "9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ",
+        "quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.",
+        "9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn",
+        "bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.",
+        "9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02",
+        "(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.",
+        "ĐẠI DIỆN BÊN BÁN (BÊN A)",
+        "(Ký, ghi rõ họ tên và đóng dấu)",
+        "NGUYỄN VĂN HÙNG",
+        "Tổng Giám đốc",
+        "ĐẠI DIỆN BÊN MUA (BÊN B)",
+        "(Ký, ghi rõ họ tên và đóng dấu)",
+        "TRẦN THỊ MINH PHƯƠNG",
+        "Giám đốc Điều hành",
+        "Trang 4 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể"
+        },
+        {
+          "type": "paragraph",
+          "text": "khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa"
+        },
+        {
+          "type": "paragraph",
+          "text": "hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng"
+        },
+        {
+          "type": "paragraph",
+          "text": "văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện."
+        },
+        {
+          "type": "paragraph",
+          "text": "8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua"
+        },
+        {
+          "type": "paragraph",
+          "text": "thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau."
+        },
+        {
+          "type": "paragraph",
+          "text": "8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong"
+        },
+        {
+          "type": "paragraph",
+          "text": "hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết"
+        },
+        {
+          "type": "paragraph",
+          "text": "của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên."
+        },
+        {
+          "type": "heading",
+          "text": "ĐIỀU 9. ĐIỀU KHOẢN CHUNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ"
+        },
+        {
+          "type": "paragraph",
+          "text": "quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng."
+        },
+        {
+          "type": "paragraph",
+          "text": "9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn"
+        },
+        {
+          "type": "paragraph",
+          "text": "bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên."
+        },
+        {
+          "type": "paragraph",
+          "text": "9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02"
+        },
+        {
+          "type": "paragraph",
+          "text": "(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện."
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, ghi rõ họ tên và đóng dấu)"
+        },
+        {
+          "type": "heading",
+          "text": "NGUYỄN VĂN HÙNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tổng Giám đốc"
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN MUA (BÊN B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, ghi rõ họ tên và đóng dấu)"
+        },
+        {
+          "type": "heading",
+          "text": "TRẦN THỊ MINH PHƯƠNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giám đốc Điều hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 4 / 4"
+        }
+      ],
+      "tables": []
+    }
+  ],
+  "full_text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nHỢP ĐỒNG MUA BÁN TÀI SẢN\nSố: 08/2026/HĐMB-TS\nHôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số\n88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống\nnhất ký kết Hợp đồng mua bán tài sản:\nBÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)\nTên tổ chức/cá nhân\n: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nMã số doanh nghiệp\n: 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018\nĐịa chỉ trụ sở chính\n: Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh\nXuân, Hà Nội\nNgười đại diện theo PL\n: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc\nSố CCCD\n: 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021\nSố điện thoại / Email\n: 024.3789.9999 | contact@tanthinhphat-tech.vn\nTài khoản ngân hàng\n: 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)\n- CN Thăng Long\nBÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)\nTên tổ chức/cá nhân\n: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nMã số doanh nghiệp\n: 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020\nĐịa chỉ trụ sở chính\n: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội\nNgười đại diện theo PL\n: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành\nSố CCCD\n: 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022\nSố điện thoại / Email\n: 024.3988.8888 | info@achaugroup.vn\nTài khoản ngân hàng\n: 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam\n(Vietcombank) - CN Hà Nội\nSau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản\nvà điều kiện cụ thể sau đây:\nĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN\n1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên\ndụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số\nkỹ thuật chi tiết như sau:\nTrang 1 / 4\nSTT\nTên tài sản / Danh mục\nQuy cách / Cấu hình kỹ\nthuật\nĐVT\nSL\nTình trạng\n01\nHệ thống Máy chủ Dell\nPowerEdge R760\n2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W\nBộ\n02\nMới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ\n02\nThiết bị lưu trữ SAN Storage\nDell ME5024\nController Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables\nHệ\n01\nMới 100%, nhập\nkhẩu chính hãng\n03\nThiết bị mạng chuyển mạch\nCisco Nexus 9300\n48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply\nCái\n02\nMới 100%, tiêu\nchuẩn hãng Cisco\n1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh\nchấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào\nđối với bên thứ ba.\nĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN\n2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một\ntỷ năm trăm bốn mươi triệu đồng chẵn).\n- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo\nhành tận nơi tại địa điểm của Bên B.\n2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần\nđầu Hợp đồng.\n2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:\nĐợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ\ntrong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.\nĐợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương\n924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa\nđơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.\nĐợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong\nvòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.\nĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN\n3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản\nthanh toán Đợt 1.\n3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà\nNội.\n•\n•\n•\nTrang 2 / 4\n3.3. Quy trình giao nhận & Nghiệm thu:\nKhi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất\nlượng (CQ) và phiếu bảo hành chính hãng.\nHai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao\nnhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.\nBên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm\ntrong vòng 03 ngày làm việc.\nĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO\n4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất\nnghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.\n4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết\nBiên bản bàn giao tài sản tại địa điểm giao hàng.\nĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT\n5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.\n5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra\nsự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo\nbằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị\ntương đương để thay thế tạm thời.\nĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN\n6.1. Quyền và nghĩa vụ của Bên A:\nGiao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.\nCung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.\nCó quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.\n6.2. Quyền và nghĩa vụ của Bên B:\nChuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.\nKiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.\nThực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.\nCó quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật\ndo lỗi của Bên A/nhà sản xuất.\nĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI\n7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp\nthuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng\ntổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.\n7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ\nquá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.\n7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại\nthực tế phát sinh trực tiếp cho bên bị vi phạm.\n•\n•\n•\n•\n•\n•\n•\n•\n•\n•\nTrang 3 / 4\nĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP\n8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể\nkhắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa\nhoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng\nvăn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.\n8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua\nthương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.\n8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong\nhai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết\ncủa Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.\nĐIỀU 9. ĐIỀU KHOẢN CHUNG\n9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ\nquy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.\n9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn\nbản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.\n9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02\n(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.\nĐẠI DIỆN BÊN BÁN (BÊN A)\n(Ký, ghi rõ họ tên và đóng dấu)\nNGUYỄN VĂN HÙNG\nTổng Giám đốc\nĐẠI DIỆN BÊN MUA (BÊN B)\n(Ký, ghi rõ họ tên và đóng dấu)\nTRẦN THỊ MINH PHƯƠNG\nGiám đốc Điều hành\nTrang 4 / 4",
+  "tables": [
+    {
+      "type": "table",
+      "page": 2,
       "detection_method": "pdfplumber_digital",
-      "num_rows": 4,
-      "num_cols": 6,
+      "headers": [
+        "STT",
+        "Tên tài sản / Danh mục",
+        "Quy cách / Cấu hình kỹ\nthuật",
+        "ĐVT",
+        "SL",
+        "Tình trạng"
+      ],
+      "rows": [
+        [
+          "01",
+          "Hệ thống Máy chủ Dell\nPowerEdge R760",
+          "2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W",
+          "Bộ",
+          "02",
+          "Mới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ"
+        ],
+        [
+          "02",
+          "Thiết bị lưu trữ SAN Storage\nDell ME5024",
+          "Controller Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables",
+          "Hệ",
+          "01",
+          "Mới 100%, nhập\nkhẩu chính hãng"
+        ],
+        [
+          "03",
+          "Thiết bị mạng chuyển mạch\nCisco Nexus 9300",
+          "48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply",
+          "Cái",
+          "02",
+          "Mới 100%, tiêu\nchuẩn hãng Cisco"
+        ]
+      ],
       "matrix": [
         [
           "STT",
           "Tên tài sản / Danh mục",
-          "Quy cách / Cấu hình kỹ thuật",
+          "Quy cách / Cấu hình kỹ\nthuật",
           "ĐVT",
           "SL",
           "Tình trạng"
         ],
         [
           "01",
-          "Hệ thống Máy chủ Dell PowerEdge R760",
-          "2x Intel Xeon Gold 6430, 256GB DDR5 RAM, 4x 1.92TB NVMe SSD, PSU Redundant 1100W",
+          "Hệ thống Máy chủ Dell\nPowerEdge R760",
+          "2x Intel Xeon Gold 6430,\n256GB DDR5 RAM, 4x\n1.92TB NVMe SSD, PSU\nRedundant 1100W",
           "Bộ",
           "02",
-          "Mới 100%, nguyên đai nguyên kiện, CO/CQ đầy đủ"
+          "Mới 100%, nguyên\nđai nguyên kiện,\nCO/CQ đầy đủ"
         ],
         [
           "02",
-          "Thiết bị lưu trữ SAN Storage Dell ME5024",
-          "Controller Dual 16Gb FC, 24x 2.4TB SAS 10K RPM, 2x Direct Attach Cables",
+          "Thiết bị lưu trữ SAN Storage\nDell ME5024",
+          "Controller Dual 16Gb FC,\n24x 2.4TB SAS 10K\nRPM, 2x Direct Attach\nCables",
           "Hệ",
           "01",
-          "Mới 100%, nhập khẩu chính hãng"
+          "Mới 100%, nhập\nkhẩu chính hãng"
         ],
         [
           "03",
-          "Thiết bị mạng chuyển mạch Cisco Nexus 9300",
-          "48 Port 10/25G SFP28 + 6 Port 100G QSFP28, Dual Power Supply",
+          "Thiết bị mạng chuyển mạch\nCisco Nexus 9300",
+          "48 Port 10/25G SFP28 + 6\nPort 100G QSFP28, Dual\nPower Supply",
           "Cái",
           "02",
-          "Mới 100%, tiêu chuẩn hãng Cisco"
+          "Mới 100%, tiêu\nchuẩn hãng Cisco"
         ]
       ],
-      "cells": [
-        {
-          "row_index": 0,
-          "col_index": 0,
-          "cell_bbox": [
-            51.4,
-            57.07,
-            32.6,
-            41.26
-          ],
-          "text": "STT",
-          "text_segments": [
-            {
-              "text": "STT",
-              "bbox": [
-                57.77,
-                73.01,
-                77.62,
-                83.51
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 1,
-          "cell_bbox": [
-            84.0,
-            57.07,
-            156.39,
-            41.26
-          ],
-          "text": "Tên tài sản / Danh mục",
-          "text_segments": [
-            {
-              "text": "Tên",
-              "bbox": [
-                109.02,
-                73.28,
-                126.52,
-                83.78
-              ]
-            },
-            {
-              "text": "tài",
-              "bbox": [
-                129.14,
-                73.28,
-                140.81,
-                83.78
-              ]
-            },
-            {
-              "text": "sản",
-              "bbox": [
-                143.43,
-                73.28,
-                159.65,
-                84.57
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                162.27,
-                73.28,
-                165.19,
-                83.78
-              ]
-            },
-            {
-              "text": "Danh",
-              "bbox": [
-                167.82,
-                73.28,
-                192.32,
-                83.78
-              ]
-            },
-            {
-              "text": "mục",
-              "bbox": [
-                194.95,
-                73.28,
-                215.36,
-                84.57
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 2,
-          "cell_bbox": [
-            240.38,
-            57.07,
-            127.14,
-            41.26
-          ],
-          "text": "Quy cách / Cấu hình kỹ thuật",
-          "text_segments": [
-            {
-              "text": "Quy",
-              "bbox": [
-                250.07,
-                65.4,
-                269.32,
-                75.9
-              ]
-            },
-            {
-              "text": "cách",
-              "bbox": [
-                271.95,
-                65.4,
-                292.36,
-                75.9
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                294.99,
-                65.4,
-                297.9,
-                75.9
-              ]
-            },
-            {
-              "text": "Cấu",
-              "bbox": [
-                300.53,
-                65.4,
-                320.24,
-                76.7
-              ]
-            },
-            {
-              "text": "hình",
-              "bbox": [
-                322.86,
-                65.4,
-                343.3,
-                75.9
-              ]
-            },
-            {
-              "text": "kỹ",
-              "bbox": [
-                345.92,
-                65.4,
-                357.84,
-                76.7
-              ]
-            },
-            {
-              "text": "thuật",
-              "bbox": [
-                291.47,
-                81.15,
-                316.43,
-                92.45
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 3,
-          "cell_bbox": [
-            367.53,
-            57.07,
-            39.34,
-            41.26
-          ],
-          "text": "ĐVT",
-          "text_segments": [
-            {
-              "text": "ĐVT",
-              "bbox": [
-                376.11,
-                73.01,
-                398.28,
-                83.51
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 4,
-          "cell_bbox": [
-            406.87,
-            57.07,
-            39.22,
-            41.26
-          ],
-          "text": "SL",
-          "text_segments": [
-            {
-              "text": "SL",
-              "bbox": [
-                420.06,
-                73.01,
-                432.9,
-                83.51
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 5,
-          "cell_bbox": [
-            446.09,
-            57.07,
-            97.79,
-            41.26
-          ],
-          "text": "Tình trạng",
-          "text_segments": [
-            {
-              "text": "Tình",
-              "bbox": [
-                470.1,
-                73.28,
-                491.7,
-                83.78
-              ]
-            },
-            {
-              "text": "trạng",
-              "bbox": [
-                494.33,
-                73.28,
-                519.86,
-                84.57
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 0,
-          "cell_bbox": [
-            51.4,
-            98.33,
-            32.6,
-            70.65
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                62.45,
-                128.97,
-                72.95,
-                139.47
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 1,
-          "cell_bbox": [
-            84.0,
-            98.33,
-            156.39,
-            70.65
-          ],
-          "text": "Hệ thống Máy chủ Dell PowerEdge R760",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                90.37,
-                121.62,
-                104.53,
-                132.92
-              ]
-            },
-            {
-              "text": "thống",
-              "bbox": [
-                107.16,
-                121.62,
-                134.02,
-                132.92
-              ]
-            },
-            {
-              "text": "Máy",
-              "bbox": [
-                136.64,
-                121.62,
-                157.06,
-                132.12
-              ]
-            },
-            {
-              "text": "chủ",
-              "bbox": [
-                159.68,
-                121.62,
-                177.18,
-                132.92
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                179.81,
-                121.62,
-                197.89,
-                132.12
-              ]
-            },
-            {
-              "text": "PowerEdge",
-              "bbox": [
-                90.37,
-                136.84,
-                141.69,
-                147.34
-              ]
-            },
-            {
-              "text": "R760",
-              "bbox": [
-                144.32,
-                136.84,
-                167.65,
-                147.34
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 2,
-          "cell_bbox": [
-            240.38,
-            98.33,
-            127.14,
-            70.65
-          ],
-          "text": "2x Intel Xeon Gold 6430, 256GB DDR5 RAM, 4x 1.92TB NVMe SSD, PSU Redundant 1100W",
-          "text_segments": [
-            {
-              "text": "2x",
-              "bbox": [
-                246.76,
-                106.13,
-                257.26,
-                116.63
-              ]
-            },
-            {
-              "text": "Intel",
-              "bbox": [
-                259.88,
-                106.13,
-                279.13,
-                116.63
-              ]
-            },
-            {
-              "text": "Xeon",
-              "bbox": [
-                281.75,
-                106.13,
-                304.5,
-                116.63
-              ]
-            },
-            {
-              "text": "Gold",
-              "bbox": [
-                307.12,
-                106.13,
-                328.12,
-                116.63
-              ]
-            },
-            {
-              "text": "6430,",
-              "bbox": [
-                330.75,
-                106.13,
-                354.37,
-                116.63
-              ]
-            },
-            {
-              "text": "256GB",
-              "bbox": [
-                246.76,
-                121.35,
-                277.09,
-                131.85
-              ]
-            },
-            {
-              "text": "DDR5",
-              "bbox": [
-                279.72,
-                121.35,
-                307.13,
-                131.85
-              ]
-            },
-            {
-              "text": "RAM,",
-              "bbox": [
-                309.76,
-                121.35,
-                336.3,
-                131.85
-              ]
-            },
-            {
-              "text": "4x",
-              "bbox": [
-                338.93,
-                121.35,
-                349.43,
-                131.85
-              ]
-            },
-            {
-              "text": "1.92TB",
-              "bbox": [
-                246.76,
-                136.58,
-                278.55,
-                147.08
-              ]
-            },
-            {
-              "text": "NVMe",
-              "bbox": [
-                281.18,
-                136.58,
-                310.34,
-                147.08
-              ]
-            },
-            {
-              "text": "SSD,",
-              "bbox": [
-                312.96,
-                136.58,
-                334.84,
-                147.08
-              ]
-            },
-            {
-              "text": "PSU",
-              "bbox": [
-                337.47,
-                136.58,
-                356.72,
-                147.08
-              ]
-            },
-            {
-              "text": "Redundant",
-              "bbox": [
-                246.76,
-                151.8,
-                292.25,
-                162.3
-              ]
-            },
-            {
-              "text": "1100W",
-              "bbox": [
-                294.88,
-                151.8,
-                325.4,
-                162.3
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 3,
-          "cell_bbox": [
-            367.53,
-            98.33,
-            39.34,
-            70.65
-          ],
-          "text": "Bộ",
-          "text_segments": [
-            {
-              "text": "Bộ",
-              "bbox": [
-                380.67,
-                129.23,
-                393.73,
-                140.54
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 4,
-          "cell_bbox": [
-            406.87,
-            98.33,
-            39.22,
-            70.65
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                421.23,
-                128.97,
-                431.73,
-                139.47
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 5,
-          "cell_bbox": [
-            446.09,
-            98.33,
-            97.79,
-            70.65
-          ],
-          "text": "Mới 100%, nguyên đai nguyên kiện, CO/CQ đầy đủ",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                452.46,
-                113.48,
-                471.09,
-                124.78
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                473.72,
-                113.48,
-                500.84,
-                123.98
-              ]
-            },
-            {
-              "text": "nguyên",
-              "bbox": [
-                503.46,
-                113.48,
-                534.37,
-                123.98
-              ]
-            },
-            {
-              "text": "đai",
-              "bbox": [
-                452.46,
-                129.23,
-                465.29,
-                139.73
-              ]
-            },
-            {
-              "text": "nguyên",
-              "bbox": [
-                467.92,
-                129.23,
-                498.83,
-                139.73
-              ]
-            },
-            {
-              "text": "kiện,",
-              "bbox": [
-                501.46,
-                129.23,
-                523.12,
-                140.54
-              ]
-            },
-            {
-              "text": "CO/CQ",
-              "bbox": [
-                452.46,
-                144.99,
-                484.55,
-                155.49
-              ]
-            },
-            {
-              "text": "đầy",
-              "bbox": [
-                487.18,
-                144.99,
-                503.59,
-                156.3
-              ]
-            },
-            {
-              "text": "đủ",
-              "bbox": [
-                506.21,
-                144.99,
-                518.13,
-                156.3
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 0,
-          "cell_bbox": [
-            51.4,
-            168.98,
-            32.6,
-            70.65
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                62.45,
-                199.62,
-                72.95,
-                210.12
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 1,
-          "cell_bbox": [
-            84.0,
-            168.98,
-            156.39,
-            70.65
-          ],
-          "text": "Thiết bị lưu trữ SAN Storage Dell ME5024",
-          "text_segments": [
-            {
-              "text": "Thiết",
-              "bbox": [
-                90.37,
-                192.27,
-                115.62,
-                203.57
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                118.25,
-                192.27,
-                127.78,
-                203.57
-              ]
-            },
-            {
-              "text": "lưu",
-              "bbox": [
-                130.41,
-                192.27,
-                147.33,
-                203.57
-              ]
-            },
-            {
-              "text": "trữ",
-              "bbox": [
-                149.96,
-                192.27,
-                166.29,
-                203.57
-              ]
-            },
-            {
-              "text": "SAN",
-              "bbox": [
-                168.91,
-                192.27,
-                189.91,
-                202.77
-              ]
-            },
-            {
-              "text": "Storage",
-              "bbox": [
-                192.54,
-                192.27,
-                226.94,
-                202.77
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                90.37,
-                207.49,
-                108.45,
-                217.99
-              ]
-            },
-            {
-              "text": "ME5024",
-              "bbox": [
-                111.08,
-                207.49,
-                148.99,
-                217.99
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 2,
-          "cell_bbox": [
-            240.38,
-            168.98,
-            127.14,
-            70.65
-          ],
-          "text": "Controller Dual 16Gb FC, 24x 2.4TB SAS 10K RPM, 2x Direct Attach Cables",
-          "text_segments": [
-            {
-              "text": "Controller",
-              "bbox": [
-                246.76,
-                176.78,
-                289.92,
-                187.28
-              ]
-            },
-            {
-              "text": "Dual",
-              "bbox": [
-                292.55,
-                176.78,
-                312.96,
-                187.28
-              ]
-            },
-            {
-              "text": "16Gb",
-              "bbox": [
-                315.59,
-                176.78,
-                338.92,
-                187.28
-              ]
-            },
-            {
-              "text": "FC,",
-              "bbox": [
-                341.54,
-                176.78,
-                357.01,
-                187.28
-              ]
-            },
-            {
-              "text": "24x",
-              "bbox": [
-                246.76,
-                192.0,
-                262.51,
-                202.5
-              ]
-            },
-            {
-              "text": "2.4TB",
-              "bbox": [
-                265.13,
-                192.0,
-                291.68,
-                202.5
-              ]
-            },
-            {
-              "text": "SAS",
-              "bbox": [
-                294.3,
-                192.0,
-                313.56,
-                202.5
-              ]
-            },
-            {
-              "text": "10K",
-              "bbox": [
-                316.18,
-                192.0,
-                334.26,
-                202.5
-              ]
-            },
-            {
-              "text": "RPM,",
-              "bbox": [
-                246.76,
-                207.23,
-                271.56,
-                217.73
-              ]
-            },
-            {
-              "text": "2x",
-              "bbox": [
-                274.18,
-                207.23,
-                284.68,
-                217.73
-              ]
-            },
-            {
-              "text": "Direct",
-              "bbox": [
-                287.31,
-                207.23,
-                313.55,
-                217.73
-              ]
-            },
-            {
-              "text": "Attach",
-              "bbox": [
-                315.6,
-                207.23,
-                343.59,
-                217.73
-              ]
-            },
-            {
-              "text": "Cables",
-              "bbox": [
-                246.76,
-                222.45,
-                275.34,
-                232.95
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 3,
-          "cell_bbox": [
-            367.53,
-            168.98,
-            39.34,
-            70.65
-          ],
-          "text": "Hệ",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                380.6,
-                199.88,
-                393.8,
-                211.19
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 4,
-          "cell_bbox": [
-            406.87,
-            168.98,
-            39.22,
-            70.65
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                421.23,
-                199.62,
-                431.73,
-                210.12
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 5,
-          "cell_bbox": [
-            446.09,
-            168.98,
-            97.79,
-            70.65
-          ],
-          "text": "Mới 100%, nhập khẩu chính hãng",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                452.46,
-                192.0,
-                471.09,
-                203.31
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                473.72,
-                192.0,
-                500.84,
-                202.5
-              ]
-            },
-            {
-              "text": "nhập",
-              "bbox": [
-                503.46,
-                192.0,
-                525.12,
-                203.31
-              ]
-            },
-            {
-              "text": "khẩu",
-              "bbox": [
-                452.46,
-                207.76,
-                474.12,
-                219.07
-              ]
-            },
-            {
-              "text": "chính",
-              "bbox": [
-                476.75,
-                207.76,
-                500.08,
-                218.26
-              ]
-            },
-            {
-              "text": "hãng",
-              "bbox": [
-                502.71,
-                207.76,
-                523.12,
-                218.26
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 0,
-          "cell_bbox": [
-            51.4,
-            239.63,
-            32.6,
-            55.42
-          ],
-          "text": "03",
-          "text_segments": [
-            {
-              "text": "03",
-              "bbox": [
-                62.45,
-                262.65,
-                72.95,
-                273.15
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 1,
-          "cell_bbox": [
-            84.0,
-            239.63,
-            156.39,
-            55.42
-          ],
-          "text": "Thiết bị mạng chuyển mạch Cisco Nexus 9300",
-          "text_segments": [
-            {
-              "text": "Thiết",
-              "bbox": [
-                90.37,
-                255.31,
-                115.62,
-                266.61
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                118.25,
-                255.31,
-                127.78,
-                266.61
-              ]
-            },
-            {
-              "text": "mạng",
-              "bbox": [
-                130.41,
-                255.31,
-                156.53,
-                266.61
-              ]
-            },
-            {
-              "text": "chuyển",
-              "bbox": [
-                159.16,
-                255.31,
-                192.58,
-                266.61
-              ]
-            },
-            {
-              "text": "mạch",
-              "bbox": [
-                195.2,
-                255.31,
-                220.74,
-                266.61
-              ]
-            },
-            {
-              "text": "Cisco",
-              "bbox": [
-                90.37,
-                270.53,
-                114.87,
-                281.03
-              ]
-            },
-            {
-              "text": "Nexus",
-              "bbox": [
-                117.49,
-                270.53,
-                144.91,
-                281.03
-              ]
-            },
-            {
-              "text": "9300",
-              "bbox": [
-                147.53,
-                270.53,
-                168.53,
-                281.03
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 2,
-          "cell_bbox": [
-            240.38,
-            239.63,
-            127.14,
-            55.42
-          ],
-          "text": "48 Port 10/25G SFP28 + 6 Port 100G QSFP28, Dual Power Supply",
-          "text_segments": [
-            {
-              "text": "48",
-              "bbox": [
-                246.76,
-                247.43,
-                257.26,
-                257.93
-              ]
-            },
-            {
-              "text": "Port",
-              "bbox": [
-                259.88,
-                247.43,
-                277.39,
-                257.93
-              ]
-            },
-            {
-              "text": "10/25G",
-              "bbox": [
-                280.01,
-                247.43,
-                311.51,
-                257.93
-              ]
-            },
-            {
-              "text": "SFP28",
-              "bbox": [
-                314.14,
-                247.43,
-                342.15,
-                257.93
-              ]
-            },
-            {
-              "text": "+",
-              "bbox": [
-                344.78,
-                247.43,
-                350.7,
-                257.93
-              ]
-            },
-            {
-              "text": "6",
-              "bbox": [
-                353.32,
-                247.43,
-                358.57,
-                257.93
-              ]
-            },
-            {
-              "text": "Port",
-              "bbox": [
-                246.76,
-                262.65,
-                264.26,
-                273.15
-              ]
-            },
-            {
-              "text": "100G",
-              "bbox": [
-                266.89,
-                262.65,
-                290.22,
-                273.15
-              ]
-            },
-            {
-              "text": "QSFP28,",
-              "bbox": [
-                292.84,
-                262.65,
-                331.06,
-                273.15
-              ]
-            },
-            {
-              "text": "Dual",
-              "bbox": [
-                333.69,
-                262.65,
-                354.1,
-                273.15
-              ]
-            },
-            {
-              "text": "Power",
-              "bbox": [
-                246.76,
-                277.88,
-                273.59,
-                288.38
-              ]
-            },
-            {
-              "text": "Supply",
-              "bbox": [
-                276.21,
-                277.88,
-                305.97,
-                288.38
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 3,
-          "cell_bbox": [
-            367.53,
-            239.63,
-            39.34,
-            55.42
-          ],
-          "text": "Cái",
-          "text_segments": [
-            {
-              "text": "Cái",
-              "bbox": [
-                379.91,
-                262.65,
-                394.49,
-                273.15
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 4,
-          "cell_bbox": [
-            406.87,
-            239.63,
-            39.22,
-            55.42
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                421.23,
-                262.65,
-                431.73,
-                273.15
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 5,
-          "cell_bbox": [
-            446.09,
-            239.63,
-            97.79,
-            55.42
-          ],
-          "text": "Mới 100%, tiêu chuẩn hãng Cisco",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                452.46,
-                255.04,
-                471.09,
-                266.35
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                473.72,
-                255.04,
-                500.84,
-                265.54
-              ]
-            },
-            {
-              "text": "tiêu",
-              "bbox": [
-                503.46,
-                255.04,
-                519.21,
-                265.54
-              ]
-            },
-            {
-              "text": "chuẩn",
-              "bbox": [
-                452.46,
-                270.8,
-                478.79,
-                282.11
-              ]
-            },
-            {
-              "text": "hãng",
-              "bbox": [
-                481.41,
-                270.8,
-                501.82,
-                281.3
-              ]
-            },
-            {
-              "text": "Cisco",
-              "bbox": [
-                504.45,
-                270.8,
-                528.37,
-                281.3
-              ]
-            }
-          ]
-        }
-      ]
+      "markdown": "| STT | Tên tài sản / Danh mục                     | Quy cách / Cấu hình kỹ thuật                                                     | ĐVT | SL  | Tình trạng                                     |\n| --- | ------------------------------------------ | -------------------------------------------------------------------------------- | --- | --- | ---------------------------------------------- |\n| 01  | Hệ thống Máy chủ Dell PowerEdge R760       | 2x Intel Xeon Gold 6430, 256GB DDR5 RAM, 4x 1.92TB NVMe SSD, PSU Redundant 1100W | Bộ  | 02  | Mới 100%, nguyên đai nguyên kiện, CO/CQ đầy đủ |\n| 02  | Thiết bị lưu trữ SAN Storage Dell ME5024   | Controller Dual 16Gb FC, 24x 2.4TB SAS 10K RPM, 2x Direct Attach Cables          | Hệ  | 01  | Mới 100%, nhập khẩu chính hãng                 |\n| 03  | Thiết bị mạng chuyển mạch Cisco Nexus 9300 | 48 Port 10/25G SFP28 + 6 Port 100G QSFP28, Dual Power Supply                     | Cái | 02  | Mới 100%, tiêu chuẩn hãng Cisco                |"
+    }
+  ],
+  "ocr_lines": [
+    {
+      "index": 1,
+      "page": 1,
+      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "confidence": null
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "text": "Độc lập – Tự do – Hạnh phúc",
+      "confidence": null
+    },
+    {
+      "index": 3,
+      "page": 1,
+      "text": "HỢP ĐỒNG MUA BÁN TÀI SẢN",
+      "confidence": null
+    },
+    {
+      "index": 4,
+      "page": 1,
+      "text": "Số: 08/2026/HĐMB-TS",
+      "confidence": null
+    },
+    {
+      "index": 5,
+      "page": 1,
+      "text": "Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số",
+      "confidence": null
+    },
+    {
+      "index": 6,
+      "page": 1,
+      "text": "88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống",
+      "confidence": null
+    },
+    {
+      "index": 7,
+      "page": 1,
+      "text": "nhất ký kết Hợp đồng mua bán tài sản:",
+      "confidence": null
+    },
+    {
+      "index": 8,
+      "page": 1,
+      "text": "BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)",
+      "confidence": null
+    },
+    {
+      "index": 9,
+      "page": 1,
+      "text": "Tên tổ chức/cá nhân",
+      "confidence": null
+    },
+    {
+      "index": 10,
+      "page": 1,
+      "text": ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+      "confidence": null
+    },
+    {
+      "index": 11,
+      "page": 1,
+      "text": "Mã số doanh nghiệp",
+      "confidence": null
+    },
+    {
+      "index": 12,
+      "page": 1,
+      "text": ": 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018",
+      "confidence": null
+    },
+    {
+      "index": 13,
+      "page": 1,
+      "text": "Địa chỉ trụ sở chính",
+      "confidence": null
+    },
+    {
+      "index": 14,
+      "page": 1,
+      "text": ": Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh",
+      "confidence": null
+    },
+    {
+      "index": 15,
+      "page": 1,
+      "text": "Xuân, Hà Nội",
+      "confidence": null
+    },
+    {
+      "index": 16,
+      "page": 1,
+      "text": "Người đại diện theo PL",
+      "confidence": null
+    },
+    {
+      "index": 17,
+      "page": 1,
+      "text": ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc",
+      "confidence": null
+    },
+    {
+      "index": 18,
+      "page": 1,
+      "text": "Số CCCD",
+      "confidence": null
+    },
+    {
+      "index": 19,
+      "page": 1,
+      "text": ": 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021",
+      "confidence": null
+    },
+    {
+      "index": 20,
+      "page": 1,
+      "text": "Số điện thoại / Email",
+      "confidence": null
+    },
+    {
+      "index": 21,
+      "page": 1,
+      "text": ": 024.3789.9999 | contact@tanthinhphat-tech.vn",
+      "confidence": null
+    },
+    {
+      "index": 22,
+      "page": 1,
+      "text": "Tài khoản ngân hàng",
+      "confidence": null
+    },
+    {
+      "index": 23,
+      "page": 1,
+      "text": ": 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)",
+      "confidence": null
+    },
+    {
+      "index": 24,
+      "page": 1,
+      "text": "- CN Thăng Long",
+      "confidence": null
+    },
+    {
+      "index": 25,
+      "page": 1,
+      "text": "BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)",
+      "confidence": null
+    },
+    {
+      "index": 26,
+      "page": 1,
+      "text": "Tên tổ chức/cá nhân",
+      "confidence": null
+    },
+    {
+      "index": 27,
+      "page": 1,
+      "text": ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+      "confidence": null
+    },
+    {
+      "index": 28,
+      "page": 1,
+      "text": "Mã số doanh nghiệp",
+      "confidence": null
+    },
+    {
+      "index": 29,
+      "page": 1,
+      "text": ": 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020",
+      "confidence": null
+    },
+    {
+      "index": 30,
+      "page": 1,
+      "text": "Địa chỉ trụ sở chính",
+      "confidence": null
+    },
+    {
+      "index": 31,
+      "page": 1,
+      "text": ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
+      "confidence": null
+    },
+    {
+      "index": 32,
+      "page": 1,
+      "text": "Người đại diện theo PL",
+      "confidence": null
+    },
+    {
+      "index": 33,
+      "page": 1,
+      "text": ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành",
+      "confidence": null
+    },
+    {
+      "index": 34,
+      "page": 1,
+      "text": "Số CCCD",
+      "confidence": null
+    },
+    {
+      "index": 35,
+      "page": 1,
+      "text": ": 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022",
+      "confidence": null
+    },
+    {
+      "index": 36,
+      "page": 1,
+      "text": "Số điện thoại / Email",
+      "confidence": null
+    },
+    {
+      "index": 37,
+      "page": 1,
+      "text": ": 024.3988.8888 | info@achaugroup.vn",
+      "confidence": null
+    },
+    {
+      "index": 38,
+      "page": 1,
+      "text": "Tài khoản ngân hàng",
+      "confidence": null
+    },
+    {
+      "index": 39,
+      "page": 1,
+      "text": ": 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam",
+      "confidence": null
+    },
+    {
+      "index": 40,
+      "page": 1,
+      "text": "(Vietcombank) - CN Hà Nội",
+      "confidence": null
+    },
+    {
+      "index": 41,
+      "page": 1,
+      "text": "Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản",
+      "confidence": null
+    },
+    {
+      "index": 42,
+      "page": 1,
+      "text": "và điều kiện cụ thể sau đây:",
+      "confidence": null
+    },
+    {
+      "index": 43,
+      "page": 1,
+      "text": "ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN",
+      "confidence": null
+    },
+    {
+      "index": 44,
+      "page": 1,
+      "text": "1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên",
+      "confidence": null
+    },
+    {
+      "index": 45,
+      "page": 1,
+      "text": "dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là \"Tài sản\"), với thông số",
+      "confidence": null
+    },
+    {
+      "index": 46,
+      "page": 1,
+      "text": "kỹ thuật chi tiết như sau:",
+      "confidence": null
+    },
+    {
+      "index": 47,
+      "page": 1,
+      "text": "Trang 1 / 4",
+      "confidence": null
+    },
+    {
+      "index": 48,
+      "page": 2,
+      "text": "STT",
+      "confidence": null
+    },
+    {
+      "index": 49,
+      "page": 2,
+      "text": "Tên tài sản / Danh mục",
+      "confidence": null
+    },
+    {
+      "index": 50,
+      "page": 2,
+      "text": "Quy cách / Cấu hình kỹ",
+      "confidence": null
+    },
+    {
+      "index": 51,
+      "page": 2,
+      "text": "thuật",
+      "confidence": null
+    },
+    {
+      "index": 52,
+      "page": 2,
+      "text": "ĐVT",
+      "confidence": null
+    },
+    {
+      "index": 53,
+      "page": 2,
+      "text": "SL",
+      "confidence": null
+    },
+    {
+      "index": 54,
+      "page": 2,
+      "text": "Tình trạng",
+      "confidence": null
+    },
+    {
+      "index": 55,
+      "page": 2,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 56,
+      "page": 2,
+      "text": "Hệ thống Máy chủ Dell",
+      "confidence": null
+    },
+    {
+      "index": 57,
+      "page": 2,
+      "text": "PowerEdge R760",
+      "confidence": null
+    },
+    {
+      "index": 58,
+      "page": 2,
+      "text": "2x Intel Xeon Gold 6430,",
+      "confidence": null
+    },
+    {
+      "index": 59,
+      "page": 2,
+      "text": "256GB DDR5 RAM, 4x",
+      "confidence": null
+    },
+    {
+      "index": 60,
+      "page": 2,
+      "text": "1.92TB NVMe SSD, PSU",
+      "confidence": null
+    },
+    {
+      "index": 61,
+      "page": 2,
+      "text": "Redundant 1100W",
+      "confidence": null
+    },
+    {
+      "index": 62,
+      "page": 2,
+      "text": "Bộ",
+      "confidence": null
+    },
+    {
+      "index": 63,
+      "page": 2,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 64,
+      "page": 2,
+      "text": "Mới 100%, nguyên",
+      "confidence": null
+    },
+    {
+      "index": 65,
+      "page": 2,
+      "text": "đai nguyên kiện,",
+      "confidence": null
+    },
+    {
+      "index": 66,
+      "page": 2,
+      "text": "CO/CQ đầy đủ",
+      "confidence": null
+    },
+    {
+      "index": 67,
+      "page": 2,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 68,
+      "page": 2,
+      "text": "Thiết bị lưu trữ SAN Storage",
+      "confidence": null
+    },
+    {
+      "index": 69,
+      "page": 2,
+      "text": "Dell ME5024",
+      "confidence": null
+    },
+    {
+      "index": 70,
+      "page": 2,
+      "text": "Controller Dual 16Gb FC,",
+      "confidence": null
+    },
+    {
+      "index": 71,
+      "page": 2,
+      "text": "24x 2.4TB SAS 10K",
+      "confidence": null
+    },
+    {
+      "index": 72,
+      "page": 2,
+      "text": "RPM, 2x Direct Attach",
+      "confidence": null
+    },
+    {
+      "index": 73,
+      "page": 2,
+      "text": "Cables",
+      "confidence": null
+    },
+    {
+      "index": 74,
+      "page": 2,
+      "text": "Hệ",
+      "confidence": null
+    },
+    {
+      "index": 75,
+      "page": 2,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 76,
+      "page": 2,
+      "text": "Mới 100%, nhập",
+      "confidence": null
+    },
+    {
+      "index": 77,
+      "page": 2,
+      "text": "khẩu chính hãng",
+      "confidence": null
+    },
+    {
+      "index": 78,
+      "page": 2,
+      "text": "03",
+      "confidence": null
+    },
+    {
+      "index": 79,
+      "page": 2,
+      "text": "Thiết bị mạng chuyển mạch",
+      "confidence": null
+    },
+    {
+      "index": 80,
+      "page": 2,
+      "text": "Cisco Nexus 9300",
+      "confidence": null
+    },
+    {
+      "index": 81,
+      "page": 2,
+      "text": "48 Port 10/25G SFP28 + 6",
+      "confidence": null
+    },
+    {
+      "index": 82,
+      "page": 2,
+      "text": "Port 100G QSFP28, Dual",
+      "confidence": null
+    },
+    {
+      "index": 83,
+      "page": 2,
+      "text": "Power Supply",
+      "confidence": null
+    },
+    {
+      "index": 84,
+      "page": 2,
+      "text": "Cái",
+      "confidence": null
+    },
+    {
+      "index": 85,
+      "page": 2,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 86,
+      "page": 2,
+      "text": "Mới 100%, tiêu",
+      "confidence": null
+    },
+    {
+      "index": 87,
+      "page": 2,
+      "text": "chuẩn hãng Cisco",
+      "confidence": null
+    },
+    {
+      "index": 88,
+      "page": 2,
+      "text": "1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh",
+      "confidence": null
+    },
+    {
+      "index": 89,
+      "page": 2,
+      "text": "chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào",
+      "confidence": null
+    },
+    {
+      "index": 90,
+      "page": 2,
+      "text": "đối với bên thứ ba.",
+      "confidence": null
+    },
+    {
+      "index": 91,
+      "page": 2,
+      "text": "ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN",
+      "confidence": null
+    },
+    {
+      "index": 92,
+      "page": 2,
+      "text": "2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một",
+      "confidence": null
+    },
+    {
+      "index": 93,
+      "page": 2,
+      "text": "tỷ năm trăm bốn mươi triệu đồng chẵn).",
+      "confidence": null
+    },
+    {
+      "index": 94,
+      "page": 2,
+      "text": "- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo",
+      "confidence": null
+    },
+    {
+      "index": 95,
+      "page": 2,
+      "text": "hành tận nơi tại địa điểm của Bên B.",
+      "confidence": null
+    },
+    {
+      "index": 96,
+      "page": 2,
+      "text": "2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần",
+      "confidence": null
+    },
+    {
+      "index": 97,
+      "page": 2,
+      "text": "đầu Hợp đồng.",
+      "confidence": null
+    },
+    {
+      "index": 98,
+      "page": 2,
+      "text": "2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:",
+      "confidence": null
+    },
+    {
+      "index": 99,
+      "page": 2,
+      "text": "Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ",
+      "confidence": null
+    },
+    {
+      "index": 100,
+      "page": 2,
+      "text": "trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.",
+      "confidence": null
+    },
+    {
+      "index": 101,
+      "page": 2,
+      "text": "Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương",
+      "confidence": null
+    },
+    {
+      "index": 102,
+      "page": 2,
+      "text": "924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa",
+      "confidence": null
+    },
+    {
+      "index": 103,
+      "page": 2,
+      "text": "đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.",
+      "confidence": null
+    },
+    {
+      "index": 104,
+      "page": 2,
+      "text": "Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong",
+      "confidence": null
+    },
+    {
+      "index": 105,
+      "page": 2,
+      "text": "vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.",
+      "confidence": null
+    },
+    {
+      "index": 106,
+      "page": 2,
+      "text": "ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN",
+      "confidence": null
+    },
+    {
+      "index": 107,
+      "page": 2,
+      "text": "3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản",
+      "confidence": null
+    },
+    {
+      "index": 108,
+      "page": 2,
+      "text": "thanh toán Đợt 1.",
+      "confidence": null
+    },
+    {
+      "index": 109,
+      "page": 2,
+      "text": "3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà",
+      "confidence": null
+    },
+    {
+      "index": 110,
+      "page": 2,
+      "text": "Nội.",
+      "confidence": null
+    },
+    {
+      "index": 111,
+      "page": 2,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 112,
+      "page": 2,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 113,
+      "page": 2,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 114,
+      "page": 2,
+      "text": "Trang 2 / 4",
+      "confidence": null
+    },
+    {
+      "index": 115,
+      "page": 3,
+      "text": "3.3. Quy trình giao nhận & Nghiệm thu:",
+      "confidence": null
+    },
+    {
+      "index": 116,
+      "page": 3,
+      "text": "Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất",
+      "confidence": null
+    },
+    {
+      "index": 117,
+      "page": 3,
+      "text": "lượng (CQ) và phiếu bảo hành chính hãng.",
+      "confidence": null
+    },
+    {
+      "index": 118,
+      "page": 3,
+      "text": "Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao",
+      "confidence": null
+    },
+    {
+      "index": 119,
+      "page": 3,
+      "text": "nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.",
+      "confidence": null
+    },
+    {
+      "index": 120,
+      "page": 3,
+      "text": "Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm",
+      "confidence": null
+    },
+    {
+      "index": 121,
+      "page": 3,
+      "text": "trong vòng 03 ngày làm việc.",
+      "confidence": null
+    },
+    {
+      "index": 122,
+      "page": 3,
+      "text": "ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO",
+      "confidence": null
+    },
+    {
+      "index": 123,
+      "page": 3,
+      "text": "4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất",
+      "confidence": null
+    },
+    {
+      "index": 124,
+      "page": 3,
+      "text": "nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.",
+      "confidence": null
+    },
+    {
+      "index": 125,
+      "page": 3,
+      "text": "4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết",
+      "confidence": null
+    },
+    {
+      "index": 126,
+      "page": 3,
+      "text": "Biên bản bàn giao tài sản tại địa điểm giao hàng.",
+      "confidence": null
+    },
+    {
+      "index": 127,
+      "page": 3,
+      "text": "ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT",
+      "confidence": null
+    },
+    {
+      "index": 128,
+      "page": 3,
+      "text": "5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.",
+      "confidence": null
+    },
+    {
+      "index": 129,
+      "page": 3,
+      "text": "5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra",
+      "confidence": null
+    },
+    {
+      "index": 130,
+      "page": 3,
+      "text": "sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo",
+      "confidence": null
+    },
+    {
+      "index": 131,
+      "page": 3,
+      "text": "bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị",
+      "confidence": null
+    },
+    {
+      "index": 132,
+      "page": 3,
+      "text": "tương đương để thay thế tạm thời.",
+      "confidence": null
+    },
+    {
+      "index": 133,
+      "page": 3,
+      "text": "ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN",
+      "confidence": null
+    },
+    {
+      "index": 134,
+      "page": 3,
+      "text": "6.1. Quyền và nghĩa vụ của Bên A:",
+      "confidence": null
+    },
+    {
+      "index": 135,
+      "page": 3,
+      "text": "Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.",
+      "confidence": null
+    },
+    {
+      "index": 136,
+      "page": 3,
+      "text": "Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.",
+      "confidence": null
+    },
+    {
+      "index": 137,
+      "page": 3,
+      "text": "Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.",
+      "confidence": null
+    },
+    {
+      "index": 138,
+      "page": 3,
+      "text": "6.2. Quyền và nghĩa vụ của Bên B:",
+      "confidence": null
+    },
+    {
+      "index": 139,
+      "page": 3,
+      "text": "Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.",
+      "confidence": null
+    },
+    {
+      "index": 140,
+      "page": 3,
+      "text": "Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.",
+      "confidence": null
+    },
+    {
+      "index": 141,
+      "page": 3,
+      "text": "Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.",
+      "confidence": null
+    },
+    {
+      "index": 142,
+      "page": 3,
+      "text": "Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật",
+      "confidence": null
+    },
+    {
+      "index": 143,
+      "page": 3,
+      "text": "do lỗi của Bên A/nhà sản xuất.",
+      "confidence": null
+    },
+    {
+      "index": 144,
+      "page": 3,
+      "text": "ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI",
+      "confidence": null
+    },
+    {
+      "index": 145,
+      "page": 3,
+      "text": "7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp",
+      "confidence": null
+    },
+    {
+      "index": 146,
+      "page": 3,
+      "text": "thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng",
+      "confidence": null
+    },
+    {
+      "index": 147,
+      "page": 3,
+      "text": "tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.",
+      "confidence": null
+    },
+    {
+      "index": 148,
+      "page": 3,
+      "text": "7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ",
+      "confidence": null
+    },
+    {
+      "index": 149,
+      "page": 3,
+      "text": "quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.",
+      "confidence": null
+    },
+    {
+      "index": 150,
+      "page": 3,
+      "text": "7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại",
+      "confidence": null
+    },
+    {
+      "index": 151,
+      "page": 3,
+      "text": "thực tế phát sinh trực tiếp cho bên bị vi phạm.",
+      "confidence": null
+    },
+    {
+      "index": 152,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 153,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 154,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 155,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 156,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 157,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 158,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 159,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 160,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 161,
+      "page": 3,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 162,
+      "page": 3,
+      "text": "Trang 3 / 4",
+      "confidence": null
+    },
+    {
+      "index": 163,
+      "page": 4,
+      "text": "ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP",
+      "confidence": null
+    },
+    {
+      "index": 164,
+      "page": 4,
+      "text": "8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể",
+      "confidence": null
+    },
+    {
+      "index": 165,
+      "page": 4,
+      "text": "khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa",
+      "confidence": null
+    },
+    {
+      "index": 166,
+      "page": 4,
+      "text": "hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng",
+      "confidence": null
+    },
+    {
+      "index": 167,
+      "page": 4,
+      "text": "văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.",
+      "confidence": null
+    },
+    {
+      "index": 168,
+      "page": 4,
+      "text": "8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua",
+      "confidence": null
+    },
+    {
+      "index": 169,
+      "page": 4,
+      "text": "thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.",
+      "confidence": null
+    },
+    {
+      "index": 170,
+      "page": 4,
+      "text": "8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong",
+      "confidence": null
+    },
+    {
+      "index": 171,
+      "page": 4,
+      "text": "hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết",
+      "confidence": null
+    },
+    {
+      "index": 172,
+      "page": 4,
+      "text": "của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.",
+      "confidence": null
+    },
+    {
+      "index": 173,
+      "page": 4,
+      "text": "ĐIỀU 9. ĐIỀU KHOẢN CHUNG",
+      "confidence": null
+    },
+    {
+      "index": 174,
+      "page": 4,
+      "text": "9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ",
+      "confidence": null
+    },
+    {
+      "index": 175,
+      "page": 4,
+      "text": "quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.",
+      "confidence": null
+    },
+    {
+      "index": 176,
+      "page": 4,
+      "text": "9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn",
+      "confidence": null
+    },
+    {
+      "index": 177,
+      "page": 4,
+      "text": "bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.",
+      "confidence": null
+    },
+    {
+      "index": 178,
+      "page": 4,
+      "text": "9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02",
+      "confidence": null
+    },
+    {
+      "index": 179,
+      "page": 4,
+      "text": "(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.",
+      "confidence": null
+    },
+    {
+      "index": 180,
+      "page": 4,
+      "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)",
+      "confidence": null
+    },
+    {
+      "index": 181,
+      "page": 4,
+      "text": "(Ký, ghi rõ họ tên và đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 182,
+      "page": 4,
+      "text": "NGUYỄN VĂN HÙNG",
+      "confidence": null
+    },
+    {
+      "index": 183,
+      "page": 4,
+      "text": "Tổng Giám đốc",
+      "confidence": null
+    },
+    {
+      "index": 184,
+      "page": 4,
+      "text": "ĐẠI DIỆN BÊN MUA (BÊN B)",
+      "confidence": null
+    },
+    {
+      "index": 185,
+      "page": 4,
+      "text": "(Ký, ghi rõ họ tên và đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 186,
+      "page": 4,
+      "text": "TRẦN THỊ MINH PHƯƠNG",
+      "confidence": null
+    },
+    {
+      "index": 187,
+      "page": 4,
+      "text": "Giám đốc Điều hành",
+      "confidence": null
+    },
+    {
+      "index": 188,
+      "page": 4,
+      "text": "Trang 4 / 4",
+      "confidence": null
     }
   ]
 }

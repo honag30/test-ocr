@@ -1,195 +1,297 @@
-=== KẾT QUẢ OCR: bo_chung_tu_hoa_don_mua_ban.pdf ===
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: bo_chung_tu_hoa_don_mua_ban.pdf ===
 Danh mục: hop_dong
+Định dạng nguồn (Source Type): pdf_text
+Phương pháp trích xuất (Method): native_text
 
-[001 - 100.0%] TÂN THỊNH PHÁT CORP
-[002 - 100.0%] Số: 08/2026/BBBG-TTP
-[003 - 100.0%] V/v: Bàn giao thiết bị hạ tầng CNTT
-[004 - 100.0%] CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-[005 - 100.0%] Độc lập – Tự do – Hạnh phúc
-[006 - 100.0%] BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN
-[007 - 100.0%] (Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)
-[008 - 100.0%] Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai
-[009 - 100.0%] bên gồm có:
-[010 - 100.0%] BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
-[011 - 100.0%] Đại diện : Ông Nguyễn Văn Hùng      Chức vụ: Tổng Giám đốc
-[012 - 100.0%] Cán bộ kỹ thuật bàn giao: Ông Lê Hoàng Nam      Chức vụ: Trưởng phòng Kỹ thuật
-[013 - 100.0%] BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
-[014 - 100.0%] Đại diện : Bà Trần Thị Minh Phương      Chức vụ: Giám đốc Điều hành
-[015 - 100.0%] Cán bộ kỹ thuật tiếp nhận: Ông Vũ Tuấn Anh      Chức vụ: Trưởng phòng Hạ tầng CNTT
-[016 - 100.0%] Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:
-[017 - 100.0%] STT Tên thiết bị / Tài sản Ký hiệu / Số Serial (S/N)ĐVT SL Tình trạng thực tế
-[018 - 100.0%] 01 Máy chủ Dell PowerEdge R760
-[019 - 100.0%] 2x Xeon Gold 6430 / 256GB / 4x 1.92TB
-[020 - 100.0%] S/N: CN-0H987G-71623
-[021 - 100.0%] S/N: CN-0H987G-71624 Bộ 02
-[022 - 100.0%] Mới 100%, nguyên seal,
-[023 - 100.0%] chạy test PASS, đủ phụ
-[024 - 100.0%] kiện ray-kit
-[025 - 100.0%] 02 Hệ thống SAN Dell ME5024
-[026 - 100.0%] Dual FC 16G, 24x 2.4TB SAS 10KS/N: DL-ME5024-88902 Hệ 01
-[027 - 100.0%] Mới 100%, hoạt động ổn
-[028 - 100.0%] định, phân vùng RAID sẵn
-[029 - 100.0%] sàng
-[030 - 100.0%] 03 Switch Cisco Nexus 9300
-[031 - 100.0%] 48x 10/25G SFP28 + 6x 100G QSFP28
-[032 - 100.0%] S/N: FOC24480A12
-[033 - 100.0%] S/N: FOC24480A13 Cái 02 Mới 100%, cổng kết nối đạt
-[034 - 100.0%] chuẩn tốc độ
-[035 - 100.0%] Hồ sơ, chứng từ kèm theo:
-[036 - 100.0%] 01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).
-[037 - 100.0%] 03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.
-[038 - 100.0%] Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.
-[039 - 100.0%] Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh
-[040 - 100.0%] lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.
-[041 - 100.0%] KỸ THUẬT BÊN GIAO
-[042 - 100.0%] (Ký, họ tên)
-[043 - 100.0%] Lê Hoàng Nam
-[044 - 100.0%] KỸ THUẬT BÊN NHẬN
-[045 - 100.0%] (Ký, họ tên)
-[046 - 100.0%] Vũ Tuấn Anh
-[047 - 100.0%] ĐẠI DIỆN BÊN GIAO (A)
-[048 - 100.0%] (Ký, họ tên, đóng dấu)
-[049 - 100.0%] Nguyễn Văn Hùng
-[050 - 100.0%] ĐẠI DIỆN BÊN NHẬN (B)
-[051 - 100.0%] (Ký, họ tên, đóng dấu)
-[052 - 100.0%] Trần Thị Minh Phương
-[053 - 100.0%] •
-[054 - 100.0%] •
-[055 - 100.0%] •
-[056 - 100.0%] Trang 1 / 4
-[057 - 100.0%] HÓA ĐƠN GIÁ TRỊ GIA TĂNG
-[058 - 100.0%] (HÓA ĐƠN ĐIỆN TỬ)
-[059 - 100.0%] Ngày 28 tháng 08 năm 2026
-[060 - 100.0%] Mẫu số: 1/001
-[061 - 100.0%] Ký hiệu: C26TTP
-[062 - 100.0%] Số hóa đơn:0001589
-[063 - 100.0%] Mã CQT: 00E9F8A172B3802
-[064 - 100.0%] I. ĐƠN VỊ BÁN HÀNG (SELLER)
-[065 - 100.0%] Tên đơn vị bán : CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
-[066 - 100.0%] Mã số thuế : 0108998877
-[067 - 100.0%] Địa chỉ : Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà
-[068 - 100.0%] Nội
-[069 - 100.0%] Số tài khoản ngân hàng: 19034567890011 tại Techcombank - Chi nhánh Thăng Long
-[070 - 100.0%] II. ĐƠN VỊ MUA HÀNG (BUYER)
-[071 - 100.0%] Tên đơn vị mua : CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
-[072 - 100.0%] Mã số thuế : 0109112233
-[073 - 100.0%] Địa chỉ : Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội
-[074 - 100.0%] Hình thức thanh toán: Chuyển khoản (TM/CK)        Số hợp đồng: 08/2026/HĐMB-TS
-[075 - 100.0%] STT Tên hàng hóa, dịch vụ ĐVT SL Đơn giá (VNĐ) Thành tiền (VNĐ)
-[076 - 100.0%] 1 Hệ thống Máy chủ Dell PowerEdge R760Bộ 02 385.000.000 770.000.000
-[077 - 100.0%] 2 Thiết bị lưu trữ SAN Storage Dell ME5024Hệ 01 450.000.000 450.000.000
-[078 - 100.0%] 3 Thiết bị switch Cisco Nexus 9300 Cái 02 90.000.000 180.000.000
-[079 - 100.0%] Cộng tiền hàng (chưa có thuế GTGT):1.400.000.000
-[080 - 100.0%] Thuế suất GTGT: 10% | Tiền thuế GTGT: 140.000.000
-[081 - 100.0%] TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM V AT):1.540.000.000
-[082 - 100.0%] Số tiền viết bằng chữ:Một tỷ năm trăm bốn mươi triệu đồng chẵn.
-[083 - 100.0%] NGƯỜI MUA HÀNG
-[084 - 100.0%] (Ký, ghi rõ họ tên)
-[085 - 100.0%] Trần Thị Minh Phương
-[086 - 100.0%] QR Code
-[087 - 100.0%] Tra cứu
-[088 - 100.0%] NGƯỜI BÁN HÀNG
-[089 - 100.0%] (Chữ ký số điện tử hợp lệ)
-[090 - 100.0%] Signature Valid
-[091 - 100.0%] Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ
-[092 - 100.0%] TÂN THỊNH PHÁT
-[093 - 100.0%] Ngày ký: 28/08/2026 14:35:10
-[094 - 100.0%] Trang 2 / 4
-[095 - 100.0%] TÂN THỊNH PHÁT CORP
-[096 - 100.0%] Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)
-[097 - 100.0%] Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)
-[098 - 100.0%] PHIẾU XUẤT KHO
-[099 - 100.0%] Số PXK: XK-2026/0882
-[100 - 100.0%] Ngày 28/08/2026
-[101 - 100.0%] PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ
-[102 - 100.0%] (Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)
-[103 - 100.0%] Họ tên người nhận hàng: Ông Vũ Tuấn Anh      Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu
-[104 - 100.0%] Lý do xuất kho : Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS
-[105 - 100.0%] Địa điểm giao nhận : Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội
-[106 - 100.0%] STT Tên, nhãn hiệu, quy cách phẩm chất vật
-[107 - 100.0%] tư Mã số ĐVT
-[108 - 100.0%] Số lượng
-[109 - 100.0%] Thời hạn bảo hànhYêu
-[110 - 100.0%] cầu
-[111 - 100.0%] Thực
-[112 - 100.0%] xuất
-[113 - 100.0%] 1 Hệ thống Server Dell PowerEdge R760
-[114 - 100.0%] (Dual Xeon) SRV-R760 Bộ 02 02 36 tháng (đến 28/08/2029)
-[115 - 100.0%] 2 Thiết bị lưu trữ SAN Dell PowerVault
-[116 - 100.0%] ME5024
-[117 - 100.0%] SAN-
-[118 - 100.0%] ME5024 Hệ 01 01 36 tháng (đến 28/08/2029)
-[119 - 100.0%] 3 Switch mạng Core Cisco Nexus 9300SW-N9300 Cái 02 02 36 tháng (đến 28/08/2029)
-[120 - 100.0%] Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị
-[121 - 100.0%] không có dấu hiệu móp méo, trầy xước.
-[122 - 100.0%] NGƯỜI LẬP PHIẾU
-[123 - 100.0%] (Ký, họ tên)
-[124 - 100.0%] Phạm Thu Trang
-[125 - 100.0%] NGƯỜI NHẬN HÀNG
-[126 - 100.0%] (Ký, họ tên)
-[127 - 100.0%] Vũ Tuấn Anh
-[128 - 100.0%] THỦ KHO
-[129 - 100.0%] (Ký, họ tên)
-[130 - 100.0%] Đặng Quốc Bảo
-[131 - 100.0%] KẾ TOÁN TRƯỞNG
-[132 - 100.0%] (Ký, họ tên)
-[133 - 100.0%] Hoàng Bích Ngọc
-[134 - 100.0%] GIÁM ĐỐC
-[135 - 100.0%] (Ký, đóng dấu)
-[136 - 100.0%] Nguyễn Văn Hùng
-[137 - 100.0%] Trang 3 / 4
-[138 - 100.0%] TÂN THỊNH PHÁT CORP
-[139 - 100.0%] Số: 08/2026/BBTL-TS
-[140 - 100.0%] CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-[141 - 100.0%] Độc lập – Tự do – Hạnh phúc
-[142 - 100.0%] BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN
-[143 - 100.0%] (Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)
-[144 - 100.0%] Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:
-[145 - 100.0%] BÊN A (BÊN BÁN)
-[146 - 100.0%] CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH
-[147 - 100.0%] PHÁT
-[148 - 100.0%] Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc
-[149 - 100.0%] MST: 0108998877
-[150 - 100.0%] BÊN B (BÊN MUA)
-[151 - 100.0%] CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
-[152 - 100.0%] Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH
-[153 - 100.0%] MST: 0109112233
-[154 - 100.0%] Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:
-[155 - 100.0%] Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số
-[156 - 100.0%] lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.
-[157 - 100.0%] Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày
-[158 - 100.0%] 28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% V AT).
-[159 - 100.0%] Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua
-[160 - 100.0%] hệ thống ngân hàng:
-[161 - 100.0%] Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).
-[162 - 100.0%] Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).
-[163 - 100.0%] Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).
-[164 - 100.0%] Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày
-[165 - 100.0%] 28/08/2029 theo cam kết tại Hợp đồng gốc.
-[166 - 100.0%] Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số
-[167 - 100.0%] 08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.
-[168 - 100.0%] ĐẠI DIỆN BÊN BÁN (BÊN A)
-[169 - 100.0%] (Ký, họ tên và đóng dấu)
-[170 - 100.0%] NGUYỄN VĂN HÙNG
-[171 - 100.0%] Tổng Giám đốc
-[172 - 100.0%] ĐẠI DIỆN BÊN MUA (BÊN B)
-[173 - 100.0%] (Ký, họ tên và đóng dấu)
-[174 - 100.0%] TRẦN THỊ MINH PHƯƠNG
-[175 - 100.0%] Giám đốc Điều hành
-[176 - 100.0%] 1.
-[177 - 100.0%] 2.
-[178 - 100.0%] 3.
-[179 - 100.0%] ◦
-[180 - 100.0%] ◦
-[181 - 100.0%] ◦
-[182 - 100.0%] 4.
-[183 - 100.0%] 5.
-[184 - 100.0%] Trang 4 / 4
+--- NỘI DUNG VĂN BẢN ---
+TÂN THỊNH PHÁT CORP
+Số: 08/2026/BBBG-TTP
+V/v: Bàn giao thiết bị hạ tầng CNTT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN
+(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)
+Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai
+bên gồm có:
+BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
+Đại diện
+: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc
+Cán bộ kỹ thuật bàn giao
+: Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật
+BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
+Đại diện
+: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành
+Cán bộ kỹ thuật tiếp nhận
+: Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT
+Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:
+STT
+Tên thiết bị / Tài sản
+Ký hiệu / Số Serial (S/N)
+ĐVT
+SL
+Tình trạng thực tế
+01
+Máy chủ Dell PowerEdge R760
+2x Xeon Gold 6430 / 256GB / 4x 1.92TB
+S/N: CN-0H987G-71623
+S/N: CN-0H987G-71624
+Bộ
+02
+Mới 100%, nguyên seal,
+chạy test PASS, đủ phụ
+kiện ray-kit
+02
+Hệ thống SAN Dell ME5024
+Dual FC 16G, 24x 2.4TB SAS 10K
+S/N: DL-ME5024-88902
+Hệ
+01
+Mới 100%, hoạt động ổn
+định, phân vùng RAID sẵn
+sàng
+03
+Switch Cisco Nexus 9300
+48x 10/25G SFP28 + 6x 100G QSFP28
+S/N: FOC24480A12
+S/N: FOC24480A13
+Cái
+02
+Mới 100%, cổng kết nối đạt
+chuẩn tốc độ
+Hồ sơ, chứng từ kèm theo:
+01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).
+03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.
+Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.
+Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh
+lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.
+KỸ THUẬT BÊN GIAO
+(Ký, họ tên)
+Lê Hoàng Nam
+KỸ THUẬT BÊN NHẬN
+(Ký, họ tên)
+Vũ Tuấn Anh
+ĐẠI DIỆN BÊN GIAO (A)
+(Ký, họ tên, đóng dấu)
+Nguyễn Văn Hùng
+ĐẠI DIỆN BÊN NHẬN (B)
+(Ký, họ tên, đóng dấu)
+Trần Thị Minh Phương
+•
+•
+•
+Trang 1 / 4
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG
+(HÓA ĐƠN ĐIỆN TỬ)
+Ngày 28 tháng 08 năm 2026
+Mẫu số: 1/001
+Ký hiệu: C26TTP
+Số hóa đơn: 0001589
+Mã CQT: 00E9F8A172B3802
+I. ĐƠN VỊ BÁN HÀNG (SELLER)
+Tên đơn vị bán
+: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
+Mã số thuế
+: 0108998877
+Địa chỉ
+: Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà
+Nội
+Số tài khoản ngân hàng
+: 19034567890011 tại Techcombank - Chi nhánh Thăng Long
+II. ĐƠN VỊ MUA HÀNG (BUYER)
+Tên đơn vị mua
+: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
+Mã số thuế
+: 0109112233
+Địa chỉ
+: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội
+Hình thức thanh toán
+: Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS
+STT
+Tên hàng hóa, dịch vụ
+ĐVT
+SL
+Đơn giá (VNĐ)
+Thành tiền (VNĐ)
+1
+Hệ thống Máy chủ Dell PowerEdge R760
+Bộ
+02
+385.000.000
+770.000.000
+2
+Thiết bị lưu trữ SAN Storage Dell ME5024
+Hệ
+01
+450.000.000
+450.000.000
+3
+Thiết bị switch Cisco Nexus 9300
+Cái
+02
+90.000.000
+180.000.000
+Cộng tiền hàng (chưa có thuế GTGT):
+1.400.000.000
+Thuế suất GTGT: 10% | Tiền thuế GTGT:
+140.000.000
+TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):
+1.540.000.000
+Số tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn.
+NGƯỜI MUA HÀNG
+(Ký, ghi rõ họ tên)
+Trần Thị Minh Phương
+QR Code
+Tra cứu
+NGƯỜI BÁN HÀNG
+(Chữ ký số điện tử hợp lệ)
+Signature Valid
+Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ
+TÂN THỊNH PHÁT
+Ngày ký: 28/08/2026 14:35:10
+Trang 2 / 4
+TÂN THỊNH PHÁT CORP
+Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)
+Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)
+PHIẾU XUẤT KHO
+Số PXK: XK-2026/0882
+Ngày 28/08/2026
+PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ
+(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)
+Họ tên người nhận hàng
+: Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu
+Lý do xuất kho
+: Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS
+Địa điểm giao nhận
+: Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội
+STT
+Tên, nhãn hiệu, quy cách phẩm chất vật
+tư
+Mã số
+ĐVT
+Số lượng
+Thời hạn bảo hành
+Yêu
+cầu
+Thực
+xuất
+1
+Hệ thống Server Dell PowerEdge R760
+(Dual Xeon)
+SRV-R760
+Bộ
+02
+02
+36 tháng (đến 28/08/2029)
+2
+Thiết bị lưu trữ SAN Dell PowerVault
+ME5024
+SAN-
+ME5024
+Hệ
+01
+01
+36 tháng (đến 28/08/2029)
+3
+Switch mạng Core Cisco Nexus 9300
+SW-N9300
+Cái
+02
+02
+36 tháng (đến 28/08/2029)
+Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị
+không có dấu hiệu móp méo, trầy xước.
+NGƯỜI LẬP PHIẾU
+(Ký, họ tên)
+Phạm Thu Trang
+NGƯỜI NHẬN HÀNG
+(Ký, họ tên)
+Vũ Tuấn Anh
+THỦ KHO
+(Ký, họ tên)
+Đặng Quốc Bảo
+KẾ TOÁN TRƯỞNG
+(Ký, họ tên)
+Hoàng Bích Ngọc
+GIÁM ĐỐC
+(Ký, đóng dấu)
+Nguyễn Văn Hùng
+Trang 3 / 4
+TÂN THỊNH PHÁT CORP
+Số: 08/2026/BBTL-TS
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN
+(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)
+Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:
+BÊN A (BÊN BÁN)
+CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH
+PHÁT
+Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc
+MST: 0108998877
+BÊN B (BÊN MUA)
+CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
+Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH
+MST: 0109112233
+Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:
+Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số
+lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.
+Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày
+28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT).
+Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua
+hệ thống ngân hàng:
+Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).
+Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).
+Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).
+Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày
+28/08/2029 theo cam kết tại Hợp đồng gốc.
+Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số
+08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.
+ĐẠI DIỆN BÊN BÁN (BÊN A)
+(Ký, họ tên và đóng dấu)
+NGUYỄN VĂN HÙNG
+Tổng Giám đốc
+ĐẠI DIỆN BÊN MUA (BÊN B)
+(Ký, họ tên và đóng dấu)
+TRẦN THỊ MINH PHƯƠNG
+Giám đốc Điều hành
+1.
+2.
+3.
+◦
+◦
+◦
+4.
+5.
+Trang 4 / 4
+
+--- CẤU TRÚC BẢNG TRÍCH XUẤT ---
+
+[Bảng 1 - Trang 1]
+| STT | Tên thiết bị / Tài sản                                            | Ký hiệu / Số Serial (S/N)                 | ĐVT | SL  | Tình trạng thực tế                                         |
+| --- | ----------------------------------------------------------------- | ----------------------------------------- | --- | --- | ---------------------------------------------------------- |
+| 01  | Máy chủ Dell PowerEdge R760 2x Xeon Gold 6430 / 256GB / 4x 1.92TB | S/N: CN-0H987G-71623 S/N: CN-0H987G-71624 | Bộ  | 02  | Mới 100%, nguyên seal, chạy test PASS, đủ phụ kiện ray-kit |
+| 02  | Hệ thống SAN Dell ME5024 Dual FC 16G, 24x 2.4TB SAS 10K           | S/N: DL-ME5024-88902                      | Hệ  | 01  | Mới 100%, hoạt động ổn định, phân vùng RAID sẵn sàng       |
+| 03  | Switch Cisco Nexus 9300 48x 10/25G SFP28 + 6x 100G QSFP28         | S/N: FOC24480A12 S/N: FOC24480A13         | Cái | 02  | Mới 100%, cổng kết nối đạt chuẩn tốc độ                    |
+
+[Bảng 2 - Trang 2]
+| STT                                     | Tên hàng hóa, dịch vụ                    | ĐVT | SL  | Đơn giá (VNĐ) | Thành tiền (VNĐ) |
+| --------------------------------------- | ---------------------------------------- | --- | --- | ------------- | ---------------- |
+| 1                                       | Hệ thống Máy chủ Dell PowerEdge R760     | Bộ  | 02  | 385.000.000   | 770.000.000      |
+| 2                                       | Thiết bị lưu trữ SAN Storage Dell ME5024 | Hệ  | 01  | 450.000.000   | 450.000.000      |
+| 3                                       | Thiết bị switch Cisco Nexus 9300         | Cái | 02  | 90.000.000    | 180.000.000      |
+| Cộng tiền hàng (chưa có thuế GTGT):     |                                          |     |     |               | 1.400.000.000    |
+| Thuế suất GTGT: 10% | Tiền thuế GTGT:   |                                          |     |     |               | 140.000.000      |
+| TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT): |                                          |     |     |               | 1.540.000.000    |
+
+[Bảng 3 - Trang 3]
+| STT | Tên, nhãn hiệu, quy cách phẩm chất vật tư       | Mã số       | ĐVT | Số lượng |           | Thời hạn bảo hành         |
+| --- | ----------------------------------------------- | ----------- | --- | -------- | --------- | ------------------------- |
+|     |                                                 |             |     | Yêu cầu  | Thực xuất |                           |
+| 1   | Hệ thống Server Dell PowerEdge R760 (Dual Xeon) | SRV-R760    | Bộ  | 02       | 02        | 36 tháng (đến 28/08/2029) |
+| 2   | Thiết bị lưu trữ SAN Dell PowerVault ME5024     | SAN- ME5024 | Hệ  | 01       | 01        | 36 tháng (đến 28/08/2029) |
+| 3   | Switch mạng Core Cisco Nexus 9300               | SW-N9300    | Cái | 02       | 02        | 36 tháng (đến 28/08/2029) |
 
 ============================================================
-  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: BO_CHUNG_TU_HOA_DON_MUA_BAN.PDF
+  ĐÁNH GIÁ TRÍCH XUẤT: BO_CHUNG_TU_HOA_DON_MUA_BAN.PDF
 ============================================================
-🔹 Độ tin cậy OCR trung bình (Model Confidence): 100.0%
-🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         100.0%
-🔹 Đánh giá chất lượng đọc:                  XUẤT SẮC (Chữ rất rõ ràng)
 ============================================================

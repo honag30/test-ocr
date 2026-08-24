@@ -1,172 +1,208 @@
-=== KẾT QUẢ OCR: hop_dong_mua_ban_tai_san.pdf ===
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: hop_dong_mua_ban_tai_san.pdf ===
 Danh mục: hop_dong
+Định dạng nguồn (Source Type): pdf_text
+Phương pháp trích xuất (Method): native_text
 
-[001 - 100.0%] CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-[002 - 100.0%] Độc lập – Tự do – Hạnh phúc
-[003 - 100.0%] HỢP ĐỒNG MUA BÁN TÀI SẢN
-[004 - 100.0%] Số: 08/2026/HĐMB-TS
-[005 - 100.0%] Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số
-[006 - 100.0%] 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP . Hà Nội), chúng tôi gồm các bên dưới đây thống
-[007 - 100.0%] nhất ký kết Hợp đồng mua bán tài sản:
-[008 - 100.0%] BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)
-[009 - 100.0%] Tên tổ chức/cá nhân: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
-[010 - 100.0%] Mã số doanh nghiệp : 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018
-[011 - 100.0%] Địa chỉ trụ sở chính : Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh
-[012 - 100.0%] Xuân, Hà Nội
-[013 - 100.0%] Người đại diện theo PL: Ông Nguyễn Văn Hùng          Chức vụ: Tổng Giám đốc
-[014 - 100.0%] Số CCCD : 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021
-[015 - 100.0%] Số điện thoại / Email: 024.3789.9999  |  contact@tanthinhphat-tech.vn
-[016 - 100.0%] Tài khoản ngân hàng: 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)
-[017 - 100.0%] - CN Thăng Long
-[018 - 100.0%] BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)
-[019 - 100.0%] Tên tổ chức/cá nhân: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
-[020 - 100.0%] Mã số doanh nghiệp : 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020
-[021 - 100.0%] Địa chỉ trụ sở chính : Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội
-[022 - 100.0%] Người đại diện theo PL: Bà Trần Thị Minh Phương      Chức vụ: Giám đốc Điều hành
-[023 - 100.0%] Số CCCD : 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022
-[024 - 100.0%] Số điện thoại / Email: 024.3988.8888  |  info@achaugroup.vn
-[025 - 100.0%] Tài khoản ngân hàng: 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam
-[026 - 100.0%] (Vietcombank) - CN Hà Nội
-[027 - 100.0%] Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản
-[028 - 100.0%] và điều kiện cụ thể sau đây:
-[029 - 100.0%] ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN
-[030 - 100.0%] 1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên
-[031 - 100.0%] dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là "Tài sản"), với thông số
-[032 - 100.0%] kỹ thuật chi tiết như sau:
-[033 - 100.0%] Trang 1 / 4
-[034 - 100.0%] STT Tên tài sản / Danh mụcQuy cách / Cấu hình kỹ
-[035 - 100.0%] thuật ĐVT SL Tình trạng
-[036 - 100.0%] 01 Hệ thống Máy chủ Dell
-[037 - 100.0%] PowerEdge R760
-[038 - 100.0%] 2x Intel Xeon Gold 6430,
-[039 - 100.0%] 256GB DDR5 RAM, 4x
-[040 - 100.0%] 1.92TB NVMe SSD, PSU
-[041 - 100.0%] Redundant 1100W
-[042 - 100.0%] Bộ 02
-[043 - 100.0%] Mới 100%, nguyên
-[044 - 100.0%] đai nguyên kiện,
-[045 - 100.0%] CO/CQ đầy đủ
-[046 - 100.0%] 02 Thiết bị lưu trữ SAN Storage
-[047 - 100.0%] Dell ME5024
-[048 - 100.0%] Controller Dual 16Gb FC,
-[049 - 100.0%] 24x 2.4TB SAS 10K
-[050 - 100.0%] RPM, 2x Direct Attach
-[051 - 100.0%] Cables
-[052 - 100.0%] Hệ 01 Mới 100%, nhập
-[053 - 100.0%] khẩu chính hãng
-[054 - 100.0%] 03 Thiết bị mạng chuyển mạch
-[055 - 100.0%] Cisco Nexus 9300
-[056 - 100.0%] 48 Port 10/25G SFP28 + 6
-[057 - 100.0%] Port 100G QSFP28, Dual
-[058 - 100.0%] Power Supply
-[059 - 100.0%] Cái 02 Mới 100%, tiêu
-[060 - 100.0%] chuẩn hãng Cisco
-[061 - 100.0%] 1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh
-[062 - 100.0%] chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào
-[063 - 100.0%] đối với bên thứ ba.
-[064 - 100.0%] ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN
-[065 - 100.0%] 2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ(Bằng chữ: Một
-[066 - 100.0%] tỷ năm trăm bốn mươi triệu đồng chẵn).
-[067 - 100.0%] - Giá trên đã bao gồm thuế Giá trị gia tăng (V AT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo
-[068 - 100.0%] hành tận nơi tại địa điểm của Bên B.
-[069 - 100.0%] 2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần
-[070 - 100.0%] đầu Hợp đồng.
-[071 - 100.0%] 2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:
-[072 - 100.0%] Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ
-[073 - 100.0%] trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.
-[074 - 100.0%] Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương
-[075 - 100.0%] 924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa
-[076 - 100.0%] đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.
-[077 - 100.0%] Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong
-[078 - 100.0%] vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.
-[079 - 100.0%] ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN
-[080 - 100.0%] 3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản
-[081 - 100.0%] thanh toán Đợt 1.
-[082 - 100.0%] 3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà
-[083 - 100.0%] Nội.
-[084 - 100.0%] •
-[085 - 100.0%] •
-[086 - 100.0%] •
-[087 - 100.0%] Trang 2 / 4
-[088 - 100.0%] 3.3. Quy trình giao nhận & Nghiệm thu:
-[089 - 100.0%] Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất
-[090 - 100.0%] lượng (CQ) và phiếu bảo hành chính hãng.
-[091 - 100.0%] Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao
-[092 - 100.0%] nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.
-[093 - 100.0%] Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm
-[094 - 100.0%] trong vòng 03 ngày làm việc.
-[095 - 100.0%] ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO
-[096 - 100.0%] 4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất
-[097 - 100.0%] nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.
-[098 - 100.0%] 4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết
-[099 - 100.0%] Biên bản bàn giao tài sản tại địa điểm giao hàng.
-[100 - 100.0%] ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT
-[101 - 100.0%] 5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.
-[102 - 100.0%] 5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra
-[103 - 100.0%] sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo
-[104 - 100.0%] bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị
-[105 - 100.0%] tương đương để thay thế tạm thời.
-[106 - 100.0%] ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
-[107 - 100.0%] 6.1. Quyền và nghĩa vụ của Bên A:
-[108 - 100.0%] Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.
-[109 - 100.0%] Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.
-[110 - 100.0%] Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.
-[111 - 100.0%] 6.2. Quyền và nghĩa vụ của Bên B:
-[112 - 100.0%] Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.
-[113 - 100.0%] Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.
-[114 - 100.0%] Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.
-[115 - 100.0%] Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật
-[116 - 100.0%] do lỗi của Bên A/nhà sản xuất.
-[117 - 100.0%] ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
-[118 - 100.0%] 7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp
-[119 - 100.0%] thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng
-[120 - 100.0%] tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.
-[121 - 100.0%] 7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ
-[122 - 100.0%] quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.
-[123 - 100.0%] 7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại
-[124 - 100.0%] thực tế phát sinh trực tiếp cho bên bị vi phạm.
-[125 - 100.0%] •
-[126 - 100.0%] •
-[127 - 100.0%] •
-[128 - 100.0%] •
-[129 - 100.0%] •
-[130 - 100.0%] •
-[131 - 100.0%] •
-[132 - 100.0%] •
-[133 - 100.0%] •
-[134 - 100.0%] •
-[135 - 100.0%] Trang 3 / 4
-[136 - 100.0%] ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP
-[137 - 100.0%] 8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể
-[138 - 100.0%] khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa
-[139 - 100.0%] hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng
-[140 - 100.0%] văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.
-[141 - 100.0%] 8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua
-[142 - 100.0%] thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.
-[143 - 100.0%] 8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong
-[144 - 100.0%] hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết
-[145 - 100.0%] của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.
-[146 - 100.0%] ĐIỀU 9. ĐIỀU KHOẢN CHUNG
-[147 - 100.0%] 9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ
-[148 - 100.0%] quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.
-[149 - 100.0%] 9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn
-[150 - 100.0%] bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.
-[151 - 100.0%] 9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02
-[152 - 100.0%] (hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.
-[153 - 100.0%] ĐẠI DIỆN BÊN BÁN (BÊN A)
-[154 - 100.0%] (Ký, ghi rõ họ tên và đóng dấu)
-[155 - 100.0%] NGUYỄN VĂN HÙNG
-[156 - 100.0%] Tổng Giám đốc
-[157 - 100.0%] ĐẠI DIỆN BÊN MUA (BÊN B)
-[158 - 100.0%] (Ký, ghi rõ họ tên và đóng dấu)
-[159 - 100.0%] TRẦN THỊ MINH PHƯƠNG
-[160 - 100.0%] Giám đốc Điều hành
-[161 - 100.0%] Trang 4 / 4
+--- NỘI DUNG VĂN BẢN ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+HỢP ĐỒNG MUA BÁN TÀI SẢN
+Số: 08/2026/HĐMB-TS
+Hôm nay, ngày 21 tháng 08 năm 2026, tại Trụ sở Công ty Cổ phần Đầu tư & Công nghệ Á Châu (Địa chỉ: Số
+88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội), chúng tôi gồm các bên dưới đây thống
+nhất ký kết Hợp đồng mua bán tài sản:
+BÊN BÁN (DƯỚI ĐÂY GỌI TẮT LÀ BÊN A)
+Tên tổ chức/cá nhân
+: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT
+Mã số doanh nghiệp
+: 0108998877 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 15/03/2018
+Địa chỉ trụ sở chính
+: Tầng 6, Tòa nhà Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh
+Xuân, Hà Nội
+Người đại diện theo PL
+: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc
+Số CCCD
+: 001085006789 do Cục Cảnh sát QLHC về TTXH cấp ngày 10/10/2021
+Số điện thoại / Email
+: 024.3789.9999 | contact@tanthinhphat-tech.vn
+Tài khoản ngân hàng
+: 19034567890011 tại Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)
+- CN Thăng Long
+BÊN MUA (DƯỚI ĐÂY GỌI TẮT LÀ BÊN B)
+Tên tổ chức/cá nhân
+: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU
+Mã số doanh nghiệp
+: 0109112233 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp ngày 20/06/2020
+Địa chỉ trụ sở chính
+: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội
+Người đại diện theo PL
+: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành
+Số CCCD
+: 001190001234 do Cục Cảnh sát QLHC về TTXH cấp ngày 12/04/2022
+Số điện thoại / Email
+: 024.3988.8888 | info@achaugroup.vn
+Tài khoản ngân hàng
+: 0021000889988 tại Ngân hàng TMCP Ngoại Thương Việt Nam
+(Vietcombank) - CN Hà Nội
+Sau khi thỏa thuận, hai bên tự nguyện thống nhất ký kết Hợp đồng mua bán tài sản này với các điều khoản
+và điều kiện cụ thể sau đây:
+ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG VÀ MÔ TẢ TÀI SẢN
+1.1. Bên A đồng ý bán và chuyển quyền sở hữu, Bên B đồng ý mua tài sản là Hệ thống Máy chủ Chuyên
+dụng phục vụ hạ tầng đám mây và lưu trữ dữ liệu tập trung (dưới đây gọi chung là "Tài sản"), với thông số
+kỹ thuật chi tiết như sau:
+Trang 1 / 4
+STT
+Tên tài sản / Danh mục
+Quy cách / Cấu hình kỹ
+thuật
+ĐVT
+SL
+Tình trạng
+01
+Hệ thống Máy chủ Dell
+PowerEdge R760
+2x Intel Xeon Gold 6430,
+256GB DDR5 RAM, 4x
+1.92TB NVMe SSD, PSU
+Redundant 1100W
+Bộ
+02
+Mới 100%, nguyên
+đai nguyên kiện,
+CO/CQ đầy đủ
+02
+Thiết bị lưu trữ SAN Storage
+Dell ME5024
+Controller Dual 16Gb FC,
+24x 2.4TB SAS 10K
+RPM, 2x Direct Attach
+Cables
+Hệ
+01
+Mới 100%, nhập
+khẩu chính hãng
+03
+Thiết bị mạng chuyển mạch
+Cisco Nexus 9300
+48 Port 10/25G SFP28 + 6
+Port 100G QSFP28, Dual
+Power Supply
+Cái
+02
+Mới 100%, tiêu
+chuẩn hãng Cisco
+1.2. Bên A cam kết Tài sản nêu trên thuộc quyền sở hữu hợp pháp và duy nhất của Bên A, không bị tranh
+chấp, không bị kê biên, không bị thế chấp, cầm cố hoặc ràng buộc bởi bất kỳ nghĩa vụ tài chính/pháp lý nào
+đối với bên thứ ba.
+ĐIỀU 2. GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN
+2.1. Giá trị hợp đồng: Tổng giá trị mua bán tài sản nêu tại Điều 1 là: 1.540.000.000 VNĐ (Bằng chữ: Một
+tỷ năm trăm bốn mươi triệu đồng chẵn).
+- Giá trên đã bao gồm thuế Giá trị gia tăng (VAT 10%), chi phí vận chuyển, bốc xếp, lắp đặt kỹ thuật và bảo
+hành tận nơi tại địa điểm của Bên B.
+2.2. Phương thức thanh toán: Chuyển khoản ngân hàng vào tài khoản của Bên A theo thông tin tại phần
+đầu Hợp đồng.
+2.3. Tiến độ thanh toán: Được chia thành 03 đợt như sau:
+Đợt 1 (Tạm ứng): Bên B thanh toán cho Bên A 30% giá trị hợp đồng, tương đương 462.000.000 VNĐ
+trong vòng 05 (năm) ngày làm việc kể từ ngày Hợp đồng có hiệu lực.
+Đợt 2 (Thanh toán giao hàng): Bên B thanh toán cho Bên A 60% giá trị hợp đồng, tương đương
+924.000.000 VNĐ trong vòng 05 (năm) ngày làm việc sau khi Bên A bàn giao đầy đủ Tài sản, bàn giao hóa
+đơn GTGT hợp pháp và hai bên ký Biên bản bàn giao kỹ thuật.
+Đợt 3 (Thanh lý & Nghiệm thu): Bên B thanh toán 10% còn lại, tương đương 154.000.000 VNĐ trong
+vòng 15 (mười lăm) ngày kể từ ngày ký Biên bản nghiệm thu vận hành thử nghiệm đạt chuẩn.
+ĐIỀU 3. THỜI GIAN, ĐỊA ĐIỂM VÀ PHƯƠNG THỨC GIAO NHẬN
+3.1. Thời gian giao hàng: Trong vòng 15 (mười lăm) ngày làm việc kể từ ngày Bên A nhận được khoản
+thanh toán Đợt 1.
+3.2. Địa điểm giao hàng: Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà
+Nội.
+•
+•
+•
+Trang 2 / 4
+3.3. Quy trình giao nhận & Nghiệm thu:
+Khi giao hàng, Bên A phải cung cấp đầy đủ hồ sơ kỹ thuật, chứng nhận xuất xứ (CO), chứng nhận chất
+lượng (CQ) và phiếu bảo hành chính hãng.
+Hai bên tiến hành kiểm tra số lượng, tình trạng bên ngoài, linh phụ kiện kèm theo và lập Biên bản giao
+nhận tài sản có chữ ký xác nhận của đại diện có thẩm quyền của cả hai bên.
+Bên A chịu trách nhiệm cử chuyên gia kỹ thuật lắp đặt, cấu hình ban đầu và phối hợp chạy thử nghiệm
+trong vòng 03 ngày làm việc.
+ĐIỀU 4. CHUYỂN GIAO QUYỀN SỞ HỮU VÀ RỦI RO
+4.1. Quyền sở hữu đối với Tài sản được chuyển giao từ Bên A sang Bên B kể từ thời điểm Bên B hoàn tất
+nghĩa vụ thanh toán toàn bộ giá trị Hợp đồng theo quy định tại Điều 2.
+4.2. Rủi ro mất mát, hư hỏng đối với Tài sản được chuyển giao cho Bên B kể từ thời điểm hai bên ký kết
+Biên bản bàn giao tài sản tại địa điểm giao hàng.
+ĐIỀU 5. BẢO HÀNH VÀ HỖ TRỢ KỸ THUẬT
+5.1. Thời hạn bảo hành: 36 (ba mươi sáu) tháng kể từ ngày ký Biên bản nghiệm thu bàn giao chính thức.
+5.2. Chế độ bảo hành: Bảo hành tận nơi theo tiêu chuẩn 24/7 của nhà sản xuất. Trong trường hợp xảy ra
+sự cố kỹ thuật phần cứng, Bên A có mặt xử lý trong vòng 04 giờ làm việc kể từ khi nhận được thông báo
+bằng văn bản hoặc email từ Bên B. Nếu không khắc phục được trong 48 giờ, Bên A phải cung cấp thiết bị
+tương đương để thay thế tạm thời.
+ĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
+6.1. Quyền và nghĩa vụ của Bên A:
+Giao Tài sản đúng số lượng, chủng loại, chất lượng, thời hạn và địa điểm đã thỏa thuận.
+Cung cấp đầy đủ hóa đơn GTGT, chứng từ hợp lệ, tài liệu hướng dẫn sử dụng và chứng nhận bảo hành.
+Có quyền yêu cầu Bên B thanh toán đầy đủ, đúng hạn theo quy định tại Điều 2.
+6.2. Quyền và nghĩa vụ của Bên B:
+Chuẩn bị mặt bằng, nguồn điện và hạ tầng phòng máy để tiếp nhận việc lắp đặt Tài sản.
+Kiểm tra, tiếp nhận Tài sản và ký biên bản giao nhận khi Bên A thực hiện đúng cam kết.
+Thực hiện nghĩa vụ thanh toán đầy đủ và đúng hạn cho Bên A theo Hợp đồng.
+Có quyền từ chối nhận hàng nếu tài sản không đúng chủng loại, nguồn gốc hoặc bị hư hỏng, lỗi kỹ thuật
+do lỗi của Bên A/nhà sản xuất.
+ĐIỀU 7. PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
+7.1. Nếu Bên A chậm giao hàng so với thời hạn quy định mà không có lý do bất khả kháng được Bên B chấp
+thuận bằng văn bản, Bên A phải chịu phạt vi phạm 0,1% giá trị hợp đồng cho mỗi ngày chậm trễ, nhưng
+tổng mức phạt không vượt quá 8% tổng giá trị hợp đồng.
+7.2. Nếu Bên B chậm thanh toán so với tiến độ cam kết, Bên B phải trả lãi suất chậm trả tính theo lãi suất nợ
+quá hạn do Ngân hàng Nhà nước quy định trên số tiền chậm trả và thời gian chậm trả.
+7.3. Bên vi phạm nghĩa vụ hợp đồng ngoài việc chịu phạt vi phạm còn phải bồi thường toàn bộ thiệt hại
+thực tế phát sinh trực tiếp cho bên bị vi phạm.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Trang 3 / 4
+ĐIỀU 8. SỰ KIỆN BẤT KHẢ KHÁNG VÀ GIẢI QUYẾT TRANH CHẤP
+8.1. Sự kiện bất khả kháng là sự kiện xảy ra một cách khách quan không thể lường trước được và không thể
+khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép (thiên tai, dịch bệnh, hỏa
+hoạn, chiến tranh hoặc thay đổi chính sách pháp luật). Bên gặp sự kiện bất khả kháng phải thông báo bằng
+văn bản cho bên kia trong vòng 03 ngày kể từ ngày xảy ra sự kiện.
+8.2. Mọi tranh chấp phát sinh từ hoặc liên quan đến Hợp đồng này trước hết sẽ được giải quyết thông qua
+thương lượng và hòa giải trên tinh thần hợp tác, tôn trọng quyền lợi của nhau.
+8.3. Trường hợp thương lượng không thành trong vòng 30 ngày kể từ ngày phát sinh tranh chấp, một trong
+hai bên có quyền đưa vụ việc ra giải quyết tại Tòa án nhân dân có thẩm quyền tại TP. Hà Nội. Phán quyết
+của Tòa án là quyết định cuối cùng và có hiệu lực ràng buộc đối với cả hai bên.
+ĐIỀU 9. ĐIỀU KHOẢN CHUNG
+9.1. Hợp đồng này có hiệu lực kể từ ngày ký và chấm dứt khi hai bên đã hoàn thành toàn bộ quyền, nghĩa vụ
+quy định trong hợp đồng và ký Biên bản thanh lý hợp đồng.
+9.2. Mọi sửa đổi, bổ sung đối với bất kỳ điều khoản nào của Hợp đồng này đều phải được lập thành văn
+bản (Phụ lục hợp đồng) và có chữ ký xác nhận của người đại diện hợp pháp của hai bên.
+9.3. Hợp đồng được lập thành 04 (bốn) bản gốc bằng tiếng Việt có giá trị pháp lý như nhau, Bên A giữ 02
+(hai) bản, Bên B giữ 02 (hai) bản để cùng thực hiện.
+ĐẠI DIỆN BÊN BÁN (BÊN A)
+(Ký, ghi rõ họ tên và đóng dấu)
+NGUYỄN VĂN HÙNG
+Tổng Giám đốc
+ĐẠI DIỆN BÊN MUA (BÊN B)
+(Ký, ghi rõ họ tên và đóng dấu)
+TRẦN THỊ MINH PHƯƠNG
+Giám đốc Điều hành
+Trang 4 / 4
+
+--- CẤU TRÚC BẢNG TRÍCH XUẤT ---
+
+[Bảng 1 - Trang 2]
+| STT | Tên tài sản / Danh mục                     | Quy cách / Cấu hình kỹ thuật                                                     | ĐVT | SL  | Tình trạng                                     |
+| --- | ------------------------------------------ | -------------------------------------------------------------------------------- | --- | --- | ---------------------------------------------- |
+| 01  | Hệ thống Máy chủ Dell PowerEdge R760       | 2x Intel Xeon Gold 6430, 256GB DDR5 RAM, 4x 1.92TB NVMe SSD, PSU Redundant 1100W | Bộ  | 02  | Mới 100%, nguyên đai nguyên kiện, CO/CQ đầy đủ |
+| 02  | Thiết bị lưu trữ SAN Storage Dell ME5024   | Controller Dual 16Gb FC, 24x 2.4TB SAS 10K RPM, 2x Direct Attach Cables          | Hệ  | 01  | Mới 100%, nhập khẩu chính hãng                 |
+| 03  | Thiết bị mạng chuyển mạch Cisco Nexus 9300 | 48 Port 10/25G SFP28 + 6 Port 100G QSFP28, Dual Power Supply                     | Cái | 02  | Mới 100%, tiêu chuẩn hãng Cisco                |
 
 ============================================================
-  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: HOP_DONG_MUA_BAN_TAI_SAN.PDF
+  ĐÁNH GIÁ TRÍCH XUẤT: HOP_DONG_MUA_BAN_TAI_SAN.PDF
 ============================================================
-🔹 Độ tin cậy OCR trung bình (Model Confidence): 100.0%
-🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         100.0%
-🔹 Đánh giá chất lượng đọc:                  XUẤT SẮC (Chữ rất rõ ràng)
 ============================================================

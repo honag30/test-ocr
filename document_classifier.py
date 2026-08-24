@@ -47,14 +47,17 @@ def extract_text_from_image(file_path: str) -> str:
 
 def extract_document_text(file_path: str) -> str:
     """
-    Trích xuất văn bản từ tài liệu (hỗ trợ cả PDF và các định dạng ảnh).
+    Trích xuất văn bản từ tài liệu (hỗ trợ PDF, DOCX, XLSX và các định dạng ảnh).
+    Ưu tiên đọc trực tiếp native text trước, không chạy OCR vô điều kiện.
     """
-    ext = os.path.splitext(file_path)[1].lower()
-    if ext == '.pdf':
-        return extract_text_from_pdf(file_path)
-    elif ext in ['.png', '.jpg', '.jpeg', '.webp', '.bmp']:
-        return extract_text_from_image(file_path)
-    return ""
+    try:
+        from document_reader import read_document
+        res = read_document(file_path)
+        return res.get("full_text", "")
+    except Exception as e:
+        print(f"Lỗi khi trích xuất text từ {file_path}: {e}")
+        return ""
+
 
 def classify_document(file_path: str) -> tuple[str, float]:
     """
@@ -145,7 +148,7 @@ def organize_documents(src_dir: str, target_dir: str = None):
         folder_paths[cat] = target_folder
 
     moved_files = []
-    supported_exts = ('.pdf', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
+    supported_exts = ('.pdf', '.docx', '.xlsx', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
     
     files = [f for f in os.listdir(src_dir) if os.path.isfile(os.path.join(src_dir, f)) and f.lower().endswith(supported_exts)]
 
