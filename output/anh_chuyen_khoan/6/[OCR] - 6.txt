@@ -1,23 +1,45 @@
-=== KẾT QUẢ OCR: 6.png ===
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: 6.png ===
 Danh mục: anh_chuyen_khoan
+Định dạng nguồn (Source Type): image
+Phương pháp trích xuất (Method): ocr
 
-[001 - 49.2%] Kết quả giao dịch @
-[002 - 86.3%] Giao dịch thành công
-[003 - 100.0%] Chia sẻ
-[004 - 61.6%] 254.000đ
-[005 - 80.2%] Thời gian giao dịch 09:39 - 20/08/2026
-[006 - 97.8%] Người nhận MAI ANH TIEN
-[007 - 98.3%] Số thẻ/TK 1049229023
-[008 - 100.0%] Ngân hàng Vietcombank
-[009 - 97.0%] Mã giao dịch 143020656784 >
-[010 - 99.8%] Trợ giúp
-[011 - 91.4%] Nạp data > $ Nạp điện thoại >
-[012 - 68.8%] $ Bạn tiêu cho việc gì?
-[013 - 76.0%] Ăn uống Chợ, siêu thị Mua sắ
-[014 - 68.3%] Nhà cửa X Người thân 88 Khác
+--- NỘI DUNG VĂN BẢN ---
+Kết quả giao dịch @
+Giao dịch thành công
+Chia sẻ
+254.000đ
+Thời gian giao dịch 09:39 - 20/08/2026
+Người nhận MAI ANH TIEN
+Số thẻ/TK 1049229023
+Ngân hàng Vietcombank
+Mã giao dịch 143020656784 >
+Trợ giúp
+Nạp data > $ Nạp điện thoại >
+$ Bạn tiêu cho việc gì?
+Ăn uống Chợ, siêu thị Mua sắ
+Nhà cửa X Người thân 88 Khác
+
+--- CẤU TRÚC BẢNG TRÍCH XUẤT ---
+
+[Bảng 1 - Trang 1]
+|                     |                       | Kết quả giao dịch |          |               |                |                |              | @      |
+| ------------------- | --------------------- | ----------------- | -------- | ------------- | -------------- | -------------- | ------------ | ------ |
+|                     | Giao dịch thành công  |                   |          |               |                |                |              |        |
+|                     |                       |                   |          |               |                |                | Chia sẻ      |        |
+|                     | 254.000đ              |                   |          |               |                |                |              |        |
+| Thời gian giao dịch |                       |                   |          |               | 09:39          |                | 2 20/08/2026 |        |
+| Người nhận          |                       |                   |          |               |                |                | MAI ANH TIEN |        |
+| Số thẻ/TK           |                       |                   |          |               |                |                | 1049229023   |        |
+| Ngân hàng           |                       |                   |          |               |                |                | Vietcombank  |        |
+| Mã giao dịch        |                       |                   |          |               |                | 143020656784 > |              |        |
+|                     |                       |                   | Trợ giúp |               |                |                |              |        |
+|                     | Nạp data              | >                 |          | $             | Nạp điện thoại |                |              | >      |
+| $                   | Bạn tiêu cho việc gì? |                   |          |               |                |                |              |        |
+|                     | Ăn uống               |                   |          | Chợ, siêu thị |                |                |              | Mua sắ |
+|                     | Nhà cửa               |                   | X        | Người thân    |                |                | 88 Khác      |        |
 
 ============================================================
-  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: 6.PNG
+  ĐÁNH GIÁ TRÍCH XUẤT: 6.PNG
 ============================================================
 🔹 Độ tin cậy OCR trung bình (Model Confidence): 83.9%
 🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         64.29%

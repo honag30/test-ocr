@@ -1,545 +1,450 @@
-=== KẾT QUẢ OCR: HĐ tên miền verco.vn (1).pdf ===
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: HĐ tên miền verco.vn (1).pdf ===
 Danh mục: hop_dong
+Định dạng nguồn (Source Type): pdf_text
+Phương pháp trích xuất (Method): native_text
 
-[001 - 100.0%] Chi nhánh Công ty Cổ phần Mắt Bão
-[002 - 100.0%] 101098/2026-MBHD
-[003 - 100.0%] CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-[004 - 100.0%] Độc lập - Tự do - Hạnh phúc
-[005 - 100.0%] Ngày 2 tháng 8 năm 2026
-[006 - 100.0%] (“Ngày hiệu lực”)
-[007 - 100.0%] HỢP ĐỒNG CUNG CẤP DỊCH VỤ
-[008 - 100.0%] - Căn cứ quy định tại Bộ luật dân sự, Luật Công nghệ Thông tin và Luật Thương mại.
-[009 - 100.0%] - Căn cứ quy định về quản lý, cung cấp và sử dụng tài nguyên Internet của Bộ Khoa học và Công nghệ.
-[010 - 100.0%] - Căn cứ Luật Giao dịch điện tử và các văn bản hướng dẫn thi hành về giao dịch điện tử trong hoạt động thương mại, dân sự và tài chính;
-[011 - 100.0%] - Căn cứ Luật Các tổ chức tín dụng, Nghị định về thanh toán không dùng tiền mặt và các quy định pháp luật liên quan đến thanh toán
-[012 - 100.0%] bằng phương thức điện tử;
-[013 - 100.0%] - Căn cứ Luật Quản lý thuế, Luật Thuế giá trị gia tăng và các văn bản hướng dẫn thi hành về hóa đơn, chứng từ và nghĩa vụ thuế trong
-[014 - 100.0%] giao dịch điện tử;
-[015 - 100.0%] - Căn cứ nhu cầu, khả năng và thỏa thuận của hai bên.
-[016 - 100.0%] Bên thuê dịch vụ (Bên A): Công ty TNHH Tập đoàn Kim Nam
-[017 - 100.0%] Người đại diện:
-[018 - 100.0%] Nguyễn Kim Hùng
-[019 - 100.0%] Chức vụ:
-[020 - 100.0%] Chủ tịch
-[021 - 100.0%] Địa chỉ liên hệ:
-[022 - 100.0%] Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam
-[023 - 100.0%] Số điện thoại:
-[024 - 100.0%] +84-869039899
-[025 - 100.0%] Di động:
-[026 - 100.0%] +84-869039899
-[027 - 100.0%] Mã số doanh nghiệp:
-[028 - 100.0%] 0107654728
-[029 - 100.0%] Email:
-[030 - 100.0%] thuytv@kimnamgroup.vn;
-[031 - 100.0%] phuchv@kimnamgroup.vn
-[032 - 100.0%] Bên cung cấp dịch vụ (Bên B): Chi nhánh Công ty Cổ phần Mắt Bão
-[033 - 100.0%] Người đại diện:
-[034 - 100.0%] Nguyễn Sỹ Hà
-[035 - 100.0%] Chức vụ:
-[036 - 100.0%] Giám đốc
-[037 - 100.0%] Địa chỉ:
-[038 - 100.0%] Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[039 - 100.0%] Số điện thoại:
-[040 - 100.0%] +84-2435123456
-[041 - 100.0%] Fax:
-[042 - 100.0%] Mã số doanh nghiệp:
-[043 - 100.0%] 0302712571-001
-[044 - 100.0%] Tài khoản ngân hàng:
-[045 - 100.0%] 500038888 - VP Bank - Chi nhánh Láng Hạ
-[046 - 100.0%] Sau khi xem xét, Các Bên đồng ý ký kết Hợp đồng cung cấp dịch vụ (sau đây gọi tắt là
-[047 - 100.0%] “Hợp Đồng”
-[048 - 100.0%] ) với các điều kiện và điều khoản sau
-[049 - 100.0%] đây:
-[050 - 100.0%] ĐIỀU 1: NỘI DUNG HỢP ĐỒNG VÀ GIÁ TRỊ DỊCH VỤ
-[051 - 100.0%] 1.1.
-[052 - 100.0%] Theo đề nghị của Bên A, Bên B thực hiện đăng ký và duy trì cho Bên A các dịch vụ sau đây:
-[053 - 100.0%] STT
-[054 - 100.0%] Gói dịch vụ theo đơn hàng số
-[055 - 100.0%] S6527491
-[056 - 100.0%] Thời gian
-[057 - 100.0%] Giá (VND)
-[058 - 100.0%] (1)
-[059 - 100.0%] Giảm giá
-[060 - 100.0%] (VND)
-[061 - 100.0%] (2)
-[062 - 100.0%] Thành tiền
-[063 - 100.0%] (VND)
-[064 - 100.0%] (3) = (1)-(2)
-[065 - 100.0%] Thuế VAT
-[066 - 100.0%] (VND)
-[067 - 100.0%] (4) = 10% x
-[068 - 100.0%] (3)
-[069 - 100.0%] (4) = 8% x
-[070 - 100.0%] (3)
-[071 - 100.0%] (4) = 0% x
-[072 - 100.0%] (3)
-[073 - 100.0%] Thành tiền
-[074 - 100.0%] sau thuế
-[075 - 100.0%] (VND)
-[076 - 100.0%] (5) = (4) +
-[077 - 100.0%] (3)
-[078 - 100.0%] 1
-[079 - 100.0%] Theo phụ lục 1 đính kèm
-[080 - 100.0%] Phụ lục 1
-[081 - 100.0%] Phụ lục 1
-[082 - 100.0%] Phụ lục 1
-[083 - 100.0%] Phụ lục 1
-[084 - 100.0%] Phụ lục 1
-[085 - 100.0%] Phụ lục 1
-[086 - 100.0%] Tổng cộng thanh toán (VND)
-[087 - 100.0%] 610,920
-[088 - 100.0%] 1.2.
-[089 - 100.0%] Nội dung cụ thể của mỗi dịch vụ mà Bên A đăng ký sử dụng (sau đây gọi là
-[090 - 100.0%] “Dịch Vụ”
-[091 - 100.0%] ) sẽ được quy định tại địa chỉ:
-[092 - 100.0%] https://www.matbao.net/thong-tin/thoa-thuan-su-dung.html
-[093 - 100.0%] với nội dung Điều khoản cuối tương ứng với từng Dịch Vụ và Phụ lục đính
-[094 - 100.0%] kèm Hợp Đồng này (
-[095 - 100.0%] “Phụ Lục”
-[096 - 100.0%] ) (
-[097 - 100.0%] nếu có
-[098 - 100.0%] ). Theo đó, Phụ Lục đều bắt đầu có hiệu lực theo Ngày Hiệu Lực của Hợp Đồng.
-[099 - 100.0%] 1.3.
-[100 - 100.0%] Hình thức thanh toán:
-[101 - 100.0%] - Bên A thanh toán 100% Phí Dịch Vụ và các khoản thanh toán khác bằng Số tiền có trong tài khoản MatbaoID của Bên A. Trong
-[102 - 100.0%] trường hợp Số tiền không đủ, Bên A có trách nhiệm nạp bổ sung để thanh toán đầy đủ các khoản thanh toán trên ngay sau khi ký
-[103 - 100.0%] hợp đồng.
-[104 - 100.0%] - Bên A thực hiện nạp tiền vào Tài khoản MatbaoID bằng hình thức chuyển khoản vào Tài khoản ngân hàng của Bên B hoặc lựa
-[105 - 100.0%] chọn một trong các phương thức khác theo hướng dẫn được công bố tại:
-[106 - 100.0%] https://www.matbao.net/thong-tin/huong-dan-thanh-
-[107 - 100.0%] toan.html
-[108 - 100.0%] ĐIỀU 2: THÔNG TIN NGƯỜI LIÊN HỆ CỦA BÊN A
-[109 - 100.0%] 2.1.
-[110 - 100.0%] Bên A chỉ định nhân sự chịu trách nhiệm liên hệ với Bên B như sau:
-[111 - 100.0%] Nội dung
-[112 - 100.0%] Người quản lý kỹ thuật
-[113 - 100.0%] Người thanh toán
-[114 - 100.0%] Tên tổ chức thanh toán
-[115 - 100.0%] Công ty TNHH Tập đoàn Kim Nam
-[116 - 100.0%] 1/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[117 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[118 - 100.0%] Họ và tên
-[119 - 100.0%] Hán Vinh Phúc
-[120 - 100.0%] Hán Vinh Phúc
-[121 - 100.0%] Địa chỉ
-[122 - 100.0%] Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố
-[123 - 100.0%] Hà Nội, Việt Nam
-[124 - 100.0%] Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố
-[125 - 100.0%] Hà Nội, Việt Nam
-[126 - 100.0%] Điện thoại di động
-[127 - 100.0%] +84-969010283
-[128 - 100.0%] +84-969010283
-[129 - 100.0%] Email
-[130 - 100.0%] phuchv@kimnamgroup.vn
-[131 - 100.0%] phuchv@kimnamgroup.vn
-[132 - 100.0%] 2.2.
-[133 - 100.0%] Bên A hoàn toàn chịu trách nhiệm đối với các hành vi do nhân sự trên thực hiện. Bên B chỉ thực hiện các nghĩa vụ theo Hợp Đồng
-[134 - 100.0%] này khi nhận được yêu cầu của nhân sự được chỉ định nêu trên hoặc người đại diện theo pháp luật của Bên A. Trường hợp có sự
-[135 - 100.0%] thay đổi nhân sự chỉ định, người đại diện hợp pháp của Bên A phải thông báo ngay cho Bên B biết. Bên B không chịu trách nhiệm với
-[136 - 100.0%] bất kỳ thiệt hại nào gây ra do sự chậm trễ thông báo của Bên A.
-[137 - 100.0%] ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
-[138 - 100.0%] 3.1.
-[139 - 100.0%] Bên A có trách nhiệm đảm bảo Số tiền trong Tài khoản MatbaoID này đủ để thanh toán 100% Phí Dịch Vụ và các khoản thanh toán
-[140 - 100.0%] khác có trong Hợp đồng này, trừ trường hợp có quy định khác tại (các) Phụ Lục tương ứng (nếu có). Việc thanh toán (sau đây gọi là
-[141 - 100.0%] "thanh toán") được ghi nhận là hoàn thành kể từ thời điểm Số tiền tương ứng được khấu trừ thành công khỏi Tài khoản MatbaoID và
-[142 - 100.0%] hệ thống của Bên B xác nhận giao dịch.
-[143 - 100.0%] 3.2.
-[144 - 100.0%] Có trách nhiệm cung cấp đầy đủ thông tin, tài liệu theo yêu cầu của Bên B, theo các bản Đăng ký theo mẫu của Bên B để hỗ trợ Bên
-[145 - 100.0%] B triển khai những công việc trong phạm vi trách nhiệm của Bên B.
-[146 - 100.0%] 3.3.
-[147 - 100.0%] Chịu trách nhiệm trước pháp luật về mục đích sử dụng các Dịch Vụ tại Hợp Đồng này và tính chính xác của các thông tin do mình
-[148 - 100.0%] cung cấp. Bên B được miễn trừ mọi trách nhiệm liên quan đến việc Bên A cung cấp nội dung tài liệu, thông tin không trung thực,
-[149 - 100.0%] chính xác, không đầy đủ. Đảm bảo việc đăng ký, sử dụng, khai thác từ Dịch Vụ tại Hợp Đồng đúng pháp luật, không xâm phạm đến
-[150 - 100.0%] quyền lợi hợp pháp của các tổ chức, cá nhân khác. Bên A toàn quyền sử dụng, quản lý, duy trì quyền sử dụng các Dịch Vụ tại Hợp
-[151 - 100.0%] Đồng do Bên B cung cấp theo quy định của pháp luật. Tự chịu trách nhiệm trong trường hợp vi phạm các quy định pháp luật và/hoặc
-[152 - 100.0%] các tranh chấp, khiếu nại liên quan đến việc sử dụng các Dịch Vụ được Bên B cung cấp hoặc do quản lý sơ suất gây ra.
-[153 - 100.0%] 3.4.
-[154 - 100.0%] Theo dõi, kiểm tra tình trạng đăng ký hoạt động, thời hạn hiệu lực của các Dịch Vụ đã đăng ký theo Điều 1 Hợp Đồng và nộp phí duy
-[155 - 100.0%] trì khi đến hạn. Khi hết thời hạn duy trì Dịch Vụ mà Bên A chưa/không trả phí duy trì thì Dịch Vụ sẽ bị tự động tạm ngừng và/hoặc bị
-[156 - 100.0%] thu hồi theo quy định của pháp luật. Thời gian nộp phí duy trì tối thiểu trước 10 (mười) ngày tính đến ngày hết hạn.
-[157 - 100.0%] 3.5.
-[158 - 100.0%] Bảo mật thông tin liên quan đến nội dung Hợp Đồng này. Cam kết hoàn tất hồ sơ đăng ký gửi về cho Bên B (Đối với cá nhân: 01 Hợp
-[159 - 100.0%] Đồng, 01 bản sao Căn cước/Căn cước công dân/Hộ chiếu; đối với tổ chức: 01 Hợp Đồng do người đại diện hợp pháp ký, có đóng
-[160 - 100.0%] dấu của tổ chức) trong thời gian 10 ngày kể từ ngày Dịch Vụ đã được đăng ký thành công. Trong trường hợp chậm bổ sung hồ sơ,
-[161 - 100.0%] Dịch Vụ sẽ tạm ngưng hoặc thu hồi mà không hoàn lại phí. Bên B sẽ không chịu trách nhiệm pháp lý và bồi thường đối với bất kỳ tổn
-[162 - 100.0%] thất hoặc thiệt hại nào phát sinh do Bên A không tuân thủ quy định này. Cung cấp thông tin và phối hợp với các Cơ quan Nhà nước
-[163 - 100.0%] có thẩm quyền và Bên B để giải quyết, xử lý các vụ việc liên quan tới Dịch Vụ khi có yêu cầu.
-[164 - 100.0%] 3.6.
-[165 - 100.0%] Cung cấp thông tin và yêu cầu Bên B xuất hóa đơn giá trị gia tăng ngay sau khi Bên A hoàn tất việc thanh toán và Bên B khởi tạo
-[166 - 100.0%] Dịch Vụ thành công.
-[167 - 100.0%] 3.7.
-[168 - 100.0%] Thông báo cho Bên B ngay khi có sự thay đổi tên, số tài khoản, địa chỉ giao dịch, địa chỉ nhận hóa đơn thanh toán và các thông tin
-[169 - 100.0%] khác liên quan đến việc thực hiện Hợp Đồng. Bên B không chịu trách nhiệm phát sinh liên quan đến việc Bên A chậm hoặc không
-[170 - 100.0%] thực hiện nghĩa vụ này.
-[171 - 100.0%] 3.8.
-[172 - 100.0%] Bên A có trách nhiệm chủ động theo dõi việc ban hành và thay đổi của các Chính sách được nêu tại Điều 11.4 Hợp đồng này cũng
-[173 - 100.0%] như các chính sách khác liên quan đến quyền lợi và nghĩa vụ của Bên A mà Bên B đăng tải công khai trên trang điện tử matbao.net.
-[174 - 100.0%] Việc tham gia ký kết Hợp Đồng này được hiểu là Bên A đã hoàn toàn hiểu và đồng ý thực thi, tuân thủ đầy đủ các Chính sách này.
-[175 - 100.0%] 3.9.
-[176 - 100.0%] Được nhận thông báo từ Bên B về việc chấm dứt vòng đời sản phẩm và ngưng hỗ trợ sản phẩm tối thiểu trước 30 (ba mươi) ngày
-[177 - 100.0%] tính từ ngày sẽ chấm dứt vòng đời sản phẩm (
-[178 - 100.0%] nếu có
-[179 - 100.0%] ).
-[180 - 100.0%] ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
-[181 - 100.0%] 4.1.
-[182 - 100.0%] Được quyền tạm ngưng các tài khoản truy cập tới Bên B của Bên A hoặc chấm dứt Hợp Đồng với Bên A trong trường hợp Bên A vi
-[183 - 100.0%] phạm hoặc không thực hiện đúng những điều khoản cam kết trong Hợp Đồng này bằng một thông báo đến Bên A về việc chấm dứt
-[184 - 100.0%] Hợp Đồng.
-[185 - 100.0%] 4.2.
-[186 - 100.0%] Được quyền tạm ngưng và thu hồi các Dịch Vụ theo Hợp Đồng do Bên A sử dụng vi phạm các quy định pháp luật, đặc biệt là quy
-[187 - 100.0%] định về quản lý tài nguyên Internet và thông tin điện tử trên Internet của Việt Nam.
-[188 - 100.0%] 4.3.
-[189 - 100.0%] Được quyền ngưng hỗ trợ đối với các sản phẩm chấm dứt vòng đời sản phẩm.
-[190 - 100.0%] 4.4.
-[191 - 100.0%] Được quyền đề nghị Bên A nâng cấp lên phiên bản mới tối thiểu trước 30 (ba mươi) ngày tính từ ngày chấm dứt vòng đời sản phẩm.
-[192 - 100.0%] 4.5.
-[193 - 100.0%] Hoàn thành việc khởi tạo/gia hạn Dịch Vụ trong thời hạn 03 (ba) ngày làm việc hoặc trong thời hạn quy định cụ thể đối với từng Dịch
-[194 - 100.0%] Vụ tại (các) Phụ Lục tương ứng (
-[195 - 100.0%] nếu có
-[196 - 100.0%] ) kể từ khi nhận được đầy đủ thông tin và 100% tiền thanh toán của bên A. Bên B sẽ xuất hóa
-[197 - 100.0%] đơn cho Bên A sau khi Dịch Vụ được kích hoạt/gia hạn thành công theo thông tin mà Bên A cung cấp như quy định tại Điều 3.6 Hợp
-[198 - 100.0%] Đồng.
-[199 - 100.0%] 4.6.
-[200 - 100.0%] Theo chính sách của Bên B hoặc chính sách của Nhà cung cấp dịch vụ cho Bên B, Phí Dịch Vụ có thể điều chỉnh trước thời điểm
-[201 - 100.0%] hoàn thành việc khởi tạo/gia hạn Dịch Vụ được quy định tại Điều 4.5 Hợp đồng và sẽ được Bên B đăng tải công khai tại
-[202 - 100.0%] www.matbao.net.
-[203 - 100.0%] 4.7.
-[204 - 100.0%] Hướng dẫn cho Bên A các kiến thức căn bản về chính sách quản lý, hướng dẫn đăng ký, sử dụng và duy trì Dịch Vụ cho Bên A đúng
-[205 - 100.0%] theo thời hạn duy trì quy định tại Điều 1 của Hợp Đồng và thông báo kịp thời cho Bên A mỗi khi có thay đổi chính sách, các hướng
-[206 - 100.0%] dẫn này.
-[207 - 100.0%] 2/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[208 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[209 - 100.0%] 4.8.
-[210 - 100.0%] Cung cấp Dịch Vụ, phần mềm tương ứng (
-[211 - 100.0%] nếu có
-[212 - 100.0%] ) và đảm bảo các chuẩn kỹ thuật cần thiết đúng với thông số gói Dịch Vụ đã mua và
-[213 - 100.0%] đúng theo thỏa thuận tại Hợp Đồng và Phụ Lục tương ứng (
-[214 - 100.0%] nếu có
-[215 - 100.0%] ) để Bên A thực hiện việc khai thác, sử dụng các Dịch Vụ liên
-[216 - 100.0%] quan.
-[217 - 100.0%] 4.9.
-[218 - 100.0%] Hỗ trợ kỹ thuật 24/7 khi Bên A có yêu cầu và gửi đến bộ phận kỹ thuật của Bên B theo đúng quy định. Đường dây nóng của Bên B:
-[219 - 100.0%] 19001830 hoặc gửi yêu cầu hỗ trợ tại https://id.matbao.net/ hoặc https://id.axys.group/
-[220 - 100.0%] 4.10.
-[221 - 100.0%] Được nâng cấp sản phẩm lên phiên bản mới nhằm mục đích khắc phục lỗi của phiên bản cũ hoặc thay thế bằng sản phẩm mới tối ưu
-[222 - 100.0%] hơn. Việc nâng cấp này được xem là chấm dứt vòng đời sản phẩm đó.
-[223 - 100.0%] 4.11.
-[224 - 100.0%] Có nghĩa vụ thông báo cho Bên A về việc chấm dứt vòng đời sản phẩm và ngưng hỗ trợ sản phẩm tối thiểu trước 30 (ba mươi) ngày
-[225 - 100.0%] tính từ ngày sẽ chấm dứt vòng đời sản phẩm.
-[226 - 100.0%] ĐIỀU 5: CHẾ TÀI DO ĐƠN PHƯƠNG HỦY BỎ, CHẤM DỨT HỢP ĐỒNG TRÁI PHÁP LUẬT
-[227 - 100.0%] Nếu Bên nào tự ý hủy bỏ, đơn phương chấm dứt Hợp Đồng mà không được sự chấp thuận của Bên kia hoặc không thuộc trường hợp
-[228 - 100.0%] bất khả kháng (theo quy định pháp luật) hoặc theo quy định tại Hợp Đồng thì sẽ phải hoàn trả hoặc chịu mất toàn bộ số tiền đã nhận
-[229 - 100.0%] hay thanh toán. Ngoài ra còn phải bồi thường thiệt hại (
-[230 - 100.0%] nếu có
-[231 - 100.0%] ) cho Bên kia theo quy định của pháp luật.
-[232 - 100.0%] ĐIỀU 6: GIA HẠN DỊCH VỤ
-[233 - 100.0%] 6.1.
-[234 - 100.0%] Bên A chủ động theo dõi tình trạng, thời gian hết hạn của Dịch Vụ để thực hiện gia hạn trước 10 (mười) ngày trước khi đến ngày hết
-[235 - 100.0%] hạn sử dụng Dịch Vụ. Bên A có thể gia hạn một hoặc toàn bộ Dịch Vụ theo Hợp đồng này bằng một trong hai cách sau:
-[236 - 100.0%] 6.1.1.
-[237 - 100.0%] Chủ động gia hạn trực tuyến tại https://id.axys.group. Sau khi Bên A hoàn thành các thao tác gia hạn trực tuyến, bao gồm việc
-[238 - 100.0%] thanh toán phí gia hạn Dịch Vụ, hệ thống của Bên B sẽ gia hạn tự động các Dịch Vụ mà Bên A đăng ký gia hạn; hoặc
-[239 - 100.0%] 6.1.2.
-[240 - 100.0%] Bên A thanh toán phí gia hạn Dịch Vụ và thông báo đầy đủ, kịp thời cho Bên B để Bên B tiến hành gia hạn dịch vụ cho Bên A.
-[241 - 100.0%] 6.2.
-[242 - 100.0%] Phụ lục Hợp đồng tương ứng (
-[243 - 100.0%] nếu có
-[244 - 100.0%] ) sẽ tự động được gia hạn thêm theo thời gian gia hạn Dịch Vụ khi Bên A hoàn thành việc thanh
-[245 - 100.0%] toán phí gia hạn cho Dịch Vụ đó trước khi hết thời hạn gia hạn. Bên A có trách nhiệm theo dõi tình trạng gia hạn của Dịch Vụ và
-[246 - 100.0%] thông báo ngay cho Bên B trong trường hợp Dịch Vụ chưa được gia hạn trong thời hạn 03 (ba) ngày kể từ ngày Bên A thanh toán.
-[247 - 100.0%] ĐIỀU 7: SỰ KIỆN BẤT KHẢ KHÁNG
-[248 - 100.0%] 7.1.
-[249 - 100.0%] “Sự kiện bất khả kháng” là tất cả các sự kiện khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp
-[250 - 100.0%] dụng mọi biện pháp cần thiết và khả năng cho phép, bao gồm, nhưng không giới hạn: hoả hoạn, thiên tai, lũ lụt, bão, động đất,
-[251 - 100.0%] khủng bố, chiến tranh, hoặc các nguy cơ xảy ra chiến tranh, dịch bệnh, đình công, sự thay đổi các chính sách liên quan, sự cố
-[252 - 100.0%] internet hay quyết định của Cơ quan Nhà nước có thẩm quyền.
-[253 - 100.0%] 7.2.
-[254 - 100.0%] Bên bị ảnh hưởng bởi “Sự kiện bất khả kháng”, trong thời hạn 05 (năm) ngày làm việc kể từ ngày xảy ra “Sự kiện bất khả kháng”,
-[255 - 100.0%] phải thông báo cho các Bên còn lại về tính chất, hậu quả, các biện pháp điều chỉnh áp dụng và thời gian dự tính khắc phục “Sự kiện
-[256 - 100.0%] bất khả kháng”. Bên thông báo bị ảnh hưởng bởi “Sự kiện bất khả kháng” có trách nhiệm phải thực hiện mọi biện pháp để hạn chế tối
-[257 - 100.0%] đa sự ảnh hưởng của “Sự kiện bất khả kháng” đó. Tiến độ triển khai Hợp Đồng khi xảy ra “Sự kiện bất khả kháng” sẽ theo thỏa thuận
-[258 - 100.0%] bằng văn bản của các Bên.
-[259 - 100.0%] 7.3.
-[260 - 100.0%] Nếu một “Sự kiện bất khả kháng” kéo dài quá 30 (ba mươi) ngày liên tục, một trong các Bên có quyền chấm dứt một phần hoặc toàn
-[261 - 100.0%] bộ Hợp Đồng, mà không phải bồi thường cho Bên còn lại bất kỳ thiệt hại nào phát sinh từ “Sự kiện bất khả kháng”, trừ trường hợp
-[262 - 100.0%] Bên bị ảnh hưởng bởi “Sự kiện bất khả kháng” đã không thực hiện đầy đủ các nghĩa vụ được quy định tại Điều này.
-[263 - 100.0%] ĐIỀU 8: TẠM NGỪNG DỊCH VỤ
-[264 - 100.0%] 8.1.
-[265 - 100.0%] Bên B được quyền tạm ngừng cung cấp Dịch Vụ mà không cần có sự chấp thuận từ Bên A trong các trường hợp sau:
-[266 - 100.0%] 8.1.1.
-[267 - 100.0%] Quá 10 (mười) ngày so với thời hạn quy định, Bên A không hoàn thành nghĩa vụ thanh toán mà không có bất kỳ văn bản giải
-[268 - 100.0%] trình lý do phù hợp cho Bên B.
-[269 - 100.0%] 8.1.2.
-[270 - 100.0%] Theo yêu cầu của Cơ quan Nhà nước có thẩm quyền và/hoặc từ phía Nhà cung cấp đối với các Dịch Vụ tương ứng.
-[271 - 100.0%] 8.1.3.
-[272 - 100.0%] Bên A vi phạm quy định tại Hợp đồng này, Phụ lục (
-[273 - 100.0%] nếu có
-[274 - 100.0%] ) và Thỏa thuận sử dụng dịch vụ đính kèm.
-[275 - 100.0%] 8.1.4.
-[276 - 100.0%] Các trường hợp khác theo quy định của pháp luật.
-[277 - 100.0%] 8.2.
-[278 - 100.0%] Tùy thuộc vào yêu cầu theo quy định tại Điều 8.1.2 Hợp Đồng này, các Bên sẽ thỏa thuận về việc tiếp tục thực hiện hoặc chấm dứt
-[279 - 100.0%] Dịch Vụ với Phụ Lục tương ứng (
-[280 - 100.0%] nếu có
-[281 - 100.0%] ).
-[282 - 100.0%] 8.3.
-[283 - 100.0%] Đối với các trường hợp quy định tại Điều 8.1 Hợp Đồng này, Bên B sẽ không đảm bảo an toàn dữ liệu (nếu có) cho Bên A trong quá
-[284 - 100.0%] trình cung cấp dịch vụ và từ thời điểm sau khi tạm ngưng cung cấp dịch vụ do Bên A phải có trách nhiệm sao lưu tất cả các dữ liệu
-[285 - 100.0%] của mình trên máy chủ của Bên B và cất giữ an toàn..
-[286 - 100.0%] ĐIỀU 9: CAM KẾT VỀ GIÁ TRỊ CỦA CHỮ KÝ ĐIỆN TỬ
-[287 - 100.0%] 9.1.
-[288 - 100.0%] Mỗi Bên cam kết rằng chữ ký của mình trong Hợp đồng này và tất cả các tài liệu liên quan đến việc đăng ký và gia hạn các dịch vụ tại
-[289 - 100.0%] Mắt Bão (
-[290 - 100.0%] “Tài liệu”
-[291 - 100.0%] ) đều do Bên đó hoặc người đại diện hợp pháp của Bên đó ký.
-[292 - 100.0%] 9.2.
-[293 - 100.0%] Trường hợp Hợp đồng và/hoặc Văn bản này được ký bằng chữ ký điện tử thì ngoài cam kết quy định tại Điều 9.1 của Hợp đồng này,
-[294 - 100.0%] Bên ký chữ ký điện tử còn có các cam kết sau:
-[295 - 100.0%] 9.2.1.
-[296 - 100.0%] Bên đó hoặc đại diện hợp pháp của Bên đó là người điều khiển hệ thống chương trình ký điện tử và sử dụng thiết bị đó để xác
-[297 - 100.0%] nhận ý chí của mình đối với Hợp đồng và/hoặc Tài liệu này;
-[298 - 100.0%] 9.2.2.
-[299 - 100.0%] Thực hiện các biện pháp để tránh việc sử dụng trái phép dữ liệu chữ ký điện tử của Bên đó;
-[300 - 100.0%] 9.2.3.
-[301 - 100.0%] Áp dụng các biện pháp cần thiết để đảm bảo tính chính xác và toàn vẹn của thông tin có trong chứng chỉ điện tử trong trường
-[302 - 100.0%] hợp chứng chỉ đó được sử dụng để chứng thực chữ ký điện tử.
-[303 - 100.0%] 9.3.
-[304 - 100.0%] Trong trường hợp một Bên có lỗi cố ý và/hoặc vô ý dẫn đến Hợp đồng này bị vô hiệu do không đảm bảo tính hợp lệ của các chữ ký
-[305 - 100.0%] thì Bên đó phải chịu hoàn toàn trách nhiệm theo pháp luật, đồng thời chịu bồi thường thiệt hại cho Bên bị vi phạm nghĩa vụ. Các
-[306 - 100.0%] khoản phí dịch vụ đã thanh toán cho việc khởi tạo dịch vụ sẽ không được hoàn trả.
-[307 - 100.0%] ĐIỀU 10: SỬA ĐỔI, CHẤM DỨT DỊCH VỤ
-[308 - 100.0%] 3/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[309 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[310 - 100.0%] 10.1.
-[311 - 100.0%] Sửa đổi Dịch Vụ
-[312 - 100.0%] Mọi sự thay đổi, bổ sung, hủy bỏ việc cung cấp Dịch Vụ theo Hợp Đồng và Phụ Lục tương ứng (
-[313 - 100.0%] nếu có
-[314 - 100.0%] ) đều được thực hiện trên cơ
-[315 - 100.0%] sở thỏa thuận giữa các Bên và được thể hiện bằng một Phụ lục Hợp Đồng (
-[316 - 100.0%] nếu có
-[317 - 100.0%] ) không tách rời với Hợp Đồng này.
-[318 - 100.0%] 10.2.
-[319 - 100.0%] Chấm dứt Dịch Vụ
-[320 - 100.0%] Dịch Vụ chấm dứt trong các trường hợp sau:
-[321 - 100.0%] 10.2.1.
-[322 - 100.0%] Hết thời hạn duy trì Dịch Vụ mà Bên A không gia hạn.
-[323 - 100.0%] 10.2.2.
-[324 - 100.0%] Các Bên thỏa thuận chấm dứt Dịch Vụ.
-[325 - 100.0%] 10.2.3.
-[326 - 100.0%] Một trong các Bên bị giải thể, thanh lý, phá sản hay mất khả năng thanh toán.
-[327 - 100.0%] 10.2.4.
-[328 - 100.0%] Thuộc Sự Kiện Bất Khả Kháng quy định tại Điều 7.3 Hợp Đồng.
-[329 - 100.0%] 10.2.5.
-[330 - 100.0%] Khi chấm dứt vòng đời sản phẩm mà Bên A không đồng ý nâng cấp lên phiên bản mới.
-[331 - 100.0%] 10.2.6.
-[332 - 100.0%] Một Bên được quyền đơn phương chấm dứt một Dịch Vụ bằng cách thông báo bằng văn bản tối thiểu là 10 (mười) ngày trước
-[333 - 100.0%] ngày dự kiến chấm dứt Dịch Vụ trong các trường hợp sau:
-[334 - 100.0%] 10.2.6.1.
-[335 - 100.0%] Một Bên vi phạm các điều khoản quy định trong Thỏa Thuận Sử Dụng và/hoặc các chính sách, điều khoản khác quy
-[336 - 100.0%] định, đính kèm với Phụ Lục tương ứng (
-[337 - 100.0%] nếu có
-[338 - 100.0%] ).
-[339 - 100.0%] 10.2.6.2.
-[340 - 100.0%] Một Bên vi phạm nghĩa vụ, cam kết quy định tại Hợp Đồng này và các Phụ Lục đính kèm tương ứng (
-[341 - 100.0%] nếu có
-[342 - 100.0%] ) mà
-[343 - 100.0%] không sửa chữa, khắc phục vi phạm hoặc sửa chữa, khắc phục mà không đạt yêu cầu trong thời hạn mà Bên bị vi
-[344 - 100.0%] phạm thông báo cho Bên vi phạm.
-[345 - 100.0%] 10.2.7.
-[346 - 100.0%] Không phụ thuộc vào Điều 10.2.6 Hợp Đồng này, Bên B có quyền đơn phương chấm dứt một Dịch Vụ ngay lập tức bằng một
-[347 - 100.0%] thông báo gửi cho Bên A mà không phải bồi thường bất kỳ khoản chi phí nào nếu Bên A có một hoặc các hành vi vi phạm sau:
-[348 - 100.0%] 10.2.7.1.
-[349 - 100.0%] Bên A sử dụng Dịch Vụ đó không theo đúng các cam kết trong Hợp Đồng và/hoặc Phụ Lục tương ứng (
-[350 - 100.0%] nếu có
-[351 - 100.0%] ).
-[352 - 100.0%] 10.2.7.2.
-[353 - 100.0%] Bên A sử dụng các sản phẩm, công cụ, máy chủ trong Dịch Vụ vào bất kỳ mục đích và/hoặc dưới bất kỳ hình thức
-[354 - 100.0%] nào mà vi phạm quy định pháp luật Việt Nam.
-[355 - 100.0%] 10.2.7.3
-[356 - 100.0%] Bên A gửi, tạo liên kết hoặc trung chuyển các dữ liệu mang tính chất bất hợp pháp, đe dọa, lừa dối, xuyên tạc, gây
-[357 - 100.0%] thù hằn, nói xấu, khiêu dâm, xúc phạm danh dự, nhân phẩm của cá nhân, tổ chức khác,...
-[358 - 100.0%] 10.2.7.4.
-[359 - 100.0%] Bên A lưu trữ, truyền bá các dữ liệu chứa đựng hoặc khuyến khích các hình thức phạm tội; các dữ liệu mang tính vi
-[360 - 100.0%] phạm pháp luật liên quan đến sáng chế, nhãn hiệu, quyền thiết kế, bản quyền hay bất kỳ quyền sở hữu trí tuệ của
-[361 - 100.0%] các cá nhân, tổ chức khác.
-[362 - 100.0%] 10.2.8.
-[363 - 100.0%] Theo quyết định bằng văn bản của Cơ quan Nhà Nước có thẩm quyền, quyết định, bản án có hiệu lực của Tòa án, Cơ quan
-[364 - 100.0%] trọng tài có thẩm quyền.
-[365 - 100.0%] 10.3.
-[366 - 100.0%] Phụ Lục (
-[367 - 100.0%] nếu có
-[368 - 100.0%] ) sẽ chấm dứt khi Dịch Vụ tương ứng bị chấm dứt. Hợp Đồng sẽ chấm dứt khi toàn bộ Dịch Vụ bị chấm dứt. Trong
-[369 - 100.0%] trường hợp này, Phụ Lục (
-[370 - 100.0%] nếu có
-[371 - 100.0%] )/Hợp Đồng sẽ tự động được thanh lý và hai bên không còn bất kỳ ràng buộc nào về việc thực hiện
-[372 - 100.0%] nghĩa vụ trong Hợp đồng.
-[373 - 100.0%] ĐIỀU 11: ĐIỀU KHOẢN CHUNG
-[374 - 100.0%] 11.1.
-[375 - 100.0%] Không phụ thuộc vào ngày ký, đóng dấu của các Bên, Hợp Đồng này có hiệu lực kể từ Ngày Hiệu Lực.
-[376 - 100.0%] 11.2.
-[377 - 100.0%] Mọi tranh chấp phát sinh trong quá trình thực hiện sẽ được hai Bên thương lượng giải quyết trên tinh thần hợp tác, tôn trọng lẫn
-[378 - 100.0%] nhau. Trường hợp không thống nhất giải quyết được thì vụ việc sẽ được chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.
-[379 - 100.0%] 11.3.
-[380 - 100.0%] Một số Dịch Vụ nhất định khi đăng ký không phát sinh Phụ lục đi kèm chịu sự điều chỉnh của các quy định có trong Hợp đồng này và
-[381 - 100.0%] các quy định khác có liên quan.
-[382 - 100.0%] 11.4.
-[383 - 100.0%] Các điều khoản của Thỏa Thuận Sử Dụng Dịch Vụ tại địa chỉ https://www.matbao.net/thong-tin/thoa-thuan-su-dung.html, Chính Sách
-[384 - 100.0%] Bảo Mật tại địa chỉ https://www.matbao.net/thong-tin/chinh-sach-bao-mat.html, Chính sách về tài khoản MatbaoID tại địa chỉ:
-[385 - 100.0%] https://www.matbao.net/thong-tin/chinh-sach-su-dung-tai-khoan-matbaoid.html và Chính sách bảo vệ dữ liệu cá nhân tại địa chỉ
-[386 - 100.0%] https://www.matbao.net/thong-tin/chinh-sach-bao-ve-du-lieu-ca-nhan.html và (các) Phụ Lục đính kèm (nếu có) là một phần không
-[387 - 100.0%] tách rời đối với Hợp Đồng, và có giá trị pháp lý ràng buộc hai Bên phải tuân thủ.
-[388 - 100.0%] 11.5.
-[389 - 100.0%] Hai Bên cam kết đã đọc hết, hiểu rõ và thực hiện đúng Hợp Đồng và Phụ lục đính kèm (
-[390 - 100.0%] nếu có
-[391 - 100.0%] ). Hợp Đồng này và Phụ lục (
-[392 - 100.0%] nếu có
-[393 - 100.0%] )
-[394 - 100.0%] được lập thành 02 (hai) bản, có giá trị như nhau, mỗi Bên giữ 01 (một) bản.
-[395 - 100.0%] ĐẠI DIỆN BÊN A
-[396 - 100.0%] $CUST
-[397 - 100.0%] ĐẠI DIỆN BÊN B
-[398 - 100.0%] $MB
-[399 - 100.0%] NGUYỄN KIM HÙNG
-[400 - 100.0%] NGUYỄN SỸ HÀ
-[401 - 100.0%] 4/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[402 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[403 - 100.0%] PHỤ LỤC 1 HỢP ĐỒNG
-[404 - 100.0%] Mã hợp đồng
-[405 - 100.0%] 101098/2026-MBHD
-[406 - 100.0%] STT
-[407 - 100.0%] Gói dịch vụ theo đơn hàng số
-[408 - 100.0%] S6527491
-[409 - 100.0%] Thời gian
-[410 - 100.0%] (Thời gian hoặc lần)
-[411 - 100.0%] Giá (VND)
-[412 - 100.0%] (1)
-[413 - 100.0%] Giảm giá
-[414 - 100.0%] (VND)
-[415 - 100.0%] (2)
-[416 - 100.0%] Thành tiền
-[417 - 100.0%] (VND)
-[418 - 100.0%] (3)=(1)-(2)
-[419 - 100.0%] Thuế VAT
-[420 - 100.0%] (VND)
-[421 - 100.0%] (4)=10%x(3);
-[422 - 100.0%] (4)=8%x(3);
-[423 - 100.0%] (4)=0%x(3)
-[424 - 100.0%] Thành tiền
-[425 - 100.0%] sau thuế
-[426 - 100.0%] (VND)
-[427 - 100.0%] (5)=(4)+(3)
-[428 - 100.0%] 1
-[429 - 100.0%] Dịch vụ duy trì tài khoản quản trị
-[430 - 100.0%] .vn verco.vn
-[431 - 100.0%] 02-08-2026 đến
-[432 - 100.0%] 02-08-2027
-[433 - 100.0%] 100,000
-[434 - 100.0%] 0
-[435 - 100.0%] 100,000
-[436 - 100.0%] 8,000
-[437 - 100.0%] 108,000
-[438 - 100.0%] Phí duy trì .vn verco.vn
-[439 - 100.0%] 02-08-2026 đến
-[440 - 100.0%] 02-08-2027
-[441 - 100.0%] 350,000
-[442 - 100.0%] 0
-[443 - 100.0%] 350,000
-[444 - 100.0%] 0
-[445 - 100.0%] 350,000
-[446 - 100.0%] Lệ phí đăng ký .vn verco.vn
-[447 - 100.0%] 1 Lần
-[448 - 100.0%] 100,000
-[449 - 100.0%] 0
-[450 - 100.0%] 100,000
-[451 - 100.0%] 0
-[452 - 100.0%] 100,000
-[453 - 100.0%] Dịch vụ đăng ký tài khoản quản
-[454 - 100.0%] trị .vn verco.vn
-[455 - 100.0%] 1 Lần
-[456 - 100.0%] 0
-[457 - 100.0%] 0
-[458 - 100.0%] 0
-[459 - 100.0%] 0
-[460 - 100.0%] 0
-[461 - 100.0%] 2
-[462 - 100.0%] Bảo mật DNS (DNSSEC)
-[463 - 100.0%] verco.vn
-[464 - 100.0%] 02-08-2026 đến
-[465 - 100.0%] 02-08-2027
-[466 - 100.0%] 49,000
-[467 - 100.0%] 0
-[468 - 100.0%] 49,000
-[469 - 100.0%] 3,920
-[470 - 100.0%] 52,920
-[471 - 100.0%] Cộng tiền các khoản (VND)
-[472 - 100.0%] 599,000
-[473 - 100.0%] 0
-[474 - 100.0%] 599,000
-[475 - 100.0%] 11,920
-[476 - 100.0%] 610,920
-[477 - 100.0%] Tổng cộng thanh toán (VND)
-[478 - 100.0%] 5/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[479 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
-[480 - 100.0%] PHỤ LỤC HỢP ĐỒNG CUNG CẤP DỊCH VỤ
-[481 - 100.0%] DỊCH VỤ TÊN MIỀN
-[482 - 100.0%] Phụ lục này đính kèm Hợp đồng số
-[483 - 100.0%] 101098/2026-MBHD
-[484 - 100.0%] Ngày 2 tháng 8 năm 2026 (“Hợp Đồng”) giữa Bên A và Bên B theo thông tin như
-[485 - 100.0%] được thể hiện tại trang 1 Hợp Đồng, tạo thành một phần trong thỏa thuận hoàn chỉnh giữa Bên A và Bên B.
-[486 - 100.0%] ĐIỀU 1: NỘI DUNG DỊCH VỤ
-[487 - 100.0%] 1.1.
-[488 - 100.0%] Giải thích từ ngữ
-[489 - 100.0%] "
-[490 - 100.0%] Tên miền
-[491 - 100.0%] " là tên được sử dụng để định danh địa chỉ Internet của máy chủ gồm các dãy ký tự cách nhau bằng dấu chấm “.”
-[492 - 100.0%] "
-[493 - 100.0%] Dịch Vụ Tên Miền
-[494 - 100.0%] " là dịch vụ đăng ký và duy trì tên miền.
-[495 - 100.0%] 1.2.
-[496 - 100.0%] Thời hạn duy trì Dịch Vụ (duy trì tên miền): được quy định tương ứng tại Điều 1 Hợp Đồng và bắt đầu từ khi Bên B hoàn thành việc
-[497 - 100.0%] đăng ký, kích hoạt thành công tên miền cho Bên A.
-[498 - 100.0%] ĐIỀU 2: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
-[499 - 100.0%] Ngoài quyền và nghĩa vụ quy định tại Điều 3 Hợp Đồng, Bên A còn có thêm các quyền và nghĩa vụ sau:
-[500 - 100.0%] 2.1.
-[501 - 100.0%] Thông báo việc sử dụng tên miền không phải là tên miền quốc gia “.VN” trên website www.thongbaotenmien.vn của Bộ Khoa học và
-[502 - 100.0%] Công nghệ theo quy định pháp luật.
-[503 - 100.0%] 2.2.
-[504 - 100.0%] Nộp “
-[505 - 100.0%] Bản khai đăng ký tên miền
-[506 - 100.0%] ” cho Bên B theo quy định của Trung tâm Internet Việt Nam (VNNIC) – Bộ Khoa học và Công nghệ
-[507 - 100.0%] và các hồ sơ khác theo yêu cầu (nếu có).
-[508 - 100.0%] 2.3.
-[509 - 100.0%] Tuân thủ các quy định, quy trình liên quan đến tên miền tại:
-[510 - 100.0%] https://www.matbao.net/thong-tin/quy-dinh-ve-ten-mien.html
-[511 - 100.0%] https://www.matbao.net/thong-tin/quy-dinh-su-dung-ten-mien-viet-nam.html
-[512 - 100.0%] https://www.matbao.net/thong-tin/quy-dinh-su-dung-ten-mien-quoc-te.html
-[513 - 100.0%] ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
-[514 - 100.0%] Ngoài quyền và nghĩa vụ quy định tại Điều 4 Hợp Đồng, Bên B còn có thêm các quyền và nghĩa vụ sau:
-[515 - 100.0%] 3.1.
-[516 - 100.0%] Bên B chỉ cung cấp Dịch Vụ Tên Miền trong phạm vi những tên miền chưa có chủ thể khác đăng ký trong thời gian hoàn thành việc
-[517 - 100.0%] đăng ký tên miền và dưới sự chấp thuận cấp phát của cơ quan quản lý tên miền. Trong trường hợp tên miền không đăng ký được,
-[518 - 100.0%] Bên B hoàn lại 100% phí đăng ký tên miền cho Bên A.
-[519 - 100.0%] 3.2.
-[520 - 100.0%] Trong trường hợp Bên A chưa thanh toán hoặc tiền chưa vào tài khoản của Bên B (trường hợp chuyển khoản), nếu tên miền Bên A
-[521 - 100.0%] muốn đăng ký đã có chủ thể khác đăng ký được (theo nguyên tắc đăng ký trước) thì Bên B sẽ không chịu trách nhiệm về việc không
-[522 - 100.0%] đăng ký được cho Bên A.
-[523 - 100.0%] 3.3.
-[524 - 100.0%] Bên B không chịu trách nhiệm đối với các trường hợp phát sinh mà Bên A không thực hiện hoặc thực hiện không đúng nghĩa vụ của
-[525 - 100.0%] mình theo quy định pháp luật tương ứng đối với tên miền mình sử dụng.
-[526 - 100.0%] 3.4.
-[527 - 100.0%] Thông báo kịp thời cho Bên A khi có sự thay đổi chính sách quản lý tài nguyên Internet của Việt Nam.
-[528 - 100.0%] ĐIỀU 4: ĐIỀU KHOẢN CHUNG
-[529 - 100.0%] 4.1.
-[530 - 100.0%] Hai Bên có trách nhiệm hoàn tất các quyền, nghĩa vụ đã phát sinh theo Phụ Lục này.
-[531 - 100.0%] 4.2.
-[532 - 100.0%] Phụ lục này là một phần không tách rời với Hợp Đồng, có hiệu lực theo hiệu lực của Hợp đồng.
-[533 - 100.0%] 6/6 Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
-[534 - 100.0%] Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+--- NỘI DUNG VĂN BẢN ---
+Chi nhánh Công ty Cổ phần Mắt Bão
+101098/2026-MBHD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Ngày 2 tháng 8 năm 2026
+(“Ngày hiệu lực”)
+HỢP ĐỒNG CUNG CẤP DỊCH VỤ
+- Căn cứ quy định tại Bộ luật dân sự, Luật Công nghệ Thông tin và Luật Thương mại.
+- Căn cứ quy định về quản lý, cung cấp và sử dụng tài nguyên Internet của Bộ Khoa học và Công nghệ.
+- Căn cứ Luật Giao dịch điện tử và các văn bản hướng dẫn thi hành về giao dịch điện tử trong hoạt động thương mại, dân sự và tài chính;
+- Căn cứ Luật Các tổ chức tín dụng, Nghị định về thanh toán không dùng tiền mặt và các quy định pháp luật liên quan đến thanh toán
+bằng phương thức điện tử;
+- Căn cứ Luật Quản lý thuế, Luật Thuế giá trị gia tăng và các văn bản hướng dẫn thi hành về hóa đơn, chứng từ và nghĩa vụ thuế trong
+giao dịch điện tử;
+- Căn cứ nhu cầu, khả năng và thỏa thuận của hai bên.
+Bên thuê dịch vụ (Bên A): Công ty TNHH Tập đoàn Kim Nam
+Người đại diện:
+Nguyễn Kim Hùng
+Chức vụ: Chủ tịch
+Địa chỉ liên hệ:
+Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam
+Số điện thoại:
++84-869039899
+Di động: +84-869039899
+Mã số doanh nghiệp:
+0107654728
+Email:
+thuytv@kimnamgroup.vn;
+phuchv@kimnamgroup.vn
+Bên cung cấp dịch vụ (Bên B): Chi nhánh Công ty Cổ phần Mắt Bão
+Người đại diện:
+Nguyễn Sỹ Hà
+Chức vụ:
+Giám đốc
+Địa chỉ:
+Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+Số điện thoại:
++84-2435123456
+Fax:
+Mã số doanh nghiệp:
+0302712571-001
+Tài khoản ngân hàng: 500038888 - VP Bank - Chi nhánh Láng Hạ
+Sau khi xem xét, Các Bên đồng ý ký kết Hợp đồng cung cấp dịch vụ (sau đây gọi tắt là “Hợp Đồng”) với các điều kiện và điều khoản sau
+đây:
+ĐIỀU 1: NỘI DUNG HỢP ĐỒNG VÀ GIÁ TRỊ DỊCH VỤ
+1.1. Theo đề nghị của Bên A, Bên B thực hiện đăng ký và duy trì cho Bên A các dịch vụ sau đây:
+STT
+Gói dịch vụ theo đơn hàng số
+S6527491
+Thời gian
+Giá (VND)
+(1)
+Giảm giá
+(VND)
+(2)
+Thành tiền
+(VND)
+(3) = (1)-(2)
+Thuế VAT
+(VND)
+(4) = 10% x
+(3)
+(4) = 8% x
+(3)
+(4) = 0% x
+(3)
+Thành tiền
+sau thuế
+(VND)
+(5) = (4) +
+(3)
+1
+Theo phụ lục 1 đính kèm
+Phụ lục 1
+Phụ lục 1
+Phụ lục 1
+Phụ lục 1
+Phụ lục 1
+Phụ lục 1
+Tổng cộng thanh toán (VND)
+610,920
+1.2. Nội dung cụ thể của mỗi dịch vụ mà Bên A đăng ký sử dụng (sau đây gọi là “Dịch Vụ”) sẽ được quy định tại địa chỉ:
+https://www.matbao.net/thong-tin/thoa-thuan-su-dung.html với nội dung Điều khoản cuối tương ứng với từng Dịch Vụ và Phụ lục đính
+kèm Hợp Đồng này (“Phụ Lục”) (nếu có). Theo đó, Phụ Lục đều bắt đầu có hiệu lực theo Ngày Hiệu Lực của Hợp Đồng.
+1.3. Hình thức thanh toán:
+- Bên A thanh toán 100% Phí Dịch Vụ và các khoản thanh toán khác bằng Số tiền có trong tài khoản MatbaoID của Bên A. Trong
+trường hợp Số tiền không đủ, Bên A có trách nhiệm nạp bổ sung để thanh toán đầy đủ các khoản thanh toán trên ngay sau khi ký
+hợp đồng.
+- Bên A thực hiện nạp tiền vào Tài khoản MatbaoID bằng hình thức chuyển khoản vào Tài khoản ngân hàng của Bên B hoặc lựa
+chọn một trong các phương thức khác theo hướng dẫn được công bố tại: https://www.matbao.net/thong-tin/huong-dan-thanh-
+toan.html
+ĐIỀU 2: THÔNG TIN NGƯỜI LIÊN HỆ CỦA BÊN A
+2.1. Bên A chỉ định nhân sự chịu trách nhiệm liên hệ với Bên B như sau:
+Nội dung
+Người quản lý kỹ thuật
+Người thanh toán
+Tên tổ chức thanh toán
+Công ty TNHH Tập đoàn Kim Nam
+1/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+Họ và tên
+Hán Vinh Phúc
+Hán Vinh Phúc
+Địa chỉ
+Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố
+Hà Nội, Việt Nam
+Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố
+Hà Nội, Việt Nam
+Điện thoại di động
++84-969010283
++84-969010283
+Email
+phuchv@kimnamgroup.vn
+phuchv@kimnamgroup.vn
+2.2. Bên A hoàn toàn chịu trách nhiệm đối với các hành vi do nhân sự trên thực hiện. Bên B chỉ thực hiện các nghĩa vụ theo Hợp Đồng
+này khi nhận được yêu cầu của nhân sự được chỉ định nêu trên hoặc người đại diện theo pháp luật của Bên A. Trường hợp có sự
+thay đổi nhân sự chỉ định, người đại diện hợp pháp của Bên A phải thông báo ngay cho Bên B biết. Bên B không chịu trách nhiệm với
+bất kỳ thiệt hại nào gây ra do sự chậm trễ thông báo của Bên A.
+ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+3.1. Bên A có trách nhiệm đảm bảo Số tiền trong Tài khoản MatbaoID này đủ để thanh toán 100% Phí Dịch Vụ và các khoản thanh toán
+khác có trong Hợp đồng này, trừ trường hợp có quy định khác tại (các) Phụ Lục tương ứng (nếu có). Việc thanh toán (sau đây gọi là
+"thanh toán") được ghi nhận là hoàn thành kể từ thời điểm Số tiền tương ứng được khấu trừ thành công khỏi Tài khoản MatbaoID và
+hệ thống của Bên B xác nhận giao dịch.
+3.2. Có trách nhiệm cung cấp đầy đủ thông tin, tài liệu theo yêu cầu của Bên B, theo các bản Đăng ký theo mẫu của Bên B để hỗ trợ Bên
+B triển khai những công việc trong phạm vi trách nhiệm của Bên B.
+3.3. Chịu trách nhiệm trước pháp luật về mục đích sử dụng các Dịch Vụ tại Hợp Đồng này và tính chính xác của các thông tin do mình
+cung cấp. Bên B được miễn trừ mọi trách nhiệm liên quan đến việc Bên A cung cấp nội dung tài liệu, thông tin không trung thực,
+chính xác, không đầy đủ. Đảm bảo việc đăng ký, sử dụng, khai thác từ Dịch Vụ tại Hợp Đồng đúng pháp luật, không xâm phạm đến
+quyền lợi hợp pháp của các tổ chức, cá nhân khác. Bên A toàn quyền sử dụng, quản lý, duy trì quyền sử dụng các Dịch Vụ tại Hợp
+Đồng do Bên B cung cấp theo quy định của pháp luật. Tự chịu trách nhiệm trong trường hợp vi phạm các quy định pháp luật và/hoặc
+các tranh chấp, khiếu nại liên quan đến việc sử dụng các Dịch Vụ được Bên B cung cấp hoặc do quản lý sơ suất gây ra.
+3.4. Theo dõi, kiểm tra tình trạng đăng ký hoạt động, thời hạn hiệu lực của các Dịch Vụ đã đăng ký theo Điều 1 Hợp Đồng và nộp phí duy
+trì khi đến hạn. Khi hết thời hạn duy trì Dịch Vụ mà Bên A chưa/không trả phí duy trì thì Dịch Vụ sẽ bị tự động tạm ngừng và/hoặc bị
+thu hồi theo quy định của pháp luật. Thời gian nộp phí duy trì tối thiểu trước 10 (mười) ngày tính đến ngày hết hạn.
+3.5. Bảo mật thông tin liên quan đến nội dung Hợp Đồng này. Cam kết hoàn tất hồ sơ đăng ký gửi về cho Bên B (Đối với cá nhân: 01 Hợp
+Đồng, 01 bản sao Căn cước/Căn cước công dân/Hộ chiếu; đối với tổ chức: 01 Hợp Đồng do người đại diện hợp pháp ký, có đóng
+dấu của tổ chức) trong thời gian 10 ngày kể từ ngày Dịch Vụ đã được đăng ký thành công. Trong trường hợp chậm bổ sung hồ sơ,
+Dịch Vụ sẽ tạm ngưng hoặc thu hồi mà không hoàn lại phí. Bên B sẽ không chịu trách nhiệm pháp lý và bồi thường đối với bất kỳ tổn
+thất hoặc thiệt hại nào phát sinh do Bên A không tuân thủ quy định này. Cung cấp thông tin và phối hợp với các Cơ quan Nhà nước
+có thẩm quyền và Bên B để giải quyết, xử lý các vụ việc liên quan tới Dịch Vụ khi có yêu cầu.
+3.6. Cung cấp thông tin và yêu cầu Bên B xuất hóa đơn giá trị gia tăng ngay sau khi Bên A hoàn tất việc thanh toán và Bên B khởi tạo
+Dịch Vụ thành công.
+3.7. Thông báo cho Bên B ngay khi có sự thay đổi tên, số tài khoản, địa chỉ giao dịch, địa chỉ nhận hóa đơn thanh toán và các thông tin
+khác liên quan đến việc thực hiện Hợp Đồng. Bên B không chịu trách nhiệm phát sinh liên quan đến việc Bên A chậm hoặc không
+thực hiện nghĩa vụ này.
+3.8. Bên A có trách nhiệm chủ động theo dõi việc ban hành và thay đổi của các Chính sách được nêu tại Điều 11.4 Hợp đồng này cũng
+như các chính sách khác liên quan đến quyền lợi và nghĩa vụ của Bên A mà Bên B đăng tải công khai trên trang điện tử matbao.net.
+Việc tham gia ký kết Hợp Đồng này được hiểu là Bên A đã hoàn toàn hiểu và đồng ý thực thi, tuân thủ đầy đủ các Chính sách này.
+3.9. Được nhận thông báo từ Bên B về việc chấm dứt vòng đời sản phẩm và ngưng hỗ trợ sản phẩm tối thiểu trước 30 (ba mươi) ngày
+tính từ ngày sẽ chấm dứt vòng đời sản phẩm (nếu có).
+ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+4.1. Được quyền tạm ngưng các tài khoản truy cập tới Bên B của Bên A hoặc chấm dứt Hợp Đồng với Bên A trong trường hợp Bên A vi
+phạm hoặc không thực hiện đúng những điều khoản cam kết trong Hợp Đồng này bằng một thông báo đến Bên A về việc chấm dứt
+Hợp Đồng.
+4.2. Được quyền tạm ngưng và thu hồi các Dịch Vụ theo Hợp Đồng do Bên A sử dụng vi phạm các quy định pháp luật, đặc biệt là quy
+định về quản lý tài nguyên Internet và thông tin điện tử trên Internet của Việt Nam.
+4.3. Được quyền ngưng hỗ trợ đối với các sản phẩm chấm dứt vòng đời sản phẩm.
+4.4. Được quyền đề nghị Bên A nâng cấp lên phiên bản mới tối thiểu trước 30 (ba mươi) ngày tính từ ngày chấm dứt vòng đời sản phẩm.
+4.5. Hoàn thành việc khởi tạo/gia hạn Dịch Vụ trong thời hạn 03 (ba) ngày làm việc hoặc trong thời hạn quy định cụ thể đối với từng Dịch
+Vụ tại (các) Phụ Lục tương ứng (nếu có) kể từ khi nhận được đầy đủ thông tin và 100% tiền thanh toán của bên A. Bên B sẽ xuất hóa
+đơn cho Bên A sau khi Dịch Vụ được kích hoạt/gia hạn thành công theo thông tin mà Bên A cung cấp như quy định tại Điều 3.6 Hợp
+Đồng.
+4.6. Theo chính sách của Bên B hoặc chính sách của Nhà cung cấp dịch vụ cho Bên B, Phí Dịch Vụ có thể điều chỉnh trước thời điểm
+hoàn thành việc khởi tạo/gia hạn Dịch Vụ được quy định tại Điều 4.5 Hợp đồng và sẽ được Bên B đăng tải công khai tại
+www.matbao.net.
+4.7. Hướng dẫn cho Bên A các kiến thức căn bản về chính sách quản lý, hướng dẫn đăng ký, sử dụng và duy trì Dịch Vụ cho Bên A đúng
+theo thời hạn duy trì quy định tại Điều 1 của Hợp Đồng và thông báo kịp thời cho Bên A mỗi khi có thay đổi chính sách, các hướng
+dẫn này.
+2/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+4.8. Cung cấp Dịch Vụ, phần mềm tương ứng (nếu có) và đảm bảo các chuẩn kỹ thuật cần thiết đúng với thông số gói Dịch Vụ đã mua và
+đúng theo thỏa thuận tại Hợp Đồng và Phụ Lục tương ứng (nếu có) để Bên A thực hiện việc khai thác, sử dụng các Dịch Vụ liên
+quan.
+4.9. Hỗ trợ kỹ thuật 24/7 khi Bên A có yêu cầu và gửi đến bộ phận kỹ thuật của Bên B theo đúng quy định. Đường dây nóng của Bên B:
+19001830 hoặc gửi yêu cầu hỗ trợ tại https://id.matbao.net/ hoặc https://id.axys.group/
+4.10.Được nâng cấp sản phẩm lên phiên bản mới nhằm mục đích khắc phục lỗi của phiên bản cũ hoặc thay thế bằng sản phẩm mới tối ưu
+hơn. Việc nâng cấp này được xem là chấm dứt vòng đời sản phẩm đó.
+4.11.Có nghĩa vụ thông báo cho Bên A về việc chấm dứt vòng đời sản phẩm và ngưng hỗ trợ sản phẩm tối thiểu trước 30 (ba mươi) ngày
+tính từ ngày sẽ chấm dứt vòng đời sản phẩm.
+ĐIỀU 5: CHẾ TÀI DO ĐƠN PHƯƠNG HỦY BỎ, CHẤM DỨT HỢP ĐỒNG TRÁI PHÁP LUẬT
+Nếu Bên nào tự ý hủy bỏ, đơn phương chấm dứt Hợp Đồng mà không được sự chấp thuận của Bên kia hoặc không thuộc trường hợp
+bất khả kháng (theo quy định pháp luật) hoặc theo quy định tại Hợp Đồng thì sẽ phải hoàn trả hoặc chịu mất toàn bộ số tiền đã nhận
+hay thanh toán. Ngoài ra còn phải bồi thường thiệt hại (nếu có) cho Bên kia theo quy định của pháp luật.
+ĐIỀU 6: GIA HẠN DỊCH VỤ
+6.1. Bên A chủ động theo dõi tình trạng, thời gian hết hạn của Dịch Vụ để thực hiện gia hạn trước 10 (mười) ngày trước khi đến ngày hết
+hạn sử dụng Dịch Vụ. Bên A có thể gia hạn một hoặc toàn bộ Dịch Vụ theo Hợp đồng này bằng một trong hai cách sau:
+6.1.1.Chủ động gia hạn trực tuyến tại https://id.axys.group. Sau khi Bên A hoàn thành các thao tác gia hạn trực tuyến, bao gồm việc
+thanh toán phí gia hạn Dịch Vụ, hệ thống của Bên B sẽ gia hạn tự động các Dịch Vụ mà Bên A đăng ký gia hạn; hoặc
+6.1.2.Bên A thanh toán phí gia hạn Dịch Vụ và thông báo đầy đủ, kịp thời cho Bên B để Bên B tiến hành gia hạn dịch vụ cho Bên A.
+6.2. Phụ lục Hợp đồng tương ứng (nếu có) sẽ tự động được gia hạn thêm theo thời gian gia hạn Dịch Vụ khi Bên A hoàn thành việc thanh
+toán phí gia hạn cho Dịch Vụ đó trước khi hết thời hạn gia hạn. Bên A có trách nhiệm theo dõi tình trạng gia hạn của Dịch Vụ và
+thông báo ngay cho Bên B trong trường hợp Dịch Vụ chưa được gia hạn trong thời hạn 03 (ba) ngày kể từ ngày Bên A thanh toán.
+ĐIỀU 7: SỰ KIỆN BẤT KHẢ KHÁNG
+7.1. “Sự kiện bất khả kháng” là tất cả các sự kiện khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp
+dụng mọi biện pháp cần thiết và khả năng cho phép, bao gồm, nhưng không giới hạn: hoả hoạn, thiên tai, lũ lụt, bão, động đất,
+khủng bố, chiến tranh, hoặc các nguy cơ xảy ra chiến tranh, dịch bệnh, đình công, sự thay đổi các chính sách liên quan, sự cố
+internet hay quyết định của Cơ quan Nhà nước có thẩm quyền.
+7.2. Bên bị ảnh hưởng bởi “Sự kiện bất khả kháng”, trong thời hạn 05 (năm) ngày làm việc kể từ ngày xảy ra “Sự kiện bất khả kháng”,
+phải thông báo cho các Bên còn lại về tính chất, hậu quả, các biện pháp điều chỉnh áp dụng và thời gian dự tính khắc phục “Sự kiện
+bất khả kháng”. Bên thông báo bị ảnh hưởng bởi “Sự kiện bất khả kháng” có trách nhiệm phải thực hiện mọi biện pháp để hạn chế tối
+đa sự ảnh hưởng của “Sự kiện bất khả kháng” đó. Tiến độ triển khai Hợp Đồng khi xảy ra “Sự kiện bất khả kháng” sẽ theo thỏa thuận
+bằng văn bản của các Bên.
+7.3. Nếu một “Sự kiện bất khả kháng” kéo dài quá 30 (ba mươi) ngày liên tục, một trong các Bên có quyền chấm dứt một phần hoặc toàn
+bộ Hợp Đồng, mà không phải bồi thường cho Bên còn lại bất kỳ thiệt hại nào phát sinh từ “Sự kiện bất khả kháng”, trừ trường hợp
+Bên bị ảnh hưởng bởi “Sự kiện bất khả kháng” đã không thực hiện đầy đủ các nghĩa vụ được quy định tại Điều này.
+ĐIỀU 8: TẠM NGỪNG DỊCH VỤ
+8.1. Bên B được quyền tạm ngừng cung cấp Dịch Vụ mà không cần có sự chấp thuận từ Bên A trong các trường hợp sau:
+8.1.1.Quá 10 (mười) ngày so với thời hạn quy định, Bên A không hoàn thành nghĩa vụ thanh toán mà không có bất kỳ văn bản giải
+trình lý do phù hợp cho Bên B.
+8.1.2.Theo yêu cầu của Cơ quan Nhà nước có thẩm quyền và/hoặc từ phía Nhà cung cấp đối với các Dịch Vụ tương ứng.
+8.1.3.Bên A vi phạm quy định tại Hợp đồng này, Phụ lục (nếu có) và Thỏa thuận sử dụng dịch vụ đính kèm.
+8.1.4.Các trường hợp khác theo quy định của pháp luật.
+8.2. Tùy thuộc vào yêu cầu theo quy định tại Điều 8.1.2 Hợp Đồng này, các Bên sẽ thỏa thuận về việc tiếp tục thực hiện hoặc chấm dứt
+Dịch Vụ với Phụ Lục tương ứng (nếu có).
+8.3. Đối với các trường hợp quy định tại Điều 8.1 Hợp Đồng này, Bên B sẽ không đảm bảo an toàn dữ liệu (nếu có) cho Bên A trong quá
+trình cung cấp dịch vụ và từ thời điểm sau khi tạm ngưng cung cấp dịch vụ do Bên A phải có trách nhiệm sao lưu tất cả các dữ liệu
+của mình trên máy chủ của Bên B và cất giữ an toàn..
+ĐIỀU 9: CAM KẾT VỀ GIÁ TRỊ CỦA CHỮ KÝ ĐIỆN TỬ
+9.1. Mỗi Bên cam kết rằng chữ ký của mình trong Hợp đồng này và tất cả các tài liệu liên quan đến việc đăng ký và gia hạn các dịch vụ tại
+Mắt Bão (“Tài liệu”) đều do Bên đó hoặc người đại diện hợp pháp của Bên đó ký.
+9.2. Trường hợp Hợp đồng và/hoặc Văn bản này được ký bằng chữ ký điện tử thì ngoài cam kết quy định tại Điều 9.1 của Hợp đồng này,
+Bên ký chữ ký điện tử còn có các cam kết sau:
+9.2.1.Bên đó hoặc đại diện hợp pháp của Bên đó là người điều khiển hệ thống chương trình ký điện tử và sử dụng thiết bị đó để xác
+nhận ý chí của mình đối với Hợp đồng và/hoặc Tài liệu này;
+9.2.2.Thực hiện các biện pháp để tránh việc sử dụng trái phép dữ liệu chữ ký điện tử của Bên đó;
+9.2.3.Áp dụng các biện pháp cần thiết để đảm bảo tính chính xác và toàn vẹn của thông tin có trong chứng chỉ điện tử trong trường
+hợp chứng chỉ đó được sử dụng để chứng thực chữ ký điện tử.
+9.3. Trong trường hợp một Bên có lỗi cố ý và/hoặc vô ý dẫn đến Hợp đồng này bị vô hiệu do không đảm bảo tính hợp lệ của các chữ ký
+thì Bên đó phải chịu hoàn toàn trách nhiệm theo pháp luật, đồng thời chịu bồi thường thiệt hại cho Bên bị vi phạm nghĩa vụ. Các
+khoản phí dịch vụ đã thanh toán cho việc khởi tạo dịch vụ sẽ không được hoàn trả.
+ĐIỀU 10: SỬA ĐỔI, CHẤM DỨT DỊCH VỤ
+3/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+10.1.Sửa đổi Dịch Vụ
+Mọi sự thay đổi, bổ sung, hủy bỏ việc cung cấp Dịch Vụ theo Hợp Đồng và Phụ Lục tương ứng (nếu có) đều được thực hiện trên cơ
+sở thỏa thuận giữa các Bên và được thể hiện bằng một Phụ lục Hợp Đồng (nếu có) không tách rời với Hợp Đồng này.
+10.2.Chấm dứt Dịch Vụ
+Dịch Vụ chấm dứt trong các trường hợp sau:
+10.2.1.Hết thời hạn duy trì Dịch Vụ mà Bên A không gia hạn.
+10.2.2.Các Bên thỏa thuận chấm dứt Dịch Vụ.
+10.2.3.Một trong các Bên bị giải thể, thanh lý, phá sản hay mất khả năng thanh toán.
+10.2.4.Thuộc Sự Kiện Bất Khả Kháng quy định tại Điều 7.3 Hợp Đồng.
+10.2.5.Khi chấm dứt vòng đời sản phẩm mà Bên A không đồng ý nâng cấp lên phiên bản mới.
+10.2.6.Một Bên được quyền đơn phương chấm dứt một Dịch Vụ bằng cách thông báo bằng văn bản tối thiểu là 10 (mười) ngày trước
+ngày dự kiến chấm dứt Dịch Vụ trong các trường hợp sau:
+10.2.6.1.Một Bên vi phạm các điều khoản quy định trong Thỏa Thuận Sử Dụng và/hoặc các chính sách, điều khoản khác quy
+định, đính kèm với Phụ Lục tương ứng (nếu có).
+10.2.6.2.Một Bên vi phạm nghĩa vụ, cam kết quy định tại Hợp Đồng này và các Phụ Lục đính kèm tương ứng (nếu có) mà
+không sửa chữa, khắc phục vi phạm hoặc sửa chữa, khắc phục mà không đạt yêu cầu trong thời hạn mà Bên bị vi
+phạm thông báo cho Bên vi phạm.
+10.2.7.Không phụ thuộc vào Điều 10.2.6 Hợp Đồng này, Bên B có quyền đơn phương chấm dứt một Dịch Vụ ngay lập tức bằng một
+thông báo gửi cho Bên A mà không phải bồi thường bất kỳ khoản chi phí nào nếu Bên A có một hoặc các hành vi vi phạm sau:
+10.2.7.1.Bên A sử dụng Dịch Vụ đó không theo đúng các cam kết trong Hợp Đồng và/hoặc Phụ Lục tương ứng (nếu có).
+10.2.7.2.Bên A sử dụng các sản phẩm, công cụ, máy chủ trong Dịch Vụ vào bất kỳ mục đích và/hoặc dưới bất kỳ hình thức
+nào mà vi phạm quy định pháp luật Việt Nam.
+10.2.7.3Bên A gửi, tạo liên kết hoặc trung chuyển các dữ liệu mang tính chất bất hợp pháp, đe dọa, lừa dối, xuyên tạc, gây
+thù hằn, nói xấu, khiêu dâm, xúc phạm danh dự, nhân phẩm của cá nhân, tổ chức khác,...
+10.2.7.4.Bên A lưu trữ, truyền bá các dữ liệu chứa đựng hoặc khuyến khích các hình thức phạm tội; các dữ liệu mang tính vi
+phạm pháp luật liên quan đến sáng chế, nhãn hiệu, quyền thiết kế, bản quyền hay bất kỳ quyền sở hữu trí tuệ của
+các cá nhân, tổ chức khác.
+10.2.8.Theo quyết định bằng văn bản của Cơ quan Nhà Nước có thẩm quyền, quyết định, bản án có hiệu lực của Tòa án, Cơ quan
+trọng tài có thẩm quyền.
+10.3.Phụ Lục (nếu có) sẽ chấm dứt khi Dịch Vụ tương ứng bị chấm dứt. Hợp Đồng sẽ chấm dứt khi toàn bộ Dịch Vụ bị chấm dứt. Trong
+trường hợp này, Phụ Lục (nếu có)/Hợp Đồng sẽ tự động được thanh lý và hai bên không còn bất kỳ ràng buộc nào về việc thực hiện
+nghĩa vụ trong Hợp đồng.
+ĐIỀU 11: ĐIỀU KHOẢN CHUNG
+11.1.Không phụ thuộc vào ngày ký, đóng dấu của các Bên, Hợp Đồng này có hiệu lực kể từ Ngày Hiệu Lực.
+11.2.Mọi tranh chấp phát sinh trong quá trình thực hiện sẽ được hai Bên thương lượng giải quyết trên tinh thần hợp tác, tôn trọng lẫn
+nhau. Trường hợp không thống nhất giải quyết được thì vụ việc sẽ được chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.
+11.3.Một số Dịch Vụ nhất định khi đăng ký không phát sinh Phụ lục đi kèm chịu sự điều chỉnh của các quy định có trong Hợp đồng này và
+các quy định khác có liên quan.
+11.4.Các điều khoản của Thỏa Thuận Sử Dụng Dịch Vụ tại địa chỉ https://www.matbao.net/thong-tin/thoa-thuan-su-dung.html, Chính Sách
+Bảo Mật tại địa chỉ https://www.matbao.net/thong-tin/chinh-sach-bao-mat.html, Chính sách về tài khoản MatbaoID tại địa chỉ:
+https://www.matbao.net/thong-tin/chinh-sach-su-dung-tai-khoan-matbaoid.html và Chính sách bảo vệ dữ liệu cá nhân tại địa chỉ
+https://www.matbao.net/thong-tin/chinh-sach-bao-ve-du-lieu-ca-nhan.html và (các) Phụ Lục đính kèm (nếu có) là một phần không
+tách rời đối với Hợp Đồng, và có giá trị pháp lý ràng buộc hai Bên phải tuân thủ.
+11.5.Hai Bên cam kết đã đọc hết, hiểu rõ và thực hiện đúng Hợp Đồng và Phụ lục đính kèm (nếu có). Hợp Đồng này và Phụ lục (nếu có)
+được lập thành 02 (hai) bản, có giá trị như nhau, mỗi Bên giữ 01 (một) bản.
+ĐẠI DIỆN BÊN A
+$CUST
+ĐẠI DIỆN BÊN B
+$MB
+NGUYỄN KIM HÙNG
+NGUYỄN SỸ HÀ
+4/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+PHỤ LỤC 1 HỢP ĐỒNG
+Mã hợp đồng 101098/2026-MBHD
+STT
+Gói dịch vụ theo đơn hàng số
+S6527491
+Thời gian
+(Thời gian hoặc lần)
+Giá (VND)
+(1)
+Giảm giá
+(VND)
+(2)
+Thành tiền
+(VND)
+(3)=(1)-(2)
+Thuế VAT
+(VND)
+(4)=10%x(3);
+(4)=8%x(3);
+(4)=0%x(3)
+Thành tiền
+sau thuế
+(VND)
+(5)=(4)+(3)
+1
+Dịch vụ duy trì tài khoản quản trị
+.vn verco.vn
+02-08-2026 đến
+02-08-2027
+100,000
+0
+100,000
+8,000
+108,000
+Phí duy trì .vn verco.vn
+02-08-2026 đến
+02-08-2027
+350,000
+0
+350,000
+0
+350,000
+Lệ phí đăng ký .vn verco.vn
+1 Lần
+100,000
+0
+100,000
+0
+100,000
+Dịch vụ đăng ký tài khoản quản
+trị .vn verco.vn
+1 Lần
+0
+0
+0
+0
+0
+2
+Bảo mật DNS (DNSSEC)
+verco.vn
+02-08-2026 đến
+02-08-2027
+49,000
+0
+49,000
+3,920
+52,920
+Cộng tiền các khoản (VND)
+599,000
+0
+599,000
+11,920
+610,920
+Tổng cộng thanh toán (VND)
+5/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+PHỤ LỤC HỢP ĐỒNG CUNG CẤP DỊCH VỤ
+DỊCH VỤ TÊN MIỀN
+Phụ lục này đính kèm Hợp đồng số 101098/2026-MBHD Ngày 2 tháng 8 năm 2026 (“Hợp Đồng”) giữa Bên A và Bên B theo thông tin như
+được thể hiện tại trang 1 Hợp Đồng, tạo thành một phần trong thỏa thuận hoàn chỉnh giữa Bên A và Bên B.
+ĐIỀU 1: NỘI DUNG DỊCH VỤ
+1.1. Giải thích từ ngữ
+"Tên miền" là tên được sử dụng để định danh địa chỉ Internet của máy chủ gồm các dãy ký tự cách nhau bằng dấu chấm “.”
+"Dịch Vụ Tên Miền" là dịch vụ đăng ký và duy trì tên miền.
+1.2. Thời hạn duy trì Dịch Vụ (duy trì tên miền): được quy định tương ứng tại Điều 1 Hợp Đồng và bắt đầu từ khi Bên B hoàn thành việc
+đăng ký, kích hoạt thành công tên miền cho Bên A.
+ĐIỀU 2: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+Ngoài quyền và nghĩa vụ quy định tại Điều 3 Hợp Đồng, Bên A còn có thêm các quyền và nghĩa vụ sau:
+2.1. Thông báo việc sử dụng tên miền không phải là tên miền quốc gia “.VN” trên website www.thongbaotenmien.vn của Bộ Khoa học và
+Công nghệ theo quy định pháp luật.
+2.2. Nộp “Bản khai đăng ký tên miền” cho Bên B theo quy định của Trung tâm Internet Việt Nam (VNNIC) – Bộ Khoa học và Công nghệ
+và các hồ sơ khác theo yêu cầu (nếu có).
+2.3. Tuân thủ các quy định, quy trình liên quan đến tên miền tại:
+https://www.matbao.net/thong-tin/quy-dinh-ve-ten-mien.html
+https://www.matbao.net/thong-tin/quy-dinh-su-dung-ten-mien-viet-nam.html
+https://www.matbao.net/thong-tin/quy-dinh-su-dung-ten-mien-quoc-te.html
+ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+Ngoài quyền và nghĩa vụ quy định tại Điều 4 Hợp Đồng, Bên B còn có thêm các quyền và nghĩa vụ sau:
+3.1. Bên B chỉ cung cấp Dịch Vụ Tên Miền trong phạm vi những tên miền chưa có chủ thể khác đăng ký trong thời gian hoàn thành việc
+đăng ký tên miền và dưới sự chấp thuận cấp phát của cơ quan quản lý tên miền. Trong trường hợp tên miền không đăng ký được,
+Bên B hoàn lại 100% phí đăng ký tên miền cho Bên A.
+3.2. Trong trường hợp Bên A chưa thanh toán hoặc tiền chưa vào tài khoản của Bên B (trường hợp chuyển khoản), nếu tên miền Bên A
+muốn đăng ký đã có chủ thể khác đăng ký được (theo nguyên tắc đăng ký trước) thì Bên B sẽ không chịu trách nhiệm về việc không
+đăng ký được cho Bên A.
+3.3. Bên B không chịu trách nhiệm đối với các trường hợp phát sinh mà Bên A không thực hiện hoặc thực hiện không đúng nghĩa vụ của
+mình theo quy định pháp luật tương ứng đối với tên miền mình sử dụng.
+3.4. Thông báo kịp thời cho Bên A khi có sự thay đổi chính sách quản lý tài nguyên Internet của Việt Nam.
+ĐIỀU 4: ĐIỀU KHOẢN CHUNG
+4.1. Hai Bên có trách nhiệm hoàn tất các quyền, nghĩa vụ đã phát sinh theo Phụ Lục này.
+4.2. Phụ lục này là một phần không tách rời với Hợp Đồng, có hiệu lực theo hiệu lực của Hợp đồng.
+6/6
+Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732
+Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam
+
+--- CẤU TRÚC BẢNG TRÍCH XUẤT ---
+
+[Bảng 1 - Trang 1]
+| Chi nhánh Công ty Cổ phần Mắt Bão CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 101098/2026-MBHD Độc lập - Tự do - Hạnh phúc Ngày 2 tháng 8 năm 2026 (“Ngày hiệu lực”) HỢP ĐỒNG CUNG CẤP DỊCH VỤ - Căn cứ quy định tại Bộ luật dân sự, Luật Công nghệ Thông tin và Luật Thương mại. - Căn cứ quy định về quản lý, cung cấp và sử dụng tài nguyên Internet của Bộ Khoa học và Công nghệ. - Căn cứ Luật Giao dịch điện tử và các văn bản hướng dẫn thi hành về giao dịch điện tử trong hoạt động thương mại, dân sự và tài chính; - Căn cứ Luật Các tổ chức tín dụng, Nghị định về thanh toán không dùng tiền mặt và các quy định pháp luật liên quan đến thanh toán bằng phương thức điện tử; - Căn cứ Luật Quản lý thuế, Luật Thuế giá trị gia tăng và các văn bản hướng dẫn thi hành về hóa đơn, chứng từ và nghĩa vụ thuế trong giao dịch điện tử; - Căn cứ nhu cầu, khả năng và thỏa thuận của hai bên. Bên thuê dịch vụ (Bên A): Công ty TNHH Tập đoàn Kim Nam                                                                                           |                                       |                        |           |               |                    |                               |                                |                                                              |                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------- | --------- | ------------- | ------------------ | ----------------------------- | ------------------------------ | ------------------------------------------------------------ | ----------------------------------------- |
+| Người đại diện: Nguyễn Kim Hùng Chức vụ: Chủ tịch Địa chỉ liên hệ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Số điện thoại: +84-869039899 Di động: +84-869039899 Email: thuytv@kimnamgroup.vn; Mã số doanh nghiệp: 0107654728 phuchv@kimnamgroup.vn Bên cung cấp dịch vụ (Bên B): Chi nhánh Công ty Cổ phần Mắt Bão                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                       |                        |           |               |                    |                               |                                |                                                              |                                           |
+| Người đại diện: Nguyễn Sỹ Hà Chức vụ: Giám đốc Địa chỉ: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam Số điện thoại: +84-2435123456 Fax: Mã số doanh nghiệp: 0302712571-001 Tài khoản ngân hàng: 500038888 - VP Bank - Chi nhánh Láng Hạ Sau khi xem xét, Các Bên đồng ý ký kết Hợp đồng cung cấp dịch vụ (sau đây gọi tắt là “Hợp Đồng”) với các điều kiện và điều khoản sau đây: ĐIỀU 1: NỘI DUNG HỢP ĐỒNG VÀ GIÁ TRỊ DỊCH VỤ 1.1. Theo đề nghị của Bên A, Bên B thực hiện đăng ký và duy trì cho Bên A các dịch vụ sau đây:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                       |                        |           |               |                    |                               |                                |                                                              |                                           |
+| STT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Gói dịch vụ theo đơn hàng số S6527491 |                        | Thời gian | Giá (VND) (1) | Giảm giá (VND) (2) |                               | Thành tiền (VND) (3) = (1)-(2) | Thuế VAT (VND) (4) = 10% x (3) (4) = 8% x (3) (4) = 0% x (3) | Thành tiền sau thuế (VND) (5) = (4) + (3) |
+| 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Theo phụ lục 1 đính kèm               |                        | Phụ lục 1 | Phụ lục 1     | Phụ lục 1          |                               | Phụ lục 1                      | Phụ lục 1                                                    | Phụ lục 1                                 |
+| Tổng cộng thanh toán (VND)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                       |                        |           |               |                    |                               |                                |                                                              | 610,920                                   |
+| 1.2. Nội dung cụ thể của mỗi dịch vụ mà Bên A đăng ký sử dụng (sau đây gọi là “Dịch Vụ”) sẽ được quy định tại địa chỉ: https://www.matbao.net/thong-tin/thoa-thuan-su-dung.html với nội dung Điều khoản cuối tương ứng với từng Dịch Vụ và Phụ lục đính kèm Hợp Đồng này (“Phụ Lục”) (nếu có). Theo đó, Phụ Lục đều bắt đầu có hiệu lực theo Ngày Hiệu Lực của Hợp Đồng. 1.3. Hình thức thanh toán: - Bên A thanh toán 100% Phí Dịch Vụ và các khoản thanh toán khác bằng Số tiền có trong tài khoản MatbaoID của Bên A. Trong trường hợp Số tiền không đủ, Bên A có trách nhiệm nạp bổ sung để thanh toán đầy đủ các khoản thanh toán trên ngay sau khi ký hợp đồng. - Bên A thực hiện nạp tiền vào Tài khoản MatbaoID bằng hình thức chuyển khoản vào Tài khoản ngân hàng của Bên B hoặc lựa chọn một trong các phương thức khác theo hướng dẫn được công bố tại: https://www.matbao.net/thong-tin/huong-dan-thanh- toan.html ĐIỀU 2: THÔNG TIN NGƯỜI LIÊN HỆ CỦA BÊN A 2.1. Bên A chỉ định nhân sự chịu trách nhiệm liên hệ với Bên B như sau: |                                       |                        |           |               |                    |                               |                                |                                                              |                                           |
+| Nội dung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                       | Người quản lý kỹ thuật |           |               |                    | Người thanh toán              |                                |                                                              |                                           |
+| Tên tổ chức thanh toán                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                       |                        |           |               |                    | Công ty TNHH Tập đoàn Kim Nam |                                |                                                              |                                           |
+| Nhân viên thực hiện hợp đồng: Đặng Lan Phương; phuongdl@matbao.com; 0969303732 1/6 Địa chỉ nhận hợp đồng: Tầng 5, Tòa Rosary, 89 Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội, Việt Nam                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                       |                        |           |               |                    |                               |                                |                                                              |                                           |
+
+[Bảng 2 - Trang 2]
+| Họ và tên                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Hán Vinh Phúc                                                  | Hán Vinh Phúc                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| Địa chỉ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam | Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam |
+| Điện thoại di động                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | +84-969010283                                                  | +84-969010283                                                  |
+| Email                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | phuchv@kimnamgroup.vn                                          | phuchv@kimnamgroup.vn                                          |
+| 2.2. Bên A hoàn toàn chịu trách nhiệm đối với các hành vi do nhân sự trên thực hiện. Bên B chỉ thực hiện các nghĩa vụ theo Hợp Đồng này khi nhận được yêu cầu của nhân sự được chỉ định nêu trên hoặc người đại diện theo pháp luật của Bên A. Trường hợp có sự thay đổi nhân sự chỉ định, người đại diện hợp pháp của Bên A phải thông báo ngay cho Bên B biết. Bên B không chịu trách nhiệm với bất kỳ thiệt hại nào gây ra do sự chậm trễ thông báo của Bên A. ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A 3.1. Bên A có trách nhiệm đảm bảo Số tiền trong Tài khoản MatbaoID này đủ để thanh toán 100% Phí Dịch Vụ và các khoản thanh toán khác có trong Hợp đồng này, trừ trường hợp có quy định khác tại (các) Phụ Lục tương ứng (nếu có). Việc thanh toán (sau đây gọi là "thanh toán") được ghi nhận là hoàn thành kể từ thời điểm Số tiền tương ứng được khấu trừ thành công khỏi Tài khoản MatbaoID và hệ thống của Bên B xác nhận giao dịch. 3.2. Có trách nhiệm cung cấp đầy đủ thông tin, tài liệu theo yêu cầu của Bên B, theo các bản Đăng ký theo mẫu của Bên B để hỗ trợ Bên B triển khai những công việc trong phạm vi trách nhiệm của Bên B. 3.3. Chịu trách nhiệm trước pháp luật về mục đích sử dụng các Dịch Vụ tại Hợp Đồng này và tính chính xác của các thông tin do mình cung cấp. Bên B được miễn trừ mọi trách nhiệm liên quan đến việc Bên A cung cấp nội dung tài liệu, thông tin không trung thực, chính xác, không đầy đủ. Đảm bảo việc đăng ký, sử dụng, khai thác từ Dịch Vụ tại Hợp Đồng đúng pháp luật, không xâm phạm đến quyền lợi hợp pháp của các tổ chức, cá nhân khác. Bên A toàn quyền sử dụng, quản lý, duy trì quyền sử dụng các Dịch Vụ tại Hợp Đồng do Bên B cung cấp theo quy định của pháp luật. Tự chịu trách nhiệm trong trường hợp vi phạm các quy định pháp luật và/hoặc các tranh chấp, khiếu nại liên quan đến việc sử dụng các Dịch Vụ được Bên B cung cấp hoặc do quản lý sơ suất gây ra. 3.4. Theo dõi, kiểm tra tình trạng đăng ký hoạt động, thời hạn hiệu lực của các Dịch Vụ đã đăng ký theo Điều 1 Hợp Đồng và nộp phí duy trì khi đến hạn. Khi hết thời hạn duy trì Dịch Vụ mà Bên A chưa/không trả phí duy trì thì Dịch Vụ sẽ bị tự động tạm ngừng và/hoặc bị thu hồi theo quy định của pháp luật. Thời gian nộp phí duy trì tối thiểu trước 10 (mười) ngày tính đến ngày hết hạn. 3.5. Bảo mật thông tin liên quan đến nội dung Hợp Đồng này. Cam kết hoàn tất hồ sơ đăng ký gửi về cho Bên B (Đối với cá nhân: 01 Hợp Đồng, 01 bản sao Căn cước/Căn cước công dân/Hộ chiếu; đối với tổ chức: 01 Hợp Đồng do người đại diện hợp pháp ký, có đóng dấu của tổ chức) trong thời gian 10 ngày kể từ ngày Dịch Vụ đã được đăng ký thành công. Trong trường hợp chậm bổ sung hồ sơ, Dịch Vụ sẽ tạm ngưng hoặc thu hồi mà không hoàn lại phí. Bên B sẽ không chịu trách nhiệm pháp lý và bồi thường đối với bất kỳ tổn thất hoặc thiệt hại nào phát sinh do Bên A không tuân thủ quy định này. Cung cấp thông tin và phối hợp với các Cơ quan Nhà nước có thẩm quyền và Bên B để giải quyết, xử lý các vụ việc liên quan tới Dịch Vụ khi có yêu cầu. 3.6. Cung cấp thông tin và yêu cầu Bên B xuất hóa đơn giá trị gia tăng ngay sau khi Bên A hoàn tất việc thanh toán và Bên B khởi tạo Dịch Vụ thành công. 3.7. Thông báo cho Bên B ngay khi có sự thay đổi tên, số tài khoản, địa chỉ giao dịch, địa chỉ nhận hóa đơn thanh toán và các thông tin khác liên quan đến việc thực hiện Hợp Đồng. Bên B không chịu trách nhiệm phát sinh liên quan đến việc Bên A chậm hoặc không thực hiện nghĩa vụ này. 3.8. Bên A có trách nhiệm chủ động theo dõi việc ban hành và thay đổi của các Chính sách được nêu tại Điều 11.4 Hợp đồng này cũng như các chính sách khác liên quan đến quyền lợi và nghĩa vụ của Bên A mà Bên B đăng tải công khai trên trang điện tử matbao.net. Việc tham gia ký kết Hợp Đồng này được hiểu là Bên A đã hoàn toàn hiểu và đồng ý thực thi, tuân thủ đầy đủ các Chính sách này. 3.9. Được nhận thông báo từ Bên B về việc chấm dứt vòng đời sản phẩm và ngưng hỗ trợ sản phẩm tối thiểu trước 30 (ba mươi) ngày tính từ ngày sẽ chấm dứt vòng đời sản phẩm (nếu có). ĐIỀU 4: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B 4.1. Được quyền tạm ngưng các tài khoản truy cập tới Bên B của Bên A hoặc chấm dứt Hợp Đồng với Bên A trong trường hợp Bên A vi phạm hoặc không thực hiện đúng những điều khoản cam kết trong Hợp Đồng này bằng một thông báo đến Bên A về việc chấm dứt Hợp Đồng. 4.2. Được quyền tạm ngưng và thu hồi các Dịch Vụ theo Hợp Đồng do Bên A sử dụng vi phạm các quy định pháp luật, đặc biệt là quy định về quản lý tài nguyên Internet và thông tin điện tử trên Internet của Việt Nam. 4.3. Được quyền ngưng hỗ trợ đối với các sản phẩm chấm dứt vòng đời sản phẩm. 4.4. Được quyền đề nghị Bên A nâng cấp lên phiên bản mới tối thiểu trước 30 (ba mươi) ngày tính từ ngày chấm dứt vòng đời sản phẩm. 4.5. Hoàn thành việc khởi tạo/gia hạn Dịch Vụ trong thời hạn 03 (ba) ngày làm việc hoặc trong thời hạn quy định cụ thể đối với từng Dịch Vụ tại (các) Phụ Lục tương ứng (nếu có) kể từ khi nhận được đầy đủ thông tin và 100% tiền thanh toán của bên A. Bên B sẽ xuất hóa đơn cho Bên A sau khi Dịch Vụ được kích hoạt/gia hạn thành công theo thông tin mà Bên A cung cấp như quy định tại Điều 3.6 Hợp Đồng. 4.6. Theo chính sách của Bên B hoặc chính sách của Nhà cung cấp dịch vụ cho Bên B, Phí Dịch Vụ có thể điều chỉnh trước thời điểm hoàn thành việc khởi tạo/gia hạn Dịch Vụ được quy định tại Điều 4.5 Hợp đồng và sẽ được Bên B đăng tải công khai tại www.matbao.net. 4.7. Hướng dẫn cho Bên A các kiến thức căn bản về chính sách quản lý, hướng dẫn đăng ký, sử dụng và duy trì Dịch Vụ cho Bên A đúng theo thời hạn duy trì quy định tại Điều 1 của Hợp Đồng và thông báo kịp thời cho Bên A mỗi khi có thay đổi chính sách, các hướng dẫn này. |                                                                |                                                                |
+
+[Bảng 3 - Trang 5]
+| PHỤ LỤC 1 HỢP ĐỒNG Mã hợp đồng 101098/2026-MBHD |                                                 |                                |               |                    |                              |                                                    |                                       |
+| ----------------------------------------------- | ----------------------------------------------- | ------------------------------ | ------------- | ------------------ | ---------------------------- | -------------------------------------------------- | ------------------------------------- |
+| STT                                             | Gói dịch vụ theo đơn hàng số S6527491           | Thời gian (Thời gian hoặc lần) | Giá (VND) (1) | Giảm giá (VND) (2) | Thành tiền (VND) (3)=(1)-(2) | Thuế VAT (VND) (4)=10%x(3); (4)=8%x(3); (4)=0%x(3) | Thành tiền sau thuế (VND) (5)=(4)+(3) |
+| 1                                               | Dịch vụ duy trì tài khoản quản trị .vn verco.vn | 02-08-2026 đến 02-08-2027      | 100,000       | 0                  | 100,000                      | 8,000                                              | 108,000                               |
+|                                                 | Phí duy trì .vn verco.vn                        | 02-08-2026 đến 02-08-2027      | 350,000       | 0                  | 350,000                      | 0                                                  | 350,000                               |
+|                                                 | Lệ phí đăng ký .vn verco.vn                     | 1 Lần                          | 100,000       | 0                  | 100,000                      | 0                                                  | 100,000                               |
+|                                                 | Dịch vụ đăng ký tài khoản quản trị .vn verco.vn | 1 Lần                          | 0             | 0                  | 0                            | 0                                                  | 0                                     |
+| 2                                               | Bảo mật DNS (DNSSEC) verco.vn                   | 02-08-2026 đến 02-08-2027      | 49,000        | 0                  | 49,000                       | 3,920                                              | 52,920                                |
+| Cộng tiền các khoản (VND)                       |                                                 |                                | 599,000       | 0                  | 599,000                      | 11,920                                             | 610,920                               |
+| Tổng cộng thanh toán (VND)                      |                                                 |                                |               |                    |                              |                                                    |                                       |
 
 ============================================================
-  ĐÁNH GIÁ ĐỘ CHÍNH XÁC: HĐ TÊN MIỀN VERCO.VN (1).PDF
+  ĐÁNH GIÁ TRÍCH XUẤT: HĐ TÊN MIỀN VERCO.VN (1).PDF
 ============================================================
-🔹 Độ tin cậy OCR trung bình (Model Confidence): 100.0%
-🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         100.0%
-🔹 Đánh giá chất lượng đọc:                  XUẤT SẮC (Chữ rất rõ ràng)
 ============================================================

@@ -17,10 +17,11 @@ from table_detector import (
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-INPUT_BASE_DIR = r"d:\AI\ocr\input"
-DOC_BASE_DIR = r"d:\AI\ocr\doc"
-OUTPUT_BASE_DIR = r"d:\AI\ocr\output"
-PROCESSED_IMAGE_DIR = r"d:\AI\ocr\processed_images"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_BASE_DIR = os.path.join(BASE_DIR, "input")
+DOC_BASE_DIR = os.path.join(BASE_DIR, "doc")
+OUTPUT_BASE_DIR = os.path.join(BASE_DIR, "output")
+PROCESSED_IMAGE_DIR = os.path.join(BASE_DIR, "processed_images")
 
 CATEGORIES = {
     "1": ("hop_dong", "Hợp đồng", os.path.join(DOC_BASE_DIR, "hop_dong")),
@@ -36,10 +37,9 @@ def format_line(index: int, conf: float, text: str) -> str:
     conf_val = conf * 100.0 if conf is not None else 100.0
     return f"[{index:03d} - {conf_val:.1f}%] {text}"
 
-def save_ocr_output(original_filename: str, category_code: str, lines: list[str], confidences: list[float], eval_report: str = "", table_markdown: str = "", structured_tables: list = None) -> tuple[str, str]:
+def save_ocr_output(original_filename: str, category_code: str, doc_result: dict, eval_report: str = "") -> tuple[str, str]:
     """
-    Lưu kết quả đọc OCR vào thư mục output:
-    Mỗi tài liệu sẽ có 1 thư mục riêng trong danh mục:
+    Lưu kết quả đọc/trích xuất tài liệu vào thư mục output theo đúng cấu trúc chuẩn:
     output/{danh_mục}/{tên_file}/[OCR] - {tên_file}.txt
     output/{danh_mục}/{tên_file}/[OCR] - {tên_file}.json
     """
@@ -53,31 +53,57 @@ def save_ocr_output(original_filename: str, category_code: str, lines: list[str]
     out_path_txt = os.path.join(doc_folder, out_filename_txt)
     out_path_json = os.path.join(doc_folder, out_filename_json)
 
+    full_text = doc_result.get("full_text", "")
+    lines = [l for l in full_text.splitlines() if l.strip()]
+
     # 1. Lưu file TXT
     with open(out_path_txt, "w", encoding="utf-8") as out:
-        out.write(f"=== KẾT QUẢ OCR: {original_filename} ===\n")
-        out.write(f"Danh mục: {category_code}\n\n")
+        out.write(f"=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: {original_filename} ===\n")
+        out.write(f"Danh mục: {category_code}\n")
+        out.write(f"Định dạng nguồn (Source Type): {doc_result.get('source_type')}\n")
+        out.write(f"Phương pháp trích xuất (Method): {doc_result.get('extraction_method')}\n\n")
         
-        for i, (l, conf) in enumerate(zip(lines, confidences), 1):
-            out.write(format_line(i, conf, l) + "\n")
+        out.write("--- NỘI DUNG VĂN BẢN ---\n")
+        out.write(full_text + "\n\n")
+
+        tables = doc_result.get("tables", [])
+        if tables:
+            out.write("--- CẤU TRÚC BẢNG TRÍCH XUẤT ---\n")
+            for t_idx, tbl in enumerate(tables, 1):
+                out.write(f"\n[Bảng {t_idx} - Trang {tbl.get('page', 1)}]\n")
+                out.write(tbl.get("markdown", "") + "\n")
             
         if eval_report:
             out.write("\n" + eval_report + "\n")
 
-    # 2. Lưu file JSON có cấu trúc kèm vị trí (Bounding Box)
+    # 2. Lưu file JSON cấu trúc mở rộng (Tương thích cả API cũ lẫn cấu trúc mở rộng mới)
+    ocr_lines_legacy = []
+    line_idx = 1
+    for pg in doc_result.get("pages", []):
+        pg_lines = pg.get("lines", [])
+        pg_confs = pg.get("confidences", [])
+        for i, l in enumerate(pg_lines):
+            conf_val = pg_confs[i] * 100.0 if (pg_confs and i < len(pg_confs) and pg_confs[i] is not None) else None
+            ocr_lines_legacy.append({
+                "index": line_idx,
+                "page": pg.get("page", 1),
+                "text": l,
+                "confidence": conf_val
+            })
+            line_idx += 1
+
     json_data = {
         "original_filename": original_filename,
         "category": category_code,
-        "has_table": bool(structured_tables),
-        "ocr_lines": [
-            {
-                "index": i,
-                "text": l,
-                "confidence": round(conf * 100.0 if conf is not None else 100.0, 2)
-            }
-            for i, (l, conf) in enumerate(zip(lines, confidences), 1)
-        ],
-        "tables": structured_tables or []
+        "document_type": doc_result.get("document_type"),
+        "source_type": doc_result.get("source_type"),
+        "extraction_method": doc_result.get("extraction_method"),
+        "has_table": doc_result.get("has_table", False),
+        "total_pages": doc_result.get("total_pages", 1),
+        "pages": doc_result.get("pages", []),
+        "full_text": full_text,
+        "tables": doc_result.get("tables", []),
+        "ocr_lines": ocr_lines_legacy
     }
 
     with open(out_path_json, "w", encoding="utf-8") as jout:
@@ -85,117 +111,29 @@ def save_ocr_output(original_filename: str, category_code: str, lines: list[str]
 
     return out_path_txt, out_path_json
 
-def ocr_single_image(image_path: str) -> tuple[list[str], list[float], str, list]:
+def process_file_ocr(file_path: str) -> dict:
     """
-    Tiền xử lý và OCR ảnh bằng EasyOCR, đồng thời nhận diện cấu trúc Bảng và Bounding box.
-    Trả về tuple: (lines, confidences, table_markdown, structured_tables)
+    Đọc trích xuất văn bản & nhận diện Bảng từ file (hỗ trợ PDF text/scan/mixed, DOCX, XLSX và Ảnh).
     """
-    print(f"\n[+] Đang tiền xử lý hình ảnh: {image_path}")
-    processed_img = preprocess_image(image_path)
-    
-    os.makedirs(PROCESSED_IMAGE_DIR, exist_ok=True)
-    base_name = os.path.basename(image_path)
-    out_img_path = os.path.join(PROCESSED_IMAGE_DIR, f"processed_{base_name}")
-    cv2.imwrite(out_img_path, processed_img)
-    print(f"-> Đã lưu ảnh đã qua tiền xử lý vào: '{out_img_path}'")
+    from document_reader import read_document
+    return read_document(file_path)
 
-    reader = get_ocr_reader()
-    print("[+] Đang chạy EasyOCR đọc văn bản & nhận diện Bảng...")
-    raw_results = reader.readtext(
-        processed_img,
-        decoder='beamsearch',
-        beamWidth=5,
-        text_threshold=0.4,
-        low_text=0.2,
-        link_threshold=0.4,
-        mag_ratio=1.5,
-        paragraph=False
-    )
-    
-    lines, confidences = group_results_by_line(raw_results, y_tolerance=20)
-    
-    # Nhận diện Bảng & Bounding Box
-    table_matrix, is_table_found, structured_table = extract_table_from_raw_results(raw_results, image=processed_img)
-    table_markdown = format_table_to_markdown(table_matrix) if is_table_found else ""
-    structured_tables = [structured_table] if is_table_found else []
-    
-    if is_table_found:
-        print("-> [✓] Phát hiện Bảng dữ liệu và vị trí (Bounding Box) trong hình ảnh!")
-
-    return lines, confidences, table_markdown, structured_tables
-
-def process_file_ocr(file_path: str) -> tuple[list[str], list[float], str, list]:
-    """
-    Đọc văn bản & nhận diện Bảng từ file (hỗ trợ cả PDF kỹ thuật số, PDF Scan và Ảnh).
-    Trả về tuple: (lines, line_confidences, table_markdown, structured_tables)
-    """
-    ext = os.path.splitext(file_path)[1].lower()
-    
-    if ext == '.pdf':
-        text = extract_text_from_pdf(file_path)
-        tables_digital, structured_tables = extract_tables_from_pdf_digital(file_path)
-        table_md = ""
-        if tables_digital:
-            md_list = [format_table_to_markdown(t) for t in tables_digital]
-            table_md = "\n\n".join(md_list)
-            print("-> [✓] Phát hiện Bảng kỹ thuật số từ file PDF!")
-
-        if len(text.strip()) >= 30:
-            lines = [line.strip() for line in text.split('\n') if line.strip()]
-            confidences = [1.0] * len(lines)
-            
-            # Nếu chưa bóc được bảng từ pdfplumber, thử render trang PDF thành ảnh để chạy EasyOCR + OpenCV Table Detector
-            if not table_md:
-                pdf_images = render_pdf_to_images(file_path)
-                if pdf_images:
-                    reader = get_ocr_reader()
-                    all_tables_md = []
-                    structured_tables = []
-                    for idx, img in enumerate(pdf_images):
-                        raw = reader.readtext(img, text_threshold=0.4, low_text=0.2)
-                        t_matrix, found, struct_t = extract_table_from_raw_results(raw, image=img)
-                        if found:
-                            all_tables_md.append(format_table_to_markdown(t_matrix))
-                            struct_t['page'] = idx + 1
-                            structured_tables.append(struct_t)
-                    if all_tables_md:
-                        table_md = "\n\n".join(all_tables_md)
-                        print("-> [✓] Phát hiện Bảng từ hình ảnh trang PDF!")
-
-            return lines, confidences, table_md, structured_tables
-        else:
-            print("-> PDF dạng scan/hình ảnh, cần chạy OCR ảnh...")
-            pdf_images = render_pdf_to_images(file_path)
-            if pdf_images:
-                reader = get_ocr_reader()
-                raw_results = reader.readtext(pdf_images[0], text_threshold=0.4, low_text=0.2)
-                lines, confidences = group_results_by_line(raw_results, y_tolerance=20)
-                t_matrix, found, struct_t = extract_table_from_raw_results(raw_results, image=pdf_images[0])
-                table_md = format_table_to_markdown(t_matrix) if found else ""
-                structured_tables = [struct_t] if found else []
-                return lines, confidences, table_md, structured_tables
-            return (["(PDF dạng scan cần sử dụng OCR ảnh)"], [0.5], "", [])
-    elif ext in ['.png', '.jpg', '.jpeg', '.webp', '.bmp']:
-        return ocr_single_image(file_path)
-    else:
-        print(f"Định dạng file {ext} không hỗ trợ.")
-        return [], [], "", []
 
 def process_category_ocr(cat_key: str):
     """
-    Thực hiện OCR cho các tài liệu thuộc 1 danh mục cụ thể và lưu vào thư mục output tương ứng.
+    Thực hiện đọc & trích xuất cho các tài liệu thuộc 1 danh mục cụ thể và lưu vào thư mục output.
     """
     cat_code, cat_name, folder_path = CATEGORIES[cat_key]
     
     print(f"\n" + "=" * 60)
-    print(f"  THỰC HIỆN OCR CHO DANH MỤC: {cat_name.upper()}")
+    print(f"  TRÍCH XUẤT TÀI LIỆU DANH MỤC: {cat_name.upper()}")
     print(f"  Thư mục tài liệu gốc: {folder_path}")
     print("=" * 60)
     
     if not os.path.exists(folder_path):
         os.makedirs(folder_path, exist_ok=True)
         
-    supported_exts = ('.pdf', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
+    supported_exts = ('.pdf', '.docx', '.xlsx', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
     files = [f for f in os.listdir(folder_path) if f.lower().endswith(supported_exts)]
     
     if not files:
@@ -223,38 +161,54 @@ def process_category_ocr(cat_key: str):
     for f in selected_files:
         file_path = os.path.join(folder_path, f)
         print(f"\n>>> Đang xử lý file: {f}")
-        lines, confidences, table_md, struct_tables = process_file_ocr(file_path)
+        doc_result = process_file_ocr(file_path)
         
-        metrics = evaluate_text_accuracy(lines, line_confidences=confidences)
-        eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ ĐỘ CHÍNH XÁC: {f}")
+        full_text = doc_result.get("full_text", "")
+        lines = [l for l in full_text.splitlines() if l.strip()]
+        
+        all_confs = []
+        for pg in doc_result.get("pages", []):
+            confs = pg.get("confidences", [])
+            if confs:
+                all_confs.extend(confs)
+
+        metrics = evaluate_text_accuracy(lines, line_confidences=all_confs if all_confs else None)
+        eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ TRÍCH XUẤT: {f}")
         
         print(f"\n--- KẾT QUẢ VĂN BẢN TRÍCH XUẤT ({f}) ---")
-        for i, (l, conf) in enumerate(zip(lines, confidences), 1):
-            print(format_line(i, conf, l))
+        print(full_text)
             
-        if table_md:
+        tables = doc_result.get("tables", [])
+        if tables:
             print("\n--- BẢNG PHÁT HIỆN ĐƯỢC (TABLE STRUCTURE) ---")
-            print(table_md)
+            for t_idx, tbl in enumerate(tables, 1):
+                print(f"\n[Bảng {t_idx} - Trang {tbl.get('page', 1)}]")
+                print(tbl.get("markdown", ""))
 
         print("\n" + eval_report)
         
-        out_txt, out_json = save_ocr_output(f, cat_code, lines, confidences, eval_report, table_md, struct_tables)
+        out_txt, out_json = save_ocr_output(f, cat_code, doc_result, eval_report)
         saved_paths.append(out_txt)
         print(f"[✓] Đã lưu file TXT: '{out_txt}'")
-        print(f"[✓] Đã lưu file JSON (Cấu trúc Bảng & Bounding Box): '{out_json}'")
+        print(f"[✓] Đã lưu file JSON (Cấu trúc mở rộng & Bảng): '{out_json}'")
         
-    print(f"\n=> HOÀN THÀNH OCR! Tất cả kết quả đã lưu vào thư mục 'output/{cat_code}/'")
+    print(f"\n=> HOÀN THÀNH TRÍCH XUẤT! Tất cả kết quả đã lưu vào thư mục 'output/{cat_code}/'")
 
 def process_custom_image():
     """
-    Đọc OCR cho một file ảnh tùy chỉnh và lưu vào folder output tương ứng.
+    Đọc trích xuất một file bất kỳ (PDF, DOCX, XLSX, Ảnh) và lưu vào folder output tương ứng.
     """
-    path = input("\nNhập đường dẫn file ảnh (mặc định 'image/1.png'): ").strip()
+    path = input("\nNhập đường dẫn file (ví dụ 'input/6.png' hoặc chọn Enter để dùng mặc định): ").strip()
     if not path:
-        path = "image/1.png"
-        
+        if os.path.exists("input/6.png"):
+            path = "input/6.png"
+        elif os.path.exists("image/1.png"):
+            path = "image/1.png"
+        else:
+            path = "input"
+
     if not os.path.exists(path):
-        print(f"File hoặc đường dẫn '{path}' không tồn tại!")
+        print(f"⚠️ File hoặc đường dẫn '{path}' không tồn tại!")
         return
         
     filename = os.path.basename(path)
@@ -262,23 +216,34 @@ def process_custom_image():
     if cat_code == "khac":
         cat_code = "khac"
 
-    lines, confidences, table_md, struct_tables = ocr_single_image(path)
-    metrics = evaluate_text_accuracy(lines, line_confidences=confidences)
-    eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ ĐỘ CHÍNH XÁC: {filename}")
+    doc_result = process_file_ocr(path)
+    full_text = doc_result.get("full_text", "")
+    lines = [l for l in full_text.splitlines() if l.strip()]
+
+    all_confs = []
+    for pg in doc_result.get("pages", []):
+        confs = pg.get("confidences", [])
+        if confs:
+            all_confs.extend(confs)
+
+    metrics = evaluate_text_accuracy(lines, line_confidences=all_confs if all_confs else None)
+    eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ TRÍCH XUẤT: {filename}")
     
     print(f"\n--- KẾT QUẢ ĐỌC VĂN BẢN: {filename} ---")
-    for i, (l, conf_val) in enumerate(zip(lines, confidences), 1):
-        print(format_line(i, conf_val, l))
+    print(full_text)
 
-    if table_md:
+    tables = doc_result.get("tables", [])
+    if tables:
         print("\n--- BẢNG PHÁT HIỆN ĐƯỢC (TABLE STRUCTURE) ---")
-        print(table_md)
+        for t_idx, tbl in enumerate(tables, 1):
+            print(f"\n[Bảng {t_idx} - Trang {tbl.get('page', 1)}]")
+            print(tbl.get("markdown", ""))
 
     print("\n" + eval_report)
     
-    out_txt, out_json = save_ocr_output(filename, cat_code, lines, confidences, eval_report, table_md, struct_tables)
+    out_txt, out_json = save_ocr_output(filename, cat_code, doc_result, eval_report)
     print(f"\n[✓] Đã lưu file TXT: '{out_txt}'")
-    print(f"[✓] Đã lưu file JSON (Cấu trúc Bảng & Bounding Box): '{out_json}'")
+    print(f"[✓] Đã lưu file JSON: '{out_json}'")
 
 def run_ground_truth_evaluation():
     """
@@ -323,11 +288,20 @@ def run_ground_truth_evaluation():
 
 def run_all_categories_ocr():
     """
-    Tự động chạy OCR cho tất cả các tài liệu đã phân loại trong các thư mục con của 'doc'.
+    Tự động kiểm tra thư mục 'input' & 'doc', phân loại các tài liệu chưa phân loại và chạy trích xuất toàn bộ.
     """
     print("\n" + "=" * 60)
-    print("  CHẠY OCR CHO TẤT CẢ CÁC TÀI LIỆU ĐÃ PHÂN LOẠI")
+    print("  CHẠY TRÍCH XUẤT CHO TẤT CẢ CÁC TÀI LIỆU")
     print("=" * 60)
+
+    # 1. Kiểm tra và tự động phân loại các file trong thư mục input nếu có
+    if os.path.exists(INPUT_BASE_DIR):
+        supported_exts = ('.pdf', '.docx', '.xlsx', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
+        input_files = [f for f in os.listdir(INPUT_BASE_DIR) if os.path.isfile(os.path.join(INPUT_BASE_DIR, f)) and f.lower().endswith(supported_exts)]
+        if input_files:
+            print(f"[Input] Phát hiện {len(input_files)} tài liệu trong thư mục '{INPUT_BASE_DIR}'. Tiến hành phân loại vào 'doc/'...")
+            organize_documents(INPUT_BASE_DIR, DOC_BASE_DIR)
+
     
     total_processed = 0
     for key in ["1", "2", "3", "4"]:
@@ -335,7 +309,7 @@ def run_all_categories_ocr():
         if not os.path.exists(folder_path):
             continue
             
-        supported_exts = ('.pdf', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
+        supported_exts = ('.pdf', '.docx', '.xlsx', '.png', '.jpg', '.jpeg', '.webp', '.bmp')
         files = [f for f in os.listdir(folder_path) if f.lower().endswith(supported_exts)]
         
         if not files:
@@ -344,12 +318,22 @@ def run_all_categories_ocr():
         print(f"\n--- Đang xử lý danh mục [{cat_name}] ({len(files)} file) ---")
         for f in files:
             file_path = os.path.join(folder_path, f)
-            lines, confidences, table_md, struct_tables = process_file_ocr(file_path)
-            metrics = evaluate_text_accuracy(lines, line_confidences=confidences)
-            eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ ĐỘ CHÍNH XÁC: {f}")
+            doc_result = process_file_ocr(file_path)
+
+            full_text = doc_result.get("full_text", "")
+            lines = [l for l in full_text.splitlines() if l.strip()]
+
+            all_confs = []
+            for pg in doc_result.get("pages", []):
+                confs = pg.get("confidences", [])
+                if confs:
+                    all_confs.extend(confs)
+
+            metrics = evaluate_text_accuracy(lines, line_confidences=all_confs if all_confs else None)
+            eval_report = print_evaluation_report(metrics, title=f"ĐÁNH GIÁ TRÍCH XUẤT: {f}")
             
-            out_txt, out_json = save_ocr_output(f, cat_code, lines, confidences, eval_report, table_md, struct_tables)
-            print(f"[✓] Đã OCR '{f}' -> TXT: '{out_txt}', JSON: '{out_json}'")
+            out_txt, out_json = save_ocr_output(f, cat_code, doc_result, eval_report)
+            print(f"[✓] Đã xử lý '{f}' -> TXT: '{out_txt}', JSON: '{out_json}'")
             total_processed += 1
             
     print(f"\n=> TỔNG CỘNG ĐÃ OCR HOÀN TẤT {total_processed} FILE! Kết quả được lưu tại thư mục 'output/'.")
@@ -388,7 +372,7 @@ def auto_classify():
     print("TỰ ĐỘNG PHÂN LOẠI FILE")
     print("=" * 60)
 
-    supported_exts = (".pdf", ".png", ".jpg", ".jpeg", ".webp", ".bmp")
+    supported_exts = (".pdf", ".docx", ".xlsx", ".png", ".jpg", ".jpeg", ".webp", ".bmp")
 
     def get_files(folder):
         if not os.path.exists(folder):

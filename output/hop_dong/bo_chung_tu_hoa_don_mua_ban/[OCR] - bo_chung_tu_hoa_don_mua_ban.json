@@ -1,935 +1,1691 @@
 {
   "original_filename": "bo_chung_tu_hoa_don_mua_ban.pdf",
   "category": "hop_dong",
+  "document_type": "pdf",
+  "source_type": "pdf_text",
+  "extraction_method": "native_text",
   "has_table": true,
-  "ocr_lines": [
-    {
-      "index": 1,
-      "text": "TÂN THỊNH PHÁT CORP",
-      "confidence": 100.0
-    },
-    {
-      "index": 2,
-      "text": "Số: 08/2026/BBBG-TTP",
-      "confidence": 100.0
-    },
-    {
-      "index": 3,
-      "text": "V/v: Bàn giao thiết bị hạ tầng CNTT",
-      "confidence": 100.0
-    },
-    {
-      "index": 4,
-      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
-      "confidence": 100.0
-    },
-    {
-      "index": 5,
-      "text": "Độc lập – Tự do – Hạnh phúc",
-      "confidence": 100.0
-    },
-    {
-      "index": 6,
-      "text": "BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN",
-      "confidence": 100.0
-    },
-    {
-      "index": 7,
-      "text": "(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
-      "confidence": 100.0
-    },
-    {
-      "index": 8,
-      "text": "Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai",
-      "confidence": 100.0
-    },
-    {
-      "index": 9,
-      "text": "bên gồm có:",
-      "confidence": 100.0
-    },
-    {
-      "index": 10,
-      "text": "BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
-      "confidence": 100.0
-    },
-    {
-      "index": 11,
-      "text": "Đại diện : Ông Nguyễn Văn Hùng      Chức vụ: Tổng Giám đốc",
-      "confidence": 100.0
-    },
-    {
-      "index": 12,
-      "text": "Cán bộ kỹ thuật bàn giao: Ông Lê Hoàng Nam      Chức vụ: Trưởng phòng Kỹ thuật",
-      "confidence": 100.0
-    },
-    {
-      "index": 13,
-      "text": "BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
-      "confidence": 100.0
-    },
-    {
-      "index": 14,
-      "text": "Đại diện : Bà Trần Thị Minh Phương      Chức vụ: Giám đốc Điều hành",
-      "confidence": 100.0
-    },
-    {
-      "index": 15,
-      "text": "Cán bộ kỹ thuật tiếp nhận: Ông Vũ Tuấn Anh      Chức vụ: Trưởng phòng Hạ tầng CNTT",
-      "confidence": 100.0
-    },
-    {
-      "index": 16,
-      "text": "Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:",
-      "confidence": 100.0
-    },
-    {
-      "index": 17,
-      "text": "STT Tên thiết bị / Tài sản Ký hiệu / Số Serial (S/N)ĐVT SL Tình trạng thực tế",
-      "confidence": 100.0
-    },
-    {
-      "index": 18,
-      "text": "01 Máy chủ Dell PowerEdge R760",
-      "confidence": 100.0
-    },
-    {
-      "index": 19,
-      "text": "2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
-      "confidence": 100.0
-    },
-    {
-      "index": 20,
-      "text": "S/N: CN-0H987G-71623",
-      "confidence": 100.0
-    },
-    {
-      "index": 21,
-      "text": "S/N: CN-0H987G-71624 Bộ 02",
-      "confidence": 100.0
-    },
-    {
-      "index": 22,
-      "text": "Mới 100%, nguyên seal,",
-      "confidence": 100.0
-    },
-    {
-      "index": 23,
-      "text": "chạy test PASS, đủ phụ",
-      "confidence": 100.0
-    },
-    {
-      "index": 24,
-      "text": "kiện ray-kit",
-      "confidence": 100.0
-    },
-    {
-      "index": 25,
-      "text": "02 Hệ thống SAN Dell ME5024",
-      "confidence": 100.0
-    },
-    {
-      "index": 26,
-      "text": "Dual FC 16G, 24x 2.4TB SAS 10KS/N: DL-ME5024-88902 Hệ 01",
-      "confidence": 100.0
-    },
-    {
-      "index": 27,
-      "text": "Mới 100%, hoạt động ổn",
-      "confidence": 100.0
-    },
-    {
-      "index": 28,
-      "text": "định, phân vùng RAID sẵn",
-      "confidence": 100.0
-    },
-    {
-      "index": 29,
-      "text": "sàng",
-      "confidence": 100.0
-    },
-    {
-      "index": 30,
-      "text": "03 Switch Cisco Nexus 9300",
-      "confidence": 100.0
-    },
-    {
-      "index": 31,
-      "text": "48x 10/25G SFP28 + 6x 100G QSFP28",
-      "confidence": 100.0
-    },
-    {
-      "index": 32,
-      "text": "S/N: FOC24480A12",
-      "confidence": 100.0
-    },
-    {
-      "index": 33,
-      "text": "S/N: FOC24480A13 Cái 02 Mới 100%, cổng kết nối đạt",
-      "confidence": 100.0
-    },
-    {
-      "index": 34,
-      "text": "chuẩn tốc độ",
-      "confidence": 100.0
-    },
-    {
-      "index": 35,
-      "text": "Hồ sơ, chứng từ kèm theo:",
-      "confidence": 100.0
-    },
-    {
-      "index": 36,
-      "text": "01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).",
-      "confidence": 100.0
-    },
-    {
-      "index": 37,
-      "text": "03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.",
-      "confidence": 100.0
-    },
-    {
-      "index": 38,
-      "text": "Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.",
-      "confidence": 100.0
-    },
-    {
-      "index": 39,
-      "text": "Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh",
-      "confidence": 100.0
-    },
-    {
-      "index": 40,
-      "text": "lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.",
-      "confidence": 100.0
-    },
-    {
-      "index": 41,
-      "text": "KỸ THUẬT BÊN GIAO",
-      "confidence": 100.0
-    },
-    {
-      "index": 42,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 43,
-      "text": "Lê Hoàng Nam",
-      "confidence": 100.0
-    },
-    {
-      "index": 44,
-      "text": "KỸ THUẬT BÊN NHẬN",
-      "confidence": 100.0
-    },
-    {
-      "index": 45,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 46,
-      "text": "Vũ Tuấn Anh",
-      "confidence": 100.0
-    },
-    {
-      "index": 47,
-      "text": "ĐẠI DIỆN BÊN GIAO (A)",
-      "confidence": 100.0
-    },
-    {
-      "index": 48,
-      "text": "(Ký, họ tên, đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 49,
-      "text": "Nguyễn Văn Hùng",
-      "confidence": 100.0
-    },
-    {
-      "index": 50,
-      "text": "ĐẠI DIỆN BÊN NHẬN (B)",
-      "confidence": 100.0
-    },
-    {
-      "index": 51,
-      "text": "(Ký, họ tên, đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 52,
-      "text": "Trần Thị Minh Phương",
-      "confidence": 100.0
-    },
-    {
-      "index": 53,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 54,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 55,
-      "text": "•",
-      "confidence": 100.0
-    },
-    {
-      "index": 56,
-      "text": "Trang 1 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 57,
-      "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 58,
-      "text": "(HÓA ĐƠN ĐIỆN TỬ)",
-      "confidence": 100.0
-    },
-    {
-      "index": 59,
-      "text": "Ngày 28 tháng 08 năm 2026",
-      "confidence": 100.0
-    },
-    {
-      "index": 60,
-      "text": "Mẫu số: 1/001",
-      "confidence": 100.0
-    },
-    {
-      "index": 61,
-      "text": "Ký hiệu: C26TTP",
-      "confidence": 100.0
-    },
-    {
-      "index": 62,
-      "text": "Số hóa đơn:0001589",
-      "confidence": 100.0
-    },
-    {
-      "index": 63,
-      "text": "Mã CQT: 00E9F8A172B3802",
-      "confidence": 100.0
-    },
-    {
-      "index": 64,
-      "text": "I. ĐƠN VỊ BÁN HÀNG (SELLER)",
-      "confidence": 100.0
-    },
-    {
-      "index": 65,
-      "text": "Tên đơn vị bán : CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
-      "confidence": 100.0
-    },
-    {
-      "index": 66,
-      "text": "Mã số thuế : 0108998877",
-      "confidence": 100.0
-    },
-    {
-      "index": 67,
-      "text": "Địa chỉ : Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà",
-      "confidence": 100.0
-    },
-    {
-      "index": 68,
-      "text": "Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 69,
-      "text": "Số tài khoản ngân hàng: 19034567890011 tại Techcombank - Chi nhánh Thăng Long",
-      "confidence": 100.0
-    },
-    {
-      "index": 70,
-      "text": "II. ĐƠN VỊ MUA HÀNG (BUYER)",
-      "confidence": 100.0
-    },
-    {
-      "index": 71,
-      "text": "Tên đơn vị mua : CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
-      "confidence": 100.0
-    },
-    {
-      "index": 72,
-      "text": "Mã số thuế : 0109112233",
-      "confidence": 100.0
-    },
-    {
-      "index": 73,
-      "text": "Địa chỉ : Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 74,
-      "text": "Hình thức thanh toán: Chuyển khoản (TM/CK)        Số hợp đồng: 08/2026/HĐMB-TS",
-      "confidence": 100.0
-    },
-    {
-      "index": 75,
-      "text": "STT Tên hàng hóa, dịch vụ ĐVT SL Đơn giá (VNĐ) Thành tiền (VNĐ)",
-      "confidence": 100.0
-    },
-    {
-      "index": 76,
-      "text": "1 Hệ thống Máy chủ Dell PowerEdge R760Bộ 02 385.000.000 770.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 77,
-      "text": "2 Thiết bị lưu trữ SAN Storage Dell ME5024Hệ 01 450.000.000 450.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 78,
-      "text": "3 Thiết bị switch Cisco Nexus 9300 Cái 02 90.000.000 180.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 79,
-      "text": "Cộng tiền hàng (chưa có thuế GTGT):1.400.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 80,
-      "text": "Thuế suất GTGT: 10% | Tiền thuế GTGT: 140.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 81,
-      "text": "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM V AT):1.540.000.000",
-      "confidence": 100.0
-    },
-    {
-      "index": 82,
-      "text": "Số tiền viết bằng chữ:Một tỷ năm trăm bốn mươi triệu đồng chẵn.",
-      "confidence": 100.0
-    },
-    {
-      "index": 83,
-      "text": "NGƯỜI MUA HÀNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 84,
-      "text": "(Ký, ghi rõ họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 85,
-      "text": "Trần Thị Minh Phương",
-      "confidence": 100.0
-    },
-    {
-      "index": 86,
-      "text": "QR Code",
-      "confidence": 100.0
-    },
-    {
-      "index": 87,
-      "text": "Tra cứu",
-      "confidence": 100.0
-    },
-    {
-      "index": 88,
-      "text": "NGƯỜI BÁN HÀNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 89,
-      "text": "(Chữ ký số điện tử hợp lệ)",
-      "confidence": 100.0
-    },
-    {
-      "index": 90,
-      "text": "Signature Valid",
-      "confidence": 100.0
-    },
-    {
-      "index": 91,
-      "text": "Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ",
-      "confidence": 100.0
-    },
-    {
-      "index": 92,
-      "text": "TÂN THỊNH PHÁT",
-      "confidence": 100.0
-    },
-    {
-      "index": 93,
-      "text": "Ngày ký: 28/08/2026 14:35:10",
-      "confidence": 100.0
-    },
-    {
-      "index": 94,
-      "text": "Trang 2 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 95,
-      "text": "TÂN THỊNH PHÁT CORP",
-      "confidence": 100.0
-    },
-    {
-      "index": 96,
-      "text": "Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)",
-      "confidence": 100.0
-    },
-    {
-      "index": 97,
-      "text": "Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)",
-      "confidence": 100.0
-    },
-    {
-      "index": 98,
-      "text": "PHIẾU XUẤT KHO",
-      "confidence": 100.0
-    },
-    {
-      "index": 99,
-      "text": "Số PXK: XK-2026/0882",
-      "confidence": 100.0
-    },
-    {
-      "index": 100,
-      "text": "Ngày 28/08/2026",
-      "confidence": 100.0
-    },
-    {
-      "index": 101,
-      "text": "PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ",
-      "confidence": 100.0
-    },
-    {
-      "index": 102,
-      "text": "(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)",
-      "confidence": 100.0
-    },
-    {
-      "index": 103,
-      "text": "Họ tên người nhận hàng: Ông Vũ Tuấn Anh      Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu",
-      "confidence": 100.0
-    },
-    {
-      "index": 104,
-      "text": "Lý do xuất kho : Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS",
-      "confidence": 100.0
-    },
-    {
-      "index": 105,
-      "text": "Địa điểm giao nhận : Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội",
-      "confidence": 100.0
-    },
-    {
-      "index": 106,
-      "text": "STT Tên, nhãn hiệu, quy cách phẩm chất vật",
-      "confidence": 100.0
-    },
-    {
-      "index": 107,
-      "text": "tư Mã số ĐVT",
-      "confidence": 100.0
-    },
-    {
-      "index": 108,
-      "text": "Số lượng",
-      "confidence": 100.0
-    },
-    {
-      "index": 109,
-      "text": "Thời hạn bảo hànhYêu",
-      "confidence": 100.0
-    },
-    {
-      "index": 110,
-      "text": "cầu",
-      "confidence": 100.0
-    },
-    {
-      "index": 111,
-      "text": "Thực",
-      "confidence": 100.0
-    },
-    {
-      "index": 112,
-      "text": "xuất",
-      "confidence": 100.0
-    },
-    {
-      "index": 113,
-      "text": "1 Hệ thống Server Dell PowerEdge R760",
-      "confidence": 100.0
-    },
-    {
-      "index": 114,
-      "text": "(Dual Xeon) SRV-R760 Bộ 02 02 36 tháng (đến 28/08/2029)",
-      "confidence": 100.0
-    },
-    {
-      "index": 115,
-      "text": "2 Thiết bị lưu trữ SAN Dell PowerVault",
-      "confidence": 100.0
-    },
-    {
-      "index": 116,
-      "text": "ME5024",
-      "confidence": 100.0
-    },
-    {
-      "index": 117,
-      "text": "SAN-",
-      "confidence": 100.0
-    },
-    {
-      "index": 118,
-      "text": "ME5024 Hệ 01 01 36 tháng (đến 28/08/2029)",
-      "confidence": 100.0
-    },
-    {
-      "index": 119,
-      "text": "3 Switch mạng Core Cisco Nexus 9300SW-N9300 Cái 02 02 36 tháng (đến 28/08/2029)",
-      "confidence": 100.0
-    },
-    {
-      "index": 120,
-      "text": "Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị",
-      "confidence": 100.0
-    },
-    {
-      "index": 121,
-      "text": "không có dấu hiệu móp méo, trầy xước.",
-      "confidence": 100.0
-    },
-    {
-      "index": 122,
-      "text": "NGƯỜI LẬP PHIẾU",
-      "confidence": 100.0
-    },
-    {
-      "index": 123,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 124,
-      "text": "Phạm Thu Trang",
-      "confidence": 100.0
-    },
-    {
-      "index": 125,
-      "text": "NGƯỜI NHẬN HÀNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 126,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 127,
-      "text": "Vũ Tuấn Anh",
-      "confidence": 100.0
-    },
-    {
-      "index": 128,
-      "text": "THỦ KHO",
-      "confidence": 100.0
-    },
-    {
-      "index": 129,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 130,
-      "text": "Đặng Quốc Bảo",
-      "confidence": 100.0
-    },
-    {
-      "index": 131,
-      "text": "KẾ TOÁN TRƯỞNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 132,
-      "text": "(Ký, họ tên)",
-      "confidence": 100.0
-    },
-    {
-      "index": 133,
-      "text": "Hoàng Bích Ngọc",
-      "confidence": 100.0
-    },
-    {
-      "index": 134,
-      "text": "GIÁM ĐỐC",
-      "confidence": 100.0
-    },
-    {
-      "index": 135,
-      "text": "(Ký, đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 136,
-      "text": "Nguyễn Văn Hùng",
-      "confidence": 100.0
-    },
-    {
-      "index": 137,
-      "text": "Trang 3 / 4",
-      "confidence": 100.0
-    },
-    {
-      "index": 138,
-      "text": "TÂN THỊNH PHÁT CORP",
-      "confidence": 100.0
-    },
-    {
-      "index": 139,
-      "text": "Số: 08/2026/BBTL-TS",
-      "confidence": 100.0
-    },
-    {
-      "index": 140,
-      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
-      "confidence": 100.0
-    },
-    {
-      "index": 141,
-      "text": "Độc lập – Tự do – Hạnh phúc",
-      "confidence": 100.0
-    },
-    {
-      "index": 142,
-      "text": "BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN",
-      "confidence": 100.0
-    },
-    {
-      "index": 143,
-      "text": "(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
-      "confidence": 100.0
-    },
-    {
-      "index": 144,
-      "text": "Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:",
-      "confidence": 100.0
-    },
-    {
-      "index": 145,
-      "text": "BÊN A (BÊN BÁN)",
-      "confidence": 100.0
-    },
-    {
-      "index": 146,
-      "text": "CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH",
-      "confidence": 100.0
-    },
-    {
-      "index": 147,
-      "text": "PHÁT",
-      "confidence": 100.0
-    },
-    {
-      "index": 148,
-      "text": "Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc",
-      "confidence": 100.0
-    },
-    {
-      "index": 149,
-      "text": "MST: 0108998877",
-      "confidence": 100.0
-    },
-    {
-      "index": 150,
-      "text": "BÊN B (BÊN MUA)",
-      "confidence": 100.0
-    },
-    {
-      "index": 151,
-      "text": "CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
-      "confidence": 100.0
-    },
-    {
-      "index": 152,
-      "text": "Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH",
-      "confidence": 100.0
-    },
-    {
-      "index": 153,
-      "text": "MST: 0109112233",
-      "confidence": 100.0
-    },
-    {
-      "index": 154,
-      "text": "Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:",
-      "confidence": 100.0
-    },
-    {
-      "index": 155,
-      "text": "Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số",
-      "confidence": 100.0
-    },
-    {
-      "index": 156,
-      "text": "lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.",
-      "confidence": 100.0
-    },
-    {
-      "index": 157,
-      "text": "Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày",
-      "confidence": 100.0
-    },
-    {
-      "index": 158,
-      "text": "28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% V AT).",
-      "confidence": 100.0
-    },
-    {
-      "index": 159,
-      "text": "Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua",
-      "confidence": 100.0
-    },
-    {
-      "index": 160,
-      "text": "hệ thống ngân hàng:",
-      "confidence": 100.0
-    },
-    {
-      "index": 161,
-      "text": "Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).",
-      "confidence": 100.0
-    },
-    {
-      "index": 162,
-      "text": "Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).",
-      "confidence": 100.0
-    },
-    {
-      "index": 163,
-      "text": "Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).",
-      "confidence": 100.0
-    },
-    {
-      "index": 164,
-      "text": "Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày",
-      "confidence": 100.0
-    },
-    {
-      "index": 165,
-      "text": "28/08/2029 theo cam kết tại Hợp đồng gốc.",
-      "confidence": 100.0
-    },
-    {
-      "index": 166,
-      "text": "Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số",
-      "confidence": 100.0
-    },
-    {
-      "index": 167,
-      "text": "08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.",
-      "confidence": 100.0
-    },
-    {
-      "index": 168,
-      "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)",
-      "confidence": 100.0
-    },
-    {
-      "index": 169,
-      "text": "(Ký, họ tên và đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 170,
-      "text": "NGUYỄN VĂN HÙNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 171,
-      "text": "Tổng Giám đốc",
-      "confidence": 100.0
-    },
-    {
-      "index": 172,
-      "text": "ĐẠI DIỆN BÊN MUA (BÊN B)",
-      "confidence": 100.0
-    },
-    {
-      "index": 173,
-      "text": "(Ký, họ tên và đóng dấu)",
-      "confidence": 100.0
-    },
-    {
-      "index": 174,
-      "text": "TRẦN THỊ MINH PHƯƠNG",
-      "confidence": 100.0
-    },
-    {
-      "index": 175,
-      "text": "Giám đốc Điều hành",
-      "confidence": 100.0
-    },
-    {
-      "index": 176,
-      "text": "1.",
-      "confidence": 100.0
-    },
-    {
-      "index": 177,
-      "text": "2.",
-      "confidence": 100.0
-    },
-    {
-      "index": 178,
-      "text": "3.",
-      "confidence": 100.0
-    },
-    {
-      "index": 179,
-      "text": "◦",
-      "confidence": 100.0
-    },
-    {
-      "index": 180,
-      "text": "◦",
-      "confidence": 100.0
-    },
-    {
-      "index": 181,
-      "text": "◦",
-      "confidence": 100.0
-    },
-    {
-      "index": 182,
-      "text": "4.",
-      "confidence": 100.0
-    },
-    {
-      "index": 183,
-      "text": "5.",
-      "confidence": 100.0
-    },
-    {
-      "index": 184,
-      "text": "Trang 4 / 4",
-      "confidence": 100.0
-    }
-  ],
-  "tables": [
+  "total_pages": 4,
+  "pages": [
     {
       "page": 1,
+      "method": "native_text",
+      "confidence": null,
+      "text": "TÂN THỊNH PHÁT CORP\nSố: 08/2026/BBBG-TTP\nV/v: Bàn giao thiết bị hạ tầng CNTT\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nBIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN\n(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)\nHôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai\nbên gồm có:\nBÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nĐại diện\n: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc\nCán bộ kỹ thuật bàn giao\n: Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật\nBÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nĐại diện\n: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành\nCán bộ kỹ thuật tiếp nhận\n: Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT\nHai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:\nSTT\nTên thiết bị / Tài sản\nKý hiệu / Số Serial (S/N)\nĐVT\nSL\nTình trạng thực tế\n01\nMáy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB\nS/N: CN-0H987G-71623\nS/N: CN-0H987G-71624\nBộ\n02\nMới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit\n02\nHệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K\nS/N: DL-ME5024-88902\nHệ\n01\nMới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng\n03\nSwitch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28\nS/N: FOC24480A12\nS/N: FOC24480A13\nCái\n02\nMới 100%, cổng kết nối đạt\nchuẩn tốc độ\nHồ sơ, chứng từ kèm theo:\n01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).\n03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.\nBộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.\nKết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh\nlên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.\nKỸ THUẬT BÊN GIAO\n(Ký, họ tên)\nLê Hoàng Nam\nKỸ THUẬT BÊN NHẬN\n(Ký, họ tên)\nVũ Tuấn Anh\nĐẠI DIỆN BÊN GIAO (A)\n(Ký, họ tên, đóng dấu)\nNguyễn Văn Hùng\nĐẠI DIỆN BÊN NHẬN (B)\n(Ký, họ tên, đóng dấu)\nTrần Thị Minh Phương\n•\n•\n•\nTrang 1 / 4",
+      "lines": [
+        "TÂN THỊNH PHÁT CORP",
+        "Số: 08/2026/BBBG-TTP",
+        "V/v: Bàn giao thiết bị hạ tầng CNTT",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập – Tự do – Hạnh phúc",
+        "BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN",
+        "(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
+        "Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai",
+        "bên gồm có:",
+        "BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+        "Đại diện",
+        ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc",
+        "Cán bộ kỹ thuật bàn giao",
+        ": Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật",
+        "BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+        "Đại diện",
+        ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành",
+        "Cán bộ kỹ thuật tiếp nhận",
+        ": Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT",
+        "Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:",
+        "STT",
+        "Tên thiết bị / Tài sản",
+        "Ký hiệu / Số Serial (S/N)",
+        "ĐVT",
+        "SL",
+        "Tình trạng thực tế",
+        "01",
+        "Máy chủ Dell PowerEdge R760",
+        "2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+        "S/N: CN-0H987G-71623",
+        "S/N: CN-0H987G-71624",
+        "Bộ",
+        "02",
+        "Mới 100%, nguyên seal,",
+        "chạy test PASS, đủ phụ",
+        "kiện ray-kit",
+        "02",
+        "Hệ thống SAN Dell ME5024",
+        "Dual FC 16G, 24x 2.4TB SAS 10K",
+        "S/N: DL-ME5024-88902",
+        "Hệ",
+        "01",
+        "Mới 100%, hoạt động ổn",
+        "định, phân vùng RAID sẵn",
+        "sàng",
+        "03",
+        "Switch Cisco Nexus 9300",
+        "48x 10/25G SFP28 + 6x 100G QSFP28",
+        "S/N: FOC24480A12",
+        "S/N: FOC24480A13",
+        "Cái",
+        "02",
+        "Mới 100%, cổng kết nối đạt",
+        "chuẩn tốc độ",
+        "Hồ sơ, chứng từ kèm theo:",
+        "01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).",
+        "03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.",
+        "Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.",
+        "Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh",
+        "lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.",
+        "KỸ THUẬT BÊN GIAO",
+        "(Ký, họ tên)",
+        "Lê Hoàng Nam",
+        "KỸ THUẬT BÊN NHẬN",
+        "(Ký, họ tên)",
+        "Vũ Tuấn Anh",
+        "ĐẠI DIỆN BÊN GIAO (A)",
+        "(Ký, họ tên, đóng dấu)",
+        "Nguyễn Văn Hùng",
+        "ĐẠI DIỆN BÊN NHẬN (B)",
+        "(Ký, họ tên, đóng dấu)",
+        "Trần Thị Minh Phương",
+        "•",
+        "•",
+        "•",
+        "Trang 1 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "TÂN THỊNH PHÁT CORP"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số: 08/2026/BBBG-TTP"
+        },
+        {
+          "type": "paragraph",
+          "text": "V/v: Bàn giao thiết bị hạ tầng CNTT"
+        },
+        {
+          "type": "heading",
+          "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"
+        },
+        {
+          "type": "paragraph",
+          "text": "Độc lập – Tự do – Hạnh phúc"
+        },
+        {
+          "type": "heading",
+          "text": "BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai"
+        },
+        {
+          "type": "paragraph",
+          "text": "bên gồm có:"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đại diện"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cán bộ kỹ thuật bàn giao"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đại diện"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cán bộ kỹ thuật tiếp nhận"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:"
+        },
+        {
+          "type": "heading",
+          "text": "STT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên thiết bị / Tài sản"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ký hiệu / Số Serial (S/N)"
+        },
+        {
+          "type": "heading",
+          "text": "ĐVT"
+        },
+        {
+          "type": "heading",
+          "text": "SL"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tình trạng thực tế"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "Máy chủ Dell PowerEdge R760"
+        },
+        {
+          "type": "paragraph",
+          "text": "2x Xeon Gold 6430 / 256GB / 4x 1.92TB"
+        },
+        {
+          "type": "heading",
+          "text": "S/N: CN-0H987G-71623"
+        },
+        {
+          "type": "heading",
+          "text": "S/N: CN-0H987G-71624"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bộ"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, nguyên seal,"
+        },
+        {
+          "type": "paragraph",
+          "text": "chạy test PASS, đủ phụ"
+        },
+        {
+          "type": "paragraph",
+          "text": "kiện ray-kit"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ thống SAN Dell ME5024"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dual FC 16G, 24x 2.4TB SAS 10K"
+        },
+        {
+          "type": "heading",
+          "text": "S/N: DL-ME5024-88902"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, hoạt động ổn"
+        },
+        {
+          "type": "paragraph",
+          "text": "định, phân vùng RAID sẵn"
+        },
+        {
+          "type": "paragraph",
+          "text": "sàng"
+        },
+        {
+          "type": "paragraph",
+          "text": "03"
+        },
+        {
+          "type": "paragraph",
+          "text": "Switch Cisco Nexus 9300"
+        },
+        {
+          "type": "paragraph",
+          "text": "48x 10/25G SFP28 + 6x 100G QSFP28"
+        },
+        {
+          "type": "heading",
+          "text": "S/N: FOC24480A12"
+        },
+        {
+          "type": "heading",
+          "text": "S/N: FOC24480A13"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cái"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mới 100%, cổng kết nối đạt"
+        },
+        {
+          "type": "paragraph",
+          "text": "chuẩn tốc độ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hồ sơ, chứng từ kèm theo:"
+        },
+        {
+          "type": "paragraph",
+          "text": "01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q)."
+        },
+        {
+          "type": "paragraph",
+          "text": "03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh"
+        },
+        {
+          "type": "paragraph",
+          "text": "lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật."
+        },
+        {
+          "type": "heading",
+          "text": "KỸ THUẬT BÊN GIAO"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lê Hoàng Nam"
+        },
+        {
+          "type": "heading",
+          "text": "KỸ THUẬT BÊN NHẬN"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vũ Tuấn Anh"
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN GIAO (A)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên, đóng dấu)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nguyễn Văn Hùng"
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN NHẬN (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên, đóng dấu)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trần Thị Minh Phương"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 1 / 4"
+        }
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page": 1,
+          "detection_method": "pdfplumber_digital",
+          "headers": [
+            "STT",
+            "Tên thiết bị / Tài sản",
+            "Ký hiệu / Số Serial (S/N)",
+            "ĐVT",
+            "SL",
+            "Tình trạng thực tế"
+          ],
+          "rows": [
+            [
+              "01",
+              "Máy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+              "S/N: CN-0H987G-71623\nS/N: CN-0H987G-71624",
+              "Bộ",
+              "02",
+              "Mới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit"
+            ],
+            [
+              "02",
+              "Hệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K",
+              "S/N: DL-ME5024-88902",
+              "Hệ",
+              "01",
+              "Mới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng"
+            ],
+            [
+              "03",
+              "Switch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28",
+              "S/N: FOC24480A12\nS/N: FOC24480A13",
+              "Cái",
+              "02",
+              "Mới 100%, cổng kết nối đạt\nchuẩn tốc độ"
+            ]
+          ],
+          "matrix": [
+            [
+              "STT",
+              "Tên thiết bị / Tài sản",
+              "Ký hiệu / Số Serial (S/N)",
+              "ĐVT",
+              "SL",
+              "Tình trạng thực tế"
+            ],
+            [
+              "01",
+              "Máy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+              "S/N: CN-0H987G-71623\nS/N: CN-0H987G-71624",
+              "Bộ",
+              "02",
+              "Mới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit"
+            ],
+            [
+              "02",
+              "Hệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K",
+              "S/N: DL-ME5024-88902",
+              "Hệ",
+              "01",
+              "Mới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng"
+            ],
+            [
+              "03",
+              "Switch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28",
+              "S/N: FOC24480A12\nS/N: FOC24480A13",
+              "Cái",
+              "02",
+              "Mới 100%, cổng kết nối đạt\nchuẩn tốc độ"
+            ]
+          ],
+          "markdown": "| STT | Tên thiết bị / Tài sản                                            | Ký hiệu / Số Serial (S/N)                 | ĐVT | SL  | Tình trạng thực tế                                         |\n| --- | ----------------------------------------------------------------- | ----------------------------------------- | --- | --- | ---------------------------------------------------------- |\n| 01  | Máy chủ Dell PowerEdge R760 2x Xeon Gold 6430 / 256GB / 4x 1.92TB | S/N: CN-0H987G-71623 S/N: CN-0H987G-71624 | Bộ  | 02  | Mới 100%, nguyên seal, chạy test PASS, đủ phụ kiện ray-kit |\n| 02  | Hệ thống SAN Dell ME5024 Dual FC 16G, 24x 2.4TB SAS 10K           | S/N: DL-ME5024-88902                      | Hệ  | 01  | Mới 100%, hoạt động ổn định, phân vùng RAID sẵn sàng       |\n| 03  | Switch Cisco Nexus 9300 48x 10/25G SFP28 + 6x 100G QSFP28         | S/N: FOC24480A12 S/N: FOC24480A13         | Cái | 02  | Mới 100%, cổng kết nối đạt chuẩn tốc độ                    |"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "method": "native_text",
+      "confidence": null,
+      "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG\n(HÓA ĐƠN ĐIỆN TỬ)\nNgày 28 tháng 08 năm 2026\nMẫu số: 1/001\nKý hiệu: C26TTP\nSố hóa đơn: 0001589\nMã CQT: 00E9F8A172B3802\nI. ĐƠN VỊ BÁN HÀNG (SELLER)\nTên đơn vị bán\n: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nMã số thuế\n: 0108998877\nĐịa chỉ\n: Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà\nNội\nSố tài khoản ngân hàng\n: 19034567890011 tại Techcombank - Chi nhánh Thăng Long\nII. ĐƠN VỊ MUA HÀNG (BUYER)\nTên đơn vị mua\n: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nMã số thuế\n: 0109112233\nĐịa chỉ\n: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội\nHình thức thanh toán\n: Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS\nSTT\nTên hàng hóa, dịch vụ\nĐVT\nSL\nĐơn giá (VNĐ)\nThành tiền (VNĐ)\n1\nHệ thống Máy chủ Dell PowerEdge R760\nBộ\n02\n385.000.000\n770.000.000\n2\nThiết bị lưu trữ SAN Storage Dell ME5024\nHệ\n01\n450.000.000\n450.000.000\n3\nThiết bị switch Cisco Nexus 9300\nCái\n02\n90.000.000\n180.000.000\nCộng tiền hàng (chưa có thuế GTGT):\n1.400.000.000\nThuế suất GTGT: 10% | Tiền thuế GTGT:\n140.000.000\nTỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):\n1.540.000.000\nSố tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn.\nNGƯỜI MUA HÀNG\n(Ký, ghi rõ họ tên)\nTrần Thị Minh Phương\nQR Code\nTra cứu\nNGƯỜI BÁN HÀNG\n(Chữ ký số điện tử hợp lệ)\nSignature Valid\nKý bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ\nTÂN THỊNH PHÁT\nNgày ký: 28/08/2026 14:35:10\nTrang 2 / 4",
+      "lines": [
+        "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+        "(HÓA ĐƠN ĐIỆN TỬ)",
+        "Ngày 28 tháng 08 năm 2026",
+        "Mẫu số: 1/001",
+        "Ký hiệu: C26TTP",
+        "Số hóa đơn: 0001589",
+        "Mã CQT: 00E9F8A172B3802",
+        "I. ĐƠN VỊ BÁN HÀNG (SELLER)",
+        "Tên đơn vị bán",
+        ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+        "Mã số thuế",
+        ": 0108998877",
+        "Địa chỉ",
+        ": Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà",
+        "Nội",
+        "Số tài khoản ngân hàng",
+        ": 19034567890011 tại Techcombank - Chi nhánh Thăng Long",
+        "II. ĐƠN VỊ MUA HÀNG (BUYER)",
+        "Tên đơn vị mua",
+        ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+        "Mã số thuế",
+        ": 0109112233",
+        "Địa chỉ",
+        ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
+        "Hình thức thanh toán",
+        ": Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS",
+        "STT",
+        "Tên hàng hóa, dịch vụ",
+        "ĐVT",
+        "SL",
+        "Đơn giá (VNĐ)",
+        "Thành tiền (VNĐ)",
+        "1",
+        "Hệ thống Máy chủ Dell PowerEdge R760",
+        "Bộ",
+        "02",
+        "385.000.000",
+        "770.000.000",
+        "2",
+        "Thiết bị lưu trữ SAN Storage Dell ME5024",
+        "Hệ",
+        "01",
+        "450.000.000",
+        "450.000.000",
+        "3",
+        "Thiết bị switch Cisco Nexus 9300",
+        "Cái",
+        "02",
+        "90.000.000",
+        "180.000.000",
+        "Cộng tiền hàng (chưa có thuế GTGT):",
+        "1.400.000.000",
+        "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
+        "140.000.000",
+        "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
+        "1.540.000.000",
+        "Số tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn.",
+        "NGƯỜI MUA HÀNG",
+        "(Ký, ghi rõ họ tên)",
+        "Trần Thị Minh Phương",
+        "QR Code",
+        "Tra cứu",
+        "NGƯỜI BÁN HÀNG",
+        "(Chữ ký số điện tử hợp lệ)",
+        "Signature Valid",
+        "Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ",
+        "TÂN THỊNH PHÁT",
+        "Ngày ký: 28/08/2026 14:35:10",
+        "Trang 2 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG"
+        },
+        {
+          "type": "heading",
+          "text": "(HÓA ĐƠN ĐIỆN TỬ)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 28 tháng 08 năm 2026"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mẫu số: 1/001"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ký hiệu: C26TTP"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số hóa đơn: 0001589"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã CQT: 00E9F8A172B3802"
+        },
+        {
+          "type": "heading",
+          "text": "I. ĐƠN VỊ BÁN HÀNG (SELLER)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên đơn vị bán"
+        },
+        {
+          "type": "heading",
+          "text": ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã số thuế"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 0108998877"
+        },
+        {
+          "type": "paragraph",
+          "text": "Địa chỉ"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số tài khoản ngân hàng"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 19034567890011 tại Techcombank - Chi nhánh Thăng Long"
+        },
+        {
+          "type": "heading",
+          "text": "II. ĐƠN VỊ MUA HÀNG (BUYER)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên đơn vị mua"
+        },
+        {
+          "type": "heading",
+          "text": ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã số thuế"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 0109112233"
+        },
+        {
+          "type": "paragraph",
+          "text": "Địa chỉ"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hình thức thanh toán"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS"
+        },
+        {
+          "type": "heading",
+          "text": "STT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên hàng hóa, dịch vụ"
+        },
+        {
+          "type": "heading",
+          "text": "ĐVT"
+        },
+        {
+          "type": "heading",
+          "text": "SL"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đơn giá (VNĐ)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thành tiền (VNĐ)"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ thống Máy chủ Dell PowerEdge R760"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bộ"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "385.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "770.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết bị lưu trữ SAN Storage Dell ME5024"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "450.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "450.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết bị switch Cisco Nexus 9300"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cái"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "90.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "180.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cộng tiền hàng (chưa có thuế GTGT):"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.400.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thuế suất GTGT: 10% | Tiền thuế GTGT:"
+        },
+        {
+          "type": "paragraph",
+          "text": "140.000.000"
+        },
+        {
+          "type": "heading",
+          "text": "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.540.000.000"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn."
+        },
+        {
+          "type": "heading",
+          "text": "NGƯỜI MUA HÀNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, ghi rõ họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trần Thị Minh Phương"
+        },
+        {
+          "type": "paragraph",
+          "text": "QR Code"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tra cứu"
+        },
+        {
+          "type": "heading",
+          "text": "NGƯỜI BÁN HÀNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Chữ ký số điện tử hợp lệ)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Signature Valid"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ"
+        },
+        {
+          "type": "heading",
+          "text": "TÂN THỊNH PHÁT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày ký: 28/08/2026 14:35:10"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 2 / 4"
+        }
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page": 2,
+          "detection_method": "pdfplumber_digital",
+          "headers": [
+            "STT",
+            "Tên hàng hóa, dịch vụ",
+            "ĐVT",
+            "SL",
+            "Đơn giá (VNĐ)",
+            "Thành tiền (VNĐ)"
+          ],
+          "rows": [
+            [
+              "1",
+              "Hệ thống Máy chủ Dell PowerEdge R760",
+              "Bộ",
+              "02",
+              "385.000.000",
+              "770.000.000"
+            ],
+            [
+              "2",
+              "Thiết bị lưu trữ SAN Storage Dell ME5024",
+              "Hệ",
+              "01",
+              "450.000.000",
+              "450.000.000"
+            ],
+            [
+              "3",
+              "Thiết bị switch Cisco Nexus 9300",
+              "Cái",
+              "02",
+              "90.000.000",
+              "180.000.000"
+            ],
+            [
+              "Cộng tiền hàng (chưa có thuế GTGT):",
+              "",
+              "",
+              "",
+              "",
+              "1.400.000.000"
+            ],
+            [
+              "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
+              "",
+              "",
+              "",
+              "",
+              "140.000.000"
+            ],
+            [
+              "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
+              "",
+              "",
+              "",
+              "",
+              "1.540.000.000"
+            ]
+          ],
+          "matrix": [
+            [
+              "STT",
+              "Tên hàng hóa, dịch vụ",
+              "ĐVT",
+              "SL",
+              "Đơn giá (VNĐ)",
+              "Thành tiền (VNĐ)"
+            ],
+            [
+              "1",
+              "Hệ thống Máy chủ Dell PowerEdge R760",
+              "Bộ",
+              "02",
+              "385.000.000",
+              "770.000.000"
+            ],
+            [
+              "2",
+              "Thiết bị lưu trữ SAN Storage Dell ME5024",
+              "Hệ",
+              "01",
+              "450.000.000",
+              "450.000.000"
+            ],
+            [
+              "3",
+              "Thiết bị switch Cisco Nexus 9300",
+              "Cái",
+              "02",
+              "90.000.000",
+              "180.000.000"
+            ],
+            [
+              "Cộng tiền hàng (chưa có thuế GTGT):",
+              "",
+              "",
+              "",
+              "",
+              "1.400.000.000"
+            ],
+            [
+              "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
+              "",
+              "",
+              "",
+              "",
+              "140.000.000"
+            ],
+            [
+              "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
+              "",
+              "",
+              "",
+              "",
+              "1.540.000.000"
+            ]
+          ],
+          "markdown": "| STT                                     | Tên hàng hóa, dịch vụ                    | ĐVT | SL  | Đơn giá (VNĐ) | Thành tiền (VNĐ) |\n| --------------------------------------- | ---------------------------------------- | --- | --- | ------------- | ---------------- |\n| 1                                       | Hệ thống Máy chủ Dell PowerEdge R760     | Bộ  | 02  | 385.000.000   | 770.000.000      |\n| 2                                       | Thiết bị lưu trữ SAN Storage Dell ME5024 | Hệ  | 01  | 450.000.000   | 450.000.000      |\n| 3                                       | Thiết bị switch Cisco Nexus 9300         | Cái | 02  | 90.000.000    | 180.000.000      |\n| Cộng tiền hàng (chưa có thuế GTGT):     |                                          |     |     |               | 1.400.000.000    |\n| Thuế suất GTGT: 10% | Tiền thuế GTGT:   |                                          |     |     |               | 140.000.000      |\n| TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT): |                                          |     |     |               | 1.540.000.000    |"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "method": "native_text",
+      "confidence": null,
+      "text": "TÂN THỊNH PHÁT CORP\nMẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)\nKho xuất: Kho Tổng Kỹ Thuật (Hà Nội)\nPHIẾU XUẤT KHO\nSố PXK: XK-2026/0882\nNgày 28/08/2026\nPHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ\n(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)\nHọ tên người nhận hàng\n: Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu\nLý do xuất kho\n: Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS\nĐịa điểm giao nhận\n: Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội\nSTT\nTên, nhãn hiệu, quy cách phẩm chất vật\ntư\nMã số\nĐVT\nSố lượng\nThời hạn bảo hành\nYêu\ncầu\nThực\nxuất\n1\nHệ thống Server Dell PowerEdge R760\n(Dual Xeon)\nSRV-R760\nBộ\n02\n02\n36 tháng (đến 28/08/2029)\n2\nThiết bị lưu trữ SAN Dell PowerVault\nME5024\nSAN-\nME5024\nHệ\n01\n01\n36 tháng (đến 28/08/2029)\n3\nSwitch mạng Core Cisco Nexus 9300\nSW-N9300\nCái\n02\n02\n36 tháng (đến 28/08/2029)\nGhi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị\nkhông có dấu hiệu móp méo, trầy xước.\nNGƯỜI LẬP PHIẾU\n(Ký, họ tên)\nPhạm Thu Trang\nNGƯỜI NHẬN HÀNG\n(Ký, họ tên)\nVũ Tuấn Anh\nTHỦ KHO\n(Ký, họ tên)\nĐặng Quốc Bảo\nKẾ TOÁN TRƯỞNG\n(Ký, họ tên)\nHoàng Bích Ngọc\nGIÁM ĐỐC\n(Ký, đóng dấu)\nNguyễn Văn Hùng\nTrang 3 / 4",
+      "lines": [
+        "TÂN THỊNH PHÁT CORP",
+        "Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)",
+        "Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)",
+        "PHIẾU XUẤT KHO",
+        "Số PXK: XK-2026/0882",
+        "Ngày 28/08/2026",
+        "PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ",
+        "(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)",
+        "Họ tên người nhận hàng",
+        ": Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu",
+        "Lý do xuất kho",
+        ": Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS",
+        "Địa điểm giao nhận",
+        ": Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội",
+        "STT",
+        "Tên, nhãn hiệu, quy cách phẩm chất vật",
+        "tư",
+        "Mã số",
+        "ĐVT",
+        "Số lượng",
+        "Thời hạn bảo hành",
+        "Yêu",
+        "cầu",
+        "Thực",
+        "xuất",
+        "1",
+        "Hệ thống Server Dell PowerEdge R760",
+        "(Dual Xeon)",
+        "SRV-R760",
+        "Bộ",
+        "02",
+        "02",
+        "36 tháng (đến 28/08/2029)",
+        "2",
+        "Thiết bị lưu trữ SAN Dell PowerVault",
+        "ME5024",
+        "SAN-",
+        "ME5024",
+        "Hệ",
+        "01",
+        "01",
+        "36 tháng (đến 28/08/2029)",
+        "3",
+        "Switch mạng Core Cisco Nexus 9300",
+        "SW-N9300",
+        "Cái",
+        "02",
+        "02",
+        "36 tháng (đến 28/08/2029)",
+        "Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị",
+        "không có dấu hiệu móp méo, trầy xước.",
+        "NGƯỜI LẬP PHIẾU",
+        "(Ký, họ tên)",
+        "Phạm Thu Trang",
+        "NGƯỜI NHẬN HÀNG",
+        "(Ký, họ tên)",
+        "Vũ Tuấn Anh",
+        "THỦ KHO",
+        "(Ký, họ tên)",
+        "Đặng Quốc Bảo",
+        "KẾ TOÁN TRƯỞNG",
+        "(Ký, họ tên)",
+        "Hoàng Bích Ngọc",
+        "GIÁM ĐỐC",
+        "(Ký, đóng dấu)",
+        "Nguyễn Văn Hùng",
+        "Trang 3 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "TÂN THỊNH PHÁT CORP"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)"
+        },
+        {
+          "type": "heading",
+          "text": "PHIẾU XUẤT KHO"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số PXK: XK-2026/0882"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ngày 28/08/2026"
+        },
+        {
+          "type": "heading",
+          "text": "PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Họ tên người nhận hàng"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lý do xuất kho"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Địa điểm giao nhận"
+        },
+        {
+          "type": "paragraph",
+          "text": ": Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội"
+        },
+        {
+          "type": "heading",
+          "text": "STT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tên, nhãn hiệu, quy cách phẩm chất vật"
+        },
+        {
+          "type": "paragraph",
+          "text": "tư"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mã số"
+        },
+        {
+          "type": "heading",
+          "text": "ĐVT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số lượng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thời hạn bảo hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yêu"
+        },
+        {
+          "type": "paragraph",
+          "text": "cầu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thực"
+        },
+        {
+          "type": "paragraph",
+          "text": "xuất"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ thống Server Dell PowerEdge R760"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Dual Xeon)"
+        },
+        {
+          "type": "heading",
+          "text": "SRV-R760"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bộ"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "36 tháng (đến 28/08/2029)"
+        },
+        {
+          "type": "paragraph",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thiết bị lưu trữ SAN Dell PowerVault"
+        },
+        {
+          "type": "heading",
+          "text": "ME5024"
+        },
+        {
+          "type": "heading",
+          "text": "SAN-"
+        },
+        {
+          "type": "heading",
+          "text": "ME5024"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hệ"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "01"
+        },
+        {
+          "type": "paragraph",
+          "text": "36 tháng (đến 28/08/2029)"
+        },
+        {
+          "type": "paragraph",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Switch mạng Core Cisco Nexus 9300"
+        },
+        {
+          "type": "heading",
+          "text": "SW-N9300"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cái"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "02"
+        },
+        {
+          "type": "paragraph",
+          "text": "36 tháng (đến 28/08/2029)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị"
+        },
+        {
+          "type": "paragraph",
+          "text": "không có dấu hiệu móp méo, trầy xước."
+        },
+        {
+          "type": "heading",
+          "text": "NGƯỜI LẬP PHIẾU"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Phạm Thu Trang"
+        },
+        {
+          "type": "heading",
+          "text": "NGƯỜI NHẬN HÀNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vũ Tuấn Anh"
+        },
+        {
+          "type": "heading",
+          "text": "THỦ KHO"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đặng Quốc Bảo"
+        },
+        {
+          "type": "heading",
+          "text": "KẾ TOÁN TRƯỞNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hoàng Bích Ngọc"
+        },
+        {
+          "type": "heading",
+          "text": "GIÁM ĐỐC"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, đóng dấu)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nguyễn Văn Hùng"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 3 / 4"
+        }
+      ],
+      "tables": [
+        {
+          "type": "table",
+          "page": 3,
+          "detection_method": "pdfplumber_digital",
+          "headers": [
+            "STT",
+            "Tên, nhãn hiệu, quy cách phẩm chất vật\ntư",
+            "Mã số",
+            "ĐVT",
+            "Số lượng",
+            "",
+            "Thời hạn bảo hành"
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "Yêu\ncầu",
+              "Thực\nxuất",
+              ""
+            ],
+            [
+              "1",
+              "Hệ thống Server Dell PowerEdge R760\n(Dual Xeon)",
+              "SRV-R760",
+              "Bộ",
+              "02",
+              "02",
+              "36 tháng (đến 28/08/2029)"
+            ],
+            [
+              "2",
+              "Thiết bị lưu trữ SAN Dell PowerVault\nME5024",
+              "SAN-\nME5024",
+              "Hệ",
+              "01",
+              "01",
+              "36 tháng (đến 28/08/2029)"
+            ],
+            [
+              "3",
+              "Switch mạng Core Cisco Nexus 9300",
+              "SW-N9300",
+              "Cái",
+              "02",
+              "02",
+              "36 tháng (đến 28/08/2029)"
+            ]
+          ],
+          "matrix": [
+            [
+              "STT",
+              "Tên, nhãn hiệu, quy cách phẩm chất vật\ntư",
+              "Mã số",
+              "ĐVT",
+              "Số lượng",
+              "",
+              "Thời hạn bảo hành"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "Yêu\ncầu",
+              "Thực\nxuất",
+              ""
+            ],
+            [
+              "1",
+              "Hệ thống Server Dell PowerEdge R760\n(Dual Xeon)",
+              "SRV-R760",
+              "Bộ",
+              "02",
+              "02",
+              "36 tháng (đến 28/08/2029)"
+            ],
+            [
+              "2",
+              "Thiết bị lưu trữ SAN Dell PowerVault\nME5024",
+              "SAN-\nME5024",
+              "Hệ",
+              "01",
+              "01",
+              "36 tháng (đến 28/08/2029)"
+            ],
+            [
+              "3",
+              "Switch mạng Core Cisco Nexus 9300",
+              "SW-N9300",
+              "Cái",
+              "02",
+              "02",
+              "36 tháng (đến 28/08/2029)"
+            ]
+          ],
+          "markdown": "| STT | Tên, nhãn hiệu, quy cách phẩm chất vật tư       | Mã số       | ĐVT | Số lượng |           | Thời hạn bảo hành         |\n| --- | ----------------------------------------------- | ----------- | --- | -------- | --------- | ------------------------- |\n|     |                                                 |             |     | Yêu cầu  | Thực xuất |                           |\n| 1   | Hệ thống Server Dell PowerEdge R760 (Dual Xeon) | SRV-R760    | Bộ  | 02       | 02        | 36 tháng (đến 28/08/2029) |\n| 2   | Thiết bị lưu trữ SAN Dell PowerVault ME5024     | SAN- ME5024 | Hệ  | 01       | 01        | 36 tháng (đến 28/08/2029) |\n| 3   | Switch mạng Core Cisco Nexus 9300               | SW-N9300    | Cái | 02       | 02        | 36 tháng (đến 28/08/2029) |"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "method": "native_text",
+      "confidence": null,
+      "text": "TÂN THỊNH PHÁT CORP\nSố: 08/2026/BBTL-TS\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nBIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN\n(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)\nHôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:\nBÊN A (BÊN BÁN)\nCÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH\nPHÁT\nĐại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc\nMST: 0108998877\nBÊN B (BÊN MUA)\nCÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nĐại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH\nMST: 0109112233\nHai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:\nNghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số\nlượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.\nNghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày\n28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT).\nNghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua\nhệ thống ngân hàng:\nĐợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).\nĐợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).\nĐợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).\nTrách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày\n28/08/2029 theo cam kết tại Hợp đồng gốc.\nKết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số\n08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.\nĐẠI DIỆN BÊN BÁN (BÊN A)\n(Ký, họ tên và đóng dấu)\nNGUYỄN VĂN HÙNG\nTổng Giám đốc\nĐẠI DIỆN BÊN MUA (BÊN B)\n(Ký, họ tên và đóng dấu)\nTRẦN THỊ MINH PHƯƠNG\nGiám đốc Điều hành\n1.\n2.\n3.\n◦\n◦\n◦\n4.\n5.\nTrang 4 / 4",
+      "lines": [
+        "TÂN THỊNH PHÁT CORP",
+        "Số: 08/2026/BBTL-TS",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập – Tự do – Hạnh phúc",
+        "BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN",
+        "(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
+        "Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:",
+        "BÊN A (BÊN BÁN)",
+        "CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH",
+        "PHÁT",
+        "Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc",
+        "MST: 0108998877",
+        "BÊN B (BÊN MUA)",
+        "CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+        "Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH",
+        "MST: 0109112233",
+        "Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:",
+        "Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số",
+        "lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.",
+        "Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày",
+        "28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT).",
+        "Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua",
+        "hệ thống ngân hàng:",
+        "Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).",
+        "Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).",
+        "Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).",
+        "Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày",
+        "28/08/2029 theo cam kết tại Hợp đồng gốc.",
+        "Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số",
+        "08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.",
+        "ĐẠI DIỆN BÊN BÁN (BÊN A)",
+        "(Ký, họ tên và đóng dấu)",
+        "NGUYỄN VĂN HÙNG",
+        "Tổng Giám đốc",
+        "ĐẠI DIỆN BÊN MUA (BÊN B)",
+        "(Ký, họ tên và đóng dấu)",
+        "TRẦN THỊ MINH PHƯƠNG",
+        "Giám đốc Điều hành",
+        "1.",
+        "2.",
+        "3.",
+        "◦",
+        "◦",
+        "◦",
+        "4.",
+        "5.",
+        "Trang 4 / 4"
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "TÂN THỊNH PHÁT CORP"
+        },
+        {
+          "type": "paragraph",
+          "text": "Số: 08/2026/BBTL-TS"
+        },
+        {
+          "type": "heading",
+          "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"
+        },
+        {
+          "type": "paragraph",
+          "text": "Độc lập – Tự do – Hạnh phúc"
+        },
+        {
+          "type": "heading",
+          "text": "BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN A (BÊN BÁN)"
+        },
+        {
+          "type": "heading",
+          "text": "CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH"
+        },
+        {
+          "type": "heading",
+          "text": "PHÁT"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc"
+        },
+        {
+          "type": "heading",
+          "text": "MST: 0108998877"
+        },
+        {
+          "type": "heading",
+          "text": "BÊN B (BÊN MUA)"
+        },
+        {
+          "type": "heading",
+          "text": "CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH"
+        },
+        {
+          "type": "heading",
+          "text": "MST: 0109112233"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số"
+        },
+        {
+          "type": "paragraph",
+          "text": "lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua"
+        },
+        {
+          "type": "paragraph",
+          "text": "hệ thống ngân hàng:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày"
+        },
+        {
+          "type": "paragraph",
+          "text": "28/08/2029 theo cam kết tại Hợp đồng gốc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số"
+        },
+        {
+          "type": "paragraph",
+          "text": "08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý."
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên và đóng dấu)"
+        },
+        {
+          "type": "heading",
+          "text": "NGUYỄN VĂN HÙNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tổng Giám đốc"
+        },
+        {
+          "type": "heading",
+          "text": "ĐẠI DIỆN BÊN MUA (BÊN B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Ký, họ tên và đóng dấu)"
+        },
+        {
+          "type": "heading",
+          "text": "TRẦN THỊ MINH PHƯƠNG"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giám đốc Điều hành"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
+        },
+        {
+          "type": "paragraph",
+          "text": "2."
+        },
+        {
+          "type": "paragraph",
+          "text": "3."
+        },
+        {
+          "type": "paragraph",
+          "text": "◦"
+        },
+        {
+          "type": "paragraph",
+          "text": "◦"
+        },
+        {
+          "type": "paragraph",
+          "text": "◦"
+        },
+        {
+          "type": "paragraph",
+          "text": "4."
+        },
+        {
+          "type": "paragraph",
+          "text": "5."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trang 4 / 4"
+        }
+      ],
+      "tables": []
+    }
+  ],
+  "full_text": "TÂN THỊNH PHÁT CORP\nSố: 08/2026/BBBG-TTP\nV/v: Bàn giao thiết bị hạ tầng CNTT\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nBIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN\n(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)\nHôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai\nbên gồm có:\nBÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nĐại diện\n: Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc\nCán bộ kỹ thuật bàn giao\n: Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật\nBÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nĐại diện\n: Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành\nCán bộ kỹ thuật tiếp nhận\n: Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT\nHai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:\nSTT\nTên thiết bị / Tài sản\nKý hiệu / Số Serial (S/N)\nĐVT\nSL\nTình trạng thực tế\n01\nMáy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB\nS/N: CN-0H987G-71623\nS/N: CN-0H987G-71624\nBộ\n02\nMới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit\n02\nHệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K\nS/N: DL-ME5024-88902\nHệ\n01\nMới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng\n03\nSwitch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28\nS/N: FOC24480A12\nS/N: FOC24480A13\nCái\n02\nMới 100%, cổng kết nối đạt\nchuẩn tốc độ\nHồ sơ, chứng từ kèm theo:\n01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).\n03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.\nBộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.\nKết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh\nlên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.\nKỸ THUẬT BÊN GIAO\n(Ký, họ tên)\nLê Hoàng Nam\nKỸ THUẬT BÊN NHẬN\n(Ký, họ tên)\nVũ Tuấn Anh\nĐẠI DIỆN BÊN GIAO (A)\n(Ký, họ tên, đóng dấu)\nNguyễn Văn Hùng\nĐẠI DIỆN BÊN NHẬN (B)\n(Ký, họ tên, đóng dấu)\nTrần Thị Minh Phương\n•\n•\n•\nTrang 1 / 4\nHÓA ĐƠN GIÁ TRỊ GIA TĂNG\n(HÓA ĐƠN ĐIỆN TỬ)\nNgày 28 tháng 08 năm 2026\nMẫu số: 1/001\nKý hiệu: C26TTP\nSố hóa đơn: 0001589\nMã CQT: 00E9F8A172B3802\nI. ĐƠN VỊ BÁN HÀNG (SELLER)\nTên đơn vị bán\n: CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT\nMã số thuế\n: 0108998877\nĐịa chỉ\n: Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà\nNội\nSố tài khoản ngân hàng\n: 19034567890011 tại Techcombank - Chi nhánh Thăng Long\nII. ĐƠN VỊ MUA HÀNG (BUYER)\nTên đơn vị mua\n: CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nMã số thuế\n: 0109112233\nĐịa chỉ\n: Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội\nHình thức thanh toán\n: Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS\nSTT\nTên hàng hóa, dịch vụ\nĐVT\nSL\nĐơn giá (VNĐ)\nThành tiền (VNĐ)\n1\nHệ thống Máy chủ Dell PowerEdge R760\nBộ\n02\n385.000.000\n770.000.000\n2\nThiết bị lưu trữ SAN Storage Dell ME5024\nHệ\n01\n450.000.000\n450.000.000\n3\nThiết bị switch Cisco Nexus 9300\nCái\n02\n90.000.000\n180.000.000\nCộng tiền hàng (chưa có thuế GTGT):\n1.400.000.000\nThuế suất GTGT: 10% | Tiền thuế GTGT:\n140.000.000\nTỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):\n1.540.000.000\nSố tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn.\nNGƯỜI MUA HÀNG\n(Ký, ghi rõ họ tên)\nTrần Thị Minh Phương\nQR Code\nTra cứu\nNGƯỜI BÁN HÀNG\n(Chữ ký số điện tử hợp lệ)\nSignature Valid\nKý bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ\nTÂN THỊNH PHÁT\nNgày ký: 28/08/2026 14:35:10\nTrang 2 / 4\nTÂN THỊNH PHÁT CORP\nMẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)\nKho xuất: Kho Tổng Kỹ Thuật (Hà Nội)\nPHIẾU XUẤT KHO\nSố PXK: XK-2026/0882\nNgày 28/08/2026\nPHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ\n(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)\nHọ tên người nhận hàng\n: Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu\nLý do xuất kho\n: Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS\nĐịa điểm giao nhận\n: Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội\nSTT\nTên, nhãn hiệu, quy cách phẩm chất vật\ntư\nMã số\nĐVT\nSố lượng\nThời hạn bảo hành\nYêu\ncầu\nThực\nxuất\n1\nHệ thống Server Dell PowerEdge R760\n(Dual Xeon)\nSRV-R760\nBộ\n02\n02\n36 tháng (đến 28/08/2029)\n2\nThiết bị lưu trữ SAN Dell PowerVault\nME5024\nSAN-\nME5024\nHệ\n01\n01\n36 tháng (đến 28/08/2029)\n3\nSwitch mạng Core Cisco Nexus 9300\nSW-N9300\nCái\n02\n02\n36 tháng (đến 28/08/2029)\nGhi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị\nkhông có dấu hiệu móp méo, trầy xước.\nNGƯỜI LẬP PHIẾU\n(Ký, họ tên)\nPhạm Thu Trang\nNGƯỜI NHẬN HÀNG\n(Ký, họ tên)\nVũ Tuấn Anh\nTHỦ KHO\n(Ký, họ tên)\nĐặng Quốc Bảo\nKẾ TOÁN TRƯỞNG\n(Ký, họ tên)\nHoàng Bích Ngọc\nGIÁM ĐỐC\n(Ký, đóng dấu)\nNguyễn Văn Hùng\nTrang 3 / 4\nTÂN THỊNH PHÁT CORP\nSố: 08/2026/BBTL-TS\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nBIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN\n(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)\nHôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:\nBÊN A (BÊN BÁN)\nCÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH\nPHÁT\nĐại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc\nMST: 0108998877\nBÊN B (BÊN MUA)\nCÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU\nĐại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH\nMST: 0109112233\nHai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:\nNghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số\nlượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.\nNghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày\n28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT).\nNghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua\nhệ thống ngân hàng:\nĐợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).\nĐợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).\nĐợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).\nTrách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày\n28/08/2029 theo cam kết tại Hợp đồng gốc.\nKết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số\n08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.\nĐẠI DIỆN BÊN BÁN (BÊN A)\n(Ký, họ tên và đóng dấu)\nNGUYỄN VĂN HÙNG\nTổng Giám đốc\nĐẠI DIỆN BÊN MUA (BÊN B)\n(Ký, họ tên và đóng dấu)\nTRẦN THỊ MINH PHƯƠNG\nGiám đốc Điều hành\n1.\n2.\n3.\n◦\n◦\n◦\n4.\n5.\nTrang 4 / 4",
+  "tables": [
+    {
+      "type": "table",
+      "page": 1,
       "detection_method": "pdfplumber_digital",
-      "num_rows": 4,
-      "num_cols": 6,
+      "headers": [
+        "STT",
+        "Tên thiết bị / Tài sản",
+        "Ký hiệu / Số Serial (S/N)",
+        "ĐVT",
+        "SL",
+        "Tình trạng thực tế"
+      ],
+      "rows": [
+        [
+          "01",
+          "Máy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+          "S/N: CN-0H987G-71623\nS/N: CN-0H987G-71624",
+          "Bộ",
+          "02",
+          "Mới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit"
+        ],
+        [
+          "02",
+          "Hệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K",
+          "S/N: DL-ME5024-88902",
+          "Hệ",
+          "01",
+          "Mới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng"
+        ],
+        [
+          "03",
+          "Switch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28",
+          "S/N: FOC24480A12\nS/N: FOC24480A13",
+          "Cái",
+          "02",
+          "Mới 100%, cổng kết nối đạt\nchuẩn tốc độ"
+        ]
+      ],
       "matrix": [
         [
           "STT",
@@ -941,1303 +1697,93 @@
         ],
         [
           "01",
-          "Máy chủ Dell PowerEdge R760 2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
-          "S/N: CN-0H987G-71623 S/N: CN-0H987G-71624",
+          "Máy chủ Dell PowerEdge R760\n2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+          "S/N: CN-0H987G-71623\nS/N: CN-0H987G-71624",
           "Bộ",
           "02",
-          "Mới 100%, nguyên seal, chạy test PASS, đủ phụ kiện ray-kit"
+          "Mới 100%, nguyên seal,\nchạy test PASS, đủ phụ\nkiện ray-kit"
         ],
         [
           "02",
-          "Hệ thống SAN Dell ME5024 Dual FC 16G, 24x 2.4TB SAS 10K",
+          "Hệ thống SAN Dell ME5024\nDual FC 16G, 24x 2.4TB SAS 10K",
           "S/N: DL-ME5024-88902",
           "Hệ",
           "01",
-          "Mới 100%, hoạt động ổn định, phân vùng RAID sẵn sàng"
+          "Mới 100%, hoạt động ổn\nđịnh, phân vùng RAID sẵn\nsàng"
         ],
         [
           "03",
-          "Switch Cisco Nexus 9300 48x 10/25G SFP28 + 6x 100G QSFP28",
-          "S/N: FOC24480A12 S/N: FOC24480A13",
+          "Switch Cisco Nexus 9300\n48x 10/25G SFP28 + 6x 100G QSFP28",
+          "S/N: FOC24480A12\nS/N: FOC24480A13",
           "Cái",
           "02",
-          "Mới 100%, cổng kết nối đạt chuẩn tốc độ"
+          "Mới 100%, cổng kết nối đạt\nchuẩn tốc độ"
         ]
       ],
-      "cells": [
-        {
-          "row_index": 0,
-          "col_index": 0,
-          "cell_bbox": [
-            43.1,
-            328.47,
-            27.5,
-            22.03
-          ],
-          "text": "STT",
-          "text_segments": [
-            {
-              "text": "STT",
-              "bbox": [
-                47.77,
-                335.24,
-                65.72,
-                344.74
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            328.47,
-            162.09,
-            22.03
-          ],
-          "text": "Tên thiết bị / Tài sản",
-          "text_segments": [
-            {
-              "text": "Tên",
-              "bbox": [
-                108.21,
-                335.48,
-                124.04,
-                344.98
-              ]
-            },
-            {
-              "text": "thiết",
-              "bbox": [
-                126.42,
-                335.48,
-                146.09,
-                345.72
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                148.47,
-                335.48,
-                157.09,
-                345.72
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                159.47,
-                335.48,
-                162.11,
-                344.98
-              ]
-            },
-            {
-              "text": "Tài",
-              "bbox": [
-                164.31,
-                335.48,
-                178.04,
-                344.98
-              ]
-            },
-            {
-              "text": "sản",
-              "bbox": [
-                180.42,
-                335.48,
-                195.08,
-                345.72
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 2,
-          "cell_bbox": [
-            232.7,
-            328.47,
-            127.0,
-            22.03
-          ],
-          "text": "Ký hiệu / Số Serial (S/N)",
-          "text_segments": [
-            {
-              "text": "Ký",
-              "bbox": [
-                245.57,
-                335.48,
-                257.71,
-                344.98
-              ]
-            },
-            {
-              "text": "hiệu",
-              "bbox": [
-                260.09,
-                335.48,
-                278.72,
-                345.72
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                281.09,
-                335.48,
-                283.73,
-                344.98
-              ]
-            },
-            {
-              "text": "Số",
-              "bbox": [
-                286.11,
-                335.48,
-                297.21,
-                345.72
-              ]
-            },
-            {
-              "text": "Serial",
-              "bbox": [
-                299.59,
-                335.48,
-                323.34,
-                344.98
-              ]
-            },
-            {
-              "text": "(S/N)",
-              "bbox": [
-                325.71,
-                335.48,
-                346.82,
-                344.98
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 3,
-          "cell_bbox": [
-            359.7,
-            328.47,
-            40.66,
-            22.03
-          ],
-          "text": "ĐVT",
-          "text_segments": [
-            {
-              "text": "ĐVT",
-              "bbox": [
-                370.0,
-                335.24,
-                390.06,
-                344.74
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 4,
-          "cell_bbox": [
-            400.36,
-            328.47,
-            30.49,
-            22.03
-          ],
-          "text": "SL",
-          "text_segments": [
-            {
-              "text": "SL",
-              "bbox": [
-                409.8,
-                335.24,
-                421.41,
-                344.74
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 5,
-          "cell_bbox": [
-            430.85,
-            328.47,
-            121.74,
-            22.03
-          ],
-          "text": "Tình trạng thực tế",
-          "text_segments": [
-            {
-              "text": "Tình",
-              "bbox": [
-                452.41,
-                335.48,
-                471.95,
-                344.98
-              ]
-            },
-            {
-              "text": "trạng",
-              "bbox": [
-                474.32,
-                335.48,
-                497.43,
-                345.72
-              ]
-            },
-            {
-              "text": "thực",
-              "bbox": [
-                499.8,
-                335.48,
-                519.86,
-                345.72
-              ]
-            },
-            {
-              "text": "tế",
-              "bbox": [
-                522.23,
-                335.48,
-                530.82,
-                345.72
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 0,
-          "cell_bbox": [
-            43.1,
-            350.5,
-            27.5,
-            49.59
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                52.0,
-                371.05,
-                61.5,
-                380.55
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            350.5,
-            162.09,
-            49.59
-          ],
-          "text": "Máy chủ Dell PowerEdge R760 2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
-          "text_segments": [
-            {
-              "text": "Máy",
-              "bbox": [
-                75.48,
-                364.64,
-                93.95,
-                374.14
-              ]
-            },
-            {
-              "text": "chủ",
-              "bbox": [
-                96.32,
-                364.64,
-                112.16,
-                374.88
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                114.53,
-                364.64,
-                130.89,
-                374.14
-              ]
-            },
-            {
-              "text": "PowerEdge",
-              "bbox": [
-                133.27,
-                364.64,
-                179.7,
-                374.14
-              ]
-            },
-            {
-              "text": "R760",
-              "bbox": [
-                182.08,
-                364.64,
-                203.19,
-                374.14
-              ]
-            },
-            {
-              "text": "2x",
-              "bbox": [
-                75.48,
-                378.34,
-                84.48,
-                387.34
-              ]
-            },
-            {
-              "text": "Xeon",
-              "bbox": [
-                86.73,
-                378.34,
-                106.22,
-                387.34
-              ]
-            },
-            {
-              "text": "Gold",
-              "bbox": [
-                108.47,
-                378.34,
-                126.47,
-                387.34
-              ]
-            },
-            {
-              "text": "6430",
-              "bbox": [
-                128.72,
-                378.34,
-                146.72,
-                387.34
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                148.97,
-                378.34,
-                151.47,
-                387.34
-              ]
-            },
-            {
-              "text": "256GB",
-              "bbox": [
-                153.72,
-                378.34,
-                179.72,
-                387.34
-              ]
-            },
-            {
-              "text": "/",
-              "bbox": [
-                181.97,
-                378.34,
-                184.48,
-                387.34
-              ]
-            },
-            {
-              "text": "4x",
-              "bbox": [
-                186.73,
-                378.34,
-                195.73,
-                387.34
-              ]
-            },
-            {
-              "text": "1.92TB",
-              "bbox": [
-                197.98,
-                378.34,
-                225.23,
-                387.34
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 2,
-          "cell_bbox": [
-            232.7,
-            350.5,
-            127.0,
-            49.59
-          ],
-          "text": "S/N: CN-0H987G-71623 S/N: CN-0H987G-71624",
-          "text_segments": [
-            {
-              "text": "S/N:",
-              "bbox": [
-                237.57,
-                364.4,
-                254.99,
-                373.9
-              ]
-            },
-            {
-              "text": "CN-0H987G-71623",
-              "bbox": [
-                257.37,
-                364.4,
-                333.36,
-                373.9
-              ]
-            },
-            {
-              "text": "S/N:",
-              "bbox": [
-                237.57,
-                377.7,
-                254.99,
-                387.2
-              ]
-            },
-            {
-              "text": "CN-0H987G-71624",
-              "bbox": [
-                257.37,
-                377.7,
-                333.36,
-                387.2
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 3,
-          "cell_bbox": [
-            359.7,
-            350.5,
-            40.66,
-            49.59
-          ],
-          "text": "Bộ",
-          "text_segments": [
-            {
-              "text": "Bộ",
-              "bbox": [
-                374.12,
-                371.29,
-                385.94,
-                381.53
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 4,
-          "cell_bbox": [
-            400.36,
-            350.5,
-            30.49,
-            49.59
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                410.86,
-                371.05,
-                420.36,
-                380.55
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 5,
-          "cell_bbox": [
-            430.85,
-            350.5,
-            121.74,
-            49.59
-          ],
-          "text": "Mới 100%, nguyên seal, chạy test PASS, đủ phụ kiện ray-kit",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                435.73,
-                357.51,
-                452.58,
-                367.75
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                454.95,
-                357.51,
-                479.49,
-                367.01
-              ]
-            },
-            {
-              "text": "nguyên",
-              "bbox": [
-                481.87,
-                357.51,
-                509.83,
-                367.01
-              ]
-            },
-            {
-              "text": "seal,",
-              "bbox": [
-                512.21,
-                357.51,
-                529.36,
-                367.01
-              ]
-            },
-            {
-              "text": "chạy",
-              "bbox": [
-                435.73,
-                371.29,
-                454.79,
-                381.53
-              ]
-            },
-            {
-              "text": "test",
-              "bbox": [
-                457.17,
-                371.29,
-                470.36,
-                380.79
-              ]
-            },
-            {
-              "text": "PASS,",
-              "bbox": [
-                472.74,
-                371.29,
-                496.95,
-                380.79
-              ]
-            },
-            {
-              "text": "đủ",
-              "bbox": [
-                499.33,
-                371.29,
-                510.11,
-                381.53
-              ]
-            },
-            {
-              "text": "phụ",
-              "bbox": [
-                512.49,
-                371.29,
-                528.02,
-                381.53
-              ]
-            },
-            {
-              "text": "kiện",
-              "bbox": [
-                435.73,
-                385.08,
-                452.95,
-                395.31
-              ]
-            },
-            {
-              "text": "ray-kit",
-              "bbox": [
-                455.32,
-                385.08,
-                480.65,
-                394.58
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 0,
-          "cell_bbox": [
-            43.1,
-            400.09,
-            27.5,
-            49.11
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                52.0,
-                420.41,
-                61.5,
-                429.91
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            400.09,
-            162.09,
-            49.11
-          ],
-          "text": "Hệ thống SAN Dell ME5024 Dual FC 16G, 24x 2.4TB SAS 10K",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                75.48,
-                414.0,
-                88.29,
-                424.23
-              ]
-            },
-            {
-              "text": "thống",
-              "bbox": [
-                90.67,
-                414.0,
-                114.97,
-                424.23
-              ]
-            },
-            {
-              "text": "SAN",
-              "bbox": [
-                117.34,
-                414.0,
-                136.34,
-                423.5
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                138.72,
-                414.0,
-                155.08,
-                423.5
-              ]
-            },
-            {
-              "text": "ME5024",
-              "bbox": [
-                157.45,
-                414.0,
-                191.76,
-                423.5
-              ]
-            },
-            {
-              "text": "Dual",
-              "bbox": [
-                75.48,
-                427.69,
-                92.97,
-                436.69
-              ]
-            },
-            {
-              "text": "FC",
-              "bbox": [
-                95.22,
-                427.69,
-                106.23,
-                436.69
-              ]
-            },
-            {
-              "text": "16G,",
-              "bbox": [
-                108.48,
-                427.69,
-                126.23,
-                436.69
-              ]
-            },
-            {
-              "text": "24x",
-              "bbox": [
-                128.48,
-                427.69,
-                141.98,
-                436.69
-              ]
-            },
-            {
-              "text": "2.4TB",
-              "bbox": [
-                144.23,
-                427.69,
-                166.98,
-                436.69
-              ]
-            },
-            {
-              "text": "SAS",
-              "bbox": [
-                169.23,
-                427.69,
-                185.74,
-                436.69
-              ]
-            },
-            {
-              "text": "10K",
-              "bbox": [
-                187.99,
-                427.69,
-                203.48,
-                436.69
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 2,
-          "cell_bbox": [
-            232.7,
-            400.09,
-            127.0,
-            49.11
-          ],
-          "text": "S/N: DL-ME5024-88902",
-          "text_segments": [
-            {
-              "text": "S/N:",
-              "bbox": [
-                237.57,
-                420.41,
-                254.99,
-                429.91
-              ]
-            },
-            {
-              "text": "DL-ME5024-88902",
-              "bbox": [
-                257.37,
-                420.41,
-                333.36,
-                429.91
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 3,
-          "cell_bbox": [
-            359.7,
-            400.09,
-            40.66,
-            49.11
-          ],
-          "text": "Hệ",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                374.06,
-                420.65,
-                386.0,
-                430.88
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 4,
-          "cell_bbox": [
-            400.36,
-            400.09,
-            30.49,
-            49.11
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                410.86,
-                420.41,
-                420.36,
-                429.91
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 5,
-          "cell_bbox": [
-            430.85,
-            400.09,
-            121.74,
-            49.11
-          ],
-          "text": "Mới 100%, hoạt động ổn định, phân vùng RAID sẵn sàng",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                435.73,
-                407.11,
-                452.58,
-                417.34
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                454.95,
-                407.11,
-                479.49,
-                416.61
-              ]
-            },
-            {
-              "text": "hoạt",
-              "bbox": [
-                481.87,
-                407.11,
-                499.36,
-                417.34
-              ]
-            },
-            {
-              "text": "động",
-              "bbox": [
-                501.73,
-                407.11,
-                521.46,
-                417.34
-              ]
-            },
-            {
-              "text": "ổn",
-              "bbox": [
-                523.84,
-                407.11,
-                534.07,
-                417.34
-              ]
-            },
-            {
-              "text": "định,",
-              "bbox": [
-                435.73,
-                420.89,
-                455.39,
-                431.12
-              ]
-            },
-            {
-              "text": "phân",
-              "bbox": [
-                457.77,
-                420.89,
-                476.23,
-                430.39
-              ]
-            },
-            {
-              "text": "vùng",
-              "bbox": [
-                478.61,
-                420.89,
-                497.61,
-                430.39
-              ]
-            },
-            {
-              "text": "RAID",
-              "bbox": [
-                499.98,
-                420.89,
-                523.2,
-                430.39
-              ]
-            },
-            {
-              "text": "sẵn",
-              "bbox": [
-                525.58,
-                420.89,
-                539.37,
-                431.12
-              ]
-            },
-            {
-              "text": "sàng",
-              "bbox": [
-                435.73,
-                434.19,
-                453.14,
-                443.69
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 0,
-          "cell_bbox": [
-            43.1,
-            449.2,
-            27.5,
-            35.81
-          ],
-          "text": "03",
-          "text_segments": [
-            {
-              "text": "03",
-              "bbox": [
-                52.0,
-                462.87,
-                61.5,
-                472.37
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            449.2,
-            162.09,
-            35.81
-          ],
-          "text": "Switch Cisco Nexus 9300 48x 10/25G SFP28 + 6x 100G QSFP28",
-          "text_segments": [
-            {
-              "text": "Switch",
-              "bbox": [
-                75.48,
-                456.22,
-                102.92,
-                465.72
-              ]
-            },
-            {
-              "text": "Cisco",
-              "bbox": [
-                105.3,
-                456.22,
-                127.46,
-                465.72
-              ]
-            },
-            {
-              "text": "Nexus",
-              "bbox": [
-                129.84,
-                456.22,
-                154.64,
-                465.72
-              ]
-            },
-            {
-              "text": "9300",
-              "bbox": [
-                157.02,
-                456.22,
-                176.02,
-                465.72
-              ]
-            },
-            {
-              "text": "48x",
-              "bbox": [
-                75.48,
-                469.91,
-                88.98,
-                478.91
-              ]
-            },
-            {
-              "text": "10/25G",
-              "bbox": [
-                91.23,
-                469.91,
-                118.23,
-                478.91
-              ]
-            },
-            {
-              "text": "SFP28",
-              "bbox": [
-                120.48,
-                469.91,
-                144.49,
-                478.91
-              ]
-            },
-            {
-              "text": "+",
-              "bbox": [
-                146.74,
-                469.91,
-                151.82,
-                478.91
-              ]
-            },
-            {
-              "text": "6x",
-              "bbox": [
-                154.07,
-                469.91,
-                163.07,
-                478.91
-              ]
-            },
-            {
-              "text": "100G",
-              "bbox": [
-                165.32,
-                469.91,
-                185.31,
-                478.91
-              ]
-            },
-            {
-              "text": "QSFP28",
-              "bbox": [
-                187.56,
-                469.91,
-                218.07,
-                478.91
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 2,
-          "cell_bbox": [
-            232.7,
-            449.2,
-            127.0,
-            35.81
-          ],
-          "text": "S/N: FOC24480A12 S/N: FOC24480A13",
-          "text_segments": [
-            {
-              "text": "S/N:",
-              "bbox": [
-                237.57,
-                456.22,
-                254.99,
-                465.72
-              ]
-            },
-            {
-              "text": "FOC24480A12",
-              "bbox": [
-                257.37,
-                456.22,
-                315.95,
-                465.72
-              ]
-            },
-            {
-              "text": "S/N:",
-              "bbox": [
-                237.57,
-                469.52,
-                254.99,
-                479.02
-              ]
-            },
-            {
-              "text": "FOC24480A13",
-              "bbox": [
-                257.37,
-                469.52,
-                315.95,
-                479.02
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 3,
-          "cell_bbox": [
-            359.7,
-            449.2,
-            40.66,
-            35.81
-          ],
-          "text": "Cái",
-          "text_segments": [
-            {
-              "text": "Cái",
-              "bbox": [
-                373.43,
-                462.87,
-                386.63,
-                472.37
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 4,
-          "cell_bbox": [
-            400.36,
-            449.2,
-            30.49,
-            35.81
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                410.86,
-                462.87,
-                420.36,
-                472.37
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 5,
-          "cell_bbox": [
-            430.85,
-            449.2,
-            121.74,
-            35.81
-          ],
-          "text": "Mới 100%, cổng kết nối đạt chuẩn tốc độ",
-          "text_segments": [
-            {
-              "text": "Mới",
-              "bbox": [
-                435.73,
-                456.22,
-                452.58,
-                466.45
-              ]
-            },
-            {
-              "text": "100%,",
-              "bbox": [
-                454.95,
-                456.22,
-                479.49,
-                465.72
-              ]
-            },
-            {
-              "text": "cổng",
-              "bbox": [
-                481.87,
-                456.22,
-                501.07,
-                466.45
-              ]
-            },
-            {
-              "text": "kết",
-              "bbox": [
-                503.44,
-                456.22,
-                515.91,
-                466.45
-              ]
-            },
-            {
-              "text": "nối",
-              "bbox": [
-                518.29,
-                456.22,
-                531.16,
-                466.45
-              ]
-            },
-            {
-              "text": "đạt",
-              "bbox": [
-                533.54,
-                456.22,
-                546.28,
-                466.45
-              ]
-            },
-            {
-              "text": "chuẩn",
-              "bbox": [
-                435.73,
-                470.0,
-                459.54,
-                480.23
-              ]
-            },
-            {
-              "text": "tốc",
-              "bbox": [
-                461.92,
-                470.0,
-                474.26,
-                480.23
-              ]
-            },
-            {
-              "text": "độ",
-              "bbox": [
-                476.63,
-                470.0,
-                486.86,
-                480.23
-              ]
-            }
-          ]
-        }
-      ]
+      "markdown": "| STT | Tên thiết bị / Tài sản                                            | Ký hiệu / Số Serial (S/N)                 | ĐVT | SL  | Tình trạng thực tế                                         |\n| --- | ----------------------------------------------------------------- | ----------------------------------------- | --- | --- | ---------------------------------------------------------- |\n| 01  | Máy chủ Dell PowerEdge R760 2x Xeon Gold 6430 / 256GB / 4x 1.92TB | S/N: CN-0H987G-71623 S/N: CN-0H987G-71624 | Bộ  | 02  | Mới 100%, nguyên seal, chạy test PASS, đủ phụ kiện ray-kit |\n| 02  | Hệ thống SAN Dell ME5024 Dual FC 16G, 24x 2.4TB SAS 10K           | S/N: DL-ME5024-88902                      | Hệ  | 01  | Mới 100%, hoạt động ổn định, phân vùng RAID sẵn sàng       |\n| 03  | Switch Cisco Nexus 9300 48x 10/25G SFP28 + 6x 100G QSFP28         | S/N: FOC24480A12 S/N: FOC24480A13         | Cái | 02  | Mới 100%, cổng kết nối đạt chuẩn tốc độ                    |"
     },
     {
+      "type": "table",
       "page": 2,
       "detection_method": "pdfplumber_digital",
-      "num_rows": 7,
-      "num_cols": 6,
+      "headers": [
+        "STT",
+        "Tên hàng hóa, dịch vụ",
+        "ĐVT",
+        "SL",
+        "Đơn giá (VNĐ)",
+        "Thành tiền (VNĐ)"
+      ],
+      "rows": [
+        [
+          "1",
+          "Hệ thống Máy chủ Dell PowerEdge R760",
+          "Bộ",
+          "02",
+          "385.000.000",
+          "770.000.000"
+        ],
+        [
+          "2",
+          "Thiết bị lưu trữ SAN Storage Dell ME5024",
+          "Hệ",
+          "01",
+          "450.000.000",
+          "450.000.000"
+        ],
+        [
+          "3",
+          "Thiết bị switch Cisco Nexus 9300",
+          "Cái",
+          "02",
+          "90.000.000",
+          "180.000.000"
+        ],
+        [
+          "Cộng tiền hàng (chưa có thuế GTGT):",
+          "",
+          "",
+          "",
+          "",
+          "1.400.000.000"
+        ],
+        [
+          "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
+          "",
+          "",
+          "",
+          "",
+          "140.000.000"
+        ],
+        [
+          "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
+          "",
+          "",
+          "",
+          "",
+          "1.540.000.000"
+        ]
+      ],
       "matrix": [
         [
           "STT",
@@ -2296,1110 +1842,34 @@
           "1.540.000.000"
         ]
       ],
-      "cells": [
-        {
-          "row_index": 0,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            355.36,
-            27.82,
-            22.03
-          ],
-          "text": "STT",
-          "text_segments": [
-            {
-              "text": "STT",
-              "bbox": [
-                57.89,
-                362.14,
-                75.85,
-                371.64
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 1,
-          "cell_bbox": [
-            80.73,
-            355.36,
-            184.09,
-            22.03
-          ],
-          "text": "Tên hàng hóa, dịch vụ",
-          "text_segments": [
-            {
-              "text": "Tên",
-              "bbox": [
-                126.88,
-                362.38,
-                142.72,
-                371.88
-              ]
-            },
-            {
-              "text": "hàng",
-              "bbox": [
-                145.09,
-                362.38,
-                165.15,
-                371.88
-              ]
-            },
-            {
-              "text": "hóa,",
-              "bbox": [
-                167.53,
-                362.38,
-                184.69,
-                371.88
-              ]
-            },
-            {
-              "text": "dịch",
-              "bbox": [
-                187.06,
-                362.38,
-                205.19,
-                372.61
-              ]
-            },
-            {
-              "text": "vụ",
-              "bbox": [
-                207.56,
-                362.38,
-                218.65,
-                372.61
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 2,
-          "cell_bbox": [
-            264.81,
-            355.36,
-            39.01,
-            22.03
-          ],
-          "text": "ĐVT",
-          "text_segments": [
-            {
-              "text": "ĐVT",
-              "bbox": [
-                274.29,
-                362.14,
-                294.34,
-                371.64
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 3,
-          "cell_bbox": [
-            303.82,
-            355.36,
-            34.07,
-            22.03
-          ],
-          "text": "SL",
-          "text_segments": [
-            {
-              "text": "SL",
-              "bbox": [
-                315.05,
-                362.14,
-                326.67,
-                371.64
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 4,
-          "cell_bbox": [
-            337.89,
-            355.36,
-            97.29,
-            22.03
-          ],
-          "text": "Đơn giá (VNĐ)",
-          "text_segments": [
-            {
-              "text": "Đơn",
-              "bbox": [
-                355.38,
-                362.38,
-                373.89,
-                372.61
-              ]
-            },
-            {
-              "text": "giá",
-              "bbox": [
-                376.26,
-                362.38,
-                388.4,
-                371.88
-              ]
-            },
-            {
-              "text": "(VNĐ)",
-              "bbox": [
-                390.78,
-                362.38,
-                417.68,
-                371.88
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            355.36,
-            105.82,
-            22.03
-          ],
-          "text": "Thành tiền (VNĐ)",
-          "text_segments": [
-            {
-              "text": "Thành",
-              "bbox": [
-                451.16,
-                362.38,
-                478.1,
-                371.88
-              ]
-            },
-            {
-              "text": "tiền",
-              "bbox": [
-                480.47,
-                362.38,
-                496.98,
-                372.61
-              ]
-            },
-            {
-              "text": "(VNĐ)",
-              "bbox": [
-                499.36,
-                362.38,
-                526.26,
-                371.88
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            377.39,
-            27.82,
-            22.03
-          ],
-          "text": "1",
-          "text_segments": [
-            {
-              "text": "1",
-              "bbox": [
-                64.5,
-                384.17,
-                69.25,
-                393.67
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 1,
-          "cell_bbox": [
-            80.73,
-            377.39,
-            184.09,
-            22.03
-          ],
-          "text": "Hệ thống Máy chủ Dell PowerEdge R760",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                85.6,
-                384.41,
-                97.54,
-                394.64
-              ]
-            },
-            {
-              "text": "thống",
-              "bbox": [
-                99.92,
-                384.41,
-                122.29,
-                394.64
-              ]
-            },
-            {
-              "text": "Máy",
-              "bbox": [
-                124.67,
-                384.41,
-                142.08,
-                393.91
-              ]
-            },
-            {
-              "text": "chủ",
-              "bbox": [
-                144.45,
-                384.41,
-                159.46,
-                394.64
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                161.83,
-                384.41,
-                178.19,
-                393.91
-              ]
-            },
-            {
-              "text": "PowerEdge",
-              "bbox": [
-                180.56,
-                384.41,
-                224.36,
-                393.91
-              ]
-            },
-            {
-              "text": "R760",
-              "bbox": [
-                226.73,
-                384.41,
-                247.32,
-                393.91
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 2,
-          "cell_bbox": [
-            264.81,
-            377.39,
-            39.01,
-            22.03
-          ],
-          "text": "Bộ",
-          "text_segments": [
-            {
-              "text": "Bộ",
-              "bbox": [
-                278.41,
-                384.41,
-                290.23,
-                394.64
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 3,
-          "cell_bbox": [
-            303.82,
-            377.39,
-            34.07,
-            22.03
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                316.11,
-                384.17,
-                325.61,
-                393.67
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 4,
-          "cell_bbox": [
-            337.89,
-            377.39,
-            97.29,
-            22.03
-          ],
-          "text": "385.000.000",
-          "text_segments": [
-            {
-              "text": "385.000.000",
-              "bbox": [
-                382.8,
-                384.17,
-                430.3,
-                393.67
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            377.39,
-            105.82,
-            22.03
-          ],
-          "text": "770.000.000",
-          "text_segments": [
-            {
-              "text": "770.000.000",
-              "bbox": [
-                489.88,
-                384.17,
-                537.38,
-                393.67
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            399.42,
-            27.82,
-            22.03
-          ],
-          "text": "2",
-          "text_segments": [
-            {
-              "text": "2",
-              "bbox": [
-                64.5,
-                406.2,
-                69.25,
-                415.7
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 1,
-          "cell_bbox": [
-            80.73,
-            399.42,
-            184.09,
-            22.03
-          ],
-          "text": "Thiết bị lưu trữ SAN Storage Dell ME5024",
-          "text_segments": [
-            {
-              "text": "Thiết",
-              "bbox": [
-                85.6,
-                406.44,
-                106.52,
-                416.67
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                108.9,
-                406.44,
-                116.69,
-                416.67
-              ]
-            },
-            {
-              "text": "lưu",
-              "bbox": [
-                119.06,
-                406.44,
-                132.87,
-                416.67
-              ]
-            },
-            {
-              "text": "trữ",
-              "bbox": [
-                135.25,
-                406.44,
-                147.48,
-                416.67
-              ]
-            },
-            {
-              "text": "SAN",
-              "bbox": [
-                149.85,
-                406.44,
-                168.85,
-                415.94
-              ]
-            },
-            {
-              "text": "Storage",
-              "bbox": [
-                171.23,
-                406.44,
-                200.25,
-                415.94
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                202.62,
-                406.44,
-                218.98,
-                415.94
-              ]
-            },
-            {
-              "text": "ME5024",
-              "bbox": [
-                221.36,
-                406.44,
-                254.61,
-                415.94
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 2,
-          "cell_bbox": [
-            264.81,
-            399.42,
-            39.01,
-            22.03
-          ],
-          "text": "Hệ",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                278.35,
-                406.44,
-                290.29,
-                416.67
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 3,
-          "cell_bbox": [
-            303.82,
-            399.42,
-            34.07,
-            22.03
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                316.11,
-                406.2,
-                325.61,
-                415.7
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 4,
-          "cell_bbox": [
-            337.89,
-            399.42,
-            97.29,
-            22.03
-          ],
-          "text": "450.000.000",
-          "text_segments": [
-            {
-              "text": "450.000.000",
-              "bbox": [
-                382.8,
-                406.2,
-                430.3,
-                415.7
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            399.42,
-            105.82,
-            22.03
-          ],
-          "text": "450.000.000",
-          "text_segments": [
-            {
-              "text": "450.000.000",
-              "bbox": [
-                489.88,
-                406.2,
-                537.38,
-                415.7
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            421.45,
-            27.82,
-            22.03
-          ],
-          "text": "3",
-          "text_segments": [
-            {
-              "text": "3",
-              "bbox": [
-                64.5,
-                428.23,
-                69.25,
-                437.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 1,
-          "cell_bbox": [
-            80.73,
-            421.45,
-            184.09,
-            22.03
-          ],
-          "text": "Thiết bị switch Cisco Nexus 9300",
-          "text_segments": [
-            {
-              "text": "Thiết",
-              "bbox": [
-                85.6,
-                428.47,
-                106.52,
-                438.7
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                108.9,
-                428.47,
-                116.69,
-                438.7
-              ]
-            },
-            {
-              "text": "switch",
-              "bbox": [
-                119.06,
-                428.47,
-                143.87,
-                437.97
-              ]
-            },
-            {
-              "text": "Cisco",
-              "bbox": [
-                146.24,
-                428.47,
-                167.88,
-                437.97
-              ]
-            },
-            {
-              "text": "Nexus",
-              "bbox": [
-                170.26,
-                428.47,
-                194.53,
-                437.97
-              ]
-            },
-            {
-              "text": "9300",
-              "bbox": [
-                196.9,
-                428.47,
-                215.9,
-                437.97
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 2,
-          "cell_bbox": [
-            264.81,
-            421.45,
-            39.01,
-            22.03
-          ],
-          "text": "Cái",
-          "text_segments": [
-            {
-              "text": "Cái",
-              "bbox": [
-                277.72,
-                428.23,
-                290.92,
-                437.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 3,
-          "cell_bbox": [
-            303.82,
-            421.45,
-            34.07,
-            22.03
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                316.11,
-                428.23,
-                325.61,
-                437.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 4,
-          "cell_bbox": [
-            337.89,
-            421.45,
-            97.29,
-            22.03
-          ],
-          "text": "90.000.000",
-          "text_segments": [
-            {
-              "text": "90.000.000",
-              "bbox": [
-                387.55,
-                428.23,
-                430.3,
-                437.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            421.45,
-            105.82,
-            22.03
-          ],
-          "text": "180.000.000",
-          "text_segments": [
-            {
-              "text": "180.000.000",
-              "bbox": [
-                489.88,
-                428.23,
-                537.38,
-                437.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            443.49,
-            382.28,
-            22.03
-          ],
-          "text": "Cộng tiền hàng (chưa có thuế GTGT):",
-          "text_segments": [
-            {
-              "text": "Cộng",
-              "bbox": [
-                270.05,
-                450.5,
-                292.76,
-                460.73
-              ]
-            },
-            {
-              "text": "tiền",
-              "bbox": [
-                295.14,
-                450.5,
-                311.65,
-                460.73
-              ]
-            },
-            {
-              "text": "hàng",
-              "bbox": [
-                314.03,
-                450.5,
-                334.09,
-                460.0
-              ]
-            },
-            {
-              "text": "(chưa",
-              "bbox": [
-                336.46,
-                450.5,
-                361.27,
-                460.73
-              ]
-            },
-            {
-              "text": "có",
-              "bbox": [
-                363.64,
-                450.5,
-                372.61,
-                460.0
-              ]
-            },
-            {
-              "text": "thuế",
-              "bbox": [
-                374.99,
-                450.5,
-                394.14,
-                460.73
-              ]
-            },
-            {
-              "text": "GTGT):",
-              "bbox": [
-                396.51,
-                450.5,
-                430.3,
-                460.0
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            443.49,
-            105.82,
-            22.03
-          ],
-          "text": "1.400.000.000",
-          "text_segments": [
-            {
-              "text": "1.400.000.000",
-              "bbox": [
-                482.75,
-                450.26,
-                537.38,
-                459.76
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 5,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            465.52,
-            382.28,
-            22.03
-          ],
-          "text": "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
-          "text_segments": [
-            {
-              "text": "Thuế",
-              "bbox": [
-                265.97,
-                472.53,
-                286.36,
-                482.76
-              ]
-            },
-            {
-              "text": "suất",
-              "bbox": [
-                288.73,
-                472.53,
-                305.17,
-                482.76
-              ]
-            },
-            {
-              "text": "GTGT:",
-              "bbox": [
-                307.54,
-                472.53,
-                335.05,
-                482.03
-              ]
-            },
-            {
-              "text": "10%",
-              "bbox": [
-                337.41,
-                472.53,
-                356.41,
-                482.03
-              ]
-            },
-            {
-              "text": "|",
-              "bbox": [
-                358.79,
-                472.53,
-                360.69,
-                482.03
-              ]
-            },
-            {
-              "text": "Tiền",
-              "bbox": [
-                362.89,
-                472.53,
-                380.84,
-                482.76
-              ]
-            },
-            {
-              "text": "thuế",
-              "bbox": [
-                383.22,
-                472.53,
-                400.44,
-                482.76
-              ]
-            },
-            {
-              "text": "GTGT:",
-              "bbox": [
-                402.81,
-                472.53,
-                430.32,
-                482.03
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 5,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            465.52,
-            105.82,
-            22.03
-          ],
-          "text": "140.000.000",
-          "text_segments": [
-            {
-              "text": "140.000.000",
-              "bbox": [
-                489.88,
-                472.29,
-                537.38,
-                481.79
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 6,
-          "col_index": 0,
-          "cell_bbox": [
-            52.9,
-            487.55,
-            382.28,
-            22.76
-          ],
-          "text": "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
-          "text_segments": [
-            {
-              "text": "TỔNG",
-              "bbox": [
-                195.61,
-                494.71,
-                225.15,
-                505.48
-              ]
-            },
-            {
-              "text": "CỘNG",
-              "bbox": [
-                227.65,
-                494.71,
-                257.74,
-                505.48
-              ]
-            },
-            {
-              "text": "TIỀN",
-              "bbox": [
-                260.06,
-                494.71,
-                284.37,
-                505.48
-              ]
-            },
-            {
-              "text": "THANH",
-              "bbox": [
-                286.69,
-                494.71,
-                323.36,
-                504.71
-              ]
-            },
-            {
-              "text": "TOÁN",
-              "bbox": [
-                325.68,
-                494.71,
-                354.39,
-                504.71
-              ]
-            },
-            {
-              "text": "(ĐÃ",
-              "bbox": [
-                356.89,
-                494.71,
-                374.66,
-                504.71
-              ]
-            },
-            {
-              "text": "GỒM",
-              "bbox": [
-                377.16,
-                494.71,
-                402.25,
-                505.48
-              ]
-            },
-            {
-              "text": "VAT):",
-              "bbox": [
-                404.57,
-                494.71,
-                430.32,
-                504.71
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 6,
-          "col_index": 5,
-          "cell_bbox": [
-            435.18,
-            487.55,
-            105.82,
-            22.76
-          ],
-          "text": "1.540.000.000",
-          "text_segments": [
-            {
-              "text": "1.540.000.000",
-              "bbox": [
-                479.88,
-                494.46,
-                537.38,
-                504.46
-              ]
-            }
-          ]
-        }
-      ]
+      "markdown": "| STT                                     | Tên hàng hóa, dịch vụ                    | ĐVT | SL  | Đơn giá (VNĐ) | Thành tiền (VNĐ) |\n| --------------------------------------- | ---------------------------------------- | --- | --- | ------------- | ---------------- |\n| 1                                       | Hệ thống Máy chủ Dell PowerEdge R760     | Bộ  | 02  | 385.000.000   | 770.000.000      |\n| 2                                       | Thiết bị lưu trữ SAN Storage Dell ME5024 | Hệ  | 01  | 450.000.000   | 450.000.000      |\n| 3                                       | Thiết bị switch Cisco Nexus 9300         | Cái | 02  | 90.000.000    | 180.000.000      |\n| Cộng tiền hàng (chưa có thuế GTGT):     |                                          |     |     |               | 1.400.000.000    |\n| Thuế suất GTGT: 10% | Tiền thuế GTGT:   |                                          |     |     |               | 140.000.000      |\n| TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT): |                                          |     |     |               | 1.540.000.000    |"
     },
     {
+      "type": "table",
       "page": 3,
       "detection_method": "pdfplumber_digital",
-      "num_rows": 5,
-      "num_cols": 7,
-      "matrix": [
-        [
-          "STT",
-          "Tên, nhãn hiệu, quy cách phẩm chất vật tư",
-          "Mã số",
-          "ĐVT",
-          "Số lượng",
-          "",
-          "Thời hạn bảo hành"
-        ],
+      "headers": [
+        "STT",
+        "Tên, nhãn hiệu, quy cách phẩm chất vật\ntư",
+        "Mã số",
+        "ĐVT",
+        "Số lượng",
+        "",
+        "Thời hạn bảo hành"
+      ],
+      "rows": [
         [
           "",
           "",
           "",
           "",
-          "Yêu cầu",
-          "Thực xuất",
+          "Yêu\ncầu",
+          "Thực\nxuất",
           ""
         ],
         [
           "1",
-          "Hệ thống Server Dell PowerEdge R760 (Dual Xeon)",
+          "Hệ thống Server Dell PowerEdge R760\n(Dual Xeon)",
           "SRV-R760",
           "Bộ",
           "02",
@@ -3408,8 +1878,8 @@
         ],
         [
           "2",
-          "Thiết bị lưu trữ SAN Dell PowerVault ME5024",
-          "SAN- ME5024",
+          "Thiết bị lưu trữ SAN Dell PowerVault\nME5024",
+          "SAN-\nME5024",
           "Hệ",
           "01",
           "01",
@@ -3425,1042 +1895,1610 @@
           "36 tháng (đến 28/08/2029)"
         ]
       ],
-      "cells": [
-        {
-          "row_index": 0,
-          "col_index": 0,
-          "cell_bbox": [
-            42.89,
-            197.55,
-            27.71,
-            57.84
-          ],
-          "text": "STT",
-          "text_segments": [
-            {
-              "text": "STT",
-              "bbox": [
-                47.77,
-                222.23,
-                65.72,
-                231.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            197.55,
-            177.17,
-            57.84
-          ],
-          "text": "Tên, nhãn hiệu, quy cách phẩm chất vật tư",
-          "text_segments": [
-            {
-              "text": "Tên,",
-              "bbox": [
-                76.01,
-                215.58,
-                94.22,
-                225.08
-              ]
-            },
-            {
-              "text": "nhãn",
-              "bbox": [
-                96.59,
-                215.58,
-                117.19,
-                225.08
-              ]
-            },
-            {
-              "text": "hiệu,",
-              "bbox": [
-                119.56,
-                215.58,
-                140.57,
-                225.81
-              ]
-            },
-            {
-              "text": "quy",
-              "bbox": [
-                142.94,
-                215.58,
-                158.26,
-                225.08
-              ]
-            },
-            {
-              "text": "cách",
-              "bbox": [
-                160.63,
-                215.58,
-                179.1,
-                225.08
-              ]
-            },
-            {
-              "text": "phẩm",
-              "bbox": [
-                181.48,
-                215.58,
-                205.64,
-                225.81
-              ]
-            },
-            {
-              "text": "chất",
-              "bbox": [
-                208.02,
-                215.58,
-                226.37,
-                225.81
-              ]
-            },
-            {
-              "text": "vật",
-              "bbox": [
-                228.75,
-                215.58,
-                242.35,
-                225.81
-              ]
-            },
-            {
-              "text": "tư",
-              "bbox": [
-                153.91,
-                229.36,
-                164.47,
-                239.59
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 2,
-          "cell_bbox": [
-            247.78,
-            197.55,
-            60.97,
-            57.84
-          ],
-          "text": "Mã số",
-          "text_segments": [
-            {
-              "text": "Mã",
-              "bbox": [
-                265.45,
-                222.47,
-                279.17,
-                231.97
-              ]
-            },
-            {
-              "text": "số",
-              "bbox": [
-                281.55,
-                222.47,
-                291.07,
-                232.7
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 3,
-          "cell_bbox": [
-            308.75,
-            197.55,
-            40.66,
-            57.84
-          ],
-          "text": "ĐVT",
-          "text_segments": [
-            {
-              "text": "ĐVT",
-              "bbox": [
-                319.05,
-                222.23,
-                339.1,
-                231.73
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 4,
-          "cell_bbox": [
-            349.4,
-            197.55,
-            81.31,
-            22.03
-          ],
-          "text": "Số lượng",
-          "text_segments": [
-            {
-              "text": "Số",
-              "bbox": [
-                370.1,
-                204.57,
-                381.21,
-                214.8
-              ]
-            },
-            {
-              "text": "lượng",
-              "bbox": [
-                383.58,
-                204.57,
-                410.01,
-                214.8
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 0,
-          "col_index": 6,
-          "cell_bbox": [
-            430.71,
-            197.55,
-            121.67,
-            57.84
-          ],
-          "text": "Thời hạn bảo hành",
-          "text_segments": [
-            {
-              "text": "Thời",
-              "bbox": [
-                451.38,
-                222.47,
-                472.0,
-                232.7
-              ]
-            },
-            {
-              "text": "hạn",
-              "bbox": [
-                474.38,
-                222.47,
-                490.63,
-                232.7
-              ]
-            },
-            {
-              "text": "bảo",
-              "bbox": [
-                493.01,
-                222.47,
-                508.73,
-                232.7
-              ]
-            },
-            {
-              "text": "hành",
-              "bbox": [
-                511.11,
-                222.47,
-                531.7,
-                231.97
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 4,
-          "cell_bbox": [
-            349.4,
-            219.58,
-            40.62,
-            35.81
-          ],
-          "text": "Yêu cầu",
-          "text_segments": [
-            {
-              "text": "Yêu",
-              "bbox": [
-                361.54,
-                226.36,
-                377.89,
-                235.86
-              ]
-            },
-            {
-              "text": "cầu",
-              "bbox": [
-                362.12,
-                240.14,
-                377.31,
-                250.37
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 1,
-          "col_index": 5,
-          "cell_bbox": [
-            390.03,
-            219.58,
-            40.69,
-            35.81
-          ],
-          "text": "Thực xuất",
-          "text_segments": [
-            {
-              "text": "Thực",
-              "bbox": [
-                398.76,
-                226.6,
-                421.98,
-                236.83
-              ]
-            },
-            {
-              "text": "xuất",
-              "bbox": [
-                400.93,
-                240.38,
-                419.81,
-                250.61
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 0,
-          "cell_bbox": [
-            42.89,
-            255.4,
-            27.71,
-            35.33
-          ],
-          "text": "1",
-          "text_segments": [
-            {
-              "text": "1",
-              "bbox": [
-                54.37,
-                268.82,
-                59.12,
-                278.32
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            255.4,
-            177.17,
-            35.33
-          ],
-          "text": "Hệ thống Server Dell PowerEdge R760 (Dual Xeon)",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                75.48,
-                262.41,
-                87.42,
-                272.64
-              ]
-            },
-            {
-              "text": "thống",
-              "bbox": [
-                89.79,
-                262.41,
-                112.17,
-                272.64
-              ]
-            },
-            {
-              "text": "Server",
-              "bbox": [
-                114.54,
-                262.41,
-                139.34,
-                271.91
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                141.71,
-                262.41,
-                158.07,
-                271.91
-              ]
-            },
-            {
-              "text": "PowerEdge",
-              "bbox": [
-                160.45,
-                262.41,
-                204.24,
-                271.91
-              ]
-            },
-            {
-              "text": "R760",
-              "bbox": [
-                206.62,
-                262.41,
-                227.2,
-                271.91
-              ]
-            },
-            {
-              "text": "(Dual",
-              "bbox": [
-                75.48,
-                275.71,
-                97.11,
-                285.21
-              ]
-            },
-            {
-              "text": "Xeon)",
-              "bbox": [
-                99.48,
-                275.71,
-                123.22,
-                285.21
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 2,
-          "cell_bbox": [
-            247.78,
-            255.4,
-            60.97,
-            35.33
-          ],
-          "text": "SRV-R760",
-          "text_segments": [
-            {
-              "text": "SRV-R760",
-              "bbox": [
-                257.96,
-                268.82,
-                298.56,
-                278.32
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 3,
-          "cell_bbox": [
-            308.75,
-            255.4,
-            40.66,
-            35.33
-          ],
-          "text": "Bộ",
-          "text_segments": [
-            {
-              "text": "Bộ",
-              "bbox": [
-                323.17,
-                269.06,
-                334.98,
-                279.29
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 4,
-          "cell_bbox": [
-            349.4,
-            255.4,
-            40.62,
-            35.33
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                364.97,
-                268.82,
-                374.47,
-                278.32
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 5,
-          "cell_bbox": [
-            390.03,
-            255.4,
-            40.69,
-            35.33
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                405.62,
-                268.82,
-                415.12,
-                278.32
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 2,
-          "col_index": 6,
-          "cell_bbox": [
-            430.71,
-            255.4,
-            121.67,
-            35.33
-          ],
-          "text": "36 tháng (đến 28/08/2029)",
-          "text_segments": [
-            {
-              "text": "36",
-              "bbox": [
-                440.58,
-                269.06,
-                450.08,
-                278.56
-              ]
-            },
-            {
-              "text": "tháng",
-              "bbox": [
-                452.46,
-                269.06,
-                473.57,
-                278.56
-              ]
-            },
-            {
-              "text": "(đến",
-              "bbox": [
-                475.94,
-                269.06,
-                493.69,
-                279.29
-              ]
-            },
-            {
-              "text": "28/08/2029)",
-              "bbox": [
-                496.06,
-                269.06,
-                542.51,
-                278.56
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 0,
-          "cell_bbox": [
-            42.89,
-            290.73,
-            27.71,
-            35.33
-          ],
-          "text": "2",
-          "text_segments": [
-            {
-              "text": "2",
-              "bbox": [
-                54.37,
-                304.15,
-                59.12,
-                313.65
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            290.73,
-            177.17,
-            35.33
-          ],
-          "text": "Thiết bị lưu trữ SAN Dell PowerVault ME5024",
-          "text_segments": [
-            {
-              "text": "Thiết",
-              "bbox": [
-                75.48,
-                297.74,
-                96.4,
-                307.97
-              ]
-            },
-            {
-              "text": "bị",
-              "bbox": [
-                98.77,
-                297.74,
-                106.56,
-                307.97
-              ]
-            },
-            {
-              "text": "lưu",
-              "bbox": [
-                108.94,
-                297.74,
-                122.75,
-                307.97
-              ]
-            },
-            {
-              "text": "trữ",
-              "bbox": [
-                125.12,
-                297.74,
-                137.35,
-                307.97
-              ]
-            },
-            {
-              "text": "SAN",
-              "bbox": [
-                139.73,
-                297.74,
-                158.73,
-                307.24
-              ]
-            },
-            {
-              "text": "Dell",
-              "bbox": [
-                161.1,
-                297.74,
-                177.46,
-                307.24
-              ]
-            },
-            {
-              "text": "PowerVault",
-              "bbox": [
-                179.83,
-                297.74,
-                224.17,
-                307.24
-              ]
-            },
-            {
-              "text": "ME5024",
-              "bbox": [
-                75.48,
-                311.04,
-                108.73,
-                320.54
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 2,
-          "cell_bbox": [
-            247.78,
-            290.73,
-            60.97,
-            35.33
-          ],
-          "text": "SAN- ME5024",
-          "text_segments": [
-            {
-              "text": "SAN-",
-              "bbox": [
-                267.18,
-                297.5,
-                289.34,
-                307.0
-              ]
-            },
-            {
-              "text": "ME5024",
-              "bbox": [
-                261.63,
-                310.8,
-                294.88,
-                320.3
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 3,
-          "cell_bbox": [
-            308.75,
-            290.73,
-            40.66,
-            35.33
-          ],
-          "text": "Hệ",
-          "text_segments": [
-            {
-              "text": "Hệ",
-              "bbox": [
-                323.1,
-                304.39,
-                335.04,
-                314.62
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 4,
-          "cell_bbox": [
-            349.4,
-            290.73,
-            40.62,
-            35.33
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                364.97,
-                304.15,
-                374.47,
-                313.65
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 5,
-          "cell_bbox": [
-            390.03,
-            290.73,
-            40.69,
-            35.33
-          ],
-          "text": "01",
-          "text_segments": [
-            {
-              "text": "01",
-              "bbox": [
-                405.62,
-                304.15,
-                415.12,
-                313.65
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 3,
-          "col_index": 6,
-          "cell_bbox": [
-            430.71,
-            290.73,
-            121.67,
-            35.33
-          ],
-          "text": "36 tháng (đến 28/08/2029)",
-          "text_segments": [
-            {
-              "text": "36",
-              "bbox": [
-                440.58,
-                304.39,
-                450.08,
-                313.89
-              ]
-            },
-            {
-              "text": "tháng",
-              "bbox": [
-                452.46,
-                304.39,
-                473.57,
-                313.89
-              ]
-            },
-            {
-              "text": "(đến",
-              "bbox": [
-                475.94,
-                304.39,
-                493.69,
-                314.62
-              ]
-            },
-            {
-              "text": "28/08/2029)",
-              "bbox": [
-                496.06,
-                304.39,
-                542.51,
-                313.89
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 0,
-          "cell_bbox": [
-            42.89,
-            326.06,
-            27.71,
-            22.03
-          ],
-          "text": "3",
-          "text_segments": [
-            {
-              "text": "3",
-              "bbox": [
-                54.37,
-                332.83,
-                59.12,
-                342.33
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 1,
-          "cell_bbox": [
-            70.6,
-            326.06,
-            177.17,
-            22.03
-          ],
-          "text": "Switch mạng Core Cisco Nexus 9300",
-          "text_segments": [
-            {
-              "text": "Switch",
-              "bbox": [
-                75.48,
-                333.07,
-                101.87,
-                342.57
-              ]
-            },
-            {
-              "text": "mạng",
-              "bbox": [
-                104.24,
-                333.07,
-                126.48,
-                343.3
-              ]
-            },
-            {
-              "text": "Core",
-              "bbox": [
-                128.86,
-                333.07,
-                147.33,
-                342.57
-              ]
-            },
-            {
-              "text": "Cisco",
-              "bbox": [
-                149.7,
-                333.07,
-                171.34,
-                342.57
-              ]
-            },
-            {
-              "text": "Nexus",
-              "bbox": [
-                173.72,
-                333.07,
-                197.99,
-                342.57
-              ]
-            },
-            {
-              "text": "9300",
-              "bbox": [
-                200.36,
-                333.07,
-                219.36,
-                342.57
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 2,
-          "cell_bbox": [
-            247.78,
-            326.06,
-            60.97,
-            22.03
-          ],
-          "text": "SW-N9300",
-          "text_segments": [
-            {
-              "text": "SW-N9300",
-              "bbox": [
-                256.88,
-                332.83,
-                299.63,
-                342.33
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 3,
-          "cell_bbox": [
-            308.75,
-            326.06,
-            40.66,
-            22.03
-          ],
-          "text": "Cái",
-          "text_segments": [
-            {
-              "text": "Cái",
-              "bbox": [
-                322.48,
-                332.83,
-                335.67,
-                342.33
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 4,
-          "cell_bbox": [
-            349.4,
-            326.06,
-            40.62,
-            22.03
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                364.97,
-                332.83,
-                374.47,
-                342.33
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 5,
-          "cell_bbox": [
-            390.03,
-            326.06,
-            40.69,
-            22.03
-          ],
-          "text": "02",
-          "text_segments": [
-            {
-              "text": "02",
-              "bbox": [
-                405.62,
-                332.83,
-                415.12,
-                342.33
-              ]
-            }
-          ]
-        },
-        {
-          "row_index": 4,
-          "col_index": 6,
-          "cell_bbox": [
-            430.71,
-            326.06,
-            121.67,
-            22.03
-          ],
-          "text": "36 tháng (đến 28/08/2029)",
-          "text_segments": [
-            {
-              "text": "36",
-              "bbox": [
-                440.58,
-                333.07,
-                450.08,
-                342.57
-              ]
-            },
-            {
-              "text": "tháng",
-              "bbox": [
-                452.46,
-                333.07,
-                473.57,
-                342.57
-              ]
-            },
-            {
-              "text": "(đến",
-              "bbox": [
-                475.94,
-                333.07,
-                493.69,
-                343.3
-              ]
-            },
-            {
-              "text": "28/08/2029)",
-              "bbox": [
-                496.06,
-                333.07,
-                542.51,
-                342.57
-              ]
-            }
-          ]
-        }
-      ]
+      "matrix": [
+        [
+          "STT",
+          "Tên, nhãn hiệu, quy cách phẩm chất vật\ntư",
+          "Mã số",
+          "ĐVT",
+          "Số lượng",
+          "",
+          "Thời hạn bảo hành"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Yêu\ncầu",
+          "Thực\nxuất",
+          ""
+        ],
+        [
+          "1",
+          "Hệ thống Server Dell PowerEdge R760\n(Dual Xeon)",
+          "SRV-R760",
+          "Bộ",
+          "02",
+          "02",
+          "36 tháng (đến 28/08/2029)"
+        ],
+        [
+          "2",
+          "Thiết bị lưu trữ SAN Dell PowerVault\nME5024",
+          "SAN-\nME5024",
+          "Hệ",
+          "01",
+          "01",
+          "36 tháng (đến 28/08/2029)"
+        ],
+        [
+          "3",
+          "Switch mạng Core Cisco Nexus 9300",
+          "SW-N9300",
+          "Cái",
+          "02",
+          "02",
+          "36 tháng (đến 28/08/2029)"
+        ]
+      ],
+      "markdown": "| STT | Tên, nhãn hiệu, quy cách phẩm chất vật tư       | Mã số       | ĐVT | Số lượng |           | Thời hạn bảo hành         |\n| --- | ----------------------------------------------- | ----------- | --- | -------- | --------- | ------------------------- |\n|     |                                                 |             |     | Yêu cầu  | Thực xuất |                           |\n| 1   | Hệ thống Server Dell PowerEdge R760 (Dual Xeon) | SRV-R760    | Bộ  | 02       | 02        | 36 tháng (đến 28/08/2029) |\n| 2   | Thiết bị lưu trữ SAN Dell PowerVault ME5024     | SAN- ME5024 | Hệ  | 01       | 01        | 36 tháng (đến 28/08/2029) |\n| 3   | Switch mạng Core Cisco Nexus 9300               | SW-N9300    | Cái | 02       | 02        | 36 tháng (đến 28/08/2029) |"
+    }
+  ],
+  "ocr_lines": [
+    {
+      "index": 1,
+      "page": 1,
+      "text": "TÂN THỊNH PHÁT CORP",
+      "confidence": null
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "text": "Số: 08/2026/BBBG-TTP",
+      "confidence": null
+    },
+    {
+      "index": 3,
+      "page": 1,
+      "text": "V/v: Bàn giao thiết bị hạ tầng CNTT",
+      "confidence": null
+    },
+    {
+      "index": 4,
+      "page": 1,
+      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "confidence": null
+    },
+    {
+      "index": 5,
+      "page": 1,
+      "text": "Độc lập – Tự do – Hạnh phúc",
+      "confidence": null
+    },
+    {
+      "index": 6,
+      "page": 1,
+      "text": "BIÊN BẢN BÀN GIAO VÀ NGHIỆM THU TÀI SẢN",
+      "confidence": null
+    },
+    {
+      "index": 7,
+      "page": 1,
+      "text": "(Căn cứ theo Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
+      "confidence": null
+    },
+    {
+      "index": 8,
+      "page": 1,
+      "text": "Hôm nay, ngày 28 tháng 08 năm 2026, tại Phòng Máy chủ - Tầng 8, Tòa nhà Á Châu, Số 88 Láng Hạ, Đống Đa, Hà Nội, hai",
+      "confidence": null
+    },
+    {
+      "index": 9,
+      "page": 1,
+      "text": "bên gồm có:",
+      "confidence": null
+    },
+    {
+      "index": 10,
+      "page": 1,
+      "text": "BÊN GIAO (BÊN A): CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+      "confidence": null
+    },
+    {
+      "index": 11,
+      "page": 1,
+      "text": "Đại diện",
+      "confidence": null
+    },
+    {
+      "index": 12,
+      "page": 1,
+      "text": ": Ông Nguyễn Văn Hùng Chức vụ: Tổng Giám đốc",
+      "confidence": null
+    },
+    {
+      "index": 13,
+      "page": 1,
+      "text": "Cán bộ kỹ thuật bàn giao",
+      "confidence": null
+    },
+    {
+      "index": 14,
+      "page": 1,
+      "text": ": Ông Lê Hoàng Nam Chức vụ: Trưởng phòng Kỹ thuật",
+      "confidence": null
+    },
+    {
+      "index": 15,
+      "page": 1,
+      "text": "BÊN NHẬN (BÊN B): CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+      "confidence": null
+    },
+    {
+      "index": 16,
+      "page": 1,
+      "text": "Đại diện",
+      "confidence": null
+    },
+    {
+      "index": 17,
+      "page": 1,
+      "text": ": Bà Trần Thị Minh Phương Chức vụ: Giám đốc Điều hành",
+      "confidence": null
+    },
+    {
+      "index": 18,
+      "page": 1,
+      "text": "Cán bộ kỹ thuật tiếp nhận",
+      "confidence": null
+    },
+    {
+      "index": 19,
+      "page": 1,
+      "text": ": Ông Vũ Tuấn Anh Chức vụ: Trưởng phòng Hạ tầng CNTT",
+      "confidence": null
+    },
+    {
+      "index": 20,
+      "page": 1,
+      "text": "Hai bên cùng tiến hành bàn giao, kiểm tra và nghiệm thu các hạng mục tài sản dưới đây:",
+      "confidence": null
+    },
+    {
+      "index": 21,
+      "page": 1,
+      "text": "STT",
+      "confidence": null
+    },
+    {
+      "index": 22,
+      "page": 1,
+      "text": "Tên thiết bị / Tài sản",
+      "confidence": null
+    },
+    {
+      "index": 23,
+      "page": 1,
+      "text": "Ký hiệu / Số Serial (S/N)",
+      "confidence": null
+    },
+    {
+      "index": 24,
+      "page": 1,
+      "text": "ĐVT",
+      "confidence": null
+    },
+    {
+      "index": 25,
+      "page": 1,
+      "text": "SL",
+      "confidence": null
+    },
+    {
+      "index": 26,
+      "page": 1,
+      "text": "Tình trạng thực tế",
+      "confidence": null
+    },
+    {
+      "index": 27,
+      "page": 1,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 28,
+      "page": 1,
+      "text": "Máy chủ Dell PowerEdge R760",
+      "confidence": null
+    },
+    {
+      "index": 29,
+      "page": 1,
+      "text": "2x Xeon Gold 6430 / 256GB / 4x 1.92TB",
+      "confidence": null
+    },
+    {
+      "index": 30,
+      "page": 1,
+      "text": "S/N: CN-0H987G-71623",
+      "confidence": null
+    },
+    {
+      "index": 31,
+      "page": 1,
+      "text": "S/N: CN-0H987G-71624",
+      "confidence": null
+    },
+    {
+      "index": 32,
+      "page": 1,
+      "text": "Bộ",
+      "confidence": null
+    },
+    {
+      "index": 33,
+      "page": 1,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 34,
+      "page": 1,
+      "text": "Mới 100%, nguyên seal,",
+      "confidence": null
+    },
+    {
+      "index": 35,
+      "page": 1,
+      "text": "chạy test PASS, đủ phụ",
+      "confidence": null
+    },
+    {
+      "index": 36,
+      "page": 1,
+      "text": "kiện ray-kit",
+      "confidence": null
+    },
+    {
+      "index": 37,
+      "page": 1,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 38,
+      "page": 1,
+      "text": "Hệ thống SAN Dell ME5024",
+      "confidence": null
+    },
+    {
+      "index": 39,
+      "page": 1,
+      "text": "Dual FC 16G, 24x 2.4TB SAS 10K",
+      "confidence": null
+    },
+    {
+      "index": 40,
+      "page": 1,
+      "text": "S/N: DL-ME5024-88902",
+      "confidence": null
+    },
+    {
+      "index": 41,
+      "page": 1,
+      "text": "Hệ",
+      "confidence": null
+    },
+    {
+      "index": 42,
+      "page": 1,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 43,
+      "page": 1,
+      "text": "Mới 100%, hoạt động ổn",
+      "confidence": null
+    },
+    {
+      "index": 44,
+      "page": 1,
+      "text": "định, phân vùng RAID sẵn",
+      "confidence": null
+    },
+    {
+      "index": 45,
+      "page": 1,
+      "text": "sàng",
+      "confidence": null
+    },
+    {
+      "index": 46,
+      "page": 1,
+      "text": "03",
+      "confidence": null
+    },
+    {
+      "index": 47,
+      "page": 1,
+      "text": "Switch Cisco Nexus 9300",
+      "confidence": null
+    },
+    {
+      "index": 48,
+      "page": 1,
+      "text": "48x 10/25G SFP28 + 6x 100G QSFP28",
+      "confidence": null
+    },
+    {
+      "index": 49,
+      "page": 1,
+      "text": "S/N: FOC24480A12",
+      "confidence": null
+    },
+    {
+      "index": 50,
+      "page": 1,
+      "text": "S/N: FOC24480A13",
+      "confidence": null
+    },
+    {
+      "index": 51,
+      "page": 1,
+      "text": "Cái",
+      "confidence": null
+    },
+    {
+      "index": 52,
+      "page": 1,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 53,
+      "page": 1,
+      "text": "Mới 100%, cổng kết nối đạt",
+      "confidence": null
+    },
+    {
+      "index": 54,
+      "page": 1,
+      "text": "chuẩn tốc độ",
+      "confidence": null
+    },
+    {
+      "index": 55,
+      "page": 1,
+      "text": "Hồ sơ, chứng từ kèm theo:",
+      "confidence": null
+    },
+    {
+      "index": 56,
+      "page": 1,
+      "text": "01 Bản gốc Giấy chứng nhận xuất xứ (C/O) số CO-VN-2026-8819 và Chứng nhận chất lượng (C/Q).",
+      "confidence": null
+    },
+    {
+      "index": 57,
+      "page": 1,
+      "text": "03 Phiếu bảo hành chính hãng có giá trị 36 tháng kể từ ngày ký biên bản.",
+      "confidence": null
+    },
+    {
+      "index": 58,
+      "page": 1,
+      "text": "Bộ đĩa phần mềm bản quyền quản trị và tài liệu hướng dẫn vận hành hệ thống.",
+      "confidence": null
+    },
+    {
+      "index": 59,
+      "page": 1,
+      "text": "Kết luận: Bên B đã nhận đủ toàn bộ số lượng, chủng loại tài sản và hồ sơ kèm theo. Thiết bị đã được lắp đặt hoàn chỉnh",
+      "confidence": null
+    },
+    {
+      "index": 60,
+      "page": 1,
+      "text": "lên tủ rack và chạy thử nghiệm đạt yêu cầu kỹ thuật.",
+      "confidence": null
+    },
+    {
+      "index": 61,
+      "page": 1,
+      "text": "KỸ THUẬT BÊN GIAO",
+      "confidence": null
+    },
+    {
+      "index": 62,
+      "page": 1,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 63,
+      "page": 1,
+      "text": "Lê Hoàng Nam",
+      "confidence": null
+    },
+    {
+      "index": 64,
+      "page": 1,
+      "text": "KỸ THUẬT BÊN NHẬN",
+      "confidence": null
+    },
+    {
+      "index": 65,
+      "page": 1,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 66,
+      "page": 1,
+      "text": "Vũ Tuấn Anh",
+      "confidence": null
+    },
+    {
+      "index": 67,
+      "page": 1,
+      "text": "ĐẠI DIỆN BÊN GIAO (A)",
+      "confidence": null
+    },
+    {
+      "index": 68,
+      "page": 1,
+      "text": "(Ký, họ tên, đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 69,
+      "page": 1,
+      "text": "Nguyễn Văn Hùng",
+      "confidence": null
+    },
+    {
+      "index": 70,
+      "page": 1,
+      "text": "ĐẠI DIỆN BÊN NHẬN (B)",
+      "confidence": null
+    },
+    {
+      "index": 71,
+      "page": 1,
+      "text": "(Ký, họ tên, đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 72,
+      "page": 1,
+      "text": "Trần Thị Minh Phương",
+      "confidence": null
+    },
+    {
+      "index": 73,
+      "page": 1,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 74,
+      "page": 1,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 75,
+      "page": 1,
+      "text": "•",
+      "confidence": null
+    },
+    {
+      "index": 76,
+      "page": 1,
+      "text": "Trang 1 / 4",
+      "confidence": null
+    },
+    {
+      "index": 77,
+      "page": 2,
+      "text": "HÓA ĐƠN GIÁ TRỊ GIA TĂNG",
+      "confidence": null
+    },
+    {
+      "index": 78,
+      "page": 2,
+      "text": "(HÓA ĐƠN ĐIỆN TỬ)",
+      "confidence": null
+    },
+    {
+      "index": 79,
+      "page": 2,
+      "text": "Ngày 28 tháng 08 năm 2026",
+      "confidence": null
+    },
+    {
+      "index": 80,
+      "page": 2,
+      "text": "Mẫu số: 1/001",
+      "confidence": null
+    },
+    {
+      "index": 81,
+      "page": 2,
+      "text": "Ký hiệu: C26TTP",
+      "confidence": null
+    },
+    {
+      "index": 82,
+      "page": 2,
+      "text": "Số hóa đơn: 0001589",
+      "confidence": null
+    },
+    {
+      "index": 83,
+      "page": 2,
+      "text": "Mã CQT: 00E9F8A172B3802",
+      "confidence": null
+    },
+    {
+      "index": 84,
+      "page": 2,
+      "text": "I. ĐƠN VỊ BÁN HÀNG (SELLER)",
+      "confidence": null
+    },
+    {
+      "index": 85,
+      "page": 2,
+      "text": "Tên đơn vị bán",
+      "confidence": null
+    },
+    {
+      "index": 86,
+      "page": 2,
+      "text": ": CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ THIẾT BỊ TÂN THỊNH PHÁT",
+      "confidence": null
+    },
+    {
+      "index": 87,
+      "page": 2,
+      "text": "Mã số thuế",
+      "confidence": null
+    },
+    {
+      "index": 88,
+      "page": 2,
+      "text": ": 0108998877",
+      "confidence": null
+    },
+    {
+      "index": 89,
+      "page": 2,
+      "text": "Địa chỉ",
+      "confidence": null
+    },
+    {
+      "index": 90,
+      "page": 2,
+      "text": ": Tầng 6, Tòa Golden Palm, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP. Hà",
+      "confidence": null
+    },
+    {
+      "index": 91,
+      "page": 2,
+      "text": "Nội",
+      "confidence": null
+    },
+    {
+      "index": 92,
+      "page": 2,
+      "text": "Số tài khoản ngân hàng",
+      "confidence": null
+    },
+    {
+      "index": 93,
+      "page": 2,
+      "text": ": 19034567890011 tại Techcombank - Chi nhánh Thăng Long",
+      "confidence": null
+    },
+    {
+      "index": 94,
+      "page": 2,
+      "text": "II. ĐƠN VỊ MUA HÀNG (BUYER)",
+      "confidence": null
+    },
+    {
+      "index": 95,
+      "page": 2,
+      "text": "Tên đơn vị mua",
+      "confidence": null
+    },
+    {
+      "index": 96,
+      "page": 2,
+      "text": ": CÔNG TY CỔ PHẦN ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+      "confidence": null
+    },
+    {
+      "index": 97,
+      "page": 2,
+      "text": "Mã số thuế",
+      "confidence": null
+    },
+    {
+      "index": 98,
+      "page": 2,
+      "text": ": 0109112233",
+      "confidence": null
+    },
+    {
+      "index": 99,
+      "page": 2,
+      "text": "Địa chỉ",
+      "confidence": null
+    },
+    {
+      "index": 100,
+      "page": 2,
+      "text": ": Số 88 đường Láng Hạ, phường Láng Hạ, quận Đống Đa, TP. Hà Nội",
+      "confidence": null
+    },
+    {
+      "index": 101,
+      "page": 2,
+      "text": "Hình thức thanh toán",
+      "confidence": null
+    },
+    {
+      "index": 102,
+      "page": 2,
+      "text": ": Chuyển khoản (TM/CK) Số hợp đồng: 08/2026/HĐMB-TS",
+      "confidence": null
+    },
+    {
+      "index": 103,
+      "page": 2,
+      "text": "STT",
+      "confidence": null
+    },
+    {
+      "index": 104,
+      "page": 2,
+      "text": "Tên hàng hóa, dịch vụ",
+      "confidence": null
+    },
+    {
+      "index": 105,
+      "page": 2,
+      "text": "ĐVT",
+      "confidence": null
+    },
+    {
+      "index": 106,
+      "page": 2,
+      "text": "SL",
+      "confidence": null
+    },
+    {
+      "index": 107,
+      "page": 2,
+      "text": "Đơn giá (VNĐ)",
+      "confidence": null
+    },
+    {
+      "index": 108,
+      "page": 2,
+      "text": "Thành tiền (VNĐ)",
+      "confidence": null
+    },
+    {
+      "index": 109,
+      "page": 2,
+      "text": "1",
+      "confidence": null
+    },
+    {
+      "index": 110,
+      "page": 2,
+      "text": "Hệ thống Máy chủ Dell PowerEdge R760",
+      "confidence": null
+    },
+    {
+      "index": 111,
+      "page": 2,
+      "text": "Bộ",
+      "confidence": null
+    },
+    {
+      "index": 112,
+      "page": 2,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 113,
+      "page": 2,
+      "text": "385.000.000",
+      "confidence": null
+    },
+    {
+      "index": 114,
+      "page": 2,
+      "text": "770.000.000",
+      "confidence": null
+    },
+    {
+      "index": 115,
+      "page": 2,
+      "text": "2",
+      "confidence": null
+    },
+    {
+      "index": 116,
+      "page": 2,
+      "text": "Thiết bị lưu trữ SAN Storage Dell ME5024",
+      "confidence": null
+    },
+    {
+      "index": 117,
+      "page": 2,
+      "text": "Hệ",
+      "confidence": null
+    },
+    {
+      "index": 118,
+      "page": 2,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 119,
+      "page": 2,
+      "text": "450.000.000",
+      "confidence": null
+    },
+    {
+      "index": 120,
+      "page": 2,
+      "text": "450.000.000",
+      "confidence": null
+    },
+    {
+      "index": 121,
+      "page": 2,
+      "text": "3",
+      "confidence": null
+    },
+    {
+      "index": 122,
+      "page": 2,
+      "text": "Thiết bị switch Cisco Nexus 9300",
+      "confidence": null
+    },
+    {
+      "index": 123,
+      "page": 2,
+      "text": "Cái",
+      "confidence": null
+    },
+    {
+      "index": 124,
+      "page": 2,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 125,
+      "page": 2,
+      "text": "90.000.000",
+      "confidence": null
+    },
+    {
+      "index": 126,
+      "page": 2,
+      "text": "180.000.000",
+      "confidence": null
+    },
+    {
+      "index": 127,
+      "page": 2,
+      "text": "Cộng tiền hàng (chưa có thuế GTGT):",
+      "confidence": null
+    },
+    {
+      "index": 128,
+      "page": 2,
+      "text": "1.400.000.000",
+      "confidence": null
+    },
+    {
+      "index": 129,
+      "page": 2,
+      "text": "Thuế suất GTGT: 10% | Tiền thuế GTGT:",
+      "confidence": null
+    },
+    {
+      "index": 130,
+      "page": 2,
+      "text": "140.000.000",
+      "confidence": null
+    },
+    {
+      "index": 131,
+      "page": 2,
+      "text": "TỔNG CỘNG TIỀN THANH TOÁN (ĐÃ GỒM VAT):",
+      "confidence": null
+    },
+    {
+      "index": 132,
+      "page": 2,
+      "text": "1.540.000.000",
+      "confidence": null
+    },
+    {
+      "index": 133,
+      "page": 2,
+      "text": "Số tiền viết bằng chữ: Một tỷ năm trăm bốn mươi triệu đồng chẵn.",
+      "confidence": null
+    },
+    {
+      "index": 134,
+      "page": 2,
+      "text": "NGƯỜI MUA HÀNG",
+      "confidence": null
+    },
+    {
+      "index": 135,
+      "page": 2,
+      "text": "(Ký, ghi rõ họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 136,
+      "page": 2,
+      "text": "Trần Thị Minh Phương",
+      "confidence": null
+    },
+    {
+      "index": 137,
+      "page": 2,
+      "text": "QR Code",
+      "confidence": null
+    },
+    {
+      "index": 138,
+      "page": 2,
+      "text": "Tra cứu",
+      "confidence": null
+    },
+    {
+      "index": 139,
+      "page": 2,
+      "text": "NGƯỜI BÁN HÀNG",
+      "confidence": null
+    },
+    {
+      "index": 140,
+      "page": 2,
+      "text": "(Chữ ký số điện tử hợp lệ)",
+      "confidence": null
+    },
+    {
+      "index": 141,
+      "page": 2,
+      "text": "Signature Valid",
+      "confidence": null
+    },
+    {
+      "index": 142,
+      "page": 2,
+      "text": "Ký bởi: CÔNG TY CP CÔNG NGHỆ VÀ THIẾT BỊ",
+      "confidence": null
+    },
+    {
+      "index": 143,
+      "page": 2,
+      "text": "TÂN THỊNH PHÁT",
+      "confidence": null
+    },
+    {
+      "index": 144,
+      "page": 2,
+      "text": "Ngày ký: 28/08/2026 14:35:10",
+      "confidence": null
+    },
+    {
+      "index": 145,
+      "page": 2,
+      "text": "Trang 2 / 4",
+      "confidence": null
+    },
+    {
+      "index": 146,
+      "page": 3,
+      "text": "TÂN THỊNH PHÁT CORP",
+      "confidence": null
+    },
+    {
+      "index": 147,
+      "page": 3,
+      "text": "Mẫu số: 02-VT (Ban hành theo TT 200/2014/TT-BTC)",
+      "confidence": null
+    },
+    {
+      "index": 148,
+      "page": 3,
+      "text": "Kho xuất: Kho Tổng Kỹ Thuật (Hà Nội)",
+      "confidence": null
+    },
+    {
+      "index": 149,
+      "page": 3,
+      "text": "PHIẾU XUẤT KHO",
+      "confidence": null
+    },
+    {
+      "index": 150,
+      "page": 3,
+      "text": "Số PXK: XK-2026/0882",
+      "confidence": null
+    },
+    {
+      "index": 151,
+      "page": 3,
+      "text": "Ngày 28/08/2026",
+      "confidence": null
+    },
+    {
+      "index": 152,
+      "page": 3,
+      "text": "PHIẾU XUẤT KHO VẬT TƯ & THIẾT BỊ",
+      "confidence": null
+    },
+    {
+      "index": 153,
+      "page": 3,
+      "text": "(Kèm theo Lệnh xuất kho số 102/LXK ngày 27/08/2026)",
+      "confidence": null
+    },
+    {
+      "index": 154,
+      "page": 3,
+      "text": "Họ tên người nhận hàng",
+      "confidence": null
+    },
+    {
+      "index": 155,
+      "page": 3,
+      "text": ": Ông Vũ Tuấn Anh Đơn vị: Công ty CP Đầu tư & Công nghệ Á Châu",
+      "confidence": null
+    },
+    {
+      "index": 156,
+      "page": 3,
+      "text": "Lý do xuất kho",
+      "confidence": null
+    },
+    {
+      "index": 157,
+      "page": 3,
+      "text": ": Xuất bán và bàn giao theo Hợp đồng kinh tế số 08/2026/HĐMB-TS",
+      "confidence": null
+    },
+    {
+      "index": 158,
+      "page": 3,
+      "text": "Địa điểm giao nhận",
+      "confidence": null
+    },
+    {
+      "index": 159,
+      "page": 3,
+      "text": ": Tầng 8, Số 88 Láng Hạ, Q. Đống Đa, TP. Hà Nội",
+      "confidence": null
+    },
+    {
+      "index": 160,
+      "page": 3,
+      "text": "STT",
+      "confidence": null
+    },
+    {
+      "index": 161,
+      "page": 3,
+      "text": "Tên, nhãn hiệu, quy cách phẩm chất vật",
+      "confidence": null
+    },
+    {
+      "index": 162,
+      "page": 3,
+      "text": "tư",
+      "confidence": null
+    },
+    {
+      "index": 163,
+      "page": 3,
+      "text": "Mã số",
+      "confidence": null
+    },
+    {
+      "index": 164,
+      "page": 3,
+      "text": "ĐVT",
+      "confidence": null
+    },
+    {
+      "index": 165,
+      "page": 3,
+      "text": "Số lượng",
+      "confidence": null
+    },
+    {
+      "index": 166,
+      "page": 3,
+      "text": "Thời hạn bảo hành",
+      "confidence": null
+    },
+    {
+      "index": 167,
+      "page": 3,
+      "text": "Yêu",
+      "confidence": null
+    },
+    {
+      "index": 168,
+      "page": 3,
+      "text": "cầu",
+      "confidence": null
+    },
+    {
+      "index": 169,
+      "page": 3,
+      "text": "Thực",
+      "confidence": null
+    },
+    {
+      "index": 170,
+      "page": 3,
+      "text": "xuất",
+      "confidence": null
+    },
+    {
+      "index": 171,
+      "page": 3,
+      "text": "1",
+      "confidence": null
+    },
+    {
+      "index": 172,
+      "page": 3,
+      "text": "Hệ thống Server Dell PowerEdge R760",
+      "confidence": null
+    },
+    {
+      "index": 173,
+      "page": 3,
+      "text": "(Dual Xeon)",
+      "confidence": null
+    },
+    {
+      "index": 174,
+      "page": 3,
+      "text": "SRV-R760",
+      "confidence": null
+    },
+    {
+      "index": 175,
+      "page": 3,
+      "text": "Bộ",
+      "confidence": null
+    },
+    {
+      "index": 176,
+      "page": 3,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 177,
+      "page": 3,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 178,
+      "page": 3,
+      "text": "36 tháng (đến 28/08/2029)",
+      "confidence": null
+    },
+    {
+      "index": 179,
+      "page": 3,
+      "text": "2",
+      "confidence": null
+    },
+    {
+      "index": 180,
+      "page": 3,
+      "text": "Thiết bị lưu trữ SAN Dell PowerVault",
+      "confidence": null
+    },
+    {
+      "index": 181,
+      "page": 3,
+      "text": "ME5024",
+      "confidence": null
+    },
+    {
+      "index": 182,
+      "page": 3,
+      "text": "SAN-",
+      "confidence": null
+    },
+    {
+      "index": 183,
+      "page": 3,
+      "text": "ME5024",
+      "confidence": null
+    },
+    {
+      "index": 184,
+      "page": 3,
+      "text": "Hệ",
+      "confidence": null
+    },
+    {
+      "index": 185,
+      "page": 3,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 186,
+      "page": 3,
+      "text": "01",
+      "confidence": null
+    },
+    {
+      "index": 187,
+      "page": 3,
+      "text": "36 tháng (đến 28/08/2029)",
+      "confidence": null
+    },
+    {
+      "index": 188,
+      "page": 3,
+      "text": "3",
+      "confidence": null
+    },
+    {
+      "index": 189,
+      "page": 3,
+      "text": "Switch mạng Core Cisco Nexus 9300",
+      "confidence": null
+    },
+    {
+      "index": 190,
+      "page": 3,
+      "text": "SW-N9300",
+      "confidence": null
+    },
+    {
+      "index": 191,
+      "page": 3,
+      "text": "Cái",
+      "confidence": null
+    },
+    {
+      "index": 192,
+      "page": 3,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 193,
+      "page": 3,
+      "text": "02",
+      "confidence": null
+    },
+    {
+      "index": 194,
+      "page": 3,
+      "text": "36 tháng (đến 28/08/2029)",
+      "confidence": null
+    },
+    {
+      "index": 195,
+      "page": 3,
+      "text": "Ghi chú: Toàn bộ thiết bị xuất kho đều đã dán tem bảo hành niêm phong của Nhà phân phối và Tân Thịnh Phát Corp. Thiết bị",
+      "confidence": null
+    },
+    {
+      "index": 196,
+      "page": 3,
+      "text": "không có dấu hiệu móp méo, trầy xước.",
+      "confidence": null
+    },
+    {
+      "index": 197,
+      "page": 3,
+      "text": "NGƯỜI LẬP PHIẾU",
+      "confidence": null
+    },
+    {
+      "index": 198,
+      "page": 3,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 199,
+      "page": 3,
+      "text": "Phạm Thu Trang",
+      "confidence": null
+    },
+    {
+      "index": 200,
+      "page": 3,
+      "text": "NGƯỜI NHẬN HÀNG",
+      "confidence": null
+    },
+    {
+      "index": 201,
+      "page": 3,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 202,
+      "page": 3,
+      "text": "Vũ Tuấn Anh",
+      "confidence": null
+    },
+    {
+      "index": 203,
+      "page": 3,
+      "text": "THỦ KHO",
+      "confidence": null
+    },
+    {
+      "index": 204,
+      "page": 3,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 205,
+      "page": 3,
+      "text": "Đặng Quốc Bảo",
+      "confidence": null
+    },
+    {
+      "index": 206,
+      "page": 3,
+      "text": "KẾ TOÁN TRƯỞNG",
+      "confidence": null
+    },
+    {
+      "index": 207,
+      "page": 3,
+      "text": "(Ký, họ tên)",
+      "confidence": null
+    },
+    {
+      "index": 208,
+      "page": 3,
+      "text": "Hoàng Bích Ngọc",
+      "confidence": null
+    },
+    {
+      "index": 209,
+      "page": 3,
+      "text": "GIÁM ĐỐC",
+      "confidence": null
+    },
+    {
+      "index": 210,
+      "page": 3,
+      "text": "(Ký, đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 211,
+      "page": 3,
+      "text": "Nguyễn Văn Hùng",
+      "confidence": null
+    },
+    {
+      "index": 212,
+      "page": 3,
+      "text": "Trang 3 / 4",
+      "confidence": null
+    },
+    {
+      "index": 213,
+      "page": 4,
+      "text": "TÂN THỊNH PHÁT CORP",
+      "confidence": null
+    },
+    {
+      "index": 214,
+      "page": 4,
+      "text": "Số: 08/2026/BBTL-TS",
+      "confidence": null
+    },
+    {
+      "index": 215,
+      "page": 4,
+      "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "confidence": null
+    },
+    {
+      "index": 216,
+      "page": 4,
+      "text": "Độc lập – Tự do – Hạnh phúc",
+      "confidence": null
+    },
+    {
+      "index": 217,
+      "page": 4,
+      "text": "BIÊN BẢN THANH LÝ HỢP ĐỒNG MUA BÁN",
+      "confidence": null
+    },
+    {
+      "index": 218,
+      "page": 4,
+      "text": "(Căn cứ Hợp đồng mua bán tài sản số 08/2026/HĐMB-TS ngày 21/08/2026)",
+      "confidence": null
+    },
+    {
+      "index": 219,
+      "page": 4,
+      "text": "Hôm nay, ngày 10 tháng 09 năm 2026, tại trụ sở Bên B, hai bên gồm có:",
+      "confidence": null
+    },
+    {
+      "index": 220,
+      "page": 4,
+      "text": "BÊN A (BÊN BÁN)",
+      "confidence": null
+    },
+    {
+      "index": 221,
+      "page": 4,
+      "text": "CÔNG TY CP CÔNG NGHỆ & THIẾT BỊ TÂN THỊNH",
+      "confidence": null
+    },
+    {
+      "index": 222,
+      "page": 4,
+      "text": "PHÁT",
+      "confidence": null
+    },
+    {
+      "index": 223,
+      "page": 4,
+      "text": "Đại diện: Ông Nguyễn Văn Hùng - Tổng Giám đốc",
+      "confidence": null
+    },
+    {
+      "index": 224,
+      "page": 4,
+      "text": "MST: 0108998877",
+      "confidence": null
+    },
+    {
+      "index": 225,
+      "page": 4,
+      "text": "BÊN B (BÊN MUA)",
+      "confidence": null
+    },
+    {
+      "index": 226,
+      "page": 4,
+      "text": "CÔNG TY CP ĐẦU TƯ & CÔNG NGHỆ Á CHÂU",
+      "confidence": null
+    },
+    {
+      "index": 227,
+      "page": 4,
+      "text": "Đại diện: Bà Trần Thị Minh Phương - Giám đốc ĐH",
+      "confidence": null
+    },
+    {
+      "index": 228,
+      "page": 4,
+      "text": "MST: 0109112233",
+      "confidence": null
+    },
+    {
+      "index": 229,
+      "page": 4,
+      "text": "Hai bên thống nhất xác nhận việc thực hiện các nghĩa vụ hợp đồng như sau:",
+      "confidence": null
+    },
+    {
+      "index": 230,
+      "page": 4,
+      "text": "Nghĩa vụ giao nhận tài sản: Bên A đã hoàn thành bàn giao 100% thiết bị (Server Dell, SAN Dell, Switch Cisco) đúng số",
+      "confidence": null
+    },
+    {
+      "index": 231,
+      "page": 4,
+      "text": "lượng, quy cách và đạt chuẩn kỹ thuật vào ngày 28/08/2026 theo Biên bản bàn giao số 08/2026/BBBG-TTP.",
+      "confidence": null
+    },
+    {
+      "index": 232,
+      "page": 4,
+      "text": "Nghĩa vụ xuất hóa đơn GTGT: Bên A đã xuất hóa đơn điện tử GTGT hợp pháp số 0001589, ký hiệu C26TTP ngày",
+      "confidence": null
+    },
+    {
+      "index": 233,
+      "page": 4,
+      "text": "28/08/2026 với tổng số tiền 1.540.000.000 VNĐ (đã gồm 10% VAT).",
+      "confidence": null
+    },
+    {
+      "index": 234,
+      "page": 4,
+      "text": "Nghĩa vụ thanh toán: Bên B đã hoàn tất thanh toán toàn bộ 100% giá trị hợp đồng là 1.540.000.000 VNĐ cho Bên A qua",
+      "confidence": null
+    },
+    {
+      "index": 235,
+      "page": 4,
+      "text": "hệ thống ngân hàng:",
+      "confidence": null
+    },
+    {
+      "index": 236,
+      "page": 4,
+      "text": "Đợt 1 (Tạm ứng 30%): 462.000.000 VNĐ ngày 22/08/2026 (UNC số 8891).",
+      "confidence": null
+    },
+    {
+      "index": 237,
+      "page": 4,
+      "text": "Đợt 2 (Giao hàng 60%): 924.000.000 VNĐ ngày 29/08/2026 (UNC số 8915).",
+      "confidence": null
+    },
+    {
+      "index": 238,
+      "page": 4,
+      "text": "Đợt 3 (Nghiệm thu 10%): 154.000.000 VNĐ ngày 10/09/2026 (UNC số 8990).",
+      "confidence": null
+    },
+    {
+      "index": 239,
+      "page": 4,
+      "text": "Trách nhiệm bảo hành: Hai bên xác nhận thời hạn bảo hành 36 tháng đối với thiết bị tiếp tục có hiệu lực đến hết ngày",
+      "confidence": null
+    },
+    {
+      "index": 240,
+      "page": 4,
+      "text": "28/08/2029 theo cam kết tại Hợp đồng gốc.",
+      "confidence": null
+    },
+    {
+      "index": 241,
+      "page": 4,
+      "text": "Kết luận chung: Hai bên đã hoàn thành đầy đủ các quyền và nghĩa vụ quy định trong Hợp đồng mua bán tài sản số",
+      "confidence": null
+    },
+    {
+      "index": 242,
+      "page": 4,
+      "text": "08/2026/HĐMB-TS và không có bất kỳ tranh chấp hay khiếu nại nào. Hợp đồng chính thức được thanh lý.",
+      "confidence": null
+    },
+    {
+      "index": 243,
+      "page": 4,
+      "text": "ĐẠI DIỆN BÊN BÁN (BÊN A)",
+      "confidence": null
+    },
+    {
+      "index": 244,
+      "page": 4,
+      "text": "(Ký, họ tên và đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 245,
+      "page": 4,
+      "text": "NGUYỄN VĂN HÙNG",
+      "confidence": null
+    },
+    {
+      "index": 246,
+      "page": 4,
+      "text": "Tổng Giám đốc",
+      "confidence": null
+    },
+    {
+      "index": 247,
+      "page": 4,
+      "text": "ĐẠI DIỆN BÊN MUA (BÊN B)",
+      "confidence": null
+    },
+    {
+      "index": 248,
+      "page": 4,
+      "text": "(Ký, họ tên và đóng dấu)",
+      "confidence": null
+    },
+    {
+      "index": 249,
+      "page": 4,
+      "text": "TRẦN THỊ MINH PHƯƠNG",
+      "confidence": null
+    },
+    {
+      "index": 250,
+      "page": 4,
+      "text": "Giám đốc Điều hành",
+      "confidence": null
+    },
+    {
+      "index": 251,
+      "page": 4,
+      "text": "1.",
+      "confidence": null
+    },
+    {
+      "index": 252,
+      "page": 4,
+      "text": "2.",
+      "confidence": null
+    },
+    {
+      "index": 253,
+      "page": 4,
+      "text": "3.",
+      "confidence": null
+    },
+    {
+      "index": 254,
+      "page": 4,
+      "text": "◦",
+      "confidence": null
+    },
+    {
+      "index": 255,
+      "page": 4,
+      "text": "◦",
+      "confidence": null
+    },
+    {
+      "index": 256,
+      "page": 4,
+      "text": "◦",
+      "confidence": null
+    },
+    {
+      "index": 257,
+      "page": 4,
+      "text": "4.",
+      "confidence": null
+    },
+    {
+      "index": 258,
+      "page": 4,
+      "text": "5.",
+      "confidence": null
+    },
+    {
+      "index": 259,
+      "page": 4,
+      "text": "Trang 4 / 4",
+      "confidence": null
     }
   ]
 }
