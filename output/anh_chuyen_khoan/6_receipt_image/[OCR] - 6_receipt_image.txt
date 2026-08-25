@@ -1,0 +1,18 @@
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: 6_receipt_image.png ===
+Danh mục: anh_chuyen_khoan
+Định dạng nguồn (Source Type): image
+Phương pháp trích xuất (Method): ocr
+
+--- NỘI DUNG VĂN BẢN ---
+BIEN NHEN CHUYEN TIEN THENH
+sutiun: 2.500.000 VND
+TE1 khcn hung: 123456789 VIETCOMBANK
+
+
+============================================================
+  ĐÁNH GIÁ TRÍCH XUẤT: 6_RECEIPT_IMAGE.PNG
+============================================================
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 59.94%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         0.0%
+🔹 Đánh giá chất lượng đọc:                  TRUNG BÌNH (Có một số nét chữ bị mờ)
+============================================================

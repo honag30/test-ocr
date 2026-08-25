@@ -1,0 +1,104 @@
+{
+  "original_filename": "5_excel_sheet.xlsx",
+  "category": "chung_tu",
+  "document_type": "xlsx",
+  "source_type": "xlsx",
+  "extraction_method": "table_extraction",
+  "has_table": true,
+  "total_pages": 1,
+  "pages": [
+    {
+      "page": 1,
+      "method": "table_extraction",
+      "confidence": null,
+      "sheet_name": "Báo_Cáo_Doanh_Thu",
+      "text": "| Mã HĐ | Khách hàng  | Số tiền  |\n| ----- | ----------- | -------- |\n| HD001 | Công ty ABC | 50000000 |\n| HD002 | Công ty XYZ | 75000000 |",
+      "tables": [
+        {
+          "type": "table",
+          "sheet_name": "Báo_Cáo_Doanh_Thu",
+          "detection_method": "xlsx_native",
+          "headers": [
+            "Mã HĐ",
+            "Khách hàng",
+            "Số tiền"
+          ],
+          "rows": [
+            [
+              "HD001",
+              "Công ty ABC",
+              "50000000"
+            ],
+            [
+              "HD002",
+              "Công ty XYZ",
+              "75000000"
+            ]
+          ],
+          "matrix": [
+            [
+              "Mã HĐ",
+              "Khách hàng",
+              "Số tiền"
+            ],
+            [
+              "HD001",
+              "Công ty ABC",
+              "50000000"
+            ],
+            [
+              "HD002",
+              "Công ty XYZ",
+              "75000000"
+            ]
+          ],
+          "markdown": "| Mã HĐ | Khách hàng  | Số tiền  |\n| ----- | ----------- | -------- |\n| HD001 | Công ty ABC | 50000000 |\n| HD002 | Công ty XYZ | 75000000 |"
+        }
+      ]
+    }
+  ],
+  "full_text": "=== Sheet: Báo_Cáo_Doanh_Thu ===\nMã HĐ Khách hàng Số tiền\nHD001 Công ty ABC 50000000\nHD002 Công ty XYZ 75000000",
+  "tables": [
+    {
+      "type": "table",
+      "sheet_name": "Báo_Cáo_Doanh_Thu",
+      "detection_method": "xlsx_native",
+      "headers": [
+        "Mã HĐ",
+        "Khách hàng",
+        "Số tiền"
+      ],
+      "rows": [
+        [
+          "HD001",
+          "Công ty ABC",
+          "50000000"
+        ],
+        [
+          "HD002",
+          "Công ty XYZ",
+          "75000000"
+        ]
+      ],
+      "matrix": [
+        [
+          "Mã HĐ",
+          "Khách hàng",
+          "Số tiền"
+        ],
+        [
+          "HD001",
+          "Công ty ABC",
+          "50000000"
+        ],
+        [
+          "HD002",
+          "Công ty XYZ",
+          "75000000"
+        ]
+      ],
+      "markdown": "| Mã HĐ | Khách hàng  | Số tiền  |\n| ----- | ----------- | -------- |\n| HD001 | Công ty ABC | 50000000 |\n| HD002 | Công ty XYZ | 75000000 |"
+    }
+  ],
+  "ocr_lines": []
+}

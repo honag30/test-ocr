@@ -59,68 +59,139 @@ def extract_document_text(file_path: str) -> str:
         return ""
 
 
+import unicodedata
+import re
+
+def remove_accents(text: str) -> str:
+    """
+    Loại bỏ dấu tiếng Việt để so sánh chuỗi không dấu (tránh lỗi font/OCR mất dấu).
+    """
+    if not text:
+        return ""
+    text = unicodedata.normalize('NFD', text)
+    text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
+    text = unicodedata.normalize('NFC', text)
+    return text.replace('Đ', 'D').replace('đ', 'd')
+
 def classify_document(file_path: str) -> tuple[str, float]:
     """
-    Phân loại tài liệu (PDF hoặc Ảnh) và trả về tuple: (mã_danh_mục, độ_tin_cậy_%).
-    Các nhóm:
-    - 'hop_dong'        : Hợp đồng
-    - 'hoa_don'         : Hóa đơn
-    - 'chung_tu'        : Chứng từ / Đơn hàng
-    - 'anh_chuyen_khoan': Ảnh / Biên nhận chuyển khoản
-    - 'khac'            : Chưa xác định
+    Phân loại tài liệu (PDF, Word, Excel, Ảnh) thông minh dựa trên:
+    - Loại file & Tên file
+    - Từ khóa Tiếng Việt có dấu & không dấu (loại bỏ lỗi mã hóa font/OCR)
+    - Biểu thức chính quy (Regex) & Hệ thống chấm điểm trọng số (Scoring System).
     """
     filename = os.path.basename(file_path).lower()
     full_text = extract_document_text(file_path)
     
     lines = [l.strip() for l in full_text.split('\n') if l.strip()]
-    header_text = "\n".join(lines[:20]).upper() if lines else full_text.upper()
+    header_lines = lines[:20] if lines else []
+    header_text = "\n".join(header_lines).upper() if header_lines else full_text.upper()
+    header_unaccented = remove_accents(header_text).upper()
+    
     full_text_upper = full_text.upper()
-    
-    # 1. Kiểm tra Ảnh / Biên nhận chuyển khoản
+    full_text_unaccented = remove_accents(full_text).upper()
+    filename_unaccented = remove_accents(filename).lower()
+
+    # Điểm số cho từng danh mục
+    scores = {
+        'hop_dong': 0,
+        'hoa_don': 0,
+        'chung_tu': 0,
+        'anh_chuyen_khoan': 0
+    }
+
+    # 1. KIỂM TRA ẢNH CHUYỂN KHOẢN / BIÊN NHẬN NGÂN HÀNG
     transfer_keywords = [
-        "CHUYỂN KHOẢN THÀNH CÔNG", "CHUYEN KHOAN THANH CONG",
-        "GIAO DỊCH THÀNH CÔNG", "GIAO DICH THANH CONG",
-        "CHUYỂN TIỀN THÀNH CÔNG", "CHUYEN TIEN THANH CONG",
-        "BIÊN NHẬN CHUYỂN TIỀN", "XÁC NHẬN CHUYỂN TIỀN",
-        "THÔNG TIN CHUYỂN KHOẢN", "NỘI DUNG CHUYỂN KHOẢN",
-        "LỆNH CHUYỂN TIỀN", "ỦY NHIỆM CHI", "SỐ THAM CHIẾU",
-        "MÃ GIAO DỊCH", "NGÂN HÀNG THỤ HƯỞNG", "TÀI KHOẢN THỤ HƯỞNG",
-        "VIETQR", "MOMO", "ZALOPAY"
+        "CHUYEN KHOAN THANH CONG", "GIAO DICH THANH CONG", "CHUYEN TIEN THANH CONG",
+        "BIEN NHAN CHUYEN TIEN", "XAC NHAN CHUYEN TIEN", "THONG TIN CHUYEN KHOAN",
+        "NOI DUNG CHUYEN KHOAN", "LENH CHUYEN TIEN", "UY NHIEM CHI", "SO THAM CHIEU",
+        "MA GIAO DICH", "NGAN HANG THU HUONG", "TAI KHOAN THU HUONG", "VIETQR", "MOMO", "ZALOPAY"
     ]
-    fn_transfer_clues = ["chuyen_khoan", "chuyenkhoan", "chuyen_tien", "giao_dich", "bien_nhan", "ck_"]
-    
-    if any(k in full_text_upper for k in transfer_keywords):
-        return ("anh_chuyen_khoan", 98.0)
-    if any(c in filename for c in fn_transfer_clues):
-        return ("anh_chuyen_khoan", 85.0)
+    for kw in transfer_keywords:
+        if kw in full_text_unaccented:
+            scores['anh_chuyen_khoan'] += 45
+        if kw in header_unaccented:
+            scores['anh_chuyen_khoan'] += 20
 
-    # 2. Kiểm tra Hợp đồng (Contract)
-    if ("HỢP ĐỒNG" in header_text or "HOP DONG" in header_text) and \
-       "ĐƠN ĐẶT HÀNG" not in header_text and "ĐƠN HÀNG" not in header_text:
-        return ("hop_dong", 99.0)
-        
-    # 3. Kiểm tra Hóa đơn (Invoice)
-    if "HÓA ĐƠN" in header_text or "HOÁ ĐƠN" in header_text or \
-       "VAT INVOICE" in header_text or "INVOICE" in header_text:
-        return ("hoa_don", 99.0)
+    fn_transfer_clues = ["chuyen_khoan", "chuyenkhoan", "chuyen_tien", "giao_dich", "bien_nhan", "ck_", "receipt"]
+    if any(c in filename_unaccented for c in fn_transfer_clues):
+        scores['anh_chuyen_khoan'] += 35
 
-    # 4. Kiểm tra Chứng từ / Đơn hàng (Voucher / Order / Receipt)
-    if "ĐƠN ĐẶT HÀNG" in header_text or "ĐƠN HÀNG" in header_text or \
-       "CHỨNG TỪ" in header_text or "PHIẾU" in header_text or \
-       filename.startswith("so-") or "chung_tu" in filename:
-        return ("chung_tu", 95.0)
+    if ("SO TIEN" in full_text_unaccented or "TAI KHOAN" in full_text_unaccented) and \
+       ("THANH CONG" in full_text_unaccented or "NGAN HANG" in full_text_unaccented or "VIETCOMBANK" in full_text_unaccented):
+        scores['anh_chuyen_khoan'] += 40
 
-    # Fallback dựa vào tên file và nội dung toàn văn
-    if filename.startswith("hđ") or "hop_dong" in filename or "hợp đồng" in full_text.lower():
-        return ("hop_dong", 80.0)
-    if "hoadon" in filename or "invoice" in filename or "hóa đơn" in full_text.lower():
-        return ("hoa_don", 80.0)
-    if filename.startswith("so-") or "chung_tu" in filename or "chứng từ" in full_text.lower() or "đơn đặt hàng" in full_text.lower():
-        return ("chung_tu", 80.0)
-    if "chuyển khoản" in full_text.lower() or "chuyển tiền" in full_text.lower():
-        return ("anh_chuyen_khoan", 75.0)
+    # 2. KIỂM TRA HỢP ĐỒNG (CONTRACT)
+    contract_header_keywords = [
+        "HOP DONG", "CONG HOA XA HOI CHU NGHIA VIET NAM", "BIEN BAN GIAO NHAN",
+        "CONTRACT", "AGREEMENT", "BEN A", "BEN B"
+    ]
+    for kw in contract_header_keywords:
+        if kw in header_unaccented:
+            scores['hop_dong'] += 40
+        elif kw in full_text_unaccented:
+            scores['hop_dong'] += 20
 
-    return ("khac", 0.0)
+    fn_contract_clues = ["hop_dong", "hopdong", "hdmb", "hđ", "contract", "agreement"]
+    if any(c in filename_unaccented for c in fn_contract_clues):
+        scores['hop_dong'] += 35
+
+    if re.search(r'DIEU\s+\d+', full_text_unaccented) or re.search(r'ĐIỀU\s+\d+', full_text_upper):
+        scores['hop_dong'] += 25
+
+    # 3. KIỂM TRA HÓA ĐƠN (INVOICE)
+    invoice_keywords = [
+        "HOA DON", "HOÁ ĐƠN", "VAT INVOICE", "INVOICE", "MA SO THUE",
+        "GTGT", "GIA TRI GIA TANG", "TEN DON VI BAN", "KY HIEU"
+    ]
+    for kw in invoice_keywords:
+        if kw in header_unaccented:
+            scores['hoa_don'] += 45
+        elif kw in full_text_unaccented:
+            scores['hoa_don'] += 20
+
+    fn_invoice_clues = ["hoadon", "hoa_don", "invoice", "vat", "bill"]
+    if any(c in filename_unaccented for c in fn_invoice_clues):
+        scores['hoa_don'] += 35
+
+    # 4. KIỂM TRA CHỨNG TỪ / ĐƠN HÀNG / BÁO CÁO (VOUCHER / ORDER / REPORT)
+    voucher_keywords = [
+        "DON DAT HANG", "DON HANG", "CHUNG TU", "PHIEU XUAT KHO", "PHIEU NHAP KHO",
+        "PHIEU THU", "PHIEU CHI", "SALES ORDER", "PURCHASE ORDER", "BAO CAO",
+        "MA HD", "DOANH THU", "SO TIEN", "KHACH HANG", "STT"
+    ]
+    for kw in voucher_keywords:
+        if kw in header_unaccented:
+            scores['chung_tu'] += 35
+        elif kw in full_text_unaccented:
+            scores['chung_tu'] += 15
+
+    fn_voucher_clues = ["so-", "chung_tu", "chungtu", "don_hang", "order", "excel", "report", "pxk", "pnk"]
+    if any(c in filename_unaccented for c in fn_voucher_clues):
+        scores['chung_tu'] += 35
+
+    # Đuôi file đặc thù (Excel thường là chứng từ / báo cáo doanh thu / bảng kê)
+    if filename.endswith('.xlsx') or filename.endswith('.xls'):
+        scores['chung_tu'] += 20
+
+    # Tìm danh mục có điểm cao nhất
+    best_cat = max(scores, key=scores.get)
+    best_score = scores[best_cat]
+
+    # Nếu không có điểm nào hoặc điểm quá thấp (< 15)
+    if best_score < 15:
+        # Fallback 1: Thử xem có chữ "HOP" + "DONG" / "HOA" + "DON" / "CHUNG" + "TU"
+        if "HOP" in full_text_unaccented and "DONG" in full_text_unaccented:
+            return ("hop_dong", 70.0)
+        if "HOA" in full_text_unaccented and "DON" in full_text_unaccented:
+            return ("hoa_don", 70.0)
+        if "CHUNG" in full_text_unaccented and "TU" in full_text_unaccented:
+            return ("chung_tu", 70.0)
+        return ("khac", 0.0)
+
+    # Tính phần trăm độ tin cậy dựa trên điểm số (tối đa 99.0%)
+    confidence = min(99.0, round(50.0 + (best_score * 0.8), 1))
+    return (best_cat, confidence)
 
 def organize_documents(src_dir: str, target_dir: str = None):
     """

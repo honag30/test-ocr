@@ -1,0 +1,19 @@
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: 3_pdf_mixed.pdf ===
+Danh mục: chung_tu
+Định dạng nguồn (Source Type): pdf_mixed
+Phương pháp trích xuất (Method): mixed
+
+--- NỘI DUNG VĂN BẢN ---
+BÁO CÁO TÀI CHÍNH N·M 2026
+Trang 1 có v·n b·n k· thu·t s· chu·n.
+HQAEON GIE TFGI4 TENG (SCAN)
+Ten hdng: MEy In HP 2026
+
+
+============================================================
+  ĐÁNH GIÁ TRÍCH XUẤT: 3_PDF_MIXED.PDF
+============================================================
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 20.24%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         0.0%
+🔹 Đánh giá chất lượng đọc:                  THẤP (Ảnh bị mờ, nhiễu hoặc mất nét)
+============================================================
