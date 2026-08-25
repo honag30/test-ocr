@@ -8,7 +8,7 @@ import pdfplumber
 from normalizer import normalize_vietnamese_text, is_usable_text, detect_headers_footers
 from image_processor import preprocess_image
 from ocr_utils import group_results_by_line
-from table_detector import extract_table_from_raw_results, format_table_to_markdown
+from table_detector import extract_table_from_raw_results, format_table_to_markdown, extract_native_pdf_tables_from_page
 
 # Lazy-loaded EasyOCR reader
 _ocr_reader = None
@@ -65,12 +65,6 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
     total_pages = len(doc)
     print(f"[PDF] Detected {total_pages} page(s) in '{os.path.basename(file_path)}'")
 
-    try:
-        pdf_plumber_doc = pdfplumber.open(file_path)
-    except Exception as e:
-        pdf_plumber_doc = None
-        print(f"[PDF] pdfplumber warning: {e}")
-
     page_results = []
     page_texts_raw = []
 
@@ -86,39 +80,15 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
 
         tables_in_page = []
 
-        # 1. Thử extract bảng kỹ thuật số từ pdfplumber nếu có
-        if pdf_plumber_doc and idx < len(pdf_plumber_doc.pages):
-            try:
-                plumber_page = pdf_plumber_doc.pages[idx]
-                extracted_tables = plumber_page.extract_tables()
-                for tbl in extracted_tables:
-                    cleaned_rows = []
-                    for row in tbl:
-                        cleaned_row = [normalize_vietnamese_text(cell) if cell else "" for cell in row]
-                        if any(cleaned_row):
-                            cleaned_rows.append(cleaned_row)
-                    if len(cleaned_rows) >= 2:
-                        headers = cleaned_rows[0]
-                        rows = cleaned_rows[1:]
-                        table_obj = {
-                            "type": "table",
-                            "page": page_num,
-                            "detection_method": "pdfplumber_digital",
-                            "headers": headers,
-                            "rows": rows,
-                            "matrix": cleaned_rows,
-                            "markdown": format_table_to_markdown(cleaned_rows)
-                        }
-                        tables_in_page.append(table_obj)
-            except Exception as e:
-                pass
-
-        # 2. Kiểm tra chất lượng Native Text
+        # 1. Kiểm tra chất lượng Native Text
         usable = is_usable_text(native_text, min_length=20)
 
         if usable:
             native_pages_count += 1
             print(f"  [Page {page_num}/{total_pages}] Native text extraction (Success)")
+
+            # Extract bảng bằng thuật toán Native PDF Spatial Classification
+            tables_in_page = extract_native_pdf_tables_from_page(page, page_num)
 
             lines = [l.strip() for l in native_text.split('\n') if l.strip()]
             elements = [classify_text_element(l) for l in lines]
@@ -199,8 +169,6 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
         if tables_in_page:
             all_tables.extend(tables_in_page)
 
-    if pdf_plumber_doc:
-        pdf_plumber_doc.close()
     doc.close()
 
     # Determine source_type & extraction_method

@@ -1,0 +1,64 @@
+{
+  "original_filename": "6_receipt_image.png",
+  "category": "anh_chuyen_khoan",
+  "document_type": "image",
+  "source_type": "image",
+  "extraction_method": "ocr",
+  "has_table": false,
+  "total_pages": 1,
+  "pages": [
+    {
+      "page": 1,
+      "method": "ocr",
+      "confidence": 59.94,
+      "text": "BIEN NHEN CHUYEN TIEN THENH\nsutiun: 2.500.000 VND\nTE1 khcn hung: 123456789 VIETCOMBANK",
+      "lines": [
+        "BIEN NHEN CHUYEN TIEN THENH",
+        "sutiun: 2.500.000 VND",
+        "TE1 khcn hung: 123456789 VIETCOMBANK"
+      ],
+      "confidences": [
+        0.746155173160295,
+        0.6983402780001643,
+        0.3537394008708681
+      ],
+      "elements": [
+        {
+          "type": "heading",
+          "text": "BIEN NHEN CHUYEN TIEN THENH"
+        },
+        {
+          "type": "paragraph",
+          "text": "sutiun: 2.500.000 VND"
+        },
+        {
+          "type": "paragraph",
+          "text": "TE1 khcn hung: 123456789 VIETCOMBANK"
+        }
+      ],
+      "tables": []
+    }
+  ],
+  "full_text": "BIEN NHEN CHUYEN TIEN THENH\nsutiun: 2.500.000 VND\nTE1 khcn hung: 123456789 VIETCOMBANK",
+  "tables": [],
+  "ocr_lines": [
+    {
+      "index": 1,
+      "page": 1,
+      "text": "BIEN NHEN CHUYEN TIEN THENH",
+      "confidence": 74.6155173160295
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "text": "sutiun: 2.500.000 VND",
+      "confidence": 69.83402780001643
+    },
+    {
+      "index": 3,
+      "page": 1,
+      "text": "TE1 khcn hung: 123456789 VIETCOMBANK",
+      "confidence": 35.37394008708681
+    }
+  ]
+}
