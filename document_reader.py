@@ -10,16 +10,48 @@ from image_processor import preprocess_image
 from ocr_utils import group_results_by_line
 from table_detector import extract_table_from_raw_results, format_table_to_markdown, extract_native_pdf_tables_from_page
 
-# Lazy-loaded EasyOCR reader
+# ---------------------------------------------------------------------------
+# Shared EasyOCR singleton — dùng chung toàn bộ ứng dụng, chỉ load 1 lần
+# ---------------------------------------------------------------------------
 _ocr_reader = None
 
 def get_ocr_reader():
+    """
+    Khởi tạo EasyOCR Reader một lần duy nhất (Lazy singleton).
+    Dùng chung giữa document_reader và document_classifier để tránh load model 2 lần.
+
+    Lưu ý: ``workers`` là tham số của một số API/phiên bản EasyOCR khác,
+    không phải tham số hợp lệ của ``easyocr.Reader``. Không truyền tham số
+    này để tương thích với các phiên bản EasyOCR hiện đang được hỗ trợ.
+    """
     global _ocr_reader
     if _ocr_reader is None:
         import easyocr
-        print("[System] Initializing EasyOCR Reader (vi, en)...")
-        _ocr_reader = easyocr.Reader(['vi', 'en'], gpu=False)
+        print("[System] Initializing EasyOCR Reader (vi, en) — CPU mode...")
+        _ocr_reader = easyocr.Reader(
+            ['vi', 'en'],
+            gpu=False,
+            verbose=False,
+        )
     return _ocr_reader
+
+# ---------------------------------------------------------------------------
+# Tham số OCR tối ưu cho CPU
+# ---------------------------------------------------------------------------
+_OCR_PARAMS_CPU = {
+    "decoder": "greedy",       # greedy nhanh hơn beamsearch 3-5x, đủ chính xác
+    "beamWidth": 5,            # chỉ dùng khi decoder='beamsearch'
+    "text_threshold": 0.5,     # tăng từ 0.4 → 0.5: lọc bớt noise, tăng tốc
+    "low_text": 0.25,          # tăng nhẹ để bỏ false positive text
+    "link_threshold": 0.4,
+    "mag_ratio": 2.0,          # không phóng to nữa — đã xử lý trong preprocess_image
+    "batch_size": 1,           # tăng nếu có nhiều ảnh cùng lúc
+    "paragraph": False,        # tắt paragraph mode để giữ nguyên cấu trúc dòng
+}
+
+# DPI render PDF scan — 150 là đủ cho EasyOCR, giảm pixel ~43% so với 200
+_PDF_SCAN_DPI = 150
+
 
 def classify_text_element(line: str) -> dict:
     """
@@ -54,12 +86,18 @@ def classify_text_element(line: str) -> dict:
 
     return {"type": "paragraph", "text": line_clean}
 
+
 def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict:
     """
     Đọc file PDF theo từng trang:
     - Trang nào có text layer hợp lệ -> Native Text & Table Extraction
     - Trang nào không có text / scan / font lỗi -> Render thành ảnh -> EasyOCR
     - Nhận diện Header/Footer và hỗ trợ bao gồm hoặc loại bỏ.
+
+    Tối ưu CPU:
+    - DPI 150 thay vì 200 khi render PDF scan
+    - Dùng greedy decoder
+    - preprocess_image() với fast_mode=True (không upscale cứng 2x)
     """
     doc = pymupdf.open(file_path)
     total_pages = len(doc)
@@ -107,31 +145,33 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
             ocr_pages_count += 1
             print(f"  [Page {page_num}/{total_pages}] No usable text layer -> Fallback to OCR")
 
-            # Render trang này thành ảnh để OCR
-            pix = page.get_pixmap(dpi=200)
+            # Render trang thành ảnh — DPI 150 thay vì 200 (giảm pixel ~43%)
+            pix = page.get_pixmap(dpi=_PDF_SCAN_DPI)
             img_np = np.frombuffer(pix.samples, dtype=np.uint8).reshape((pix.height, pix.width, pix.n))
             if pix.n == 4:
                 img_np = cv2.cvtColor(img_np, cv2.COLOR_RGBA2BGR)
             elif pix.n == 3:
                 img_np = cv2.cvtColor(img_np, cv2.COLOR_RGB2BGR)
 
-            processed_img = preprocess_image(img_np, image_input_is_np=True)
+            # fast_mode=True: không upscale cứng 2x, dùng GaussianBlur thay fastNlMeans
+            processed_img = preprocess_image(img_np, image_input_is_np=True, fast_mode=True)
 
             reader = get_ocr_reader()
             raw_results = reader.readtext(
                 processed_img,
-                decoder='beamsearch',
-                beamWidth=5,
-                text_threshold=0.4,
-                low_text=0.2,
-                link_threshold=0.4,
-                mag_ratio=1.5
+                decoder=_OCR_PARAMS_CPU["decoder"],
+                text_threshold=_OCR_PARAMS_CPU["text_threshold"],
+                low_text=_OCR_PARAMS_CPU["low_text"],
+                link_threshold=_OCR_PARAMS_CPU["link_threshold"],
+                mag_ratio=_OCR_PARAMS_CPU["mag_ratio"],
+                batch_size=_OCR_PARAMS_CPU["batch_size"],
+                paragraph=_OCR_PARAMS_CPU["paragraph"],
             )
 
             ocr_lines, ocr_confs = group_results_by_line(raw_results, y_tolerance=20)
             avg_conf = round(sum(ocr_confs) / max(1, len(ocr_confs)) * 100.0, 2) if ocr_confs else 0.0
 
-            # Nếu chưa có bảng từ pdfplumber, thử phát hiện bảng từ OCR + OpenCV grid
+            # Phát hiện bảng từ OCR + OpenCV grid
             if not tables_in_page:
                 matrix, found, struct_t = extract_table_from_raw_results(raw_results, image=processed_img)
                 if found:
@@ -148,7 +188,7 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
                     }
                     tables_in_page.append(table_obj)
 
-            # Giải phóng ảnh khỏi bộ nhớ
+            # Giải phóng ảnh khỏi bộ nhớ ngay sau khi dùng
             del pix, img_np, processed_img
 
             page_text_ocr = normalize_vietnamese_text("\n".join(ocr_lines))
@@ -210,6 +250,7 @@ def read_pdf(file_path: str, include_header: True, include_footer: True) -> dict
         "tables": all_tables
     }
 
+
 def read_docx(file_path: str) -> dict:
     """
     Đọc file DOCX trực tiếp:
@@ -226,7 +267,7 @@ def read_docx(file_path: str) -> dict:
 
     # Duyệt qua các block theo đúng thứ tự xuất hiện trong docx
     for element in doc.element.body:
-        if element.tag.endswith('p'): # Paragraph
+        if element.tag.endswith('p'):  # Paragraph
             p = docx.text.paragraph.Paragraph(element, doc)
             text = normalize_vietnamese_text(p.text)
             if not text:
@@ -243,7 +284,7 @@ def read_docx(file_path: str) -> dict:
             elements.append({"type": elem_type, "text": text})
             full_text_lines.append(text)
 
-        elif element.tag.endswith('tbl'): # Table
+        elif element.tag.endswith('tbl'):  # Table
             tbl = docx.table.Table(element, doc)
             matrix = []
             for row in tbl.rows:
@@ -290,6 +331,7 @@ def read_docx(file_path: str) -> dict:
         "full_text": full_text,
         "tables": tables_list
     }
+
 
 def read_xlsx(file_path: str) -> dict:
     """
@@ -353,25 +395,28 @@ def read_xlsx(file_path: str) -> dict:
         "tables": tables_list
     }
 
+
 def read_image(file_path: str) -> dict:
     """
     Đọc file ảnh (PNG, JPG, JPEG, WEBP, BMP):
-    - Tiền xử lý ảnh (Deskew, Shadow/BG Removal, Denoise)
-    - OCR với EasyOCR
+    - Tiền xử lý ảnh với fast_mode=True (không upscale cứng 2x, dùng GaussianBlur)
+    - OCR với EasyOCR dùng greedy decoder
     - Phát hiện Bảng bằng OpenCV Morphology Grid & Spatial Clustering
     """
     print(f"[Image] Processing & OCR: '{os.path.basename(file_path)}'")
-    processed_img = preprocess_image(file_path)
+    # fast_mode=True: chỉ upscale nếu ảnh quá nhỏ, dùng GaussianBlur thay fastNlMeans
+    processed_img = preprocess_image(file_path, fast_mode=True)
 
     reader = get_ocr_reader()
     raw_results = reader.readtext(
         processed_img,
-        decoder='beamsearch',
-        beamWidth=5,
-        text_threshold=0.4,
-        low_text=0.2,
-        link_threshold=0.4,
-        mag_ratio=1.5
+        decoder=_OCR_PARAMS_CPU["decoder"],
+        text_threshold=_OCR_PARAMS_CPU["text_threshold"],
+        low_text=_OCR_PARAMS_CPU["low_text"],
+        link_threshold=_OCR_PARAMS_CPU["link_threshold"],
+        mag_ratio=_OCR_PARAMS_CPU["mag_ratio"],
+        batch_size=_OCR_PARAMS_CPU["batch_size"],
+        paragraph=_OCR_PARAMS_CPU["paragraph"],
     )
 
     lines, confidences = group_results_by_line(raw_results, y_tolerance=20)
@@ -415,6 +460,7 @@ def read_image(file_path: str) -> dict:
         "full_text": full_text,
         "tables": tables_list
     }
+
 
 def read_document(file_path: str, include_header: bool = True, include_footer: bool = True) -> dict:
     """

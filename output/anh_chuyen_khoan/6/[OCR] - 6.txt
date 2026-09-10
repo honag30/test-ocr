@@ -4,11 +4,11 @@ Danh mục: anh_chuyen_khoan
 Phương pháp trích xuất (Method): ocr
 
 --- NỘI DUNG VĂN BẢN ---
-Kết quả giao dịch @
+Kết quả giao dịch 0
 Giao dịch thành công
 Chia sẻ
 254.000đ
-Thời gian giao dịch 09:39 - 20/08/2026
+Thời gian giao dịch 09:39 20/08/2026
 Người nhận MAI ANH TIEN
 Số thẻ/TK 1049229023
 Ngân hàng Vietcombank
@@ -16,13 +16,32 @@ Mã giao dịch 143020656784 >
 Trợ giúp
 Nạp data > $ Nạp điện thoại >
 $ Bạn tiêu cho việc gì?
-Ăn uống Chợ, siêu thị Mua sắ
-Nhà cửa X Người thân 88 Khác
+Ăn uống Chợ, siêu thị Mua să
+Nhà cửa Người thân 88 Khác
+
+--- CẤU TRÚC BẢNG TRÍCH XUẤT ---
+
+[Bảng 1 - Trang 1]
+|                     |                       | Kết | quả      | giao dịch     |                  |                |             |        | 0   |
+| ------------------- | --------------------- | --- | -------- | ------------- | ---------------- | -------------- | ----------- | ------ | --- |
+|                     | Giao dịch thành       |     |          | công          |                  |                |             |        |     |
+|                     |                       |     |          |               |                  |                | Chia sẻ     |        |     |
+|                     | 254.000đ              |     |          |               |                  |                |             |        |     |
+| Thời gian giao dịch |                       |     |          |               | 09:39            |                | 20/08/2026  |        |     |
+| Người nhận          |                       |     |          |               |                  | MAI ANH TIEN   |             |        |     |
+| Số thẻ/TK           |                       |     |          |               |                  |                | 1049229023  |        |     |
+| Ngân hàng           |                       |     |          |               |                  |                | Vietcombank |        |     |
+| Mã giao dịch        |                       |     |          |               |                  | 143020656784 > |             |        |     |
+|                     |                       |     | Trợ giúp |               |                  |                |             |        |     |
+|                     | Nạp data              | >   |          | $             | Nạp điện thoại > |                |             |        |     |
+| $                   | Bạn tiêu cho việc gì? |     |          |               |                  |                |             |        |     |
+|                     | Ăn uống               |     |          | Chợ, siêu thị |                  |                |             | Mua să |     |
+|                     | Nhà cửa               |     |          | Người thân    |                  |                | 88 Khác     |        |     |
 
 ============================================================
   ĐÁNH GIÁ TRÍCH XUẤT: 6.PNG
 ============================================================
-🔹 Độ tin cậy OCR trung bình (Model Confidence): 83.9%
-🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         64.29%
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 84.44%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         78.57%
 🔹 Đánh giá chất lượng đọc:                  TỐT (Đọc chính xác hầu hết)
 ============================================================

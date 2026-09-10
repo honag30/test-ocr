@@ -10,17 +10,17 @@
     {
       "page": 1,
       "method": "ocr",
-      "confidence": 86.53,
-      "text": "TECHCOMBANK\nChuyển thành công\nTới MAI ANH TIEN\nVND 179,000\nTài khoản nhận\nNgân hàng TMCP Ngoại thương Việt Nam\n1049 2290 23\nLời nhẳn\nNGUYEN THANH TUNG chuyen tien\nNgày thực hiện\n20 Th8, 2026 lúc 10.51\nMã giao dịch\nFT26232487845107\nĐây là khoản chi tiêu gì?",
+      "confidence": 89.28,
+      "text": "TECHCOMBANK\nChuyển thành công\nTới MAI ANH TIEN\nVND 179,000\nTài khoản nhận\nNgân TMCP Ngoại thương Việt Nam\n1049 2290 23\nLòi nhẳn\nNGUYEN THANH TUNG chuyen tien\nNgày thực hiện\n20 Th8, 2026 lúc 10.51\nMã giao dịch\nFT26232487845107\nĐây là khoản chi tiêu gì?",
       "lines": [
         "TECHCOMBANK",
         "Chuyển thành công",
         "Tới MAI ANH TIEN",
         "VND 179,000",
         "Tài khoản nhận",
-        "Ngân hàng TMCP Ngoại thương Việt Nam",
+        "Ngân TMCP Ngoại thương Việt Nam",
         "1049 2290 23",
-        "Lời nhẳn",
+        "Lòi nhẳn",
         "NGUYEN THANH TUNG chuyen tien",
         "Ngày thực hiện",
         "20 Th8, 2026 lúc 10.51",
@@ -29,20 +29,20 @@
         "Đây là khoản chi tiêu gì?"
       ],
       "confidences": [
-        0.978385630806665,
-        0.999059498416473,
-        0.6500450675368638,
-        0.9726020122232816,
-        0.9098706104179493,
-        0.9145485954352889,
-        0.9513917638642114,
-        0.7011521518261173,
-        0.998124540469768,
-        0.735959938293146,
-        0.8633197827274066,
-        0.9798791438810626,
-        0.7881933805416981,
-        0.6711587219263885
+        0.9989852070837083,
+        0.999510094868808,
+        0.8116665143175936,
+        0.8567599823430859,
+        0.9935105581140117,
+        0.862835710340357,
+        0.9765515165903156,
+        0.49165695479427846,
+        0.9990601359526734,
+        0.9324008231309541,
+        0.9131917252882582,
+        0.9496763439040565,
+        0.7976371400386579,
+        0.9159816643336836
       ],
       "elements": [
         {
@@ -67,7 +67,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Ngân hàng TMCP Ngoại thương Việt Nam"
+          "text": "Ngân TMCP Ngoại thương Việt Nam"
         },
         {
           "type": "paragraph",
@@ -75,7 +75,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Lời nhẳn"
+          "text": "Lòi nhẳn"
         },
         {
           "type": "paragraph",
@@ -105,92 +105,92 @@
       "tables": []
     }
   ],
-  "full_text": "TECHCOMBANK\nChuyển thành công\nTới MAI ANH TIEN\nVND 179,000\nTài khoản nhận\nNgân hàng TMCP Ngoại thương Việt Nam\n1049 2290 23\nLời nhẳn\nNGUYEN THANH TUNG chuyen tien\nNgày thực hiện\n20 Th8, 2026 lúc 10.51\nMã giao dịch\nFT26232487845107\nĐây là khoản chi tiêu gì?",
+  "full_text": "TECHCOMBANK\nChuyển thành công\nTới MAI ANH TIEN\nVND 179,000\nTài khoản nhận\nNgân TMCP Ngoại thương Việt Nam\n1049 2290 23\nLòi nhẳn\nNGUYEN THANH TUNG chuyen tien\nNgày thực hiện\n20 Th8, 2026 lúc 10.51\nMã giao dịch\nFT26232487845107\nĐây là khoản chi tiêu gì?",
   "tables": [],
   "ocr_lines": [
     {
       "index": 1,
       "page": 1,
       "text": "TECHCOMBANK",
-      "confidence": 97.83856308066649
+      "confidence": 99.89852070837082
     },
     {
       "index": 2,
       "page": 1,
       "text": "Chuyển thành công",
-      "confidence": 99.9059498416473
+      "confidence": 99.9510094868808
     },
     {
       "index": 3,
       "page": 1,
       "text": "Tới MAI ANH TIEN",
-      "confidence": 65.00450675368637
+      "confidence": 81.16665143175936
     },
     {
       "index": 4,
       "page": 1,
       "text": "VND 179,000",
-      "confidence": 97.26020122232816
+      "confidence": 85.6759982343086
     },
     {
       "index": 5,
       "page": 1,
       "text": "Tài khoản nhận",
-      "confidence": 90.98706104179493
+      "confidence": 99.35105581140117
     },
     {
       "index": 6,
       "page": 1,
-      "text": "Ngân hàng TMCP Ngoại thương Việt Nam",
-      "confidence": 91.45485954352888
+      "text": "Ngân TMCP Ngoại thương Việt Nam",
+      "confidence": 86.2835710340357
     },
     {
       "index": 7,
       "page": 1,
       "text": "1049 2290 23",
-      "confidence": 95.13917638642114
+      "confidence": 97.65515165903156
     },
     {
       "index": 8,
       "page": 1,
-      "text": "Lời nhẳn",
-      "confidence": 70.11521518261173
+      "text": "Lòi nhẳn",
+      "confidence": 49.165695479427846
     },
     {
       "index": 9,
       "page": 1,
       "text": "NGUYEN THANH TUNG chuyen tien",
-      "confidence": 99.8124540469768
+      "confidence": 99.90601359526734
     },
     {
       "index": 10,
       "page": 1,
       "text": "Ngày thực hiện",
-      "confidence": 73.5959938293146
+      "confidence": 93.24008231309541
     },
     {
       "index": 11,
       "page": 1,
       "text": "20 Th8, 2026 lúc 10.51",
-      "confidence": 86.33197827274066
+      "confidence": 91.31917252882582
     },
     {
       "index": 12,
       "page": 1,
       "text": "Mã giao dịch",
-      "confidence": 97.98791438810626
+      "confidence": 94.96763439040565
     },
     {
       "index": 13,
       "page": 1,
       "text": "FT26232487845107",
-      "confidence": 78.8193380541698
+      "confidence": 79.7637140038658
     },
     {
       "index": 14,
       "page": 1,
       "text": "Đây là khoản chi tiêu gì?",
-      "confidence": 67.11587219263885
+      "confidence": 91.59816643336836
     }
   ]
 }

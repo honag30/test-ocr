@@ -10,14 +10,14 @@
     {
       "page": 1,
       "method": "ocr",
-      "confidence": 83.9,
-      "text": "Kết quả giao dịch @\nGiao dịch thành công\nChia sẻ\n254.000đ\nThời gian giao dịch 09:39 - 20/08/2026\nNgười nhận MAI ANH TIEN\nSố thẻ/TK 1049229023\nNgân hàng Vietcombank\nMã giao dịch 143020656784 >\nTrợ giúp\nNạp data > $ Nạp điện thoại >\n$ Bạn tiêu cho việc gì?\nĂn uống Chợ, siêu thị Mua sắ\nNhà cửa X Người thân 88 Khác",
+      "confidence": 84.44,
+      "text": "Kết quả giao dịch 0\nGiao dịch thành công\nChia sẻ\n254.000đ\nThời gian giao dịch 09:39 20/08/2026\nNgười nhận MAI ANH TIEN\nSố thẻ/TK 1049229023\nNgân hàng Vietcombank\nMã giao dịch 143020656784 >\nTrợ giúp\nNạp data > $ Nạp điện thoại >\n$ Bạn tiêu cho việc gì?\nĂn uống Chợ, siêu thị Mua să\nNhà cửa Người thân 88 Khác",
       "lines": [
-        "Kết quả giao dịch @",
+        "Kết quả giao dịch 0",
         "Giao dịch thành công",
         "Chia sẻ",
         "254.000đ",
-        "Thời gian giao dịch 09:39 - 20/08/2026",
+        "Thời gian giao dịch 09:39 20/08/2026",
         "Người nhận MAI ANH TIEN",
         "Số thẻ/TK 1049229023",
         "Ngân hàng Vietcombank",
@@ -25,29 +25,29 @@
         "Trợ giúp",
         "Nạp data > $ Nạp điện thoại >",
         "$ Bạn tiêu cho việc gì?",
-        "Ăn uống Chợ, siêu thị Mua sắ",
-        "Nhà cửa X Người thân 88 Khác"
+        "Ăn uống Chợ, siêu thị Mua să",
+        "Nhà cửa Người thân 88 Khác"
       ],
       "confidences": [
-        0.4924476628003467,
-        0.8626748605379719,
-        0.9997707945569281,
-        0.6158006102959394,
-        0.8015249433041607,
-        0.9781843599736162,
-        0.9831676727064012,
-        0.9998937805053272,
-        0.96957644018155,
-        0.9983217030373162,
-        0.9140128188753014,
-        0.6878841951876858,
-        0.7597790062257284,
-        0.6829421653261343
+        0.8218658776280627,
+        0.9650977783836203,
+        0.9995922791029416,
+        0.35989552318324114,
+        0.9384593163403983,
+        0.9457515974372408,
+        0.9750300496449396,
+        0.9903807849763067,
+        0.8235601548266034,
+        0.998676099423632,
+        0.8600558996555845,
+        0.45688757932005314,
+        0.752656391791533,
+        0.9333226745878477
       ],
       "elements": [
         {
           "type": "paragraph",
-          "text": "Kết quả giao dịch @"
+          "text": "Kết quả giao dịch 0"
         },
         {
           "type": "paragraph",
@@ -63,7 +63,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Thời gian giao dịch 09:39 - 20/08/2026"
+          "text": "Thời gian giao dịch 09:39 20/08/2026"
         },
         {
           "type": "paragraph",
@@ -95,11 +95,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Ăn uống Chợ, siêu thị Mua sắ"
+          "text": "Ăn uống Chợ, siêu thị Mua să"
         },
         {
           "type": "paragraph",
-          "text": "Nhà cửa X Người thân 88 Khác"
+          "text": "Nhà cửa Người thân 88 Khác"
         }
       ],
       "tables": [
@@ -110,20 +110,22 @@
           "headers": [
             "",
             "",
-            "Kết quả giao dịch",
+            "Kết",
+            "quả",
+            "giao dịch",
             "",
             "",
             "",
             "",
-            "",
-            "@"
+            "0"
           ],
           "rows": [
             [
               "",
-              "Giao dịch thành công",
+              "Giao dịch thành",
               "",
               "",
+              "công",
               "",
               "",
               "",
@@ -139,11 +141,13 @@
               "",
               "",
               "Chia sẻ",
+              "",
               ""
             ],
             [
               "",
               "254.000đ",
+              "",
               "",
               "",
               "",
@@ -160,7 +164,8 @@
               "",
               "09:39",
               "",
-              "2 20/08/2026",
+              "20/08/2026",
+              "",
               ""
             ],
             [
@@ -170,8 +175,9 @@
               "",
               "",
               "",
-              "",
               "MAI ANH TIEN",
+              "",
+              "",
               ""
             ],
             [
@@ -183,6 +189,7 @@
               "",
               "",
               "1049229023",
+              "",
               ""
             ],
             [
@@ -194,6 +201,7 @@
               "",
               "",
               "Vietcombank",
+              "",
               ""
             ],
             [
@@ -204,6 +212,7 @@
               "",
               "",
               "143020656784 >",
+              "",
               "",
               ""
             ],
@@ -216,6 +225,7 @@
               "",
               "",
               "",
+              "",
               ""
             ],
             [
@@ -224,14 +234,16 @@
               ">",
               "",
               "$",
-              "Nạp điện thoại",
+              "Nạp điện thoại >",
               "",
               "",
-              ">"
+              "",
+              ""
             ],
             [
               "$",
               "Bạn tiêu cho việc gì?",
+              "",
               "",
               "",
               "",
@@ -249,17 +261,19 @@
               "",
               "",
               "",
-              "Mua sắ"
+              "Mua să",
+              ""
             ],
             [
               "",
               "Nhà cửa",
               "",
-              "X",
+              "",
               "Người thân",
               "",
               "",
               "88 Khác",
+              "",
               ""
             ]
           ],
@@ -267,19 +281,21 @@
             [
               "",
               "",
-              "Kết quả giao dịch",
+              "Kết",
+              "quả",
+              "giao dịch",
               "",
               "",
               "",
               "",
-              "",
-              "@"
+              "0"
             ],
             [
               "",
-              "Giao dịch thành công",
+              "Giao dịch thành",
               "",
               "",
+              "công",
               "",
               "",
               "",
@@ -295,11 +311,13 @@
               "",
               "",
               "Chia sẻ",
+              "",
               ""
             ],
             [
               "",
               "254.000đ",
+              "",
               "",
               "",
               "",
@@ -316,7 +334,8 @@
               "",
               "09:39",
               "",
-              "2 20/08/2026",
+              "20/08/2026",
+              "",
               ""
             ],
             [
@@ -326,8 +345,9 @@
               "",
               "",
               "",
-              "",
               "MAI ANH TIEN",
+              "",
+              "",
               ""
             ],
             [
@@ -339,6 +359,7 @@
               "",
               "",
               "1049229023",
+              "",
               ""
             ],
             [
@@ -350,6 +371,7 @@
               "",
               "",
               "Vietcombank",
+              "",
               ""
             ],
             [
@@ -360,6 +382,7 @@
               "",
               "",
               "143020656784 >",
+              "",
               "",
               ""
             ],
@@ -372,6 +395,7 @@
               "",
               "",
               "",
+              "",
               ""
             ],
             [
@@ -380,14 +404,16 @@
               ">",
               "",
               "$",
-              "Nạp điện thoại",
+              "Nạp điện thoại >",
               "",
               "",
-              ">"
+              "",
+              ""
             ],
             [
               "$",
               "Bạn tiêu cho việc gì?",
+              "",
               "",
               "",
               "",
@@ -405,26 +431,28 @@
               "",
               "",
               "",
-              "Mua sắ"
+              "Mua să",
+              ""
             ],
             [
               "",
               "Nhà cửa",
               "",
-              "X",
+              "",
               "Người thân",
               "",
               "",
               "88 Khác",
+              "",
               ""
             ]
           ],
-          "markdown": "|                     |                       | Kết quả giao dịch |          |               |                |                |              | @      |\n| ------------------- | --------------------- | ----------------- | -------- | ------------- | -------------- | -------------- | ------------ | ------ |\n|                     | Giao dịch thành công  |                   |          |               |                |                |              |        |\n|                     |                       |                   |          |               |                |                | Chia sẻ      |        |\n|                     | 254.000đ              |                   |          |               |                |                |              |        |\n| Thời gian giao dịch |                       |                   |          |               | 09:39          |                | 2 20/08/2026 |        |\n| Người nhận          |                       |                   |          |               |                |                | MAI ANH TIEN |        |\n| Số thẻ/TK           |                       |                   |          |               |                |                | 1049229023   |        |\n| Ngân hàng           |                       |                   |          |               |                |                | Vietcombank  |        |\n| Mã giao dịch        |                       |                   |          |               |                | 143020656784 > |              |        |\n|                     |                       |                   | Trợ giúp |               |                |                |              |        |\n|                     | Nạp data              | >                 |          | $             | Nạp điện thoại |                |              | >      |\n| $                   | Bạn tiêu cho việc gì? |                   |          |               |                |                |              |        |\n|                     | Ăn uống               |                   |          | Chợ, siêu thị |                |                |              | Mua sắ |\n|                     | Nhà cửa               |                   | X        | Người thân    |                |                | 88 Khác      |        |"
+          "markdown": "|                     |                       | Kết | quả      | giao dịch     |                  |                |             |        | 0   |\n| ------------------- | --------------------- | --- | -------- | ------------- | ---------------- | -------------- | ----------- | ------ | --- |\n|                     | Giao dịch thành       |     |          | công          |                  |                |             |        |     |\n|                     |                       |     |          |               |                  |                | Chia sẻ     |        |     |\n|                     | 254.000đ              |     |          |               |                  |                |             |        |     |\n| Thời gian giao dịch |                       |     |          |               | 09:39            |                | 20/08/2026  |        |     |\n| Người nhận          |                       |     |          |               |                  | MAI ANH TIEN   |             |        |     |\n| Số thẻ/TK           |                       |     |          |               |                  |                | 1049229023  |        |     |\n| Ngân hàng           |                       |     |          |               |                  |                | Vietcombank |        |     |\n| Mã giao dịch        |                       |     |          |               |                  | 143020656784 > |             |        |     |\n|                     |                       |     | Trợ giúp |               |                  |                |             |        |     |\n|                     | Nạp data              | >   |          | $             | Nạp điện thoại > |                |             |        |     |\n| $                   | Bạn tiêu cho việc gì? |     |          |               |                  |                |             |        |     |\n|                     | Ăn uống               |     |          | Chợ, siêu thị |                  |                |             | Mua să |     |\n|                     | Nhà cửa               |     |          | Người thân    |                  |                | 88 Khác     |        |     |"
         }
       ]
     }
   ],
-  "full_text": "Kết quả giao dịch @\nGiao dịch thành công\nChia sẻ\n254.000đ\nThời gian giao dịch 09:39 - 20/08/2026\nNgười nhận MAI ANH TIEN\nSố thẻ/TK 1049229023\nNgân hàng Vietcombank\nMã giao dịch 143020656784 >\nTrợ giúp\nNạp data > $ Nạp điện thoại >\n$ Bạn tiêu cho việc gì?\nĂn uống Chợ, siêu thị Mua sắ\nNhà cửa X Người thân 88 Khác",
+  "full_text": "Kết quả giao dịch 0\nGiao dịch thành công\nChia sẻ\n254.000đ\nThời gian giao dịch 09:39 20/08/2026\nNgười nhận MAI ANH TIEN\nSố thẻ/TK 1049229023\nNgân hàng Vietcombank\nMã giao dịch 143020656784 >\nTrợ giúp\nNạp data > $ Nạp điện thoại >\n$ Bạn tiêu cho việc gì?\nĂn uống Chợ, siêu thị Mua să\nNhà cửa Người thân 88 Khác",
   "tables": [
     {
       "type": "table",
@@ -433,20 +461,22 @@
       "headers": [
         "",
         "",
-        "Kết quả giao dịch",
+        "Kết",
+        "quả",
+        "giao dịch",
         "",
         "",
         "",
         "",
-        "",
-        "@"
+        "0"
       ],
       "rows": [
         [
           "",
-          "Giao dịch thành công",
+          "Giao dịch thành",
           "",
           "",
+          "công",
           "",
           "",
           "",
@@ -462,11 +492,13 @@
           "",
           "",
           "Chia sẻ",
+          "",
           ""
         ],
         [
           "",
           "254.000đ",
+          "",
           "",
           "",
           "",
@@ -483,7 +515,8 @@
           "",
           "09:39",
           "",
-          "2 20/08/2026",
+          "20/08/2026",
+          "",
           ""
         ],
         [
@@ -493,8 +526,9 @@
           "",
           "",
           "",
-          "",
           "MAI ANH TIEN",
+          "",
+          "",
           ""
         ],
         [
@@ -506,6 +540,7 @@
           "",
           "",
           "1049229023",
+          "",
           ""
         ],
         [
@@ -517,6 +552,7 @@
           "",
           "",
           "Vietcombank",
+          "",
           ""
         ],
         [
@@ -527,6 +563,7 @@
           "",
           "",
           "143020656784 >",
+          "",
           "",
           ""
         ],
@@ -539,6 +576,7 @@
           "",
           "",
           "",
+          "",
           ""
         ],
         [
@@ -547,14 +585,16 @@
           ">",
           "",
           "$",
-          "Nạp điện thoại",
+          "Nạp điện thoại >",
           "",
           "",
-          ">"
+          "",
+          ""
         ],
         [
           "$",
           "Bạn tiêu cho việc gì?",
+          "",
           "",
           "",
           "",
@@ -572,17 +612,19 @@
           "",
           "",
           "",
-          "Mua sắ"
+          "Mua să",
+          ""
         ],
         [
           "",
           "Nhà cửa",
           "",
-          "X",
+          "",
           "Người thân",
           "",
           "",
           "88 Khác",
+          "",
           ""
         ]
       ],
@@ -590,19 +632,21 @@
         [
           "",
           "",
-          "Kết quả giao dịch",
+          "Kết",
+          "quả",
+          "giao dịch",
           "",
           "",
           "",
           "",
-          "",
-          "@"
+          "0"
         ],
         [
           "",
-          "Giao dịch thành công",
+          "Giao dịch thành",
           "",
           "",
+          "công",
           "",
           "",
           "",
@@ -618,11 +662,13 @@
           "",
           "",
           "Chia sẻ",
+          "",
           ""
         ],
         [
           "",
           "254.000đ",
+          "",
           "",
           "",
           "",
@@ -639,7 +685,8 @@
           "",
           "09:39",
           "",
-          "2 20/08/2026",
+          "20/08/2026",
+          "",
           ""
         ],
         [
@@ -649,8 +696,9 @@
           "",
           "",
           "",
-          "",
           "MAI ANH TIEN",
+          "",
+          "",
           ""
         ],
         [
@@ -662,6 +710,7 @@
           "",
           "",
           "1049229023",
+          "",
           ""
         ],
         [
@@ -673,6 +722,7 @@
           "",
           "",
           "Vietcombank",
+          "",
           ""
         ],
         [
@@ -683,6 +733,7 @@
           "",
           "",
           "143020656784 >",
+          "",
           "",
           ""
         ],
@@ -695,6 +746,7 @@
           "",
           "",
           "",
+          "",
           ""
         ],
         [
@@ -703,14 +755,16 @@
           ">",
           "",
           "$",
-          "Nạp điện thoại",
+          "Nạp điện thoại >",
           "",
           "",
-          ">"
+          "",
+          ""
         ],
         [
           "$",
           "Bạn tiêu cho việc gì?",
+          "",
           "",
           "",
           "",
@@ -728,107 +782,109 @@
           "",
           "",
           "",
-          "Mua sắ"
+          "Mua să",
+          ""
         ],
         [
           "",
           "Nhà cửa",
           "",
-          "X",
+          "",
           "Người thân",
           "",
           "",
           "88 Khác",
+          "",
           ""
         ]
       ],
-      "markdown": "|                     |                       | Kết quả giao dịch |          |               |                |                |              | @      |\n| ------------------- | --------------------- | ----------------- | -------- | ------------- | -------------- | -------------- | ------------ | ------ |\n|                     | Giao dịch thành công  |                   |          |               |                |                |              |        |\n|                     |                       |                   |          |               |                |                | Chia sẻ      |        |\n|                     | 254.000đ              |                   |          |               |                |                |              |        |\n| Thời gian giao dịch |                       |                   |          |               | 09:39          |                | 2 20/08/2026 |        |\n| Người nhận          |                       |                   |          |               |                |                | MAI ANH TIEN |        |\n| Số thẻ/TK           |                       |                   |          |               |                |                | 1049229023   |        |\n| Ngân hàng           |                       |                   |          |               |                |                | Vietcombank  |        |\n| Mã giao dịch        |                       |                   |          |               |                | 143020656784 > |              |        |\n|                     |                       |                   | Trợ giúp |               |                |                |              |        |\n|                     | Nạp data              | >                 |          | $             | Nạp điện thoại |                |              | >      |\n| $                   | Bạn tiêu cho việc gì? |                   |          |               |                |                |              |        |\n|                     | Ăn uống               |                   |          | Chợ, siêu thị |                |                |              | Mua sắ |\n|                     | Nhà cửa               |                   | X        | Người thân    |                |                | 88 Khác      |        |"
+      "markdown": "|                     |                       | Kết | quả      | giao dịch     |                  |                |             |        | 0   |\n| ------------------- | --------------------- | --- | -------- | ------------- | ---------------- | -------------- | ----------- | ------ | --- |\n|                     | Giao dịch thành       |     |          | công          |                  |                |             |        |     |\n|                     |                       |     |          |               |                  |                | Chia sẻ     |        |     |\n|                     | 254.000đ              |     |          |               |                  |                |             |        |     |\n| Thời gian giao dịch |                       |     |          |               | 09:39            |                | 20/08/2026  |        |     |\n| Người nhận          |                       |     |          |               |                  | MAI ANH TIEN   |             |        |     |\n| Số thẻ/TK           |                       |     |          |               |                  |                | 1049229023  |        |     |\n| Ngân hàng           |                       |     |          |               |                  |                | Vietcombank |        |     |\n| Mã giao dịch        |                       |     |          |               |                  | 143020656784 > |             |        |     |\n|                     |                       |     | Trợ giúp |               |                  |                |             |        |     |\n|                     | Nạp data              | >   |          | $             | Nạp điện thoại > |                |             |        |     |\n| $                   | Bạn tiêu cho việc gì? |     |          |               |                  |                |             |        |     |\n|                     | Ăn uống               |     |          | Chợ, siêu thị |                  |                |             | Mua să |     |\n|                     | Nhà cửa               |     |          | Người thân    |                  |                | 88 Khác     |        |     |"
     }
   ],
   "ocr_lines": [
     {
       "index": 1,
       "page": 1,
-      "text": "Kết quả giao dịch @",
-      "confidence": 49.24476628003467
+      "text": "Kết quả giao dịch 0",
+      "confidence": 82.18658776280627
     },
     {
       "index": 2,
       "page": 1,
       "text": "Giao dịch thành công",
-      "confidence": 86.2674860537972
+      "confidence": 96.50977783836203
     },
     {
       "index": 3,
       "page": 1,
       "text": "Chia sẻ",
-      "confidence": 99.9770794556928
+      "confidence": 99.95922791029416
     },
     {
       "index": 4,
       "page": 1,
       "text": "254.000đ",
-      "confidence": 61.580061029593935
+      "confidence": 35.989552318324115
     },
     {
       "index": 5,
       "page": 1,
-      "text": "Thời gian giao dịch 09:39 - 20/08/2026",
-      "confidence": 80.15249433041606
+      "text": "Thời gian giao dịch 09:39 20/08/2026",
+      "confidence": 93.84593163403983
     },
     {
       "index": 6,
       "page": 1,
       "text": "Người nhận MAI ANH TIEN",
-      "confidence": 97.81843599736162
+      "confidence": 94.57515974372409
     },
     {
       "index": 7,
       "page": 1,
       "text": "Số thẻ/TK 1049229023",
-      "confidence": 98.31676727064011
+      "confidence": 97.50300496449395
     },
     {
       "index": 8,
       "page": 1,
       "text": "Ngân hàng Vietcombank",
-      "confidence": 99.98937805053272
+      "confidence": 99.03807849763066
     },
     {
       "index": 9,
       "page": 1,
       "text": "Mã giao dịch 143020656784 >",
-      "confidence": 96.957644018155
+      "confidence": 82.35601548266034
     },
     {
       "index": 10,
       "page": 1,
       "text": "Trợ giúp",
-      "confidence": 99.83217030373162
+      "confidence": 99.8676099423632
     },
     {
       "index": 11,
       "page": 1,
       "text": "Nạp data > $ Nạp điện thoại >",
-      "confidence": 91.40128188753013
+      "confidence": 86.00558996555844
     },
     {
       "index": 12,
       "page": 1,
       "text": "$ Bạn tiêu cho việc gì?",
-      "confidence": 68.78841951876858
+      "confidence": 45.688757932005316
     },
     {
       "index": 13,
       "page": 1,
-      "text": "Ăn uống Chợ, siêu thị Mua sắ",
-      "confidence": 75.97790062257283
+      "text": "Ăn uống Chợ, siêu thị Mua să",
+      "confidence": 75.2656391791533
     },
     {
       "index": 14,
       "page": 1,
-      "text": "Nhà cửa X Người thân 88 Khác",
-      "confidence": 68.29421653261343
+      "text": "Nhà cửa Người thân 88 Khác",
+      "confidence": 93.33226745878477
     }
   ]
 }

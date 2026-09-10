@@ -9,9 +9,9 @@ Chuyển thành công
 Tới MAI ANH TIEN
 VND 179,000
 Tài khoản nhận
-Ngân hàng TMCP Ngoại thương Việt Nam
+Ngân TMCP Ngoại thương Việt Nam
 1049 2290 23
-Lời nhẳn
+Lòi nhẳn
 NGUYEN THANH TUNG chuyen tien
 Ngày thực hiện
 20 Th8, 2026 lúc 10.51
@@ -23,7 +23,7 @@ FT26232487845107
 ============================================================
   ĐÁNH GIÁ TRÍCH XUẤT: ANH.PNG
 ============================================================
-🔹 Độ tin cậy OCR trung bình (Model Confidence): 86.53%
-🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         64.29%
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 89.28%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         85.71%
 🔹 Đánh giá chất lượng đọc:                  TỐT (Đọc chính xác hầu hết)
 ============================================================

@@ -329,83 +329,267 @@
       "tables": [
         {
           "type": "table",
+          "table_index": 0,
           "page": 1,
-          "detection_method": "pdfplumber_digital",
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
           "headers": [
-            "Mã đơn hàng:",
-            "SO-10685-26"
+            "",
+            "Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495",
+            "Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng:",
+            "SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010)"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "Cột_1",
+              "x_start": 35.6,
+              "x_end": 58.0
+            },
+            {
+              "index": 1,
+              "name": "Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495",
+              "x_start": 58.0,
+              "x_end": 214.9
+            },
+            {
+              "index": 2,
+              "name": "Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng:",
+              "x_start": 214.9,
+              "x_end": 410.9
+            },
+            {
+              "index": 3,
+              "name": "SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010)",
+              "x_start": 410.9,
+              "x_end": 595.5
+            }
           ],
           "rows": [
-            [
-              "Ngày đặt hàng:",
-              "03/08/2026"
-            ],
-            [
-              "Loại hợp đồng:",
-              "Gia hạn"
-            ],
-            [
-              "Nhân viên bán hàng:",
-              "Nguyễn Đức Nguyên\n(NV010)"
-            ]
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "Bên sử dụng dịch vụ (Bên A):\nCÔNG TY TNHH VERIG LENDING\nMã số thuế: 0109454139\nĐịa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,\nViệt Nam\nEmail:\naccount@verig.vn,\nsupport@verig.vn\nĐiện thoại: 0336360495",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 2,
+                  "column_name": "Cột_3",
+                  "text": "Mã đơn hàng:\nNgày đặt hàng:\nLoại hợp đồng:\nNhân viên bán hàng:",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 3,
+                  "column_name": "Cột_4",
+                  "text": "SO-10685-26\n03/08/2026\nGia hạn\nNguyễn Đức Nguyên\n(NV010)",
+                  "bbox": {}
+                }
+              ]
+            }
           ],
           "matrix": [
             [
-              "Mã đơn hàng:",
-              "SO-10685-26"
-            ],
-            [
-              "Ngày đặt hàng:",
-              "03/08/2026"
-            ],
-            [
-              "Loại hợp đồng:",
-              "Gia hạn"
-            ],
-            [
-              "Nhân viên bán hàng:",
-              "Nguyễn Đức Nguyên\n(NV010)"
+              "",
+              "Bên sử dụng dịch vụ (Bên A):\nCÔNG TY TNHH VERIG LENDING\nMã số thuế: 0109454139\nĐịa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,\nViệt Nam\nEmail:\naccount@verig.vn,\nsupport@verig.vn\nĐiện thoại: 0336360495",
+              "Mã đơn hàng:\nNgày đặt hàng:\nLoại hợp đồng:\nNhân viên bán hàng:",
+              "SO-10685-26\n03/08/2026\nGia hạn\nNguyễn Đức Nguyên\n(NV010)"
             ]
           ],
-          "markdown": "| Mã đơn hàng:        | SO-10685-26               |\n| ------------------- | ------------------------- |\n| Ngày đặt hàng:      | 03/08/2026                |\n| Loại hợp đồng:      | Gia hạn                   |\n| Nhân viên bán hàng: | Nguyễn Đức Nguyên (NV010) |"
+          "markdown": "|     | Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495 | Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng: | SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010) |\n| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
         },
         {
           "type": "table",
+          "table_index": 1,
           "page": 1,
-          "detection_method": "pdfplumber_digital",
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
           "headers": [
             "STT",
-            "Tên hàng hóa và dịch vụ & Mô tả",
+            "",
+            "Tên hàng hóa và dịch vụ & Mô tả",
+            "",
             "Số lượng",
             "Đơn giá",
             "Thành tiền"
           ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "STT",
+              "x_start": 32.5,
+              "x_end": 61.1
+            },
+            {
+              "index": 1,
+              "name": "Cột_2",
+              "x_start": 61.1,
+              "x_end": 107.2
+            },
+            {
+              "index": 2,
+              "name": "Tên hàng hóa và dịch vụ & Mô tả",
+              "x_start": 107.2,
+              "x_end": 244.4
+            },
+            {
+              "index": 3,
+              "name": "Cột_4",
+              "x_start": 244.4,
+              "x_end": 372.6
+            },
+            {
+              "index": 4,
+              "name": "Số lượng",
+              "x_start": 372.6,
+              "x_end": 414.0
+            },
+            {
+              "index": 5,
+              "name": "Đơn giá",
+              "x_start": 414.0,
+              "x_end": 469.8
+            },
+            {
+              "index": 6,
+              "name": "Thành tiền",
+              "x_start": 469.8,
+              "x_end": 595.5
+            }
+          ],
           "rows": [
-            [
-              "1",
-              "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng",
-              "2\nGiấy phép",
-              "2.681.000",
-              "5.362.000"
-            ]
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "STT",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 2,
+                  "column_name": "Cột_3",
+                  "text": "Tên hàng hóa và dịch vụ & Mô tả",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 3,
+                  "column_name": "Cột_4",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 4,
+                  "column_name": "Cột_5",
+                  "text": "Số lượng",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 5,
+                  "column_name": "Cột_6",
+                  "text": "Đơn giá",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 6,
+                  "column_name": "Cột_7",
+                  "text": "Thành tiền",
+                  "bbox": {}
+                }
+              ]
+            },
+            {
+              "row_index": 1,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "TECHNOLOGY CO., LTD\nChi nhánh: Gia Định\nHoặc có thể",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 2,
+                  "column_name": "Cột_3",
+                  "text": "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM\nSố tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)\nquét mã QR\nđể thanh toán",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 3,
+                  "column_name": "Cột_4",
+                  "text": "Tổng\ntoán",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 4,
+                  "column_name": "Cột_5",
+                  "text": "2\nGiấy phép\nThuế VAT (10%)\nTổng số tiền phải thanh",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 5,
+                  "column_name": "Cột_6",
+                  "text": "2.681.000",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 6,
+                  "column_name": "Cột_7",
+                  "text": "5.362.000\n5.362.000\n536.200\n5.898.200VND",
+                  "bbox": {}
+                }
+              ]
+            }
           ],
           "matrix": [
             [
               "STT",
-              "Tên hàng hóa và dịch vụ & Mô tả",
+              "",
+              "Tên hàng hóa và dịch vụ & Mô tả",
+              "",
               "Số lượng",
               "Đơn giá",
               "Thành tiền"
             ],
             [
               "1",
-              "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng",
-              "2\nGiấy phép",
+              "TECHNOLOGY CO., LTD\nChi nhánh: Gia Định\nHoặc có thể",
+              "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM\nSố tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)\nquét mã QR\nđể thanh toán",
+              "Tổng\ntoán",
+              "2\nGiấy phép\nThuế VAT (10%)\nTổng số tiền phải thanh",
               "2.681.000",
-              "5.362.000"
+              "5.362.000\n5.362.000\n536.200\n5.898.200VND"
             ]
           ],
-          "markdown": "| STT | Tên hàng hóa và dịch vụ & Mô tả                                        | Số lượng    | Đơn giá   | Thành tiền |\n| --- | ---------------------------------------------------------------------- | ----------- | --------- | ---------- |\n| 1   | Dịch vụ điện toán đám mây Google Workspace Business Starter - 12 Tháng | 2 Giấy phép | 2.681.000 | 5.362.000  |"
+          "markdown": "| STT |                                                     | Tên hàng hóa và dịch vụ & Mô tả                                                                                                                                                                                                   |           | Số lượng                                           | Đơn giá   | Thành tiền                               |\n| --- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------- | --------- | ---------------------------------------- |\n| 1   | TECHNOLOGY CO., LTD Chi nhánh: Gia Định Hoặc có thể | Dịch vụ điện toán đám mây Google Workspace Business Starter - 12 Tháng Tên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM Số tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank) quét mã QR để thanh toán | Tổng toán | 2 Giấy phép Thuế VAT (10%) Tổng số tiền phải thanh | 2.681.000 | 5.362.000 5.362.000 536.200 5.898.200VND |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
         }
       ]
     },
@@ -713,7 +897,104 @@
           "text": "được chứng nhận của nhà sản xuất. Chi tiết hàng hóa, ḍich vụ Bên A mua từ Bên B được liệt kê trong bảng kê tại trang 1 của bản hợp đồng này"
         }
       ],
-      "tables": []
+      "tables": [
+        {
+          "type": "table",
+          "table_index": 0,
+          "page": 2,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế:",
+            "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế:",
+              "x_start": 39.8,
+              "x_end": 119.7
+            },
+            {
+              "index": 1,
+              "name": "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629",
+              "x_start": 119.7,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "Người đại diện:\nChức vụ:\nĐịa chỉ giao dịch:\nĐiện thoại:\nEmail:\nEmail dự phòng:\nMã số thuế:\nNgười đại diện:\nChức vụ:\nĐịa chỉ:\nĐiện thoại:\nEmail:\nMã số thuế:",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY\nGIÁM ĐỐC\nSố 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam\n0336360495\naccount@verig.vn, support@verig.vn\ntung.nv0621@gmail.com\n0109454139\nBên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\n(Bà) NGUYỄN THỊ THU HIỀN\nTổng Giám Đốc\nTầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh\n02873004009\nsupport@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn\n0313496629",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "Người đại diện:\nChức vụ:\nĐịa chỉ giao dịch:\nĐiện thoại:\nEmail:\nEmail dự phòng:\nMã số thuế:\nNgười đại diện:\nChức vụ:\nĐịa chỉ:\nĐiện thoại:\nEmail:\nMã số thuế:",
+              "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY\nGIÁM ĐỐC\nSố 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam\n0336360495\naccount@verig.vn, support@verig.vn\ntung.nv0621@gmail.com\n0109454139\nBên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\n(Bà) NGUYỄN THỊ THU HIỀN\nTổng Giám Đốc\nTầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh\n02873004009\nsupport@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn\n0313496629"
+            ]
+          ],
+          "markdown": "| Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế: | (Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629 |\n| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 1,
+          "page": 2,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS."
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.",
+              "x_start": 47.1,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nHợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều\nkhoản sử dụng dịch vụ và phụ lục kèm theo nếu có.\n2.\nBên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công\nNghệ Mật Mã.\n3.\nBên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.\n4.\nNhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.\n5.\nTên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch\nvụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là\nngười kiểm soát tên miền.\n6.\nVi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều\nkhoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của\ncơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam.\n7.\nBản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên\nmiền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nHợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều\nkhoản sử dụng dịch vụ và phụ lục kèm theo nếu có.\n2.\nBên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công\nNghệ Mật Mã.\n3.\nBên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.\n4.\nNhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.\n5.\nTên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch\nvụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là\nngười kiểm soát tên miền.\n6.\nVi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều\nkhoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của\ncơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam.\n7.\nBản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên\nmiền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS."
+            ]
+          ],
+          "markdown": "| 1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS. |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        }
+      ]
     },
     {
       "page": 3,
@@ -1007,37 +1288,197 @@
       "tables": [
         {
           "type": "table",
+          "table_index": 0,
           "page": 3,
-          "detection_method": "pdfplumber_digital",
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
           "headers": [
             "STT",
+            "",
             "Số tài khoản",
             "Tên ngân hàng",
             "Chi nhánh/PGD"
           ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "STT",
+              "x_start": 65.6,
+              "x_end": 96.0
+            },
+            {
+              "index": 1,
+              "name": "Cột_2",
+              "x_start": 96.0,
+              "x_end": 134.2
+            },
+            {
+              "index": 2,
+              "name": "Số tài khoản",
+              "x_start": 134.2,
+              "x_end": 193.2
+            },
+            {
+              "index": 3,
+              "name": "Tên ngân hàng",
+              "x_start": 193.2,
+              "x_end": 330.0
+            },
+            {
+              "index": 4,
+              "name": "Chi nhánh/PGD",
+              "x_start": 330.0,
+              "x_end": 595.5
+            }
+          ],
           "rows": [
-            [
-              "1",
-              "313496629",
-              "Ngân hàng TMCP Quân Đội (MBBank)",
-              "Gia Định"
-            ]
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "STT",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 2,
+                  "column_name": "Cột_3",
+                  "text": "Số tài khoản",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 3,
+                  "column_name": "Cột_4",
+                  "text": "Tên ngân hàng",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 4,
+                  "column_name": "Cột_5",
+                  "text": "Chi nhánh/PGD",
+                  "bbox": {}
+                }
+              ]
+            },
+            {
+              "row_index": 1,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "Nội dung thanh toán:",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 2,
+                  "column_name": "Cột_3",
+                  "text": "313496629",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 3,
+                  "column_name": "Cột_4",
+                  "text": "Ngân hàng TMCP Quân Đội (MBBank)\nTHANH TOAN SO-10685-26",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 4,
+                  "column_name": "Cột_5",
+                  "text": "Gia Định",
+                  "bbox": {}
+                }
+              ]
+            }
           ],
           "matrix": [
             [
               "STT",
+              "",
               "Số tài khoản",
               "Tên ngân hàng",
               "Chi nhánh/PGD"
             ],
             [
               "1",
+              "Nội dung thanh toán:",
               "313496629",
-              "Ngân hàng TMCP Quân Đội (MBBank)",
+              "Ngân hàng TMCP Quân Đội (MBBank)\nTHANH TOAN SO-10685-26",
               "Gia Định"
             ]
           ],
-          "markdown": "| STT | Số tài khoản | Tên ngân hàng                    | Chi nhánh/PGD |\n| --- | ------------ | -------------------------------- | ------------- |\n| 1   | 313496629    | Ngân hàng TMCP Quân Đội (MBBank) | Gia Định      |"
+          "markdown": "| STT |                      | Số tài khoản | Tên ngân hàng                                           | Chi nhánh/PGD |\n| --- | -------------------- | ------------ | ------------------------------------------------------- | ------------- |\n| 1   | Nội dung thanh toán: | 313496629    | Ngân hàng TMCP Quân Đội (MBBank) THANH TOAN SO-10685-26 | Gia Định      |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 1,
+          "page": 3,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+            "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+              "x_start": 27.9,
+              "x_end": 298.6
+            },
+            {
+              "index": 1,
+              "name": "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3",
+              "x_start": 298.6,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nToàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.\n2.\nGiữ quyền quản trị cao nhất của sản phẩm, dịch vụ.\n3.\nToàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.\n4.\nĐược yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.\n5.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.\n6.\ndịch vụ Internet.\n7.\nĐồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua.\n8.\nTự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.\n9.\nTự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.\n10.\ncó vai trò quản trị viên.\n11.\nBên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.\n12.\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng\nTự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email\nCung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi\nBên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi\n3",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nToàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.\n2.\nGiữ quyền quản trị cao nhất của sản phẩm, dịch vụ.\n3.\nToàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.\n4.\nĐược yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.\n5.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.\n6.\ndịch vụ Internet.\n7.\nĐồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua.\n8.\nTự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.\n9.\nTự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.\n10.\ncó vai trò quản trị viên.\n11.\nBên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.\n12.\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+              "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng\nTự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email\nCung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi\nBên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi\n3"
+            ]
+          ],
+          "markdown": "| 1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629 | Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3 |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
         }
       ]
     },
@@ -1340,7 +1781,145 @@
           "text": "Hướng dẫn sử dụng bằng cách cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp dành cho người dùng thông qua"
         }
       ],
-      "tables": []
+      "tables": [
+        {
+          "type": "table",
+          "table_index": 0,
+          "page": 4,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "",
+            "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "Cột_1",
+              "x_start": -4.6,
+              "x_end": 32.6
+            },
+            {
+              "index": 1,
+              "name": "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi",
+              "x_start": 32.6,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các\nĐÃ DUYỆT\nsự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền.\n13.\nBên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm\nquyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ\ngiữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "",
+              "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các\nĐÃ DUYỆT\nsự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền.\n13.\nBên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm\nquyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ\ngiữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi"
+            ]
+          ],
+          "markdown": "|     | dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 1,
+          "page": 4,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này."
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.",
+              "x_start": 49.8,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nThực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên\nA.\n2.\nTừ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách\ncủa nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.\n3.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.\n4.\nThực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp\ndịch vụ Internet.\n5.\nNhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên\nB do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.\n6.\nThay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.\n7.\nCung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.\n8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nThực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên\nA.\n2.\nTừ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách\ncủa nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.\n3.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.\n4.\nThực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp\ndịch vụ Internet.\n5.\nNhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên\nB do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.\n6.\nThay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.\n7.\nCung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.\n8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này."
+            ]
+          ],
+          "markdown": "| 1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này. |\n| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 2,
+          "page": 4,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B",
+              "x_start": 49.8,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nKhách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua\nWebsite) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài\nnguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.\n2.\nHỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:\nHỗ trợ theo nghĩa vụ bắt buộc bởi Bên B",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nKhách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua\nWebsite) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài\nnguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.\n2.\nHỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:\nHỗ trợ theo nghĩa vụ bắt buộc bởi Bên B"
+            ]
+          ],
+          "markdown": "| 1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B |\n| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        }
+      ]
     },
     {
       "page": 5,
@@ -1616,7 +2195,241 @@
           "text": "pháp luật. Trong quá trình thực hiện, nếu có những vướng mắc hai bên chủ động thương lượng giải quyết trên tinh thần hợp tác,"
         }
       ],
-      "tables": []
+      "tables": [
+        {
+          "type": "table",
+          "table_index": 0,
+          "page": 5,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "",
+            "Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "Cột_1",
+              "x_start": -4.6,
+              "x_end": 32.6
+            },
+            {
+              "index": 1,
+              "name": "Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với",
+              "x_start": 32.6,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "Email.\nĐÃ DUYỆT\nCung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.\nCung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà\nBên A sử dung sang nền tảng email được cung cấp bởi Bên B.\n3.\nHỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất\nHỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "",
+              "Email.\nĐÃ DUYỆT\nCung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.\nCung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà\nBên A sử dung sang nền tảng email được cung cấp bởi Bên B.\n3.\nHỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất\nHỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với"
+            ]
+          ],
+          "markdown": "|     | Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 1,
+          "page": 5,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc",
+              "x_start": 49.8,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nNghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ\nThông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của\nbên còn lại.\n2.\nTiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho\nphép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nNghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ\nThông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của\nbên còn lại.\n2.\nTiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho\nphép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc"
+            ]
+          ],
+          "markdown": "| 1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc |\n| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 2,
+          "page": 5,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1.",
+            "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1.",
+              "x_start": 51.8,
+              "x_end": 75.0
+            },
+            {
+              "index": 1,
+              "name": "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm",
+              "x_start": 75.0,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:\n(i)\nBên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được\nthông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.",
+              "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:\n(i)\nBên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được\nthông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm"
+            ]
+          ],
+          "markdown": "| 1.  | Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 3,
+          "page": 5,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận",
+              "x_start": 51.8,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "2.\nBên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.\n3.\nBên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt\nđộng kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "2.\nBên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.\n3.\nBên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt\nđộng kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận"
+            ]
+          ],
+          "markdown": "| 2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận |\n| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        },
+        {
+          "type": "table",
+          "table_index": 4,
+          "page": 5,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm",
+              "x_start": 49.8,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "1.\nBên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo\nyêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua\nEmail được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.\n2.\nBên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm\ncác chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "1.\nBên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo\nyêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua\nEmail được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.\n2.\nBên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm\ncác chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm"
+            ]
+          ],
+          "markdown": "| 1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm |\n| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        }
+      ]
     },
     {
       "page": 6,
@@ -1702,124 +2515,1045 @@
           "text": "ký trực tiếp bằng văn bản."
         }
       ],
-      "tables": []
+      "tables": [
+        {
+          "type": "table",
+          "table_index": 0,
+          "page": 6,
+          "detection_method": "native_pdf_spatial",
+          "table_confidence": 0.88,
+          "headers": [
+            "",
+            "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng"
+          ],
+          "columns": [
+            {
+              "index": 0,
+              "name": "Cột_1",
+              "x_start": -4.6,
+              "x_end": 32.6
+            },
+            {
+              "index": 1,
+              "name": "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng",
+              "x_start": 32.6,
+              "x_end": 595.5
+            }
+          ],
+          "rows": [
+            {
+              "row_index": 0,
+              "cells": [
+                {
+                  "column_index": 0,
+                  "column_name": "Cột_1",
+                  "text": "",
+                  "bbox": {}
+                },
+                {
+                  "column_index": 1,
+                  "column_name": "Cột_2",
+                  "text": "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.\nĐÃ DUYỆT\nQuyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.\n2.\nTất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập\nthành Phụ lục Hợp đồng.\n3.\nHợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia\nhạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của\ncả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.\n4.\nCác điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà\nsản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận\n5.\nHợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp\nđồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng",
+                  "bbox": {}
+                }
+              ]
+            }
+          ],
+          "matrix": [
+            [
+              "",
+              "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.\nĐÃ DUYỆT\nQuyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.\n2.\nTất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập\nthành Phụ lục Hợp đồng.\n3.\nHợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia\nhạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của\ncả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.\n4.\nCác điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà\nsản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận\n5.\nHợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp\nđồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng"
+            ]
+          ],
+          "markdown": "|     | tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |",
+          "validation": {
+            "status": "not_checkable",
+            "issues": []
+          }
+        }
+      ]
     }
   ],
   "full_text": "1\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\nCÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\nTầng 2, Tòa nhà Betania, số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh,\nThành phố Hồ Chí Minh, Vietnam\nTel: 02873004009 | Email: hello@mmgroup.vn\nMã Số Thuế: 0313496629\nĐƠN ĐẶT HÀNG KIÊM HỢP ĐỒNG\nBên sử dụng dịch vụ (Bên A):\nCÔNG TY TNHH VERIG LENDING\nMã số thuế: 0109454139\nĐịa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,\nViệt Nam\nEmail: account@verig.vn,\nsupport@verig.vn\nĐiện thoại: 0336360495\nSTT\nTên hàng hóa và dịch vụ & Mô tả\nSố lượng\nĐơn giá\nThành tiền\n1\nDịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng\n2\nGiấy phép\n2.681.000\n5.362.000\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM\nTECHNOLOGY CO., LTD\nSố tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)\nChi nhánh: Gia Định\nHoặc có thể quét mã QR để thanh toán\nĐiều Khoản & Điều Kiện\nĐiều khoản và điều kiện chi tiết được nêu trong: ĐIỀU KHOẢN DỊCH VỤ kèm theo.\nBằng việc thanh toán hoặc xác nhận đồng ý đơn hàng, bên mua xác nhận đồng ý: ĐIỀU KHOẢN DỊCH VỤ kèm theo.\nTP. Hồ Chí Minh, Ngày 3 Tháng 8 Năm 2026\nĐẠI DIỆN BÊN A\nGIÁM ĐỐC\nĐẠI DIỆN BÊN B\nTỔNG GIÁM ĐỐC\nTRỊNH THỊ PHƯƠNG THÚY\nNGUYỄN THỊ THU HIỀN\nMã đơn hàng:\nSO-10685-26\nNgày đặt hàng:\n03/08/2026\nLoại hợp đồng:\nGia hạn\nNhân viên bán hàng:\nNguyễn Đức Nguyên\n(NV010)\nTổng\n5.362.000\nThuế VAT (10%)\n536.200\nTổng số tiền phải thanh\ntoán\n5.898.200VND\nBằng chữ: Năm triệu tám trăm chín mươi tám nghìn\nhai trăm đồng\n2\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\nĐIỀU KHOẢN DỊCH VỤ\n- Căn cứ Luật Công nghệ thông tin;\n- Căn cứ Luật Giao dịch điện tử;\n- Căn cứ Luật Thương mại;\n- Căn cứ Bộ luật Dân sự;\n- Căn cứ các quy định pháp luật hiện hành;\n- Căn cứ vào nhu cầu và khả năng của hai bên.\nChúng tôi gồm:\nBên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING\nNgười đại diện:\n(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY\nChức vụ:\nGIÁM ĐỐC\nĐịa chỉ giao dịch:\nSố 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam\nĐiện thoại:\n0336360495\nEmail:\naccount@verig.vn, support@verig.vn\nEmail dự phòng:\ntung.nv0621@gmail.com\nMã số thuế:\n0109454139\nBên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\nNgười đại diện:\n(Bà) NGUYỄN THỊ THU HIỀN\nChức vụ:\nTổng Giám Đốc\nĐịa chỉ:\nTầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh\nĐiện thoại:\n02873004009\nEmail:\nsupport@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn\nMã số thuế:\n0313496629\nSau khi trao đổi, bàn bạc đi đến thống nhất ký kết hợp đồng với những điều khoản như sau:\nĐIỀU 1: GIẢI THÍCH CÁC TỪ NGỮ\nTrong bản Hợp đồng này, các từ ngữ sau đây được hiểu như sau:\n1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều\nkhoản sử dụng dịch vụ và phụ lục kèm theo nếu có.\n2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công\nNghệ Mật Mã.\n3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.\n4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.\n5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch\nvụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là\nngười kiểm soát tên miền.\n6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều\nkhoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của\ncơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam.\n7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên\nmiền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.\nĐIỀU 2: ĐỐI TƯỢNG CỦA HỢP ĐỒNG\nBằng việc ký kết Hợp đồng này, hai bên đồng ý tuân thủ: Bộ điều khoản mua bán và sử dụng ḍich vụ của nhà sản xuất thông qua Bên B là đối tác\nđược chứng nhận của nhà sản xuất. Chi tiết hàng hóa, ḍich vụ Bên A mua từ Bên B được liệt kê trong bảng kê tại trang 1 của bản hợp đồng này\n3\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\nhoặc trong bảng kê đơn đặt hàng, báo giá, phụ lục kèm theo.\n1. Bên A với vai trò là bên mua và sử dụng sản phẩm và dịch vụ phải có nghĩa vụ đồng ý điều khoản sử dụng dịch vụ, chính sách bảo mật và các\nquy tắc cụ thể với từng sản phẩm, dịch vụ của nhà sản xuất tương ứng. Các điều khoản sử dụng dịch vụ của nhà sản xuất được cung cấp thông\nqua trang web chính thức của nhà sản xuất đó hoặc cung cấp ngay khi Bên A tạo tài khoản lần đầu tiên hoặc thông qua bất kỳ hình thức trực tuyến\ncông khai nào khác.\n2. Bên A có thể mua bổ sung người dùng bất cứ thời điểm nào của Hợp đồng. Khi đó, phí bổ sung được tính theo số người dùng được bổ sung,\nthời gian còn lại theo ngày của Hợp đồng với giá bán tại thời điểm lập Hợp đồng bổ sung người dùng.\nĐIỀU 3: THANH TOÁN\n1. Chi tiết đơn hàng được cung cấp tại phần đầu của Hợp đồng này hoặc trong bảng báo giá kèm theo đã được Bên A và Bên B xác nhận.\n2. Điều khoản thanh toán:\nThanh toán 100% giá trị hợp đồng trong vòng 03 (ba) ngày sau khi hợp đồng được ký và trước khi Bên B kích hoạt dịch vụ chính thức cho Bên\nA.\nHình thức thanh toán: Chuyển khoản qua tài khoản ngân hàng.\nThông tin thanh toán:\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\nTên viết tắt: MM TECHNOLOGY CO., LTD\nNội dung thanh toán: THANH TOAN SO-10685-26\nĐIỀU 4: GIAO HÀNG HÓA, SẢN PHẨM VÀ DỊCH VỤ\n1. Thời gian giao hàng hóa, sản phẩm và dịch vụ: Bên B giao hàng hóa, sản phẩm và dịch vụ cho Bên A (cung cấp giấy phép\nphần mềm) trong vòng 1 đến 7 ngày làm việc kể từ khi BÊN A hoàn tât thanh toán phí cho BÊN B. Thời gian trên không bao gồm\nthời gian xử lý sự cố có nguyên nhân không xuất phát từ Bên B và thời gian triển khai dịch vụ nếu có. Trong trường hợp cần kéo\ndài thời hạn bàn giao do quy trình cấp giấy phép từ nhà sản xuất (Microsoft) kéo dài hơn dự kiến, hoặc do tình trạng khan hiếm,\nhết hàng từ nhà cung cấp/nhà sản xuất hoặc đối tác phân phối ủy quyền chỉ định của nhà sản xuất, hai bên có thể thỏa thuận gia\nhạn thời gian giao hàng hóa, sản phẩm, và dịch vụ. Trường hợp không thỏa thuận gia hạn thành công, các bên tiến hành thanh\nlý hợp đồng trước thời hạn theo mục (iii) khoản 1 điều 10 của hợp đồng này.\n2. Phương thức giao hàng hóa, sản phẩm và dịch vụ: Bên B bàn giao hàng hóa, sản phẩm và dịch vụ cho Bên A bằng phương\nthức: gửi thông tin qua Email được đăng ký trong hợp đồng tại phần Bên A và Bên B trong bản hợp đồng này hoặc Email do các\nbên chỉ định bằng văn bản. Bên A tự có trách nhiệm bảo mật thông tin mã sản phẩm hoặc tài khoản được bàn giao và tự chịu\ntrách nhiệm khi để lộ thông tin kể từ khi nhận được email bàn giao từ Bên B.\nĐIỀU 5. QUYỀN VÀ NGHĨA VỤ CỦA BÊN A\n1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.\n2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ.\n3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.\n4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.\n5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.\n6. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng\ndịch vụ Internet.\n7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua.\n8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.\n9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.\n10. Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email\ncó vai trò quản trị viên.\n11. Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi\nBên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.\n12. Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi\nSTT\nSố tài khoản\nTên ngân hàng\nChi nhánh/PGD\n1\n313496629\nNgân hàng TMCP Quân Đội (MBBank)\nGia Định\n4\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\ndịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các\nsự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền.\n13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm\nquyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ\ngiữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi\ntrong mục Bên A của bản Hợp đồng này; người xuất trình giấy tờ hợp pháp chứng minh là chủ thể ”Bên A“ thì quyền ưu tiên sẽ\nthuộc về ý kiến của người có quyền kiểm soát tên miền đăng ký dịch vụ;\n14. Chịu trách nhiệm i) đảm bảo bảo mật mật khẩu tài khoản tổ chức của Bên A, ii) chỉ định các cá nhân có thẩm quyền làm quản\ntrị viên để quản lý tài khoản tổ chức của Bên A và iii) đảm bảo rằng tất cả các hoạt động xảy ra liên quan đến tài khoản của Bên A\nđều tuân thủ Thỏa thuận này. Bên A hiểu rằng Bên B và nhà sản xuất không chịu trách nhiệm quản trị tài khoản và quản lý nội bộ\nDịch vụ cho Bên A.\n15. Có trách nhiệm thực hiện các bước cần thiết để đảm bảo rằng tổ chức của Bên A không mất quyền kiểm soát tài khoản quản\ntrị viên. Bên A có thể chỉ định một quy trình cần tuân thủ để khôi phục quyền kiểm soát trong trường hợp mất quyền kiểm soát tài\nkhoản quản trị viên đó bằng cách gửi email đến Bên B hoặc nhà sản xuất, miễn là quy trình đó được chấp nhận. Trong trường\nhợp không có bất kỳ quy trình phục hồi tài khoản quản trị viên cụ thể nào, Bên B hoặc nhà sản xuất có thể cung cấp quyền kiểm\nsoát tài khoản quản trị viên cho một cá nhân cung cấp bằng chứng thỏa đáng cho Bên B hoặc nhà sản xuất chứng minh ủy\nquyền hành động thay mặt cho tổ chức. Bên A đồng ý không buộc Bên B hoặc nhà sản xuất phải chịu trách nhiệm về hậu quả\ncủa bất kỳ hành động nào được thực hiện bởi Bên B hoặc nhà sản xuất với thiện chí về vấn đề này.\nĐIỀU 6. QUYỀN VÀ NGHĨA VỤ CỦA BÊN B\n1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên\nA.\n2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách\ncủa nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.\n3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.\n4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp\ndịch vụ Internet.\n5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên\nB do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.\n6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.\n7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.\n8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.\nĐIỀU 7. HỖ TRỢ KỸ THUẬT\nHỗ trợ kỹ thuật dịch vụ bao gồm:\n1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua\nWebsite) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài\nnguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.\n2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:\nHỗ trợ theo nghĩa vụ bắt buộc bởi Bên B\nPháp lý và chứng từ: Cung cấp hồ sơ Hợp đồng pháp lý và chứng từ tuân thủ theo quy định của pháp luật Việt Nam Bao\ngồm nhưng không giới hạn các loại chứng từ sau đây: Hóa đơn Giá trị gia tăng, Hợp đồng cung cấp dịch vụ\nChứng nhận quyền hợp pháp: Chứng nhận trạng thái mua dịch vụ và quyền sử dụng hợp pháp phần mềm cho Bên A khi có\nyêu cầu.\nGiải quyết khiếu nại về giấy phép, quyền truy cập liên quan tới giấy phép, mua bổ sung giấy phép.\nGiải quyết khiếu nại về thanh toán.\nThiết lập và cài đặt ban đầu cho tới khi dịch vụ có thể hoạt động ổn định.\nCung cấp tài liệu trực tuyến hỗ trợ cho quản trị viên theo yêu cầu.\nHướng dẫn qua email và điện thoại hoặc trình điều khiển màn hình từ xa dành cho quản trị viên trong giờ hành chính đối với\ncác vấn đề thuộc phạm vi nhà sản xuất cho phép và cung cấp công cụ hỗ trợ dành cho Bên B như: Hướng dẫn xử lý khi\nEmail bị gián đoạn do mất bản ghi MX, hướng dẫn quản trị viên quản lý người dùng hoặc sử dụng trang quản trị hoặc các\ntrường hợp khác thuộc phạm vi giải quyết của nhà sản xuất.\nHướng dẫn Quản trị viên liên hệ với nhà sản xuất.\nHỗ trợ không bắt buộc bởi Bên B\nHỗ trợ khẩn cấp ngoài giờ hành chính dành cho quản trị viên thông qua Email, điện thoại hoặc trình điều khiển màn hình từ\nxa.\nHướng dẫn sử dụng bằng cách cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp dành cho người dùng thông qua\n5\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\nEmail.\nCung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.\nCung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà\nBên A sử dung sang nền tảng email được cung cấp bởi Bên B.\n3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất\nHỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với\nngôn ngữ Tiếng Anh chỉ dành cho quản trị viên cho các lỗi kỹ thuật, sự cố và các vấn đề liên quan tới sản phẩm dịch vụ.\nHỗ trợ liên quan tới gián đoạn dịch vụ mang tính hệ thống hoặc hàng loạt, lỗi phần mềm, gián đoạn hệ thống, chính sách\ndịch vụ, ngừng người dùng do vi phạm chính sách dịch vụ hoặc hỗ trợ khác.\nĐIỀU 8: BẢO VỆ THÔNG TIN BÍ MẬT\n1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ\nThông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của\nbên còn lại.\n2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho\nphép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc\ntiết lộ. Nếu nỗ lực phản đối việc tiết lộ được tòa án hoặc cơ quan pháp luật có thẩm quyền chấp thuận bằng văn bản, bên kia cần\nthông báo kịp thời đến bên được yêu cầu tiết lộ để trì hoãn hoặc ngưng việc tiết lộ thông tin trong khuôn khổ pháp luật cho phép.\nĐIỀU 9. GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ\n1. Giới hạn trách nhiệm pháp lý gián tiếp.\nTheo Hợp đồng này, không bên nào phải chịu trách nhiệm đối với tổn thất doanh thu hoặc thiệt hại gián tiếp, đặc biệt, ngẫu\nnhiên, do hậu quả, để cảnh cáo hoặc trừng phạt, ngay cả khi bên đó đã biết hoặc lẽ ra phải biết rằng các thiệt hại đó có thể xảy ra\nvà ngay cả khi các thiệt hại trực tiếp không đáp ứng được biện pháp đền bù.\n2. Giới hạn số tiền trách nhiệm pháp lý. Theo Hợp đồng này, không bên nào phải chịu trách nhiệm cho số tiền lớn hơn số tiền\nmà Bên A trả cho Bên B trong vòng mười hai tháng trước khi xảy ra sự kiện làm phát sinh trách nhiệm pháp lý.\nĐIỀU 10. CHẤM DỨT HỢP ĐỒNG TRƯỚC THỜI HẠN\n1. Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:\n(i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được\nthông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm\nđó; hoặc (iii) Không hội đủ điều kiện để thực hiện hợp đồng trước khi Bên B giao hàng hóa, sản phẩm và dịch vụ cho Bên A\nmà xuất phát từ lý do: Nhà cung cấp/nhà sản xuất không chấp thuận cung cấp dịch vụ cho Bên A kể cả trường hợp Bên A đã\nthay đổi tên miền khác để đăng ký hoặc nhà sản xuất hoặc đối tác phân phối theo chỉ định của nhà sản xuất tuyên bố ngừng\ncung cấp, hết sản phẩm. Trường hợp này (iii) hai bên sẽ thanh lý hợp đồng và hoàn trả 100% phí đã thanh toán, không có\nkhoản bồi thường.\n2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.\n3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt\nđộng kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận\nhoặc chỉ định một cơ quan khác đảm nhận thay Bên B cho đến khi hết thời hạn giấy phép sản phẩm hoặc dịch vụ mà Bên A\nđã mua. Bên B có nghĩa vụ chuyển giao phần nghĩa vụ còn lại cho nhà sản xuất quản lý và tiếp quản thay Bên B trong trường\nhợp này. Trường hợp Bên B không chuyển giao thành công phần nghĩa vụ còn lại của mình cho nhà sản xuất tiếp tục duy trì\ncho Bên A thì Bên B phải hoàn lại các khoản phí cho phần chưa sử dụng dịch vụ cho Bên A.\nĐIỀU 11. TỪ CHỐI TRÁCH NHIỆM CỦA BÊN B\n1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo\nyêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua\nEmail được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.\n2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm\ncác chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm\npháp luật Việt Nam hiện hành dẫn đến bị cơ quan nhà nước có thẩm quyền yêu cầu tạm ngưng.\nĐIỀU 12. ĐIỀU KHOẢN CHUNG\n1. Hai bên cam kết thực hiện đúng các điều khoản của Hợp đồng, bên nào vi phạm sẽ phải chịu trách nhiệm theo quy định của\npháp luật. Trong quá trình thực hiện, nếu có những vướng mắc hai bên chủ động thương lượng giải quyết trên tinh thần hợp tác,\n6\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629\nĐÃ DUYỆT\ntôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.\nQuyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.\n2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập\nthành Phụ lục Hợp đồng.\n3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia\nhạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của\ncả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.\n4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà\nsản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận\n5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp\nđồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng\nký trực tiếp bằng văn bản.",
   "tables": [
     {
       "type": "table",
+      "table_index": 0,
       "page": 1,
-      "detection_method": "pdfplumber_digital",
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
       "headers": [
-        "Mã đơn hàng:",
-        "SO-10685-26"
+        "",
+        "Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495",
+        "Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng:",
+        "SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010)"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "Cột_1",
+          "x_start": 35.6,
+          "x_end": 58.0
+        },
+        {
+          "index": 1,
+          "name": "Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495",
+          "x_start": 58.0,
+          "x_end": 214.9
+        },
+        {
+          "index": 2,
+          "name": "Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng:",
+          "x_start": 214.9,
+          "x_end": 410.9
+        },
+        {
+          "index": 3,
+          "name": "SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010)",
+          "x_start": 410.9,
+          "x_end": 595.5
+        }
       ],
       "rows": [
-        [
-          "Ngày đặt hàng:",
-          "03/08/2026"
-        ],
-        [
-          "Loại hợp đồng:",
-          "Gia hạn"
-        ],
-        [
-          "Nhân viên bán hàng:",
-          "Nguyễn Đức Nguyên\n(NV010)"
-        ]
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "Bên sử dụng dịch vụ (Bên A):\nCÔNG TY TNHH VERIG LENDING\nMã số thuế: 0109454139\nĐịa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,\nViệt Nam\nEmail:\naccount@verig.vn,\nsupport@verig.vn\nĐiện thoại: 0336360495",
+              "bbox": {}
+            },
+            {
+              "column_index": 2,
+              "column_name": "Cột_3",
+              "text": "Mã đơn hàng:\nNgày đặt hàng:\nLoại hợp đồng:\nNhân viên bán hàng:",
+              "bbox": {}
+            },
+            {
+              "column_index": 3,
+              "column_name": "Cột_4",
+              "text": "SO-10685-26\n03/08/2026\nGia hạn\nNguyễn Đức Nguyên\n(NV010)",
+              "bbox": {}
+            }
+          ]
+        }
       ],
       "matrix": [
         [
-          "Mã đơn hàng:",
-          "SO-10685-26"
-        ],
-        [
-          "Ngày đặt hàng:",
-          "03/08/2026"
-        ],
-        [
-          "Loại hợp đồng:",
-          "Gia hạn"
-        ],
-        [
-          "Nhân viên bán hàng:",
-          "Nguyễn Đức Nguyên\n(NV010)"
+          "",
+          "Bên sử dụng dịch vụ (Bên A):\nCÔNG TY TNHH VERIG LENDING\nMã số thuế: 0109454139\nĐịa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội,\nViệt Nam\nEmail:\naccount@verig.vn,\nsupport@verig.vn\nĐiện thoại: 0336360495",
+          "Mã đơn hàng:\nNgày đặt hàng:\nLoại hợp đồng:\nNhân viên bán hàng:",
+          "SO-10685-26\n03/08/2026\nGia hạn\nNguyễn Đức Nguyên\n(NV010)"
         ]
       ],
-      "markdown": "| Mã đơn hàng:        | SO-10685-26               |\n| ------------------- | ------------------------- |\n| Ngày đặt hàng:      | 03/08/2026                |\n| Loại hợp đồng:      | Gia hạn                   |\n| Nhân viên bán hàng: | Nguyễn Đức Nguyên (NV010) |"
+      "markdown": "|     | Bên sử dụng dịch vụ (Bên A): CÔNG TY TNHH VERIG LENDING Mã số thuế: 0109454139 Địa chỉ: Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam Email: account@verig.vn, support@verig.vn Điện thoại: 0336360495 | Mã đơn hàng: Ngày đặt hàng: Loại hợp đồng: Nhân viên bán hàng: | SO-10685-26 03/08/2026 Gia hạn Nguyễn Đức Nguyên (NV010) |\n| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
     },
     {
       "type": "table",
+      "table_index": 1,
       "page": 1,
-      "detection_method": "pdfplumber_digital",
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
       "headers": [
         "STT",
-        "Tên hàng hóa và dịch vụ & Mô tả",
+        "",
+        "Tên hàng hóa và dịch vụ & Mô tả",
+        "",
         "Số lượng",
         "Đơn giá",
         "Thành tiền"
       ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "STT",
+          "x_start": 32.5,
+          "x_end": 61.1
+        },
+        {
+          "index": 1,
+          "name": "Cột_2",
+          "x_start": 61.1,
+          "x_end": 107.2
+        },
+        {
+          "index": 2,
+          "name": "Tên hàng hóa và dịch vụ & Mô tả",
+          "x_start": 107.2,
+          "x_end": 244.4
+        },
+        {
+          "index": 3,
+          "name": "Cột_4",
+          "x_start": 244.4,
+          "x_end": 372.6
+        },
+        {
+          "index": 4,
+          "name": "Số lượng",
+          "x_start": 372.6,
+          "x_end": 414.0
+        },
+        {
+          "index": 5,
+          "name": "Đơn giá",
+          "x_start": 414.0,
+          "x_end": 469.8
+        },
+        {
+          "index": 6,
+          "name": "Thành tiền",
+          "x_start": 469.8,
+          "x_end": 595.5
+        }
+      ],
       "rows": [
-        [
-          "1",
-          "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng",
-          "2\nGiấy phép",
-          "2.681.000",
-          "5.362.000"
-        ]
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "STT",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 2,
+              "column_name": "Cột_3",
+              "text": "Tên hàng hóa và dịch vụ & Mô tả",
+              "bbox": {}
+            },
+            {
+              "column_index": 3,
+              "column_name": "Cột_4",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 4,
+              "column_name": "Cột_5",
+              "text": "Số lượng",
+              "bbox": {}
+            },
+            {
+              "column_index": 5,
+              "column_name": "Cột_6",
+              "text": "Đơn giá",
+              "bbox": {}
+            },
+            {
+              "column_index": 6,
+              "column_name": "Cột_7",
+              "text": "Thành tiền",
+              "bbox": {}
+            }
+          ]
+        },
+        {
+          "row_index": 1,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "TECHNOLOGY CO., LTD\nChi nhánh: Gia Định\nHoặc có thể",
+              "bbox": {}
+            },
+            {
+              "column_index": 2,
+              "column_name": "Cột_3",
+              "text": "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM\nSố tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)\nquét mã QR\nđể thanh toán",
+              "bbox": {}
+            },
+            {
+              "column_index": 3,
+              "column_name": "Cột_4",
+              "text": "Tổng\ntoán",
+              "bbox": {}
+            },
+            {
+              "column_index": 4,
+              "column_name": "Cột_5",
+              "text": "2\nGiấy phép\nThuế VAT (10%)\nTổng số tiền phải thanh",
+              "bbox": {}
+            },
+            {
+              "column_index": 5,
+              "column_name": "Cột_6",
+              "text": "2.681.000",
+              "bbox": {}
+            },
+            {
+              "column_index": 6,
+              "column_name": "Cột_7",
+              "text": "5.362.000\n5.362.000\n536.200\n5.898.200VND",
+              "bbox": {}
+            }
+          ]
+        }
       ],
       "matrix": [
         [
           "STT",
-          "Tên hàng hóa và dịch vụ & Mô tả",
+          "",
+          "Tên hàng hóa và dịch vụ & Mô tả",
+          "",
           "Số lượng",
           "Đơn giá",
           "Thành tiền"
         ],
         [
           "1",
-          "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng",
-          "2\nGiấy phép",
+          "TECHNOLOGY CO., LTD\nChi nhánh: Gia Định\nHoặc có thể",
+          "Dịch vụ điện toán đám mây Google Workspace Business\nStarter - 12 Tháng\nTên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM\nSố tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank)\nquét mã QR\nđể thanh toán",
+          "Tổng\ntoán",
+          "2\nGiấy phép\nThuế VAT (10%)\nTổng số tiền phải thanh",
           "2.681.000",
-          "5.362.000"
+          "5.362.000\n5.362.000\n536.200\n5.898.200VND"
         ]
       ],
-      "markdown": "| STT | Tên hàng hóa và dịch vụ & Mô tả                                        | Số lượng    | Đơn giá   | Thành tiền |\n| --- | ---------------------------------------------------------------------- | ----------- | --------- | ---------- |\n| 1   | Dịch vụ điện toán đám mây Google Workspace Business Starter - 12 Tháng | 2 Giấy phép | 2.681.000 | 5.362.000  |"
+      "markdown": "| STT |                                                     | Tên hàng hóa và dịch vụ & Mô tả                                                                                                                                                                                                   |           | Số lượng                                           | Đơn giá   | Thành tiền                               |\n| --- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------- | --------- | ---------------------------------------- |\n| 1   | TECHNOLOGY CO., LTD Chi nhánh: Gia Định Hoặc có thể | Dịch vụ điện toán đám mây Google Workspace Business Starter - 12 Tháng Tên đơn vị nhận tiền: CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ - Tên viết tắt: MM Số tài khoản: 313496629 - Ngân hàng TMCP Quân đội (MBBank) quét mã QR để thanh toán | Tổng toán | 2 Giấy phép Thuế VAT (10%) Tổng số tiền phải thanh | 2.681.000 | 5.362.000 5.362.000 536.200 5.898.200VND |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
     },
     {
       "type": "table",
+      "table_index": 0,
+      "page": 2,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế:",
+        "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế:",
+          "x_start": 39.8,
+          "x_end": 119.7
+        },
+        {
+          "index": 1,
+          "name": "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629",
+          "x_start": 119.7,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "Người đại diện:\nChức vụ:\nĐịa chỉ giao dịch:\nĐiện thoại:\nEmail:\nEmail dự phòng:\nMã số thuế:\nNgười đại diện:\nChức vụ:\nĐịa chỉ:\nĐiện thoại:\nEmail:\nMã số thuế:",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY\nGIÁM ĐỐC\nSố 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam\n0336360495\naccount@verig.vn, support@verig.vn\ntung.nv0621@gmail.com\n0109454139\nBên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\n(Bà) NGUYỄN THỊ THU HIỀN\nTổng Giám Đốc\nTầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh\n02873004009\nsupport@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn\n0313496629",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "Người đại diện:\nChức vụ:\nĐịa chỉ giao dịch:\nĐiện thoại:\nEmail:\nEmail dự phòng:\nMã số thuế:\nNgười đại diện:\nChức vụ:\nĐịa chỉ:\nĐiện thoại:\nEmail:\nMã số thuế:",
+          "(Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY\nGIÁM ĐỐC\nSố 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam\n0336360495\naccount@verig.vn, support@verig.vn\ntung.nv0621@gmail.com\n0109454139\nBên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ\n(Bà) NGUYỄN THỊ THU HIỀN\nTổng Giám Đốc\nTầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh\n02873004009\nsupport@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn\n0313496629"
+        ]
+      ],
+      "markdown": "| Người đại diện: Chức vụ: Địa chỉ giao dịch: Điện thoại: Email: Email dự phòng: Mã số thuế: Người đại diện: Chức vụ: Địa chỉ: Điện thoại: Email: Mã số thuế: | (Ông/ Bà): TRỊNH THỊ PHƯƠNG THÚY GIÁM ĐỐC Số 562 Nguyễn Văn Cừ, Phường Bồ Đề, Thành phố Hà Nội, Việt Nam 0336360495 account@verig.vn, support@verig.vn tung.nv0621@gmail.com 0109454139 Bên cung cấp dịch vụ (Bên B): CÔNG TY TNHH CÔNG NGHỆ MẬT MÃ (Bà) NGUYỄN THỊ THU HIỀN Tổng Giám Đốc Tầng 2, Tòa nhà Betania, Số 42/5-7 Hồ Đắc Di, Phường Tây Thạnh, Thành phố Hồ Chí Minh 02873004009 support@mmgroup.vn, cskh@mmgroup.vn, sales@mmgroup.vn 0313496629 |\n| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 1,
+      "page": 2,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS."
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.",
+          "x_start": 47.1,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nHợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều\nkhoản sử dụng dịch vụ và phụ lục kèm theo nếu có.\n2.\nBên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công\nNghệ Mật Mã.\n3.\nBên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.\n4.\nNhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.\n5.\nTên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch\nvụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là\nngười kiểm soát tên miền.\n6.\nVi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều\nkhoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của\ncơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam.\n7.\nBản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên\nmiền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS.",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nHợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều\nkhoản sử dụng dịch vụ và phụ lục kèm theo nếu có.\n2.\nBên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công\nNghệ Mật Mã.\n3.\nBên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã.\n4.\nNhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A.\n5.\nTên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch\nvụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là\nngười kiểm soát tên miền.\n6.\nVi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều\nkhoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của\ncơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam.\n7.\nBản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên\nmiền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS."
+        ]
+      ],
+      "markdown": "| 1. Hợp đồng này: (còn gọi là Thỏa thuận này). Bao gồm các nội dung của Hợp đồng cung cấp dịch vụ công nghệ thông tin và Điều khoản sử dụng dịch vụ và phụ lục kèm theo nếu có. 2. Bên sử dụng dịch vụ: Gọi tắt là bên mua hoặc Bên A; Là người mua dịch vụ công nghệ thông tin thông qua Công Ty TNHH Công Nghệ Mật Mã. 3. Bên cung cấp dịch vụ: Gọi tắt là bên bán hoặc Bên B: Công Ty TNHH Công Nghệ Mật Mã. 4. Nhà sản xuất: Là hãng sản xuất và cung cấp ra sản phẩm, dịch vụ được Bên B bán cho Bên A. 5. Tên miền của Khách hàng: nghĩa là tên miền do Khách hàng sở hữu hoặc kiểm soát. Tên miền này sẽ được sử dụng cùng với Dịch vụ. Trong bản Hợp đồng này người có quyền truy cập vào tài khoản quản lý tên miền, tài khoản quản lý DNS tên miền được hiểu là người kiểm soát tên miền. 6. Vi phạm nghiêm trọng: Là vi phạm có một trong hai điều sau: (i) Được nhà sản xuất tuyên bố là vi phạm nghiêm trọng theo điều khoản thỏa thuận dịch vụ giữa nhà sản xuất và khách hàng sử dụng dịch vụ, giữa nhà sản xuất và Bên B hoặc (ii) Do tuyên bố của cơ quan trọng tài thương mại do hai bên thỏa thuận; tuyên bố của tòa án địa phương tại Việt Nam. 7. Bản ghi MX (Mail Exchange Record) là một phần của tài khoản DNS của tên miền, dùng để xác định máy chủ mail cho một tên miền. Các bản ghi MX được thiết lập và định cấu hình trong tài khoản DNS. |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 0,
       "page": 3,
-      "detection_method": "pdfplumber_digital",
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
       "headers": [
         "STT",
+        "",
         "Số tài khoản",
         "Tên ngân hàng",
         "Chi nhánh/PGD"
       ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "STT",
+          "x_start": 65.6,
+          "x_end": 96.0
+        },
+        {
+          "index": 1,
+          "name": "Cột_2",
+          "x_start": 96.0,
+          "x_end": 134.2
+        },
+        {
+          "index": 2,
+          "name": "Số tài khoản",
+          "x_start": 134.2,
+          "x_end": 193.2
+        },
+        {
+          "index": 3,
+          "name": "Tên ngân hàng",
+          "x_start": 193.2,
+          "x_end": 330.0
+        },
+        {
+          "index": 4,
+          "name": "Chi nhánh/PGD",
+          "x_start": 330.0,
+          "x_end": 595.5
+        }
+      ],
       "rows": [
-        [
-          "1",
-          "313496629",
-          "Ngân hàng TMCP Quân Đội (MBBank)",
-          "Gia Định"
-        ]
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "STT",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 2,
+              "column_name": "Cột_3",
+              "text": "Số tài khoản",
+              "bbox": {}
+            },
+            {
+              "column_index": 3,
+              "column_name": "Cột_4",
+              "text": "Tên ngân hàng",
+              "bbox": {}
+            },
+            {
+              "column_index": 4,
+              "column_name": "Cột_5",
+              "text": "Chi nhánh/PGD",
+              "bbox": {}
+            }
+          ]
+        },
+        {
+          "row_index": 1,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "Nội dung thanh toán:",
+              "bbox": {}
+            },
+            {
+              "column_index": 2,
+              "column_name": "Cột_3",
+              "text": "313496629",
+              "bbox": {}
+            },
+            {
+              "column_index": 3,
+              "column_name": "Cột_4",
+              "text": "Ngân hàng TMCP Quân Đội (MBBank)\nTHANH TOAN SO-10685-26",
+              "bbox": {}
+            },
+            {
+              "column_index": 4,
+              "column_name": "Cột_5",
+              "text": "Gia Định",
+              "bbox": {}
+            }
+          ]
+        }
       ],
       "matrix": [
         [
           "STT",
+          "",
           "Số tài khoản",
           "Tên ngân hàng",
           "Chi nhánh/PGD"
         ],
         [
           "1",
+          "Nội dung thanh toán:",
           "313496629",
-          "Ngân hàng TMCP Quân Đội (MBBank)",
+          "Ngân hàng TMCP Quân Đội (MBBank)\nTHANH TOAN SO-10685-26",
           "Gia Định"
         ]
       ],
-      "markdown": "| STT | Số tài khoản | Tên ngân hàng                    | Chi nhánh/PGD |\n| --- | ------------ | -------------------------------- | ------------- |\n| 1   | 313496629    | Ngân hàng TMCP Quân Đội (MBBank) | Gia Định      |"
+      "markdown": "| STT |                      | Số tài khoản | Tên ngân hàng                                           | Chi nhánh/PGD |\n| --- | -------------------- | ------------ | ------------------------------------------------------- | ------------- |\n| 1   | Nội dung thanh toán: | 313496629    | Ngân hàng TMCP Quân Đội (MBBank) THANH TOAN SO-10685-26 | Gia Định      |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 1,
+      "page": 3,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+        "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+          "x_start": 27.9,
+          "x_end": 298.6
+        },
+        {
+          "index": 1,
+          "name": "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3",
+          "x_start": 298.6,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nToàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.\n2.\nGiữ quyền quản trị cao nhất của sản phẩm, dịch vụ.\n3.\nToàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.\n4.\nĐược yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.\n5.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.\n6.\ndịch vụ Internet.\n7.\nĐồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua.\n8.\nTự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.\n9.\nTự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.\n10.\ncó vai trò quản trị viên.\n11.\nBên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.\n12.\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng\nTự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email\nCung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi\nBên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi\n3",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nToàn quyền sử dụng các tính năng mà nhà sản xuất cho phép.\n2.\nGiữ quyền quản trị cao nhất của sản phẩm, dịch vụ.\n3.\nToàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra.\n4.\nĐược yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật.\n5.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng.\n6.\ndịch vụ Internet.\n7.\nĐồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua.\n8.\nTự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý.\n9.\nTự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng.\n10.\ncó vai trò quản trị viên.\n11.\nBên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật.\n12.\nĐơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629",
+          "Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng\nTự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email\nCung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi\nBên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi\n3"
+        ]
+      ],
+      "markdown": "| 1. Toàn quyền sử dụng các tính năng mà nhà sản xuất cho phép. 2. Giữ quyền quản trị cao nhất của sản phẩm, dịch vụ. 3. Toàn quyền tạo, xóa bỏ và quản lý dữ liệu người dùng tạo ra. 4. Được yêu cầu hỗ trợ kỹ thuật từ nhà sản xuất hoặc Bên B khi cần thiết theo quy định tại điều khoản về hỗ trợ kỹ thuật. 5. Được quyền khiếu nại tới cơ quan pháp luật khi Bên B không tuân thủ các điều khoản của Hợp Đồng. 6. dịch vụ Internet. 7. Đồng ý và tuân thủ “Thỏa thuận dịch vụ” được cung cấp bởi nhà sản xuất tương ứng với sản phẩm, dịch vụ đã mua. 8. Tự chịu trách nhiệm về dữ liệu tạo ra hoặc đang quản lý. 9. Tự bảo mật thông tin đăng nhập tài khoản của quản trị viên và người dùng, tự bảo vệ dữ liệu người dùng. 10. có vai trò quản trị viên. 11. Bên B hoàn thành việc thiết lập, Bên A tự có trách nhiệm thay đổi mật khẩu tài khoản đã cấp cho Bên B để bảo mật. 12. Đơn hàng kiêm hợp đồng được phát hành bởi Công ty TNHH Công Nghệ Mật Mã - Mã doanh nghiệp: 0313496629 | Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về sử dụng Tự chịu trách nhiệm về các thông tin yêu cầu, trao đổi gửi tới Email của Bên B từ Email đăng ký trong Hợp đồng hoặc từ Email Cung cấp thông tin cần thiết cho việc thiết lập dịch vụ: Tài khoản DNS tên miền nếu Bên A có yêu cầu Bên B thiết lập. Sau khi Bên A tự chịu trách nhiệm bảo mật thông tin quản lý DNS tên miền đã đăng ký với sản phẩm/dịch vụ. Tự chịu trách nhiệm khi 3 |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 0,
+      "page": 4,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "",
+        "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "Cột_1",
+          "x_start": -4.6,
+          "x_end": 32.6
+        },
+        {
+          "index": 1,
+          "name": "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi",
+          "x_start": 32.6,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các\nĐÃ DUYỆT\nsự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền.\n13.\nBên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm\nquyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ\ngiữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "",
+          "dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các\nĐÃ DUYỆT\nsự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền.\n13.\nBên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm\nquyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ\ngiữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi"
+        ]
+      ],
+      "markdown": "|     | dịch vụ bị bên thứ ba (hoặc bất cứ bên nào mà không phải là Bên B) hủy bỏ, bị xóa dữ liệu, bị chiếm đoạt quyền quản trị hoặc các ĐÃ DUYỆT sự cố khác do để mất tên miền hoặc làm lộ thông tin quản lý tên miền, thông tin DNS tên miền. 13. Bên A có nghĩa vụ hiểu rằng: (i) Người kiểm soát tên miền đăng ký dịch vụ có thể sử dụng các biện pháp kỹ thuật để chiếm quyền quản trị cao nhất và có thể gây tổn hại ở mức cao nhất cho dịch vụ. (ii) Trong trường hợp có mâu thuẫn liên quan tới dịch vụ giữa các chủ thể: người có quyền kiểm soát tên miền đăng ký liên kết với sản phẩm, dịch vụ; người được chỉ định có Email ghi |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 1,
+      "page": 4,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này."
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.",
+          "x_start": 49.8,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nThực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên\nA.\n2.\nTừ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách\ncủa nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.\n3.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.\n4.\nThực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp\ndịch vụ Internet.\n5.\nNhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên\nB do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.\n6.\nThay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.\n7.\nCung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.\n8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này.",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nThực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên\nA.\n2.\nTừ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách\ncủa nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ.\n3.\nĐược quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng.\n4.\nThực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp\ndịch vụ Internet.\n5.\nNhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên\nB do nhà sản xuất quy định đối với đối tác phân phối dịch vụ.\n6.\nThay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B.\n7.\nCung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A.\n8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này."
+        ]
+      ],
+      "markdown": "| 1. Thực hiện các biện pháp cho là cần thiết và phù hợp trong thẩm quyền cho phép để ngăn chặn việc vi phạm Hợp đồng của Bên A. 2. Từ chối chịu trách nhiệm nhưng có sự hỗ trợ cho là hợp lý trong giới hạn khả năng cho phép khi Bên A vi phạm các chính sách của nhà sản xuất khi sử dụng sản phẩm, dịch vụ hoặc vi phạm pháp luật Việt Nam liên quan tới sản xuất, dịch vụ. 3. Được quyền khiếu nại tới cơ quan pháp luật khi Bên A không tuân thủ các điều khoản của Hợp đồng. 4. Thực hiện theo đúng các điều khoản của Hợp đồng này. Tuân thủ theo đúng các quy định của Nhà nước Việt Nam về cung cấp dịch vụ Internet. 5. Nhanh chóng giải quyết các khiếu nại của Bên A và các đề nghị hỗ trợ từ Bên A đối với dịch vụ trong phạm vi quyền hạn của Bên B do nhà sản xuất quy định đối với đối tác phân phối dịch vụ. 6. Thay mặt Bên A gửi các yêu cầu hỗ trợ kỹ thuật tới nhà sản xuất đối với các vấn đề ngoài quyền hạn của Bên B. 7. Cung cấp tài liệu hướng dẫn và các tài liệu liên quan về sản phẩm và dịch vụ cho Bên A. 8. Bảo vệ thông tin bí mật theo Điều 7 của bản Hợp đồng này. |\n| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 2,
+      "page": 4,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B",
+          "x_start": 49.8,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nKhách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua\nWebsite) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài\nnguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.\n2.\nHỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:\nHỗ trợ theo nghĩa vụ bắt buộc bởi Bên B",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nKhách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua\nWebsite) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài\nnguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A.\n2.\nHỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau:\nHỗ trợ theo nghĩa vụ bắt buộc bởi Bên B"
+        ]
+      ],
+      "markdown": "| 1. Khách hàng tự hỗ trợ: Nhà sản xuất hoặc Bên B cung cấp trung tâm tài nguyên và kiến thức sử dụng trực tuyến (Thông qua Website) cho phép Quản trị viên và người dùng truy cập và tự nghiên cứu tài liệu về cách sử dụng và quản lý dịch vụ. Trung tâm tài nguyên và trợ giúp có thể truy cập thông qua trang web chính thức của nhà sản xuất hoặc do Bên B cung cấp cho Bên A. 2. Hỗ trợ bởi Bên B: Với tư cách là đối tác được ủy quyền của nhà sản xuất, Bên B hỗ trợ bằng Tiếng Việt như sau: Hỗ trợ theo nghĩa vụ bắt buộc bởi Bên B |\n| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 0,
+      "page": 5,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "",
+        "Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "Cột_1",
+          "x_start": -4.6,
+          "x_end": 32.6
+        },
+        {
+          "index": 1,
+          "name": "Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với",
+          "x_start": 32.6,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "Email.\nĐÃ DUYỆT\nCung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.\nCung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà\nBên A sử dung sang nền tảng email được cung cấp bởi Bên B.\n3.\nHỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất\nHỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "",
+          "Email.\nĐÃ DUYỆT\nCung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba.\nCung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà\nBên A sử dung sang nền tảng email được cung cấp bởi Bên B.\n3.\nHỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất\nHỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với"
+        ]
+      ],
+      "markdown": "|     | Email. ĐÃ DUYỆT Cung cấp tài liệu trực tuyến do nhà sản xuất cung cấp (nếu có) dành cho quản trị viên liên quan tới phần mềm bên thứ ba. Cung cấp tài liệu trực tuyến hoặc hướng dẫn từ xa dành cho quản trị viên di chuyển dữ liệu Từ nền tảng email trước đó mà Bên A sử dung sang nền tảng email được cung cấp bởi Bên B. 3. Hỗ trợ bởi nhà sản xuất hoặc đối tác hỗ trợ kỹ thuật của nhà sản xuất Hỗ trợ kỹ thuật bởi một trong các hình thức: Email, điện thoại, Chát từ đội hỗ trợ của nhà sản xuất 24/5 với nhà sản xuất với |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 1,
+      "page": 5,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc",
+          "x_start": 49.8,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nNghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ\nThông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của\nbên còn lại.\n2.\nTiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho\nphép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nNghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ\nThông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của\nbên còn lại.\n2.\nTiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho\nphép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc"
+        ]
+      ],
+      "markdown": "| 1. Nghĩa vụ. Mỗi bên sẽ: (a) bảo vệ Thông tin bí mật của bên còn lại với cùng tiêu chuẩn bảo vệ mà bên đó sử dụng để bảo vệ Thông tin bí mật của chính mình; và (b) không tiết lộ Thông tin bí mật cho bên thứ ba khi không có sự đồng ý bằng văn bản của bên còn lại. 2. Tiết lộ bắt buộc. Mỗi bên có thể tiết lộ Thông tin bí mật của bên kia khi luật pháp yêu cầu nhưng chỉ khi (nếu luật pháp cho phép): (a) thực hiện các nỗ lực hợp lý về phương diện thương mại để thông báo cho bên kia; và (b) cho bên kia cơ hội phản đối việc |\n| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 2,
+      "page": 5,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1.",
+        "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1.",
+          "x_start": 51.8,
+          "x_end": 75.0
+        },
+        {
+          "index": 1,
+          "name": "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm",
+          "x_start": 75.0,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:\n(i)\nBên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được\nthông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.",
+          "Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu:\n(i)\nBên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được\nthông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm"
+        ]
+      ],
+      "markdown": "| 1.  | Các bên chỉ được phép yêu cầu chấm dứt Hợp đồng trước thời hạn nếu: (i) Bên kia vi phạm nghiêm trọng Hợp đồng và không sửa chữa vi phạm đó trong vòng ba mươi ngày sau khi nhận được thông báo bằng văn bản; hoặc (ii) Bên kia vi phạm nghiêm trọng Hợp đồng này quá hai lần, bất kể các sửa chữa vi phạm |\n| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 3,
+      "page": 5,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận",
+          "x_start": 51.8,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "2.\nBên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.\n3.\nBên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt\nđộng kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "2.\nBên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B.\n3.\nBên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt\nđộng kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận"
+        ]
+      ],
+      "markdown": "| 2. Bên A đơn phương chấm dứt Hợp đồng trước thời hạn sẽ không được hoàn lại các khoản phí đã thanh toán cho Bên B. 3. Bên B đơn phương chấp dứt Hợp đồng trước thời hạn vì các lý do: Bị tước quyền tư cách đối tác bán lại dịch vụ, ngừng hoạt động kinh doanh vì bất cứ lý do thì mặc nhiên các nghĩa vụ của Bên B về duy trì dịch vụ sẽ do nhà sản xuất trực tiếp đảm nhận |\n| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 4,
+      "page": 5,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm",
+          "x_start": 49.8,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "1.\nBên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo\nyêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua\nEmail được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.\n2.\nBên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm\ncác chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "1.\nBên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo\nyêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua\nEmail được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản.\n2.\nBên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm\ncác chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm"
+        ]
+      ],
+      "markdown": "| 1. Bên B từ chối trách nhiệm cho việc tổn thất hoặc mất mát khi thực hiện các yêu cầu sau đây hoặc bất kỳ yêu cầu nào khác theo yêu cầu của Bên A: xóa bỏ người dùng, xóa bỏ dữ liệu, chuyển đổi trong hệ thống do Bên A yêu cầu hoặc đề nghị Bên B thông qua Email được đăng ký trong mục Bên A và Bên B; email là quản trị viên cao nhất hoặc thông qua văn bản. 2. Bên B từ chối trách nhiệm khi dịch vụ bị tạm ngưng khi: (i) Do Bên A vi phạm ”Thỏa thuận dịch vụ “ của nhà sản xuất, vi phạm các chính sách chung khác mà nhà sản xuất áp dụng cho người dùng dịch vụ dẫn đến bị tạm ngưng hoặc (ii) Do Bên A vi phạm |\n| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
+    },
+    {
+      "type": "table",
+      "table_index": 0,
+      "page": 6,
+      "detection_method": "native_pdf_spatial",
+      "table_confidence": 0.88,
+      "headers": [
+        "",
+        "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng"
+      ],
+      "columns": [
+        {
+          "index": 0,
+          "name": "Cột_1",
+          "x_start": -4.6,
+          "x_end": 32.6
+        },
+        {
+          "index": 1,
+          "name": "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng",
+          "x_start": 32.6,
+          "x_end": 595.5
+        }
+      ],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {
+              "column_index": 0,
+              "column_name": "Cột_1",
+              "text": "",
+              "bbox": {}
+            },
+            {
+              "column_index": 1,
+              "column_name": "Cột_2",
+              "text": "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.\nĐÃ DUYỆT\nQuyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.\n2.\nTất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập\nthành Phụ lục Hợp đồng.\n3.\nHợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia\nhạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của\ncả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.\n4.\nCác điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà\nsản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận\n5.\nHợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp\nđồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng",
+              "bbox": {}
+            }
+          ]
+        }
+      ],
+      "matrix": [
+        [
+          "",
+          "tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết.\nĐÃ DUYỆT\nQuyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên.\n2.\nTất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập\nthành Phụ lục Hợp đồng.\n3.\nHợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia\nhạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của\ncả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập.\n4.\nCác điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà\nsản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận\n5.\nHợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp\nđồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng"
+        ]
+      ],
+      "markdown": "|     | tôn trọng lẫn nhau. Nếu hai bên không đạt được kết quả thoả đáng, sẽ chuyển đến Tòa án nhân dân có thẩm quyền để giải quyết. ĐÃ DUYỆT Quyết định của Tòa là cuối cùng và bắt buộc đối với cả hai bên. 2. Tất cả các điều khoản bổ sung, sửa đổi Hợp đồng này sẽ chỉ có hiệu lực khi có sự xác nhận bằng văn bản của cả hai bên và lập thành Phụ lục Hợp đồng. 3. Hợp đồng mặc nhiên hết hiệu lực khi đến ngày hết hạn và các bên đã hoàn tất các nghĩa vụ và không có bên nào yêu cầu gia hạn Hợp đồng. Nếu các bên có thỏa thuận gia hạn Hợp đồng, thỏa thuận gia hạn phải được lập bằng văn bản được xác nhận của cả hai bên, khi đó hiệu lực của Hợp đồng được tuân theo điều khoản ghi trong bản thỏa thuận gia hạn Hợp đồng được xác lập. 4. Các điều khoản không ghi trong Hợp đồng sẽ tuân theo: (i) Các quy định pháp luật Việt Nam hiện hành; (ii) Thỏa thuận của nhà sản xuất với đơn vị bán lại; (iii) Chính sách sử dụng được chấp nhận 5. Hợp đồng này được lập thành 02 (hai) bản mỗi bên giữ 01 (một) bản, có giá trị pháp lý như nhau. Trường hợp các bên ký hợp đồng bằng phương thức ký điện tử theo quy định hiện hành về ký điện tử, hợp đồng điện tử sẽ có hiệu lực pháp lý như hợp đồng |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |",
+      "validation": {
+        "status": "not_checkable",
+        "issues": []
+      }
     }
   ],
   "ocr_lines": [

@@ -1,0 +1,25 @@
+=== KẾT QUẢ TRÍCH XUẤT TÀI LIỆU: Screenshot_20260714_205030_VCB_Digibank.jpg ===
+Danh mục: anh_chuyen_khoan
+Định dạng nguồn (Source Type): image
+Phương pháp trích xuất (Method): ocr
+
+--- NỘI DUNG VĂN BẢN ---
+2050 @
+VND
+308,000
+2060 ThựBạ 1Y4//07/1/2026
+@RGD0009327/15110801
+9327625108
+INIGUMEN WANI IL@NIG
+ngân Inàng nlnân Vetconldankk
+Vetconbankk
+Thực hiện giao dịch mới
+
+
+============================================================
+  ĐÁNH GIÁ TRÍCH XUẤT: SCREENSHOT_20260714_205030_VCB_DIGIBANK.JPG
+============================================================
+🔹 Độ tin cậy OCR trung bình (Model Confidence): 58.46%
+🔹 Tỷ lệ dòng độ tin cậy cao (≥ 80%):         20.0%
+🔹 Đánh giá chất lượng đọc:                  TRUNG BÌNH (Có một số nét chữ bị mờ)
+============================================================

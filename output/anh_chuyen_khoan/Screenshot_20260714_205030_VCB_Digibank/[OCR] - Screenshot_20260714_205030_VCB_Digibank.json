@@ -1,0 +1,148 @@
+{
+  "original_filename": "Screenshot_20260714_205030_VCB_Digibank.jpg",
+  "category": "anh_chuyen_khoan",
+  "document_type": "image",
+  "source_type": "image",
+  "extraction_method": "ocr",
+  "has_table": false,
+  "total_pages": 1,
+  "pages": [
+    {
+      "page": 1,
+      "method": "ocr",
+      "confidence": 58.46,
+      "text": "2050 @\nVND\n308,000\n2060 ThựBạ 1Y4//07/1/2026\n@RGD0009327/15110801\n9327625108\nINIGUMEN WANI IL@NIG\nngân Inàng nlnân Vetconldankk\nVetconbankk\nThực hiện giao dịch mới",
+      "lines": [
+        "2050 @",
+        "VND",
+        "308,000",
+        "2060 ThựBạ 1Y4//07/1/2026",
+        "@RGD0009327/15110801",
+        "9327625108",
+        "INIGUMEN WANI IL@NIG",
+        "ngân Inàng nlnân Vetconldankk",
+        "Vetconbankk",
+        "Thực hiện giao dịch mới"
+      ],
+      "confidences": [
+        0.5907231907819372,
+        0.7052318675487856,
+        0.9967366121919038,
+        0.15490463946998895,
+        0.6411072717687942,
+        0.6117679603200282,
+        0.22556132390951972,
+        0.24705062266575473,
+        0.686176535302748,
+        0.9863483852374562
+      ],
+      "elements": [
+        {
+          "type": "paragraph",
+          "text": "2050 @"
+        },
+        {
+          "type": "heading",
+          "text": "VND"
+        },
+        {
+          "type": "paragraph",
+          "text": "308,000"
+        },
+        {
+          "type": "paragraph",
+          "text": "2060 ThựBạ 1Y4//07/1/2026"
+        },
+        {
+          "type": "heading",
+          "text": "@RGD0009327/15110801"
+        },
+        {
+          "type": "paragraph",
+          "text": "9327625108"
+        },
+        {
+          "type": "heading",
+          "text": "INIGUMEN WANI IL@NIG"
+        },
+        {
+          "type": "paragraph",
+          "text": "ngân Inàng nlnân Vetconldankk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vetconbankk"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thực hiện giao dịch mới"
+        }
+      ],
+      "tables": []
+    }
+  ],
+  "full_text": "2050 @\nVND\n308,000\n2060 ThựBạ 1Y4//07/1/2026\n@RGD0009327/15110801\n9327625108\nINIGUMEN WANI IL@NIG\nngân Inàng nlnân Vetconldankk\nVetconbankk\nThực hiện giao dịch mới",
+  "tables": [],
+  "ocr_lines": [
+    {
+      "index": 1,
+      "page": 1,
+      "text": "2050 @",
+      "confidence": 59.07231907819372
+    },
+    {
+      "index": 2,
+      "page": 1,
+      "text": "VND",
+      "confidence": 70.52318675487857
+    },
+    {
+      "index": 3,
+      "page": 1,
+      "text": "308,000",
+      "confidence": 99.67366121919038
+    },
+    {
+      "index": 4,
+      "page": 1,
+      "text": "2060 ThựBạ 1Y4//07/1/2026",
+      "confidence": 15.490463946998895
+    },
+    {
+      "index": 5,
+      "page": 1,
+      "text": "@RGD0009327/15110801",
+      "confidence": 64.11072717687942
+    },
+    {
+      "index": 6,
+      "page": 1,
+      "text": "9327625108",
+      "confidence": 61.17679603200282
+    },
+    {
+      "index": 7,
+      "page": 1,
+      "text": "INIGUMEN WANI IL@NIG",
+      "confidence": 22.556132390951973
+    },
+    {
+      "index": 8,
+      "page": 1,
+      "text": "ngân Inàng nlnân Vetconldankk",
+      "confidence": 24.705062266575474
+    },
+    {
+      "index": 9,
+      "page": 1,
+      "text": "Vetconbankk",
+      "confidence": 68.61765353027481
+    },
+    {
+      "index": 10,
+      "page": 1,
+      "text": "Thực hiện giao dịch mới",
+      "confidence": 98.63483852374561
+    }
+  ]
+}
